@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Highscores>
-  <GeneratedAt>1737036541768</GeneratedAt>
+  <GeneratedAt>1737036657828</GeneratedAt>
   <Player>
     <Rank>1</Rank>
-    <Name>Goku</Name>
-    <Level>1000</Level>
-    <Exp>9999999999</Exp>
-    <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
-    <Rank>2</Rank>
     <Name>Rustzero</Name>
     <Level>192</Level>
     <Exp>1107820095</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
-    <Rank>3</Rank>
+    <Rank>2</Rank>
     <Name>Izsyam</Name>
     <Level>187</Level>
     <Exp>991317362</Exp>
     <Vocation>Wizard</Vocation>
+  </Player>
+  <Player>
+    <Rank>3</Rank>
+    <Name>Goku</Name>
+    <Level>2000</Level>
+    <Exp>888888888</Exp>
+    <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>4</Rank>
