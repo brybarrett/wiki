@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Highscores>
-  <GeneratedAt>1737242661698</GeneratedAt>
+  <GeneratedAt>1737242781698</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Izsyam</Name>
@@ -33,7 +33,7 @@
     <Rank>5</Rank>
     <Name>Meepo</Name>
     <Level>199</Level>
-    <Exp>1273038622</Exp>
+    <Exp>1273065591</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -47,21 +47,21 @@
     <Rank>7</Rank>
     <Name>Mochi</Name>
     <Level>189</Level>
-    <Exp>1052138759</Exp>
+    <Exp>1052224054</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>8</Rank>
     <Name>Warlord</Name>
     <Level>188</Level>
-    <Exp>1013048486</Exp>
+    <Exp>1013163986</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>9</Rank>
     <Name>Ltdani</Name>
     <Level>182</Level>
-    <Exp>891214471</Exp>
+    <Exp>891257494</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -117,7 +117,7 @@
     <Rank>17</Rank>
     <Name>Lteddy</Name>
     <Level>165</Level>
-    <Exp>599827434</Exp>
+    <Exp>599901575</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -131,7 +131,7 @@
     <Rank>19</Rank>
     <Name>Laabubu</Name>
     <Level>162</Level>
-    <Exp>566170993</Exp>
+    <Exp>566207548</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -180,14 +180,14 @@
     <Rank>26</Rank>
     <Name>Darius</Name>
     <Level>158</Level>
-    <Exp>504236237</Exp>
+    <Exp>504236526</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>27</Rank>
     <Name>Tankatuddo</Name>
     <Level>158</Level>
-    <Exp>502775367</Exp>
+    <Exp>502783279</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -271,7 +271,7 @@
     <Rank>39</Rank>
     <Name>Francisco</Name>
     <Level>135</Level>
-    <Exp>266519707</Exp>
+    <Exp>266536483</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -285,14 +285,14 @@
     <Rank>41</Rank>
     <Name>Frieren</Name>
     <Level>132</Level>
-    <Exp>245702014</Exp>
+    <Exp>245774466</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>42</Rank>
     <Name>Itsbug</Name>
     <Level>130</Level>
-    <Exp>229958200</Exp>
+    <Exp>230010178</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -306,7 +306,7 @@
     <Rank>44</Rank>
     <Name>Lou</Name>
     <Level>129</Level>
-    <Exp>220482286</Exp>
+    <Exp>220525601</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -376,7 +376,7 @@
     <Rank>54</Rank>
     <Name>Nono</Name>
     <Level>111</Level>
-    <Exp>120334703</Exp>
+    <Exp>120354863</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -445,8 +445,8 @@
   <Player>
     <Rank>64</Rank>
     <Name>Biawak</Name>
-    <Level>102</Level>
-    <Exp>88486024</Exp>
+    <Level>103</Level>
+    <Exp>88572072</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -458,17 +458,17 @@
   </Player>
   <Player>
     <Rank>66</Rank>
+    <Name>Over</Name>
+    <Level>99</Level>
+    <Exp>76603355</Exp>
+    <Vocation>Wizard</Vocation>
+  </Player>
+  <Player>
+    <Rank>67</Rank>
     <Name>Kawan</Name>
     <Level>99</Level>
     <Exp>76365139</Exp>
     <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
-    <Rank>67</Rank>
-    <Name>Over</Name>
-    <Level>99</Level>
-    <Exp>76546655</Exp>
-    <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>68</Rank>
@@ -523,7 +523,7 @@
     <Rank>75</Rank>
     <Name>Kibo</Name>
     <Level>95</Level>
-    <Exp>65913457</Exp>
+    <Exp>65921343</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -600,7 +600,7 @@
     <Rank>86</Rank>
     <Name>Lynxking</Name>
     <Level>85</Level>
-    <Exp>41858470</Exp>
+    <Exp>41878048</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -614,7 +614,7 @@
     <Rank>88</Rank>
     <Name>Nudin</Name>
     <Level>84</Level>
-    <Exp>40357019</Exp>
+    <Exp>40363101</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -747,7 +747,7 @@
     <Rank>107</Rank>
     <Name>Guard</Name>
     <Level>73</Level>
-    <Exp>22532180</Exp>
+    <Exp>22536592</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -894,7 +894,7 @@
     <Rank>128</Rank>
     <Name>Himmel</Name>
     <Level>57</Level>
-    <Exp>8487774</Exp>
+    <Exp>8489349</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
 </Highscores>
