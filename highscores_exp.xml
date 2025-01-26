@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Highscores>
-  <GeneratedAt>1737925622862</GeneratedAt>
+  <GeneratedAt>1737925743066</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Izsyam</Name>
@@ -82,7 +82,7 @@
     <Rank>12</Rank>
     <Name>Abal</Name>
     <Level>203</Level>
-    <Exp>1388322712</Exp>
+    <Exp>1388351587</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -173,7 +173,7 @@
     <Rank>25</Rank>
     <Name>Lynx</Name>
     <Level>179</Level>
-    <Exp>829873395</Exp>
+    <Exp>829890721</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -787,17 +787,17 @@
   </Player>
   <Player>
     <Rank>113</Rank>
-    <Name>Jeff</Name>
-    <Level>92</Level>
-    <Exp>57939861</Exp>
-    <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
-    <Rank>114</Rank>
     <Name>Lorenna</Name>
     <Level>92</Level>
     <Exp>58117740</Exp>
     <Vocation>Wizard</Vocation>
+  </Player>
+  <Player>
+    <Rank>114</Rank>
+    <Name>Jeff</Name>
+    <Level>92</Level>
+    <Exp>57939861</Exp>
+    <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>115</Rank>
