@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Highscores>
-  <GeneratedAt>1738801200772</GeneratedAt>
+  <GeneratedAt>1738801320773</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Izsyam</Name>
@@ -40,7 +40,7 @@
     <Rank>6</Rank>
     <Name>Ronin</Name>
     <Level>256</Level>
-    <Exp>3520823259</Exp>
+    <Exp>3520854637</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -61,7 +61,7 @@
     <Rank>9</Rank>
     <Name>Pereman</Name>
     <Level>224</Level>
-    <Exp>2049718482</Exp>
+    <Exp>2049750706</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -75,7 +75,7 @@
     <Rank>11</Rank>
     <Name>Abal</Name>
     <Level>221</Level>
-    <Exp>1939591230</Exp>
+    <Exp>1939654812</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -208,14 +208,14 @@
     <Rank>30</Rank>
     <Name>Itsbug</Name>
     <Level>195</Level>
-    <Exp>1176071659</Exp>
+    <Exp>1176291475</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>31</Rank>
     <Name>Lynxking</Name>
     <Level>188</Level>
-    <Exp>1010512253</Exp>
+    <Exp>1010585363</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -243,7 +243,7 @@
     <Rank>35</Rank>
     <Name>Lynx</Name>
     <Level>185</Level>
-    <Exp>961291935</Exp>
+    <Exp>961336247</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -327,7 +327,7 @@
     <Rank>47</Rank>
     <Name>Agentgalon</Name>
     <Level>164</Level>
-    <Exp>585675796</Exp>
+    <Exp>585927078</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -397,7 +397,7 @@
     <Rank>57</Rank>
     <Name>Kibo</Name>
     <Level>155</Level>
-    <Exp>464986622</Exp>
+    <Exp>464995170</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -500,17 +500,17 @@
   </Player>
   <Player>
     <Rank>72</Rank>
-    <Name>Roglizer</Name>
-    <Level>141</Level>
-    <Exp>322479227</Exp>
-    <Vocation>Wizard</Vocation>
-  </Player>
-  <Player>
-    <Rank>73</Rank>
     <Name>Nudin</Name>
     <Level>141</Level>
     <Exp>322505166</Exp>
     <Vocation>Warrior</Vocation>
+  </Player>
+  <Player>
+    <Rank>73</Rank>
+    <Name>Roglizer</Name>
+    <Level>141</Level>
+    <Exp>322504193</Exp>
+    <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>74</Rank>
@@ -537,7 +537,7 @@
     <Rank>77</Rank>
     <Name>Raru</Name>
     <Level>134</Level>
-    <Exp>261123411</Exp>
+    <Exp>261218411</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -572,28 +572,28 @@
     <Rank>82</Rank>
     <Name>Cyroz</Name>
     <Level>133</Level>
-    <Exp>255963983</Exp>
+    <Exp>256020683</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>83</Rank>
     <Name>Fern</Name>
     <Level>130</Level>
-    <Exp>230232005</Exp>
+    <Exp>230327005</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>84</Rank>
     <Name>Lorenna</Name>
     <Level>129</Level>
-    <Exp>225222203</Exp>
+    <Exp>225232598</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>85</Rank>
     <Name>Nobiro</Name>
     <Level>128</Level>
-    <Exp>216464551</Exp>
+    <Exp>216602518</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -691,7 +691,7 @@
     <Rank>99</Rank>
     <Name>Subwaysurf</Name>
     <Level>121</Level>
-    <Exp>173756330</Exp>
+    <Exp>173851330</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -775,7 +775,7 @@
     <Rank>111</Rank>
     <Name>Shizuka</Name>
     <Level>112</Level>
-    <Exp>127781799</Exp>
+    <Exp>127805531</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -789,7 +789,7 @@
     <Rank>113</Rank>
     <Name>Foreskin</Name>
     <Level>107</Level>
-    <Exp>105391790</Exp>
+    <Exp>105412580</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -838,7 +838,7 @@
     <Rank>120</Rank>
     <Name>Ace</Name>
     <Level>103</Level>
-    <Exp>90674317</Exp>
+    <Exp>90810686</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -866,7 +866,7 @@
     <Rank>124</Rank>
     <Name>Gibranx</Name>
     <Level>101</Level>
-    <Exp>84790577</Exp>
+    <Exp>84886403</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
