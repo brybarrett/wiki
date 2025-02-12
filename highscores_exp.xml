@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Highscores>
-  <GeneratedAt>1739375715142</GeneratedAt>
+  <GeneratedAt>1739375835141</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Sasuke</Name>
@@ -26,7 +26,7 @@
     <Rank>4</Rank>
     <Name>Ronin</Name>
     <Level>276</Level>
-    <Exp>4735810123</Exp>
+    <Exp>4735873649</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -82,14 +82,14 @@
     <Rank>12</Rank>
     <Name>Abal</Name>
     <Level>230</Level>
-    <Exp>2285064919</Exp>
+    <Exp>2285064977</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>13</Rank>
     <Name>Aunch</Name>
     <Level>224</Level>
-    <Exp>2050725030</Exp>
+    <Exp>2050846683</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -124,7 +124,7 @@
     <Rank>18</Rank>
     <Name>Naruto</Name>
     <Level>211</Level>
-    <Exp>1629431542</Exp>
+    <Exp>1629463305</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -278,7 +278,7 @@
     <Rank>40</Rank>
     <Name>Darius</Name>
     <Level>182</Level>
-    <Exp>889533939</Exp>
+    <Exp>889557675</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -299,7 +299,7 @@
     <Rank>43</Rank>
     <Name>Fern</Name>
     <Level>177</Level>
-    <Exp>805224830</Exp>
+    <Exp>805240108</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -411,7 +411,7 @@
     <Rank>59</Rank>
     <Name>Kibo</Name>
     <Level>166</Level>
-    <Exp>610834741</Exp>
+    <Exp>610895666</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -432,7 +432,7 @@
     <Rank>62</Rank>
     <Name>Msquillon</Name>
     <Level>162</Level>
-    <Exp>561346709</Exp>
+    <Exp>561396489</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -474,7 +474,7 @@
     <Rank>68</Rank>
     <Name>Lorenna</Name>
     <Level>154</Level>
-    <Exp>455683965</Exp>
+    <Exp>455737961</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -509,7 +509,7 @@
     <Rank>73</Rank>
     <Name>Sugar</Name>
     <Level>150</Level>
-    <Exp>408709834</Exp>
+    <Exp>408722134</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -544,7 +544,7 @@
     <Rank>78</Rank>
     <Name>Babonking</Name>
     <Level>144</Level>
-    <Exp>351774223</Exp>
+    <Exp>351800789</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -635,7 +635,7 @@
     <Rank>91</Rank>
     <Name>Velgrynd</Name>
     <Level>135</Level>
-    <Exp>272643057</Exp>
+    <Exp>272667209</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -649,7 +649,7 @@
     <Rank>93</Rank>
     <Name>Bskhaiwar</Name>
     <Level>134</Level>
-    <Exp>263781291</Exp>
+    <Exp>263828786</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -803,50 +803,50 @@
     <Rank>115</Rank>
     <Name>Kaleeunai</Name>
     <Level>117</Level>
-    <Exp>151022433</Exp>
+    <Exp>151065483</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>116</Rank>
-    <Name>Atan</Name>
-    <Level>116</Level>
-    <Exp>146867842</Exp>
-    <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
-    <Rank>117</Rank>
     <Name>Wk</Name>
     <Level>115</Level>
     <Exp>141431715</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
-    <Rank>118</Rank>
+    <Rank>117</Rank>
     <Name>Zeroxx</Name>
     <Level>115</Level>
     <Exp>138909304</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
-    <Rank>119</Rank>
+    <Rank>118</Rank>
     <Name>Darsixer</Name>
     <Level>115</Level>
     <Exp>138886406</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
-    <Rank>120</Rank>
+    <Rank>119</Rank>
     <Name>Safir</Name>
     <Level>114</Level>
     <Exp>138025864</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
-    <Rank>121</Rank>
+    <Rank>120</Rank>
     <Name>Karimpai</Name>
     <Level>114</Level>
-    <Exp>136702553</Exp>
+    <Exp>136768703</Exp>
     <Vocation>Wizard</Vocation>
+  </Player>
+  <Player>
+    <Rank>121</Rank>
+    <Name>Atan</Name>
+    <Level>113</Level>
+    <Exp>132181058</Exp>
+    <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>122</Rank>
