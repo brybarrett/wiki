@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Highscores>
-  <GeneratedAt>1739671201346</GeneratedAt>
+  <GeneratedAt>1739671321325</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Sasuke</Name>
     <Level>305</Level>
-    <Exp>7142997888</Exp>
+    <Exp>7142999148</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>2</Rank>
     <Name>Schizo</Name>
     <Level>289</Level>
-    <Exp>5714447811</Exp>
+    <Exp>5716463073</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -26,21 +26,21 @@
     <Rank>4</Rank>
     <Name>Ronin</Name>
     <Level>278</Level>
-    <Exp>4903796528</Exp>
+    <Exp>4904951528</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>5</Rank>
     <Name>Ashura</Name>
     <Level>277</Level>
-    <Exp>4841267596</Exp>
+    <Exp>4842603756</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>6</Rank>
     <Name>Rajasetan</Name>
     <Level>276</Level>
-    <Exp>4745644134</Exp>
+    <Exp>4748549051</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -68,7 +68,7 @@
     <Rank>10</Rank>
     <Name>Eztoymm</Name>
     <Level>236</Level>
-    <Exp>2540040093</Exp>
+    <Exp>2540334303</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -110,35 +110,35 @@
     <Rank>16</Rank>
     <Name>Naruto</Name>
     <Level>217</Level>
-    <Exp>1811718852</Exp>
+    <Exp>1812411852</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>17</Rank>
+    <Name>Lynxking</Name>
+    <Level>217</Level>
+    <Exp>1801411659</Exp>
+    <Vocation>Warrior</Vocation>
+  </Player>
+  <Player>
+    <Rank>18</Rank>
     <Name>Jejessss</Name>
     <Level>217</Level>
     <Exp>1801202060</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
-    <Rank>18</Rank>
-    <Name>Lynxking</Name>
-    <Level>217</Level>
-    <Exp>1801319589</Exp>
-    <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
     <Rank>19</Rank>
     <Name>Eztoymjr</Name>
     <Level>216</Level>
-    <Exp>1796231444</Exp>
+    <Exp>1796299877</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>20</Rank>
     <Name>Devorz</Name>
     <Level>216</Level>
-    <Exp>1781835585</Exp>
+    <Exp>1783502250</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -166,7 +166,7 @@
     <Rank>24</Rank>
     <Name>Cyry</Name>
     <Level>207</Level>
-    <Exp>1495319461</Exp>
+    <Exp>1495887713</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -208,7 +208,7 @@
     <Rank>30</Rank>
     <Name>Lou</Name>
     <Level>200</Level>
-    <Exp>1317889652</Exp>
+    <Exp>1318141652</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -248,23 +248,23 @@
   </Player>
   <Player>
     <Rank>36</Rank>
+    <Name>Vonz</Name>
+    <Level>193</Level>
+    <Exp>1134855829</Exp>
+    <Vocation>Warrior</Vocation>
+  </Player>
+  <Player>
+    <Rank>37</Rank>
     <Name>Tanker</Name>
     <Level>193</Level>
     <Exp>1131709754</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
-    <Rank>37</Rank>
-    <Name>Vonz</Name>
-    <Level>193</Level>
-    <Exp>1133508329</Exp>
-    <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
     <Rank>38</Rank>
     <Name>Guinny</Name>
     <Level>193</Level>
-    <Exp>1125826460</Exp>
+    <Exp>1125993050</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -285,7 +285,7 @@
     <Rank>41</Rank>
     <Name>Fern</Name>
     <Level>182</Level>
-    <Exp>887798907</Exp>
+    <Exp>889133877</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -334,7 +334,7 @@
     <Rank>48</Rank>
     <Name>Shirohige</Name>
     <Level>176</Level>
-    <Exp>774496223</Exp>
+    <Exp>775997723</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -362,7 +362,7 @@
     <Rank>52</Rank>
     <Name>Kibo</Name>
     <Level>171</Level>
-    <Exp>691101445</Exp>
+    <Exp>691101503</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -425,7 +425,7 @@
     <Rank>61</Rank>
     <Name>Lorenna</Name>
     <Level>166</Level>
-    <Exp>610985462</Exp>
+    <Exp>611073977</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -565,7 +565,7 @@
     <Rank>81</Rank>
     <Name>Bailong</Name>
     <Level>145</Level>
-    <Exp>354080618</Exp>
+    <Exp>354429638</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -591,23 +591,23 @@
   </Player>
   <Player>
     <Rank>85</Rank>
+    <Name>Bernadyaa</Name>
+    <Level>142</Level>
+    <Exp>333589004</Exp>
+    <Vocation>Warrior</Vocation>
+  </Player>
+  <Player>
+    <Rank>86</Rank>
     <Name>Bsbdsabu</Name>
     <Level>142</Level>
     <Exp>330436104</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
-    <Rank>86</Rank>
-    <Name>Bernadyaa</Name>
-    <Level>142</Level>
-    <Exp>332337754</Exp>
-    <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
     <Rank>87</Rank>
     <Name>Velgrynd</Name>
     <Level>140</Level>
-    <Exp>311127599</Exp>
+    <Exp>311151751</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -635,7 +635,7 @@
     <Rank>91</Rank>
     <Name>Skywar</Name>
     <Level>137</Level>
-    <Exp>286558587</Exp>
+    <Exp>287367087</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -677,7 +677,7 @@
     <Rank>97</Rank>
     <Name>Karimpai</Name>
     <Level>130</Level>
-    <Exp>230885704</Exp>
+    <Exp>230903817</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -719,7 +719,7 @@
     <Rank>103</Rank>
     <Name>Kaleeunai</Name>
     <Level>127</Level>
-    <Exp>211453027</Exp>
+    <Exp>211503427</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -733,7 +733,7 @@
     <Rank>105</Rank>
     <Name>Rodrigues</Name>
     <Level>125</Level>
-    <Exp>198868360</Exp>
+    <Exp>198901120</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -747,7 +747,7 @@
     <Rank>107</Rank>
     <Name>Genx</Name>
     <Level>124</Level>
-    <Exp>190516299</Exp>
+    <Exp>191540399</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -782,49 +782,49 @@
     <Rank>112</Rank>
     <Name>Gibranx</Name>
     <Level>122</Level>
-    <Exp>180596833</Exp>
+    <Exp>181047633</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>113</Rank>
     <Name>Guard</Name>
     <Level>121</Level>
-    <Exp>174201419</Exp>
+    <Exp>174229769</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>114</Rank>
     <Name>Bradleywiz</Name>
     <Level>121</Level>
-    <Exp>173310405</Exp>
+    <Exp>173359545</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>115</Rank>
+    <Name>Darsixer</Name>
+    <Level>121</Level>
+    <Exp>172056731</Exp>
+    <Vocation>Warrior</Vocation>
+  </Player>
+  <Player>
+    <Rank>116</Rank>
     <Name>Upinsz</Name>
     <Level>121</Level>
     <Exp>171128058</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
-    <Rank>116</Rank>
-    <Name>Wk</Name>
-    <Level>121</Level>
-    <Exp>170317974</Exp>
-    <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
     <Rank>117</Rank>
     <Name>Nisaqueen</Name>
     <Level>121</Level>
-    <Exp>170757070</Exp>
+    <Exp>171317070</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>118</Rank>
-    <Name>Darsixer</Name>
+    <Name>Wk</Name>
     <Level>121</Level>
-    <Exp>171641701</Exp>
+    <Exp>170317974</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -852,7 +852,7 @@
     <Rank>122</Rank>
     <Name>Bandits</Name>
     <Level>117</Level>
-    <Exp>150540187</Exp>
+    <Exp>150596887</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -866,7 +866,7 @@
     <Rank>124</Rank>
     <Name>Ace</Name>
     <Level>115</Level>
-    <Exp>139770114</Exp>
+    <Exp>139973394</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -880,7 +880,7 @@
     <Rank>126</Rank>
     <Name>Rei</Name>
     <Level>114</Level>
-    <Exp>137376000</Exp>
+    <Exp>137584422</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
