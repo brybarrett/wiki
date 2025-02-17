@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Highscores>
-  <GeneratedAt>1739801401226</GeneratedAt>
+  <GeneratedAt>1739801521238</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Sasuke</Name>
@@ -26,14 +26,14 @@
     <Rank>4</Rank>
     <Name>Ronin</Name>
     <Level>282</Level>
-    <Exp>5162754888</Exp>
+    <Exp>5163644238</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>5</Rank>
     <Name>Ashura</Name>
     <Level>280</Level>
-    <Exp>5042863282</Exp>
+    <Exp>5042898220</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -47,14 +47,14 @@
     <Rank>7</Rank>
     <Name>Meepo</Name>
     <Level>257</Level>
-    <Exp>3556524554</Exp>
+    <Exp>3556547365</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>8</Rank>
     <Name>Pereman</Name>
     <Level>243</Level>
-    <Exp>2854415109</Exp>
+    <Exp>2854877109</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -89,7 +89,7 @@
     <Rank>13</Rank>
     <Name>Devorz</Name>
     <Level>225</Level>
-    <Exp>2090877531</Exp>
+    <Exp>2092406457</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -101,17 +101,17 @@
   </Player>
   <Player>
     <Rank>15</Rank>
+    <Name>Marini</Name>
+    <Level>223</Level>
+    <Exp>2036718728</Exp>
+    <Vocation>Wizard</Vocation>
+  </Player>
+  <Player>
+    <Rank>16</Rank>
     <Name>Seventysvn</Name>
     <Level>223</Level>
     <Exp>2036211097</Exp>
     <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
-    <Rank>16</Rank>
-    <Name>Marini</Name>
-    <Level>223</Level>
-    <Exp>2036372228</Exp>
-    <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>17</Rank>
@@ -263,15 +263,15 @@
   <Player>
     <Rank>38</Rank>
     <Name>Fern</Name>
-    <Level>193</Level>
-    <Exp>1143806990</Exp>
+    <Level>194</Level>
+    <Exp>1144950440</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>39</Rank>
     <Name>Vonz</Name>
     <Level>192</Level>
-    <Exp>1106592588</Exp>
+    <Exp>1106624813</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -285,21 +285,21 @@
     <Rank>41</Rank>
     <Name>Ibliss</Name>
     <Level>189</Level>
-    <Exp>1045928093</Exp>
+    <Exp>1046966722</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>42</Rank>
     <Name>Shirohige</Name>
     <Level>189</Level>
-    <Exp>1031596015</Exp>
+    <Exp>1033448959</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>43</Rank>
     <Name>Lynx</Name>
     <Level>186</Level>
-    <Exp>969283169</Exp>
+    <Exp>969294698</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -313,14 +313,14 @@
     <Rank>45</Rank>
     <Name>Abbys</Name>
     <Level>183</Level>
-    <Exp>920199855</Exp>
+    <Exp>920661855</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>46</Rank>
     <Name>Darius</Name>
     <Level>182</Level>
-    <Exp>890565223</Exp>
+    <Exp>890581047</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -334,7 +334,7 @@
     <Rank>48</Rank>
     <Name>Ramstein</Name>
     <Level>180</Level>
-    <Exp>852239126</Exp>
+    <Exp>852979441</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -369,7 +369,7 @@
     <Rank>53</Rank>
     <Name>Kibo</Name>
     <Level>171</Level>
-    <Exp>703107583</Exp>
+    <Exp>703144427</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -402,16 +402,16 @@
   </Player>
   <Player>
     <Rank>58</Rank>
-    <Name>Bssmoke</Name>
+    <Name>Agentgalon</Name>
     <Level>168</Level>
-    <Exp>646280423</Exp>
+    <Exp>646435488</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>59</Rank>
-    <Name>Agentgalon</Name>
+    <Name>Bssmoke</Name>
     <Level>168</Level>
-    <Exp>646435488</Exp>
+    <Exp>646280423</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -446,14 +446,14 @@
     <Rank>64</Rank>
     <Name>Nobiro</Name>
     <Level>166</Level>
-    <Exp>610748773</Exp>
+    <Exp>611511073</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>65</Rank>
     <Name>Godxangel</Name>
     <Level>163</Level>
-    <Exp>580209567</Exp>
+    <Exp>580210491</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -467,7 +467,7 @@
     <Rank>67</Rank>
     <Name>Shanks</Name>
     <Level>161</Level>
-    <Exp>549726155</Exp>
+    <Exp>549835187</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -586,7 +586,7 @@
     <Rank>84</Rank>
     <Name>Aaacrnauds</Name>
     <Level>148</Level>
-    <Exp>387273706</Exp>
+    <Exp>387292606</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -649,7 +649,7 @@
     <Rank>93</Rank>
     <Name>Nisaqueen</Name>
     <Level>139</Level>
-    <Exp>299675938</Exp>
+    <Exp>300368938</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -670,7 +670,7 @@
     <Rank>96</Rank>
     <Name>Karimpai</Name>
     <Level>137</Level>
-    <Exp>283138526</Exp>
+    <Exp>283204676</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -719,7 +719,7 @@
     <Rank>103</Rank>
     <Name>Gibranx</Name>
     <Level>131</Level>
-    <Exp>240981503</Exp>
+    <Exp>241300283</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -761,7 +761,7 @@
     <Rank>109</Rank>
     <Name>Dariusmage</Name>
     <Level>128</Level>
-    <Exp>213914994</Exp>
+    <Exp>213922906</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -803,7 +803,7 @@
     <Rank>115</Rank>
     <Name>Shizuka</Name>
     <Level>124</Level>
-    <Exp>191301933</Exp>
+    <Exp>191420815</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -838,7 +838,7 @@
     <Rank>120</Rank>
     <Name>Wk</Name>
     <Level>122</Level>
-    <Exp>179194112</Exp>
+    <Exp>179206712</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -880,7 +880,7 @@
     <Rank>126</Rank>
     <Name>Ramz</Name>
     <Level>119</Level>
-    <Exp>162785667</Exp>
+    <Exp>162902553</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
