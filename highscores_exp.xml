@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Highscores>
-  <GeneratedAt>1740716885416</GeneratedAt>
+  <GeneratedAt>1740717005416</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Sasuke</Name>
@@ -40,7 +40,7 @@
     <Rank>6</Rank>
     <Name>Kaguya</Name>
     <Level>280</Level>
-    <Exp>5066187278</Exp>
+    <Exp>5066219041</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -54,7 +54,7 @@
     <Rank>8</Rank>
     <Name>Devorz</Name>
     <Level>251</Level>
-    <Exp>3253530758</Exp>
+    <Exp>3253591683</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -68,7 +68,7 @@
     <Rank>10</Rank>
     <Name>Kakashi</Name>
     <Level>247</Level>
-    <Exp>3029112444</Exp>
+    <Exp>3029180877</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -110,7 +110,7 @@
     <Rank>16</Rank>
     <Name>Eztoymjr</Name>
     <Level>225</Level>
-    <Exp>2116464716</Exp>
+    <Exp>2116496479</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -159,7 +159,7 @@
     <Rank>23</Rank>
     <Name>Elf</Name>
     <Level>215</Level>
-    <Exp>1736325773</Exp>
+    <Exp>1736485794</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -173,7 +173,7 @@
     <Rank>25</Rank>
     <Name>Lou</Name>
     <Level>213</Level>
-    <Exp>1679625609</Exp>
+    <Exp>1679689135</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -292,14 +292,14 @@
     <Rank>42</Rank>
     <Name>Lorenna</Name>
     <Level>193</Level>
-    <Exp>1125282063</Exp>
+    <Exp>1125365223</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>43</Rank>
     <Name>Abbys</Name>
     <Level>192</Level>
-    <Exp>1100006105</Exp>
+    <Exp>1100101394</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -327,14 +327,14 @@
     <Rank>47</Rank>
     <Name>Fin</Name>
     <Level>186</Level>
-    <Exp>973994105</Exp>
+    <Exp>973995145</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>48</Rank>
     <Name>Mcqueen</Name>
     <Level>184</Level>
-    <Exp>939739268</Exp>
+    <Exp>939756254</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -376,14 +376,14 @@
     <Rank>54</Rank>
     <Name>Kibo</Name>
     <Level>177</Level>
-    <Exp>807712681</Exp>
+    <Exp>807773606</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>55</Rank>
     <Name>Verstappen</Name>
     <Level>176</Level>
-    <Exp>788718761</Exp>
+    <Exp>788785176</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -481,21 +481,21 @@
     <Rank>69</Rank>
     <Name>Aivk</Name>
     <Level>166</Level>
-    <Exp>612164078</Exp>
+    <Exp>612184868</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>70</Rank>
     <Name>Karimpai</Name>
     <Level>166</Level>
-    <Exp>610498190</Exp>
+    <Exp>610538510</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>71</Rank>
     <Name>Nudin</Name>
     <Level>164</Level>
-    <Exp>587834653</Exp>
+    <Exp>587886631</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -621,7 +621,7 @@
     <Rank>89</Rank>
     <Name>Bandits</Name>
     <Level>149</Level>
-    <Exp>399704253</Exp>
+    <Exp>399724413</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -775,7 +775,7 @@
     <Rank>111</Rank>
     <Name>Rev</Name>
     <Level>134</Level>
-    <Exp>259768101</Exp>
+    <Exp>259809681</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -824,7 +824,7 @@
     <Rank>118</Rank>
     <Name>Kaizer</Name>
     <Level>126</Level>
-    <Exp>203479957</Exp>
+    <Exp>203531932</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -843,17 +843,17 @@
   </Player>
   <Player>
     <Rank>121</Rank>
+    <Name>Over</Name>
+    <Level>125</Level>
+    <Exp>198285550</Exp>
+    <Vocation>Wizard</Vocation>
+  </Player>
+  <Player>
+    <Rank>122</Rank>
     <Name>Wk</Name>
     <Level>125</Level>
     <Exp>198205561</Exp>
     <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
-    <Rank>122</Rank>
-    <Name>Over</Name>
-    <Level>125</Level>
-    <Exp>198232630</Exp>
-    <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>123</Rank>
