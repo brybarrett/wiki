@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Highscores>
-  <GeneratedAt>1741005606495</GeneratedAt>
+  <GeneratedAt>1741005726482</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Sasuke</Name>
     <Level>324</Level>
-    <Exp>9059860163</Exp>
+    <Exp>9059955452</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -33,14 +33,14 @@
     <Rank>5</Rank>
     <Name>Ashura</Name>
     <Level>293</Level>
-    <Exp>6045042863</Exp>
+    <Exp>6045051596</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>6</Rank>
     <Name>Kaguya</Name>
     <Level>289</Level>
-    <Exp>5762024174</Exp>
+    <Exp>5762177080</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -75,7 +75,7 @@
     <Rank>11</Rank>
     <Name>Kakashi</Name>
     <Level>253</Level>
-    <Exp>3358107369</Exp>
+    <Exp>3358198613</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -131,7 +131,7 @@
     <Rank>19</Rank>
     <Name>Dom</Name>
     <Level>224</Level>
-    <Exp>2067879209</Exp>
+    <Exp>2067927949</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -425,7 +425,7 @@
     <Rank>61</Rank>
     <Name>Karimpai</Name>
     <Level>175</Level>
-    <Exp>770969351</Exp>
+    <Exp>771096403</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -572,7 +572,7 @@
     <Rank>82</Rank>
     <Name>Bandits</Name>
     <Level>156</Level>
-    <Exp>482988898</Exp>
+    <Exp>483274765</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -614,7 +614,7 @@
     <Rank>88</Rank>
     <Name>Kaizer</Name>
     <Level>150</Level>
-    <Exp>413000684</Exp>
+    <Exp>413050029</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -628,7 +628,7 @@
     <Rank>90</Rank>
     <Name>Velgrynd</Name>
     <Level>150</Level>
-    <Exp>405777808</Exp>
+    <Exp>405795922</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -682,17 +682,17 @@
   </Player>
   <Player>
     <Rank>98</Rank>
+    <Name>Rev</Name>
+    <Level>144</Level>
+    <Exp>345240663</Exp>
+    <Vocation>Wizard</Vocation>
+  </Player>
+  <Player>
+    <Rank>99</Rank>
     <Name>Renu</Name>
     <Level>144</Level>
     <Exp>344911680</Exp>
     <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
-    <Rank>99</Rank>
-    <Name>Rev</Name>
-    <Level>144</Level>
-    <Exp>345167898</Exp>
-    <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>100</Rank>
@@ -864,16 +864,16 @@
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Babydoll</Name>
+    <Name>Wizav</Name>
     <Level>128</Level>
-    <Exp>213547357</Exp>
+    <Exp>213913574</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>125</Rank>
-    <Name>Wizav</Name>
+    <Name>Babydoll</Name>
     <Level>128</Level>
-    <Exp>213841121</Exp>
+    <Exp>213547357</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -887,7 +887,7 @@
     <Rank>127</Rank>
     <Name>Kaiser</Name>
     <Level>126</Level>
-    <Exp>203370184</Exp>
+    <Exp>203391919</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
