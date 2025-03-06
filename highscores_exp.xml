@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Highscores>
-  <GeneratedAt>1741220402682</GeneratedAt>
+  <GeneratedAt>1741220522679</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Sasuke</Name>
@@ -54,7 +54,7 @@
     <Rank>8</Rank>
     <Name>Serizawa</Name>
     <Level>260</Level>
-    <Exp>3755958164</Exp>
+    <Exp>3756123329</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -241,17 +241,17 @@
   </Player>
   <Player>
     <Rank>35</Rank>
+    <Name>Lorenna</Name>
+    <Level>204</Level>
+    <Exp>1415137062</Exp>
+    <Vocation>Wizard</Vocation>
+  </Player>
+  <Player>
+    <Rank>36</Rank>
     <Name>Itsbug</Name>
     <Level>204</Level>
     <Exp>1412265354</Exp>
     <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
-    <Rank>36</Rank>
-    <Name>Lorenna</Name>
-    <Level>204</Level>
-    <Exp>1412131038</Exp>
-    <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>37</Rank>
@@ -353,23 +353,23 @@
   </Player>
   <Player>
     <Rank>51</Rank>
+    <Name>Verstappen</Name>
+    <Level>190</Level>
+    <Exp>1055701803</Exp>
+    <Vocation>Warrior</Vocation>
+  </Player>
+  <Player>
+    <Rank>52</Rank>
     <Name>Usopp</Name>
     <Level>190</Level>
     <Exp>1052423727</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
-    <Rank>52</Rank>
-    <Name>Verstappen</Name>
-    <Level>190</Level>
-    <Exp>1054303132</Exp>
-    <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
     <Rank>53</Rank>
     <Name>Karimpai</Name>
     <Level>188</Level>
-    <Exp>1020935546</Exp>
+    <Exp>1021027946</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -383,7 +383,7 @@
     <Rank>55</Rank>
     <Name>Kibo</Name>
     <Level>187</Level>
-    <Exp>1001840922</Exp>
+    <Exp>1001907913</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -418,7 +418,7 @@
     <Rank>60</Rank>
     <Name>Nudin</Name>
     <Level>179</Level>
-    <Exp>842468508</Exp>
+    <Exp>842709150</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -453,7 +453,7 @@
     <Rank>65</Rank>
     <Name>Aivk</Name>
     <Level>176</Level>
-    <Exp>782757313</Exp>
+    <Exp>782816764</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -467,7 +467,7 @@
     <Rank>67</Rank>
     <Name>Nono</Name>
     <Level>174</Level>
-    <Exp>753698636</Exp>
+    <Exp>753728636</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -481,7 +481,7 @@
     <Rank>69</Rank>
     <Name>Hellokitty</Name>
     <Level>172</Level>
-    <Exp>710214070</Exp>
+    <Exp>710373231</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -661,17 +661,17 @@
   </Player>
   <Player>
     <Rank>95</Rank>
+    <Name>Wizav</Name>
+    <Level>148</Level>
+    <Exp>389343748</Exp>
+    <Vocation>Wizard</Vocation>
+  </Player>
+  <Player>
+    <Rank>96</Rank>
     <Name>Francisco</Name>
     <Level>148</Level>
     <Exp>388533135</Exp>
     <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
-    <Rank>96</Rank>
-    <Name>Wizav</Name>
-    <Level>148</Level>
-    <Exp>389023812</Exp>
-    <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>97</Rank>
@@ -747,7 +747,7 @@
     <Rank>107</Rank>
     <Name>Ace</Name>
     <Level>144</Level>
-    <Exp>344116964</Exp>
+    <Exp>344234776</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -768,7 +768,7 @@
     <Rank>110</Rank>
     <Name>Jeff</Name>
     <Level>143</Level>
-    <Exp>335453630</Exp>
+    <Exp>335495210</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -885,16 +885,16 @@
   </Player>
   <Player>
     <Rank>127</Rank>
+    <Name>Xile</Name>
+    <Level>130</Level>
+    <Exp>233455226</Exp>
+    <Vocation>Warrior</Vocation>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
     <Name>Wizsb</Name>
     <Level>130</Level>
     <Exp>233266489</Exp>
     <Vocation>Wizard</Vocation>
-  </Player>
-  <Player>
-    <Rank>128</Rank>
-    <Name>Xile</Name>
-    <Level>130</Level>
-    <Exp>233385346</Exp>
-    <Vocation>Warrior</Vocation>
   </Player>
 </Highscores>
