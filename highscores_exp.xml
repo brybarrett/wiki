@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Highscores>
-  <GeneratedAt>1741398005805</GeneratedAt>
+  <GeneratedAt>1741398125805</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Sasuke</Name>
@@ -12,7 +12,7 @@
     <Rank>2</Rank>
     <Name>Hamura</Name>
     <Level>311</Level>
-    <Exp>7663421976</Exp>
+    <Exp>7663609925</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -26,7 +26,7 @@
     <Rank>4</Rank>
     <Name>Ronin</Name>
     <Level>305</Level>
-    <Exp>7102400021</Exp>
+    <Exp>7102875021</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -54,7 +54,7 @@
     <Rank>8</Rank>
     <Name>Serizawa</Name>
     <Level>264</Level>
-    <Exp>3987120362</Exp>
+    <Exp>3987130450</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -68,7 +68,7 @@
     <Rank>10</Rank>
     <Name>Hagoromo</Name>
     <Level>260</Level>
-    <Exp>3744572591</Exp>
+    <Exp>3744636579</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -271,7 +271,7 @@
     <Rank>39</Rank>
     <Name>Fin</Name>
     <Level>204</Level>
-    <Exp>1416056563</Exp>
+    <Exp>1416318299</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -348,7 +348,7 @@
     <Rank>50</Rank>
     <Name>Karimpai</Name>
     <Level>196</Level>
-    <Exp>1202878146</Exp>
+    <Exp>1202947446</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -432,7 +432,7 @@
     <Rank>62</Rank>
     <Name>Bandits</Name>
     <Level>181</Level>
-    <Exp>877919404</Exp>
+    <Exp>878037156</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -460,14 +460,14 @@
     <Rank>66</Rank>
     <Name>Nono</Name>
     <Level>178</Level>
-    <Exp>815227997</Exp>
+    <Exp>815286903</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>67</Rank>
     <Name>Tobirama</Name>
     <Level>176</Level>
-    <Exp>782044919</Exp>
+    <Exp>782079571</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -509,7 +509,7 @@
     <Rank>73</Rank>
     <Name>Mineiro</Name>
     <Level>172</Level>
-    <Exp>712508078</Exp>
+    <Exp>712555593</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -635,14 +635,14 @@
     <Rank>91</Rank>
     <Name>Lczinxzz</Name>
     <Level>153</Level>
-    <Exp>446881309</Exp>
+    <Exp>446943679</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>92</Rank>
     <Name>Hawkeyez</Name>
     <Level>153</Level>
-    <Exp>443742230</Exp>
+    <Exp>443828855</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -663,7 +663,7 @@
     <Rank>95</Rank>
     <Name>Zedalapa</Name>
     <Level>152</Level>
-    <Exp>437869636</Exp>
+    <Exp>438046354</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -831,7 +831,7 @@
     <Rank>119</Rank>
     <Name>Offtank</Name>
     <Level>139</Level>
-    <Exp>302025537</Exp>
+    <Exp>302097136</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -878,23 +878,23 @@
   </Player>
   <Player>
     <Rank>126</Rank>
-    <Name>Naukabh</Name>
-    <Level>136</Level>
-    <Exp>273449015</Exp>
-    <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
-    <Rank>127</Rank>
     <Name>Darsixer</Name>
     <Level>135</Level>
     <Exp>266768680</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Grimmie</Name>
     <Level>135</Level>
     <Exp>266125102</Exp>
     <Vocation>Wizard</Vocation>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Yukira</Name>
+    <Level>134</Level>
+    <Exp>262716652</Exp>
+    <Vocation>Warrior</Vocation>
   </Player>
 </Highscores>
