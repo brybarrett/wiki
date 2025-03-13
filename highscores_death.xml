@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741873030642</GeneratedAt>
+  <GeneratedAt>1741873331233</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pageone</Player>
@@ -148,13 +148,21 @@
   <DeathEvent>
     <Rank>19</Rank>
     <Player>Joaobr</Player>
+    <LostExp>95566</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-03-13 14:41:44</Time>
+    <Location>(32027,31976,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Joaobr</Player>
     <LostExp>92550</LostExp>
     <KilledBy>Shogun</KilledBy>
     <Time>2025-03-13 14:27:56</Time>
     <Location>(32052,31901,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Joaobr</Player>
     <LostExp>42772</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32031,31973,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Joaobr</Player>
     <LostExp>32171</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32055,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Adelmokun</Player>
     <LostExp>21115</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32009,31957,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Lokinho</Player>
     <LostExp>561</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -186,11 +194,19 @@
     <Location>(31962,31932,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Aldair</Player>
     <LostExp>32</LostExp>
     <KilledBy>Wisper</KilledBy>
     <Time>2025-03-13 14:36:59</Time>
     <Location>(31904,31935,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
+    <Player>Aldair</Player>
+    <LostExp>29</LostExp>
+    <KilledBy>Wisper</KilledBy>
+    <Time>2025-03-13 14:38:02</Time>
+    <Location>(31899,31934,8)</Location>
   </DeathEvent>
 </DeathHighscores>
