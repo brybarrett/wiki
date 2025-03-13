@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741841230011</GeneratedAt>
+  <GeneratedAt>1741841530097</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Winchester</Player>
+    <LostExp>140493</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-03-13 05:49:02</Time>
+    <Location>(32043,32041,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Pedinbr</Player>
     <LostExp>98671</LostExp>
     <KilledBy>The Bug</KilledBy>
