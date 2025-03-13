@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1741862228000</GeneratedAt>
+  <GeneratedAt>1741862528015</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -223,12 +223,12 @@
   </Player>
   <Player>
     <Rank>45</Rank>
-    <Name>Lynx</Name>
+    <Name>Boruto</Name>
     <StarsCollected>117</StarsCollected>
   </Player>
   <Player>
     <Rank>46</Rank>
-    <Name>Boruto</Name>
+    <Name>Lynx</Name>
     <StarsCollected>117</StarsCollected>
   </Player>
   <Player>
@@ -488,17 +488,17 @@
   </Player>
   <Player>
     <Rank>98</Rank>
-    <Name>Flamenia</Name>
+    <Name>Killer </Name>
     <StarsCollected>69</StarsCollected>
   </Player>
   <Player>
     <Rank>99</Rank>
-    <Name>Francisco</Name>
+    <Name>Flamenia</Name>
     <StarsCollected>69</StarsCollected>
   </Player>
   <Player>
     <Rank>100</Rank>
-    <Name>Killer </Name>
+    <Name>Francisco</Name>
     <StarsCollected>69</StarsCollected>
   </Player>
   <Player>
@@ -613,32 +613,32 @@
   </Player>
   <Player>
     <Rank>123</Rank>
-    <Name>Nou</Name>
-    <StarsCollected>58</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>124</Rank>
     <Name>Kingeddl</Name>
     <StarsCollected>58</StarsCollected>
   </Player>
   <Player>
+    <Rank>124</Rank>
+    <Name>Nou</Name>
+    <StarsCollected>58</StarsCollected>
+  </Player>
+  <Player>
     <Rank>125</Rank>
+    <Name>Wu</Name>
+    <StarsCollected>58</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>126</Rank>
     <Name>Borneo</Name>
     <StarsCollected>57</StarsCollected>
   </Player>
   <Player>
-    <Rank>126</Rank>
+    <Rank>127</Rank>
     <Name>Winters</Name>
     <StarsCollected>57</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
-    <Name>Lorenna</Name>
-    <StarsCollected>57</StarsCollected>
-  </Player>
-  <Player>
     <Rank>128</Rank>
-    <Name>Wu</Name>
+    <Name>Lorenna</Name>
     <StarsCollected>57</StarsCollected>
   </Player>
 </StarsHighscores>
