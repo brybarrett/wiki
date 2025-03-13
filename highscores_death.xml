@@ -1,44 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741831510029</GeneratedAt>
-  <DeathEvent>
-    <Rank>1</Rank>
-    <Player>Jandel</Player>
-    <LostExp>40572358</LostExp>
-    <KilledBy>Flutty</KilledBy>
-    <Time>2025-03-13 01:27:09</Time>
-    <Location>(32068,31827,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>2</Rank>
-    <Player>Stella</Player>
-    <LostExp>13348499</LostExp>
-    <KilledBy>Dreadtide</KilledBy>
-    <Time>2025-03-13 02:24:20</Time>
-    <Location>(31847,32112,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>3</Rank>
-    <Player>Heineken</Player>
-    <LostExp>9591216</LostExp>
-    <KilledBy>Dreadtide</KilledBy>
-    <Time>2025-03-13 02:24:14</Time>
-    <Location>(31847,32112,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>4</Rank>
-    <Player>Dorian</Player>
-    <LostExp>533975</LostExp>
-    <KilledBy>Warden</KilledBy>
-    <Time>2025-03-13 02:12:07</Time>
-    <Location>(32049,31909,9)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>5</Rank>
-    <Player>Dorian</Player>
-    <LostExp>483097</LostExp>
-    <KilledBy>Terrorbird</KilledBy>
-    <Time>2025-03-13 02:21:17</Time>
-    <Location>(31924,32014,11)</Location>
-  </DeathEvent>
+  <GeneratedAt>1741831630706</GeneratedAt>
 </DeathHighscores>
