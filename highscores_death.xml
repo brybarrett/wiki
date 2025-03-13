@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741867330804</GeneratedAt>
+  <GeneratedAt>1741867631416</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pageone</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Omadara</Player>
+    <LostExp>3080047</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-03-13 13:04:43</Time>
+    <Location>(32190,32271,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Ko</Player>
     <LostExp>2308694</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31904,31985,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Alexandre </Player>
     <LostExp>389623</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31954,32015,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Winchester</Player>
     <LostExp>140493</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32043,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Baxt</Player>
     <LostExp>130629</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32013,32031,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Blueice</Player>
     <LostExp>111316</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31882,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Pedinbr</Player>
     <LostExp>98671</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31989,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Joaobr</Player>
     <LostExp>42772</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32031,31973,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Joaobr</Player>
     <LostExp>32171</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32055,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Adelmokun</Player>
     <LostExp>21115</LostExp>
     <KilledBy>Fire Drake</KilledBy>
