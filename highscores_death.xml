@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741871231053</GeneratedAt>
+  <GeneratedAt>1741871531044</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pageone</Player>
@@ -160,5 +160,13 @@
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-03-13 11:42:28</Time>
     <Location>(32009,31957,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
+    <Player>Lokinho</Player>
+    <LostExp>561</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-03-13 14:08:47</Time>
+    <Location>(31962,31932,8)</Location>
   </DeathEvent>
 </DeathHighscores>
