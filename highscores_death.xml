@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741884130772</GeneratedAt>
+  <GeneratedAt>1741884430552</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pageone</Player>
@@ -243,6 +243,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>31</Rank>
+    <Player>Adelmokun</Player>
+    <LostExp>38263</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-03-13 17:45:46</Time>
+    <Location>(32021,31945,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>32</Rank>
+    <Player>Arzhel</Player>
+    <LostExp>33915</LostExp>
+    <KilledBy>Scarapy Master</KilledBy>
+    <Time>2025-03-13 17:45:01</Time>
+    <Location>(32022,32231,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>33</Rank>
     <Player>Joaobr</Player>
     <LostExp>32171</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -250,7 +266,7 @@
     <Location>(32055,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>34</Rank>
     <Player>Adelmokun</Player>
     <LostExp>21115</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -258,7 +274,7 @@
     <Location>(32009,31957,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>35</Rank>
     <Player>Lokinho</Player>
     <LostExp>561</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -266,7 +282,7 @@
     <Location>(31962,31932,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>36</Rank>
     <Player>Aldair</Player>
     <LostExp>32</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -274,7 +290,7 @@
     <Location>(31904,31935,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>37</Rank>
     <Player>Aldair</Player>
     <LostExp>29</LostExp>
     <KilledBy>Wisper</KilledBy>
