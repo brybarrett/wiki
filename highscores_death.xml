@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741903326762</GeneratedAt>
+  <GeneratedAt>1741903626783</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ken</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-03-13 21:37:55</Time>
     <Location>(31997,31943,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Joaobr</Player>
+    <LostExp>167418</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-03-13 23:03:09</Time>
+    <Location>(32004,31946,8)</Location>
   </DeathEvent>
 </DeathHighscores>
