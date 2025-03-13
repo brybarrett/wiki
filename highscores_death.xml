@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741860130483</GeneratedAt>
+  <GeneratedAt>1741860430851</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sakura</Player>
@@ -43,6 +43,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Qr</Player>
+    <LostExp>5613086</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-03-13 11:04:52</Time>
+    <Location>(32041,31798,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Qr</Player>
+    <LostExp>5613086</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-03-13 11:04:52</Time>
+    <Location>(32041,31798,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Alexandre </Player>
     <LostExp>389623</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(31954,32015,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Winchester</Player>
     <LostExp>140493</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(32043,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Baxt</Player>
     <LostExp>130629</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(32013,32031,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Blueice</Player>
     <LostExp>111316</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(31882,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Pedinbr</Player>
     <LostExp>98671</LostExp>
     <KilledBy>The Bug</KilledBy>
