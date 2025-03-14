@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741911914802</GeneratedAt>
+  <GeneratedAt>1741912214869</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Karinar</Player>
+    <LostExp>470326</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-03-14 01:28:39</Time>
+    <Location>(31942,31861,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Pedinbr</Player>
     <LostExp>157809</LostExp>
     <KilledBy>Werewolf</KilledBy>
