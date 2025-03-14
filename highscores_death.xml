@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741941014928</GeneratedAt>
+  <GeneratedAt>1741941314975</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Klng</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Snoww</Player>
+    <LostExp>105418</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-03-14 09:31:54</Time>
+    <Location>(32025,31943,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Malboro</Player>
     <LostExp>97909</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31983,32062,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Capog</Player>
     <LostExp>10314</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32021,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Capog</Player>
     <LostExp>10046</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32014,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Capog</Player>
     <LostExp>9807</LostExp>
     <KilledBy>Skeleton</KilledBy>
