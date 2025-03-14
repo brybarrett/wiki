@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741917614669</GeneratedAt>
+  <GeneratedAt>1741917914606</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Klng</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-03-14 01:21:58</Time>
     <Location>(31879,32048,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Malboro</Player>
+    <LostExp>97909</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-03-14 03:04:36</Time>
+    <Location>(31983,32062,8)</Location>
   </DeathEvent>
 </DeathHighscores>
