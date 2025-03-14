@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741967415345</GeneratedAt>
+  <GeneratedAt>1741967715126</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Karimpai</Player>
@@ -152,5 +152,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-03-14 05:04:14</Time>
     <Location>(31995,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Aldair</Player>
+    <LostExp>26</LostExp>
+    <KilledBy>Kaguya</KilledBy>
+    <Time>2025-03-14 16:55:09</Time>
+    <Location>(31889,31941,8)</Location>
   </DeathEvent>
 </DeathHighscores>
