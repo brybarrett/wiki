@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741931714803</GeneratedAt>
+  <GeneratedAt>1741932014654</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Klng</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Hokage</Player>
+    <LostExp>2541054</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-03-14 06:58:02</Time>
+    <Location>(32064,31818,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Shg</Player>
     <LostExp>1763350</LostExp>
     <KilledBy>The Fanatic</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31912,32012,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Alexandre </Player>
     <LostExp>629330</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31954,32015,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Karinar</Player>
     <LostExp>470326</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31942,31861,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Andreyjp</Player>
     <LostExp>186568</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32017,32229,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Pedinbr</Player>
     <LostExp>157809</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31879,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Malboro</Player>
     <LostExp>97909</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31983,32062,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Capog</Player>
     <LostExp>10314</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32021,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Capog</Player>
     <LostExp>10046</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32014,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Capog</Player>
     <LostExp>9807</LostExp>
     <KilledBy>Skeleton</KilledBy>
