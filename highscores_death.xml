@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741924814830</GeneratedAt>
+  <GeneratedAt>1741925114691</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Klng</Player>
@@ -88,5 +88,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-03-14 04:37:34</Time>
     <Location>(32014,32041,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Capog</Player>
+    <LostExp>9807</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-03-14 05:04:14</Time>
+    <Location>(31995,32050,8)</Location>
   </DeathEvent>
 </DeathHighscores>
