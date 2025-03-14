@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741916415268</GeneratedAt>
+  <GeneratedAt>1741916714571</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Klng</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Alexandre </Player>
+    <LostExp>629330</LostExp>
+    <KilledBy>Bantinel</KilledBy>
+    <Time>2025-03-14 02:45:12</Time>
+    <Location>(31954,32015,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Karinar</Player>
     <LostExp>470326</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31942,31861,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Andreyjp</Player>
     <LostExp>186568</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32017,32229,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Pedinbr</Player>
     <LostExp>157809</LostExp>
     <KilledBy>Werewolf</KilledBy>
