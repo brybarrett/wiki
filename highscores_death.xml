@@ -1,28 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741910226739</GeneratedAt>
-  <DeathEvent>
-    <Rank>1</Rank>
-    <Player>Raven</Player>
-    <LostExp>965626</LostExp>
-    <KilledBy>Shogun</KilledBy>
-    <Time>2025-03-14 00:43:57</Time>
-    <Location>(32056,31908,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>2</Rank>
-    <Player>Ken</Player>
-    <LostExp>741172</LostExp>
-    <KilledBy>Fire Drake</KilledBy>
-    <Time>2025-03-13 21:37:55</Time>
-    <Location>(31997,31943,10)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>3</Rank>
-    <Player>Joaobr</Player>
-    <LostExp>167418</LostExp>
-    <KilledBy>Fire Drake</KilledBy>
-    <Time>2025-03-13 23:03:09</Time>
-    <Location>(32004,31946,8)</Location>
-  </DeathEvent>
+  <GeneratedAt>1741910415828</GeneratedAt>
 </DeathHighscores>
