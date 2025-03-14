@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741968615203</GeneratedAt>
+  <GeneratedAt>1741968915287</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Karimpai</Player>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Faghorz</Player>
+    <LostExp>35516</LostExp>
+    <KilledBy>Mantis</KilledBy>
+    <Time>2025-03-14 17:13:58</Time>
+    <Location>(31940,31896,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Capog</Player>
     <LostExp>10314</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32021,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Capog</Player>
     <LostExp>10046</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32014,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Capog</Player>
     <LostExp>9807</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31995,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Aldair</Player>
     <LostExp>26</LostExp>
     <KilledBy>Kaguya</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31889,31941,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Aldair</Player>
     <LostExp>23</LostExp>
     <KilledBy>Fugaku</KilledBy>
