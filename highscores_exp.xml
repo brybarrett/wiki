@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Highscores>
-  <GeneratedAt>1742065461759</GeneratedAt>
+  <GeneratedAt>1742065761768</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Sasuke</Name>
     <Level>349</Level>
-    <Exp>12195709885</Exp>
+    <Exp>12196016670</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -19,7 +19,7 @@
     <Rank>3</Rank>
     <Name>Papito</Name>
     <Level>324</Level>
-    <Exp>9111702693</Exp>
+    <Exp>9112175386</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -40,7 +40,7 @@
     <Rank>6</Rank>
     <Name>Ashura</Name>
     <Level>314</Level>
-    <Exp>7986514480</Exp>
+    <Exp>7986528814</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -61,14 +61,14 @@
     <Rank>9</Rank>
     <Name>Fugaku</Name>
     <Level>283</Level>
-    <Exp>5300230423</Exp>
+    <Exp>5300263006</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>10</Rank>
     <Name>Kakashi</Name>
     <Level>280</Level>
-    <Exp>5014651049</Exp>
+    <Exp>5014652435</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -117,7 +117,7 @@
     <Rank>17</Rank>
     <Name>PS-Dom</Name>
     <Level>251</Level>
-    <Exp>3254897674</Exp>
+    <Exp>3255059891</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -166,7 +166,7 @@
     <Rank>24</Rank>
     <Name>Guinny</Name>
     <Level>236</Level>
-    <Exp>2536273839</Exp>
+    <Exp>2536420059</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -222,7 +222,7 @@
     <Rank>32</Rank>
     <Name>Bradleywiz</Name>
     <Level>228</Level>
-    <Exp>2218290005</Exp>
+    <Exp>2218477171</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -234,17 +234,17 @@
   </Player>
   <Player>
     <Rank>34</Rank>
+    <Name>Orochimaru</Name>
+    <Level>228</Level>
+    <Exp>2198415262</Exp>
+    <Vocation>Wizard</Vocation>
+  </Player>
+  <Player>
+    <Rank>35</Rank>
     <Name>Otong</Name>
     <Level>228</Level>
     <Exp>2197452788</Exp>
     <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
-    <Rank>35</Rank>
-    <Name>Orochimaru</Name>
-    <Level>228</Level>
-    <Exp>2198409945</Exp>
-    <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>36</Rank>
@@ -320,7 +320,7 @@
     <Rank>46</Rank>
     <Name>Pageone</Name>
     <Level>214</Level>
-    <Exp>1722605408</Exp>
+    <Exp>1722953002</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -376,7 +376,7 @@
     <Rank>54</Rank>
     <Name>Tobirama</Name>
     <Level>206</Level>
-    <Exp>1466511475</Exp>
+    <Exp>1466805593</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -418,7 +418,7 @@
     <Rank>60</Rank>
     <Name>PS-Sanji</Name>
     <Level>202</Level>
-    <Exp>1362072601</Exp>
+    <Exp>1362166502</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -509,14 +509,14 @@
     <Rank>73</Rank>
     <Name>Rog</Name>
     <Level>191</Level>
-    <Exp>1094389306</Exp>
+    <Exp>1094549734</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>74</Rank>
     <Name>Noniboywar</Name>
     <Level>191</Level>
-    <Exp>1075487253</Exp>
+    <Exp>1075701157</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -544,7 +544,7 @@
     <Rank>78</Rank>
     <Name>Hellokitty</Name>
     <Level>184</Level>
-    <Exp>940083722</Exp>
+    <Exp>940297626</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -558,7 +558,7 @@
     <Rank>80</Rank>
     <Name>Wu</Name>
     <Level>181</Level>
-    <Exp>872460720</Exp>
+    <Exp>872915853</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -705,14 +705,14 @@
     <Rank>101</Rank>
     <Name>Narack</Name>
     <Level>161</Level>
-    <Exp>548542503</Exp>
+    <Exp>548896872</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>102</Rank>
     <Name>Kuro</Name>
     <Level>161</Level>
-    <Exp>541785428</Exp>
+    <Exp>542033368</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -733,7 +733,7 @@
     <Rank>105</Rank>
     <Name>Wk</Name>
     <Level>159</Level>
-    <Exp>523054921</Exp>
+    <Exp>523648915</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -803,7 +803,7 @@
     <Rank>115</Rank>
     <Name>Okomura</Name>
     <Level>154</Level>
-    <Exp>451004528</Exp>
+    <Exp>451025549</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -845,7 +845,7 @@
     <Rank>121</Rank>
     <Name>Kingmago</Name>
     <Level>150</Level>
-    <Exp>409268618</Exp>
+    <Exp>409481146</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
