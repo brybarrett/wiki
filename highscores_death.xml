@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742042365581</GeneratedAt>
+  <GeneratedAt>1742042665201</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Papito</Player>
@@ -147,6 +147,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>19</Rank>
+    <Player>Snoww</Player>
+    <LostExp>319649</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-03-15 13:42:56</Time>
+    <Location>(31908,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
     <Player>Pedinbr</Player>
     <LostExp>256939</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31882,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Pedinbr</Player>
     <LostExp>235411</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31988,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Haname</Player>
     <LostExp>188817</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32791,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Snoww</Player>
     <LostExp>173786</LostExp>
     <KilledBy>Fire Drake</KilledBy>
