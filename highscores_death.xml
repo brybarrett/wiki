@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742001864651</GeneratedAt>
+  <GeneratedAt>1742002164899</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Papito</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Dragon</Player>
+    <LostExp>5916538</LostExp>
+    <KilledBy>Kakashi</KilledBy>
+    <Time>2025-03-15 02:29:00</Time>
+    <Location>(31926,31846,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Mewone</Player>
     <LostExp>412997</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32012,31929,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Haname</Player>
     <LostExp>188817</LostExp>
     <KilledBy>Hell Guard</KilledBy>
