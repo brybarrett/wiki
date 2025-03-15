@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742000664707</GeneratedAt>
+  <GeneratedAt>1742000964629</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Papito</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Treant</KilledBy>
     <Time>2025-03-15 01:41:20</Time>
     <Location>(32012,31929,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Haname</Player>
+    <LostExp>188817</LostExp>
+    <KilledBy>Hell Guard</KilledBy>
+    <Time>2025-03-15 02:06:46</Time>
+    <Location>(32791,32251,8)</Location>
   </DeathEvent>
 </DeathHighscores>
