@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1742003962355</GeneratedAt>
+  <GeneratedAt>1742004262320</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -43,12 +43,12 @@
   </Player>
   <Player>
     <Rank>9</Rank>
-    <Name>Matorindo</Name>
+    <Name>Frieren</Name>
     <StarsCollected>191</StarsCollected>
   </Player>
   <Player>
     <Rank>10</Rank>
-    <Name>Frieren</Name>
+    <Name>Matorindo</Name>
     <StarsCollected>191</StarsCollected>
   </Player>
   <Player>
@@ -98,7 +98,7 @@
   </Player>
   <Player>
     <Rank>20</Rank>
-    <Name>Eztoymjr </Name>
+    <Name>Eztoymjr</Name>
     <StarsCollected>151</StarsCollected>
   </Player>
   <Player>
@@ -183,12 +183,12 @@
   </Player>
   <Player>
     <Rank>37</Rank>
-    <Name>Guinny</Name>
+    <Name>Okomura</Name>
     <StarsCollected>125</StarsCollected>
   </Player>
   <Player>
     <Rank>38</Rank>
-    <Name>Okomura</Name>
+    <Name>Guinny</Name>
     <StarsCollected>125</StarsCollected>
   </Player>
   <Player>
@@ -263,22 +263,22 @@
   </Player>
   <Player>
     <Rank>53</Rank>
-    <Name>Jandel</Name>
-    <StarsCollected>107</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>54</Rank>
     <Name>Sp</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
-    <Rank>55</Rank>
+    <Rank>54</Rank>
     <Name>Kingeddi</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
-    <Rank>56</Rank>
+    <Rank>55</Rank>
     <Name>Skyblue</Name>
+    <StarsCollected>107</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>56</Rank>
+    <Name>Jandel</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
@@ -538,17 +538,17 @@
   </Player>
   <Player>
     <Rank>108</Rank>
-    <Name>Wu</Name>
-    <StarsCollected>63</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>109</Rank>
     <Name>Charizard</Name>
     <StarsCollected>63</StarsCollected>
   </Player>
   <Player>
-    <Rank>110</Rank>
+    <Rank>109</Rank>
     <Name>Cloudy</Name>
+    <StarsCollected>63</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>110</Rank>
+    <Name>Wu</Name>
     <StarsCollected>63</StarsCollected>
   </Player>
   <Player>
@@ -638,7 +638,7 @@
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Xile</Name>
+    <Name>Marquim</Name>
     <StarsCollected>57</StarsCollected>
   </Player>
 </StarsHighscores>
