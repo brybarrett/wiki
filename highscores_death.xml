@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1741999464979</GeneratedAt>
+  <GeneratedAt>1741999764618</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Papito</Player>
+    <LostExp>454551772</LostExp>
+    <KilledBy>Kingeddj</KilledBy>
+    <Time>2025-03-15 01:49:14</Time>
+    <Location>(31912,31851,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Peavy</Player>
     <LostExp>123456099</LostExp>
     <KilledBy>Kingeddl</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31911,31847,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Peavy</Player>
     <LostExp>117283294</LostExp>
     <KilledBy>Maxxbrr</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31918,31853,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Jandel</Player>
     <LostExp>52947769</LostExp>
     <KilledBy>Kaguya</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31910,31833,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Mewone</Player>
     <LostExp>412997</LostExp>
     <KilledBy>Treant</KilledBy>
