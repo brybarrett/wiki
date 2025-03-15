@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742011465086</GeneratedAt>
+  <GeneratedAt>1742011764884</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Papito</Player>
@@ -59,6 +59,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Bucca</Player>
+    <LostExp>539512</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-03-15 05:05:09</Time>
+    <Location>(31997,31927,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Bucca</Player>
+    <LostExp>486119</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-03-15 05:08:25</Time>
+    <Location>(31994,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Mewone</Player>
     <LostExp>412997</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(32012,31929,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Haname</Player>
     <LostExp>188817</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(32791,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Snoww</Player>
     <LostExp>173786</LostExp>
     <KilledBy>Fire Drake</KilledBy>
