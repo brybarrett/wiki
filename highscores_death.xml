@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742060365564</GeneratedAt>
+  <GeneratedAt>1742060665171</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Papito</Player>
@@ -276,13 +276,21 @@
   <DeathEvent>
     <Rank>35</Rank>
     <Player>Pedinbr</Player>
+    <LostExp>254904</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-03-15 18:43:21</Time>
+    <Location>(31882,32039,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>36</Rank>
+    <Player>Pedinbr</Player>
     <LostExp>235411</LostExp>
     <KilledBy>The Bug</KilledBy>
     <Time>2025-03-15 09:11:01</Time>
     <Location>(31988,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Haname</Player>
     <LostExp>188817</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(32791,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Snoww</Player>
     <LostExp>173786</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Capog</Player>
     <LostExp>144941</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31993,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Capog</Player>
     <LostExp>61085</LostExp>
     <KilledBy>Baby Drake</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31991,31943,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Ernesto</Player>
     <LostExp>56739</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(32019,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Ernesto</Player>
     <LostExp>55358</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(31982,31869,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Ernesto</Player>
     <LostExp>49840</LostExp>
     <KilledBy>Bug</KilledBy>
