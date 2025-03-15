@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742049565129</GeneratedAt>
+  <GeneratedAt>1742049865246</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Papito</Player>
@@ -224,5 +224,13 @@
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-03-15 15:30:20</Time>
     <Location>(32019,31943,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>29</Rank>
+    <Player>Ernesto</Player>
+    <LostExp>55358</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-03-15 15:43:47</Time>
+    <Location>(31982,31869,8)</Location>
   </DeathEvent>
 </DeathHighscores>
