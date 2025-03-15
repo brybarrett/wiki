@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742048065132</GeneratedAt>
+  <GeneratedAt>1742048365101</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Papito</Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Atan</Player>
+    <LostExp>7966593</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-03-15 15:17:44</Time>
+    <Location>(32061,31823,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Dragon</Player>
     <LostExp>5916538</LostExp>
     <KilledBy>Kakashi</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31926,31846,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Hordel</Player>
     <LostExp>3570768</LostExp>
     <KilledBy>Bruxo</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31974,31984,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Badest</Player>
     <LostExp>2569063</LostExp>
     <KilledBy>Odon</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32736,32266,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Badest</Player>
     <LostExp>2356450</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31965,32264,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Bob</Player>
     <LostExp>1933100</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Haise</Player>
     <LostExp>592646</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31988,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Bucca</Player>
     <LostExp>539512</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31997,31927,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Bucca</Player>
     <LostExp>486119</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31994,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Mewone</Player>
     <LostExp>412997</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32012,31929,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Snoww</Player>
     <LostExp>319649</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31908,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Pedinbr</Player>
     <LostExp>256939</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31882,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Pedinbr</Player>
     <LostExp>235411</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31988,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Haname</Player>
     <LostExp>188817</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32791,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Snoww</Player>
     <LostExp>173786</LostExp>
     <KilledBy>Fire Drake</KilledBy>
