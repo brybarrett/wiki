@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742053465578</GeneratedAt>
+  <GeneratedAt>1742053765032</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Papito</Player>
@@ -220,13 +220,21 @@
   <DeathEvent>
     <Rank>28</Rank>
     <Player>Capog</Player>
+    <LostExp>144941</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-03-15 16:47:28</Time>
+    <Location>(31993,32048,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>29</Rank>
+    <Player>Capog</Player>
     <LostExp>61085</LostExp>
     <KilledBy>Baby Drake</KilledBy>
     <Time>2025-03-15 15:24:38</Time>
     <Location>(31991,31943,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Ernesto</Player>
     <LostExp>56739</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32019,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Ernesto</Player>
     <LostExp>55358</LostExp>
     <KilledBy>Orc</KilledBy>
