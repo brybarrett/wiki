@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742009664817</GeneratedAt>
+  <GeneratedAt>1742009964874</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Papito</Player>
@@ -72,5 +72,13 @@
     <KilledBy>Hell Guard</KilledBy>
     <Time>2025-03-15 02:06:46</Time>
     <Location>(32791,32251,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Snoww</Player>
+    <LostExp>173786</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-03-15 04:34:45</Time>
+    <Location>(32025,31943,8)</Location>
   </DeathEvent>
 </DeathHighscores>
