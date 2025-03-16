@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742130729180</GeneratedAt>
+  <GeneratedAt>1742131029392</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Orochimaru</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Tobirama</Player>
+    <LostExp>96643404</LostExp>
+    <KilledBy>Saurial</KilledBy>
+    <Time>2025-03-16 14:14:16</Time>
+    <Location>(31967,31840,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Pageone</Player>
     <LostExp>86670206</LostExp>
     <KilledBy>Abominy</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32436,32479,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Kopi</Player>
     <LostExp>37858227</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32048,32341,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Kopi</Player>
     <LostExp>34093196</LostExp>
     <KilledBy>Blue Stone</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31964,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Xile</Player>
     <LostExp>31300430</LostExp>
     <KilledBy>Shellborn</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31842,32106,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Xile</Player>
     <LostExp>29736248</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31864,32068,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Kuro</Player>
     <LostExp>28168530</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31948,32274,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Kuro</Player>
     <LostExp>27807800</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31976,32255,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Kuro</Player>
     <LostExp>26760104</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31960,32271,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Ynk</Player>
     <LostExp>18389507</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31864,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Khex</Player>
     <LostExp>18268295</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31948,32274,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Ace</Player>
     <LostExp>17383913</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31953,32220,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Orgkaras</Player>
     <LostExp>8500467</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Orgkaras</Player>
     <LostExp>7650420</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Dane</Player>
     <LostExp>6231793</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32021,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Badest</Player>
     <LostExp>2593245</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31967,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Laubisomi</Player>
     <LostExp>1557589</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31863,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Bucca</Player>
     <LostExp>1030697</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32041,32040,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Licht</Player>
     <LostExp>976468</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31935,31982,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Alexandre </Player>
     <LostExp>733557</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31960,32256,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Manis</Player>
     <LostExp>714406</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32175,32264,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Vavir</Player>
     <LostExp>651950</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Angryy</Player>
     <LostExp>585950</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31973,32280,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Pedinbr</Player>
     <LostExp>468292</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32188,32271,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Pedinbr</Player>
     <LostExp>303177</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32022,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Pedinbr</Player>
     <LostExp>231664</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32019,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Magicol</Player>
     <LostExp>129096</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32006,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Ernesto</Player>
     <LostExp>109700</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31872,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Keld</Player>
     <LostExp>3126</LostExp>
     <KilledBy>Orc Leader</KilledBy>
