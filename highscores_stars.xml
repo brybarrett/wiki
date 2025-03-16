@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1742148727213</GeneratedAt>
+  <GeneratedAt>1742149027186</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -173,17 +173,17 @@
   </Player>
   <Player>
     <Rank>35</Rank>
-    <Name>Atan</Name>
-    <StarsCollected>127</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>36</Rank>
     <Name>Carver</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
-    <Rank>37</Rank>
+    <Rank>36</Rank>
     <Name>Papito</Name>
+    <StarsCollected>127</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>37</Rank>
+    <Name>Hero</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
@@ -263,12 +263,12 @@
   </Player>
   <Player>
     <Rank>53</Rank>
-    <Name>Shirohige</Name>
+    <Name>Edward</Name>
     <StarsCollected>111</StarsCollected>
   </Player>
   <Player>
     <Rank>54</Rank>
-    <Name>Edward</Name>
+    <Name>Shirohige</Name>
     <StarsCollected>111</StarsCollected>
   </Player>
   <Player>
@@ -348,12 +348,12 @@
   </Player>
   <Player>
     <Rank>70</Rank>
-    <Name>Hawkeyez</Name>
+    <Name>Killua</Name>
     <StarsCollected>90</StarsCollected>
   </Player>
   <Player>
     <Rank>71</Rank>
-    <Name>Killua</Name>
+    <Name>Hawkeyez</Name>
     <StarsCollected>90</StarsCollected>
   </Player>
   <Player>
@@ -368,18 +368,18 @@
   </Player>
   <Player>
     <Rank>74</Rank>
-    <Name>Xforce</Name>
+    <Name>Yaza</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
     <Rank>75</Rank>
-    <Name>Yaza</Name>
+    <Name>Xforce</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
     <Rank>76</Rank>
     <Name>Raven</Name>
-    <StarsCollected>86</StarsCollected>
+    <StarsCollected>87</StarsCollected>
   </Player>
   <Player>
     <Rank>77</Rank>
@@ -473,12 +473,12 @@
   </Player>
   <Player>
     <Rank>95</Rank>
-    <Name>Zoro</Name>
+    <Name>Flamenia</Name>
     <StarsCollected>74</StarsCollected>
   </Player>
   <Player>
     <Rank>96</Rank>
-    <Name>Flamenia</Name>
+    <Name>Zoro</Name>
     <StarsCollected>74</StarsCollected>
   </Player>
   <Player>
@@ -548,12 +548,12 @@
   </Player>
   <Player>
     <Rank>110</Rank>
-    <Name>Naruto</Name>
+    <Name>Ynk</Name>
     <StarsCollected>65</StarsCollected>
   </Player>
   <Player>
     <Rank>111</Rank>
-    <Name>Ynk</Name>
+    <Name>Naruto</Name>
     <StarsCollected>65</StarsCollected>
   </Player>
   <Player>
@@ -563,27 +563,27 @@
   </Player>
   <Player>
     <Rank>113</Rank>
-    <Name>Charizard</Name>
-    <StarsCollected>63</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>114</Rank>
     <Name>Darius</Name>
     <StarsCollected>63</StarsCollected>
   </Player>
   <Player>
-    <Rank>115</Rank>
-    <Name>Marquim</Name>
+    <Rank>114</Rank>
+    <Name>Wu</Name>
     <StarsCollected>63</StarsCollected>
   </Player>
   <Player>
-    <Rank>116</Rank>
+    <Rank>115</Rank>
     <Name>Cloudy</Name>
     <StarsCollected>63</StarsCollected>
   </Player>
   <Player>
+    <Rank>116</Rank>
+    <Name>Marquim</Name>
+    <StarsCollected>63</StarsCollected>
+  </Player>
+  <Player>
     <Rank>117</Rank>
-    <Name>Wu</Name>
+    <Name>Charizard</Name>
     <StarsCollected>63</StarsCollected>
   </Player>
   <Player>
@@ -603,7 +603,7 @@
   </Player>
   <Player>
     <Rank>121</Rank>
-    <Name>Heal</Name>
+    <Name>Zajin</Name>
     <StarsCollected>61</StarsCollected>
   </Player>
   <Player>
@@ -613,12 +613,12 @@
   </Player>
   <Player>
     <Rank>123</Rank>
-    <Name>Astaroth</Name>
+    <Name>Heal</Name>
     <StarsCollected>61</StarsCollected>
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Zajin</Name>
+    <Name>Astaroth</Name>
     <StarsCollected>61</StarsCollected>
   </Player>
   <Player>
@@ -633,12 +633,12 @@
   </Player>
   <Player>
     <Rank>127</Rank>
-    <Name>Kingeddl</Name>
+    <Name>Rev</Name>
     <StarsCollected>60</StarsCollected>
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Rev</Name>
+    <Name>Kingeddl</Name>
     <StarsCollected>60</StarsCollected>
   </Player>
 </StarsHighscores>
