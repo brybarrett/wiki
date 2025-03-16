@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742091428882</GeneratedAt>
+  <GeneratedAt>1742091728942</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pageone</Player>
@@ -19,6 +19,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Orgkaras</Player>
+    <LostExp>8500467</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-03-16 03:19:16</Time>
+    <Location>(32064,31818,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Orgkaras</Player>
+    <LostExp>7650420</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-03-16 03:19:16</Time>
+    <Location>(32064,31818,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Laubisomi</Player>
     <LostExp>1557589</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(31863,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Alexandre </Player>
     <LostExp>733557</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(31960,32256,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Magicol</Player>
     <LostExp>129096</LostExp>
     <KilledBy>Orc Leader</KilledBy>
