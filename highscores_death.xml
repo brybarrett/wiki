@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742148129580</GeneratedAt>
+  <GeneratedAt>1742148431725</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Orochimaru</Player>
@@ -315,6 +315,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>40</Rank>
+    <Player>Fl</Player>
+    <LostExp>134274</LostExp>
+    <KilledBy>Wisper</KilledBy>
+    <Time>2025-03-16 19:06:40</Time>
+    <Location>(31869,31936,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>41</Rank>
     <Player>Magicol</Player>
     <LostExp>129096</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(32006,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Ernesto</Player>
     <LostExp>109700</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -330,11 +338,19 @@
     <Location>(31872,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Keld</Player>
     <LostExp>3126</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-03-16 09:22:06</Time>
     <Location>(32006,31871,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>44</Rank>
+    <Player>Gryffindor</Player>
+    <LostExp>516</LostExp>
+    <KilledBy>Wisper</KilledBy>
+    <Time>2025-03-16 19:05:05</Time>
+    <Location>(31884,31942,8)</Location>
   </DeathEvent>
 </DeathHighscores>
