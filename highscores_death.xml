@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742161329842</GeneratedAt>
+  <GeneratedAt>1742161629749</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Orochimaru</Player>
@@ -380,13 +380,29 @@
   <DeathEvent>
     <Rank>48</Rank>
     <Player>Templar</Player>
+    <LostExp>55627</LostExp>
+    <KilledBy>Small Eye</KilledBy>
+    <Time>2025-03-16 22:42:56</Time>
+    <Location>(31913,32056,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>49</Rank>
+    <Player>Templar</Player>
     <LostExp>52188</LostExp>
     <KilledBy>Chaleton</KilledBy>
     <Time>2025-03-16 22:01:56</Time>
     <Location>(32189,32272,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
+    <Player>Templar</Player>
+    <LostExp>50064</LostExp>
+    <KilledBy>Small Eye</KilledBy>
+    <Time>2025-03-16 22:42:56</Time>
+    <Location>(31913,32056,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>51</Rank>
     <Player>Arzhel</Player>
     <LostExp>30547</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -394,7 +410,7 @@
     <Location>(31872,31940,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>52</Rank>
     <Player>Keld</Player>
     <LostExp>3126</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -402,7 +418,7 @@
     <Location>(32006,31871,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>53</Rank>
     <Player>Gryffindor</Player>
     <LostExp>516</LostExp>
     <KilledBy>Wisper</KilledBy>
