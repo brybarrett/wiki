@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742093228972</GeneratedAt>
+  <GeneratedAt>1742093529000</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pageone</Player>
@@ -56,5 +56,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-03-16 01:21:46</Time>
     <Location>(32006,31881,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Ernesto</Player>
+    <LostExp>109700</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-03-16 03:50:57</Time>
+    <Location>(31872,31896,8)</Location>
   </DeathEvent>
 </DeathHighscores>
