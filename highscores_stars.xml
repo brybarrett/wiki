@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1742084226495</GeneratedAt>
+  <GeneratedAt>1742084526609</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -43,22 +43,22 @@
   </Player>
   <Player>
     <Rank>9</Rank>
-    <Name>Matorindo</Name>
-    <StarsCollected>191</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>10</Rank>
     <Name>Frieren</Name>
     <StarsCollected>191</StarsCollected>
   </Player>
   <Player>
+    <Rank>10</Rank>
+    <Name>Matorindo</Name>
+    <StarsCollected>191</StarsCollected>
+  </Player>
+  <Player>
     <Rank>11</Rank>
-    <Name>Ace</Name>
+    <Name>Fugaku</Name>
     <StarsCollected>184</StarsCollected>
   </Player>
   <Player>
     <Rank>12</Rank>
-    <Name>Fugaku</Name>
+    <Name>Ace</Name>
     <StarsCollected>184</StarsCollected>
   </Player>
   <Player>
@@ -88,12 +88,12 @@
   </Player>
   <Player>
     <Rank>18</Rank>
-    <Name>Seventysvn</Name>
+    <Name>Khex</Name>
     <StarsCollected>158</StarsCollected>
   </Player>
   <Player>
     <Rank>19</Rank>
-    <Name>Khex</Name>
+    <Name>Seventysvn</Name>
     <StarsCollected>158</StarsCollected>
   </Player>
   <Player>
@@ -273,22 +273,22 @@
   </Player>
   <Player>
     <Rank>55</Rank>
-    <Name>Jandel</Name>
-    <StarsCollected>107</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>56</Rank>
     <Name>Sp</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
-    <Rank>57</Rank>
+    <Rank>56</Rank>
     <Name>Kingeddi</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
-    <Rank>58</Rank>
+    <Rank>57</Rank>
     <Name>Orochimaru</Name>
+    <StarsCollected>107</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>58</Rank>
+    <Name>Jandel</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
@@ -543,12 +543,12 @@
   </Player>
   <Player>
     <Rank>109</Rank>
-    <Name>Pemburu</Name>
+    <Name>Gops</Name>
     <StarsCollected>64</StarsCollected>
   </Player>
   <Player>
     <Rank>110</Rank>
-    <Name>Gops</Name>
+    <Name>Pemburu</Name>
     <StarsCollected>64</StarsCollected>
   </Player>
   <Player>
@@ -633,12 +633,12 @@
   </Player>
   <Player>
     <Rank>127</Rank>
-    <Name>Tobirama </Name>
+    <Name>Tobirama</Name>
     <StarsCollected>60</StarsCollected>
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Tanker</Name>
+    <Name>Gacorrr </Name>
     <StarsCollected>59</StarsCollected>
   </Player>
 </StarsHighscores>
