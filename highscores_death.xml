@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742113029159</GeneratedAt>
+  <GeneratedAt>1742113329008</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Orochimaru</Player>
@@ -176,5 +176,13 @@
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-03-16 03:50:57</Time>
     <Location>(31872,31896,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Keld</Player>
+    <LostExp>3126</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-03-16 09:22:06</Time>
+    <Location>(32006,31871,8)</Location>
   </DeathEvent>
 </DeathHighscores>
