@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742128929362</GeneratedAt>
+  <GeneratedAt>1742129229434</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Orochimaru</Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Bucca</Player>
+    <LostExp>1030697</LostExp>
+    <KilledBy>GM-Jhonnis</KilledBy>
+    <Time>2025-03-16 13:44:24</Time>
+    <Location>(32041,32040,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Licht</Player>
     <LostExp>976468</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31935,31982,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Alexandre </Player>
     <LostExp>733557</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31960,32256,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Manis</Player>
     <LostExp>714406</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32175,32264,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Vavir</Player>
     <LostExp>651950</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Angryy</Player>
     <LostExp>585950</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31973,32280,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Pedinbr</Player>
     <LostExp>468292</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32188,32271,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Pedinbr</Player>
     <LostExp>303177</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32022,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Pedinbr</Player>
     <LostExp>231664</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32019,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Magicol</Player>
     <LostExp>129096</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32006,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Ernesto</Player>
     <LostExp>109700</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31872,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Keld</Player>
     <LostExp>3126</LostExp>
     <KilledBy>Orc Leader</KilledBy>
