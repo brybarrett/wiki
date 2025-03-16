@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742110929019</GeneratedAt>
+  <GeneratedAt>1742111229307</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Orochimaru</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Xile</Player>
+    <LostExp>29736248</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-03-16 08:43:09</Time>
+    <Location>(31864,32068,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Kuro</Player>
     <LostExp>27807800</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31976,32255,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Ynk</Player>
     <LostExp>18389507</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31864,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Khex</Player>
     <LostExp>18268295</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31948,32274,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Ace</Player>
     <LostExp>17383913</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31953,32220,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Orgkaras</Player>
     <LostExp>8500467</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Orgkaras</Player>
     <LostExp>7650420</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Badest</Player>
     <LostExp>2593245</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31967,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Laubisomi</Player>
     <LostExp>1557589</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31863,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Licht</Player>
     <LostExp>976468</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31935,31982,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Alexandre </Player>
     <LostExp>733557</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31960,32256,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Vavir</Player>
     <LostExp>651950</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Angryy</Player>
     <LostExp>585950</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31973,32280,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Pedinbr</Player>
     <LostExp>303177</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32022,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Pedinbr</Player>
     <LostExp>231664</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32019,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Magicol</Player>
     <LostExp>129096</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32006,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Ernesto</Player>
     <LostExp>109700</LostExp>
     <KilledBy>Tarantula</KilledBy>
