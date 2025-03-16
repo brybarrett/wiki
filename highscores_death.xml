@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742090528858</GeneratedAt>
+  <GeneratedAt>1742090828845</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Pageone</Player>
+    <LostExp>86670206</LostExp>
+    <KilledBy>Abominy</KilledBy>
+    <Time>2025-03-16 03:06:52</Time>
+    <Location>(32436,32479,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Kuro</Player>
     <LostExp>27807800</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31976,32255,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Laubisomi</Player>
     <LostExp>1557589</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31863,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Alexandre </Player>
     <LostExp>733557</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31960,32256,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Magicol</Player>
     <LostExp>129096</LostExp>
     <KilledBy>Orc Leader</KilledBy>
