@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742161029629</GeneratedAt>
+  <GeneratedAt>1742161329842</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Orochimaru</Player>
@@ -387,6 +387,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>49</Rank>
+    <Player>Arzhel</Player>
+    <LostExp>30547</LostExp>
+    <KilledBy>Wisper</KilledBy>
+    <Time>2025-03-16 22:40:48</Time>
+    <Location>(31872,31940,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>50</Rank>
     <Player>Keld</Player>
     <LostExp>3126</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(32006,31871,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Gryffindor</Player>
     <LostExp>516</LostExp>
     <KilledBy>Wisper</KilledBy>
