@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742166129660</GeneratedAt>
+  <GeneratedAt>1742166429657</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Orochimaru</Player>
@@ -363,6 +363,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>46</Rank>
+    <Player>Magicol</Player>
+    <LostExp>127621</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-03-17 00:03:05</Time>
+    <Location>(31944,31855,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>47</Rank>
     <Player>Fl</Player>
     <LostExp>120847</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(31902,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Ernesto</Player>
     <LostExp>109700</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31872,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Templar</Player>
     <LostExp>55627</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(31913,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Templar</Player>
     <LostExp>52188</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(32189,32272,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Templar</Player>
     <LostExp>50064</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31913,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Arzhel</Player>
     <LostExp>30547</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(31872,31940,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Keld</Player>
     <LostExp>3126</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(32006,31871,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Gryffindor</Player>
     <LostExp>516</LostExp>
     <KilledBy>Wisper</KilledBy>
