@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742203920868</GeneratedAt>
+  <GeneratedAt>1742204221038</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Harun</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Shg</Player>
+    <LostExp>2495024</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-03-17 10:32:14</Time>
+    <Location>(31993,31939,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Bucca</Player>
     <LostExp>1011114</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31866,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Aqat</Player>
     <LostExp>901829</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31940,31981,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Bucca</Player>
     <LostExp>852267</LostExp>
     <KilledBy>Orc Master</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32002,31849,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Templar</Player>
     <LostExp>160958</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31880,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Templar</Player>
     <LostExp>146318</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31879,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Templar</Player>
     <LostExp>128896</LostExp>
     <KilledBy>Fire Drake</KilledBy>
