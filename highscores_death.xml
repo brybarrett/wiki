@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742244121430</GeneratedAt>
+  <GeneratedAt>1742244421375</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Narack</Player>
@@ -164,13 +164,21 @@
   <DeathEvent>
     <Rank>21</Rank>
     <Player>Templar</Player>
+    <LostExp>218546</LostExp>
+    <KilledBy>Archvampir</KilledBy>
+    <Time>2025-03-17 21:45:20</Time>
+    <Location>(32735,32278,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Templar</Player>
     <LostExp>160958</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-03-17 02:47:38</Time>
     <Location>(31880,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Templar</Player>
     <LostExp>146318</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31879,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Templar</Player>
     <LostExp>128896</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32022,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Ishiki</Player>
     <LostExp>119542</LostExp>
     <KilledBy>Wolf</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31913,32065,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Ishiki</Player>
     <LostExp>107595</LostExp>
     <KilledBy>Frog</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31963,32049,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Ishiki</Player>
     <LostExp>96839</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31988,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Ishiki</Player>
     <LostExp>87169</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31989,32018,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Ishiki</Player>
     <LostExp>78455</LostExp>
     <KilledBy>The Bug</KilledBy>
