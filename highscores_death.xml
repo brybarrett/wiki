@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742233024221</GeneratedAt>
+  <GeneratedAt>1742233321871</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Narack</Player>
@@ -192,5 +192,13 @@
     <KilledBy>The Bug</KilledBy>
     <Time>2025-03-17 14:16:23</Time>
     <Location>(31988,32019,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
+    <Player>Ishiki</Player>
+    <LostExp>87169</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-03-17 18:37:35</Time>
+    <Location>(31989,32018,8)</Location>
   </DeathEvent>
 </DeathHighscores>
