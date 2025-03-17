@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742176020654</GeneratedAt>
+  <GeneratedAt>1742176320694</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bucca</Player>
@@ -11,6 +11,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Templar</Player>
+    <LostExp>160958</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-03-17 02:47:38</Time>
+    <Location>(31880,32016,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Templar</Player>
+    <LostExp>146318</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-03-17 02:51:21</Time>
+    <Location>(31879,31909,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Templar</Player>
     <LostExp>128896</LostExp>
     <KilledBy>Fire Drake</KilledBy>
