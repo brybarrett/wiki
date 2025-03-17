@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742176320694</GeneratedAt>
+  <GeneratedAt>1742176620643</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Marquim</Player>
+    <LostExp>4288606</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-03-17 02:53:31</Time>
+    <Location>(31948,32274,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Bucca</Player>
     <LostExp>852267</LostExp>
     <KilledBy>Orc Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32002,31849,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Templar</Player>
     <LostExp>160958</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31880,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Templar</Player>
     <LostExp>146318</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31879,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Templar</Player>
     <LostExp>128896</LostExp>
     <KilledBy>Fire Drake</KilledBy>
