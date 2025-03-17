@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742231821451</GeneratedAt>
+  <GeneratedAt>1742232121427</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Narack</Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Joaobr</Player>
+    <LostExp>458569</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-03-17 18:18:16</Time>
+    <Location>(32025,32273,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Templar</Player>
     <LostExp>160958</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31880,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Templar</Player>
     <LostExp>146318</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31879,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Templar</Player>
     <LostExp>128896</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32022,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Ishiki</Player>
     <LostExp>119542</LostExp>
     <KilledBy>Wolf</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31913,32065,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Ishiki</Player>
     <LostExp>107595</LostExp>
     <KilledBy>Frog</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31963,32049,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Ishiki</Player>
     <LostExp>96839</LostExp>
     <KilledBy>The Bug</KilledBy>
