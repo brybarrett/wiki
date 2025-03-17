@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742206321103</GeneratedAt>
+  <GeneratedAt>1742206621010</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Harun</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Joaobr</Player>
+    <LostExp>724141</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-03-17 11:16:32</Time>
+    <Location>(31976,31934,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Templar</Player>
     <LostExp>160958</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31880,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Templar</Player>
     <LostExp>146318</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31879,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Templar</Player>
     <LostExp>128896</LostExp>
     <KilledBy>Fire Drake</KilledBy>
