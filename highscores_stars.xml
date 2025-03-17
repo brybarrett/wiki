@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1742215318824</GeneratedAt>
+  <GeneratedAt>1742215618777</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -353,22 +353,22 @@
   </Player>
   <Player>
     <Rank>71</Rank>
-    <Name>Killua</Name>
+    <Name>Raven</Name>
     <StarsCollected>90</StarsCollected>
   </Player>
   <Player>
     <Rank>72</Rank>
+    <Name>Killua</Name>
+    <StarsCollected>90</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>73</Rank>
     <Name>Reacher</Name>
     <StarsCollected>89</StarsCollected>
   </Player>
   <Player>
-    <Rank>73</Rank>
-    <Name>Himmel</Name>
-    <StarsCollected>89</StarsCollected>
-  </Player>
-  <Player>
     <Rank>74</Rank>
-    <Name>Raven</Name>
+    <Name>Himmel</Name>
     <StarsCollected>89</StarsCollected>
   </Player>
   <Player>
@@ -468,22 +468,22 @@
   </Player>
   <Player>
     <Rank>94</Rank>
-    <Name>Zoro</Name>
-    <StarsCollected>75</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>95</Rank>
     <Name>Rouge</Name>
     <StarsCollected>75</StarsCollected>
   </Player>
   <Player>
-    <Rank>96</Rank>
+    <Rank>95</Rank>
     <Name>Gangster</Name>
     <StarsCollected>75</StarsCollected>
   </Player>
   <Player>
-    <Rank>97</Rank>
+    <Rank>96</Rank>
     <Name>Pemburu</Name>
+    <StarsCollected>75</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>97</Rank>
+    <Name>Zoro</Name>
     <StarsCollected>75</StarsCollected>
   </Player>
   <Player>
@@ -618,27 +618,27 @@
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Coffe</Name>
-    <StarsCollected>61</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>125</Rank>
     <Name>Zajin</Name>
     <StarsCollected>61</StarsCollected>
   </Player>
   <Player>
-    <Rank>126</Rank>
-    <Name>Ken</Name>
-    <StarsCollected>60</StarsCollected>
+    <Rank>125</Rank>
+    <Name>Coffe</Name>
+    <StarsCollected>61</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
+    <Rank>126</Rank>
     <Name>Tobirama</Name>
     <StarsCollected>60</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Rev</Name>
+    <StarsCollected>60</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Upinsz </Name>
     <StarsCollected>60</StarsCollected>
   </Player>
 </StarsHighscores>
