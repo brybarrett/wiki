@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742216821240</GeneratedAt>
+  <GeneratedAt>1742217121430</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Harun</Player>
@@ -112,5 +112,13 @@
     <KilledBy>Wolf</KilledBy>
     <Time>2025-03-17 14:03:24</Time>
     <Location>(31913,32065,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Ishiki</Player>
+    <LostExp>107595</LostExp>
+    <KilledBy>Frog</KilledBy>
+    <Time>2025-03-17 14:09:08</Time>
+    <Location>(31963,32049,7)</Location>
   </DeathEvent>
 </DeathHighscores>
