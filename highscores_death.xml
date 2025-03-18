@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742268915689</GeneratedAt>
+  <GeneratedAt>1742269215581</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Atheuz</Player>
+    <LostExp>8651533</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-03-18 04:35:48</Time>
+    <Location>(31860,32020,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Templarr</Player>
     <LostExp>67905</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32028,31975,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Bellatrix</Player>
     <LostExp>7416</LostExp>
     <KilledBy>Treant</KilledBy>
