@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742284815884</GeneratedAt>
+  <GeneratedAt>1742285115681</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tobirama</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Kiki</Player>
+    <LostExp>110538</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-03-18 09:01:15</Time>
+    <Location>(32014,31937,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Templarr</Player>
     <LostExp>80386</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32020,31977,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Plreis</Player>
     <LostExp>74663</LostExp>
     <KilledBy>Archvampir</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32733,32275,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Templarr</Player>
     <LostExp>67905</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32028,31975,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Northen</Player>
     <LostExp>21084</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32012,31878,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Northen</Player>
     <LostExp>19888</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32014,31978,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Bellatrix</Player>
     <LostExp>7416</LostExp>
     <KilledBy>Treant</KilledBy>
