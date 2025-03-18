@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1742311213697</GeneratedAt>
+  <GeneratedAt>1742311513931</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -133,12 +133,12 @@
   </Player>
   <Player>
     <Rank>27</Rank>
-    <Name>Okomura</Name>
+    <Name>Fay</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
     <Rank>28</Rank>
-    <Name>Fay</Name>
+    <Name>Okomura</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -148,17 +148,17 @@
   </Player>
   <Player>
     <Rank>30</Rank>
-    <Name>Mochi</Name>
-    <StarsCollected>134</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>31</Rank>
     <Name>Sugar</Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
-    <Rank>32</Rank>
+    <Rank>31</Rank>
     <Name>Hero</Name>
+    <StarsCollected>134</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>32</Rank>
+    <Name>Mochi</Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
@@ -188,12 +188,12 @@
   </Player>
   <Player>
     <Rank>38</Rank>
-    <Name>Papito</Name>
+    <Name>Carver</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
     <Rank>39</Rank>
-    <Name>Carver</Name>
+    <Name>Papito</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
@@ -213,12 +213,12 @@
   </Player>
   <Player>
     <Rank>43</Rank>
-    <Name>Vamplod</Name>
+    <Name>Hagoromo</Name>
     <StarsCollected>123</StarsCollected>
   </Player>
   <Player>
     <Rank>44</Rank>
-    <Name>Hagoromo</Name>
+    <Name>Vamplod</Name>
     <StarsCollected>123</StarsCollected>
   </Player>
   <Player>
@@ -293,27 +293,27 @@
   </Player>
   <Player>
     <Rank>59</Rank>
-    <Name>Sp</Name>
-    <StarsCollected>107</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>60</Rank>
     <Name>Orochimaru</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
-    <Rank>61</Rank>
+    <Rank>60</Rank>
     <Name>Kingeddi</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
+    <Rank>61</Rank>
+    <Name>Sp</Name>
+    <StarsCollected>107</StarsCollected>
+  </Player>
+  <Player>
     <Rank>62</Rank>
-    <Name>Grimmie</Name>
+    <Name>Natoriu </Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
     <Rank>63</Rank>
-    <Name>Natoriu </Name>
+    <Name>Grimmie</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
@@ -323,17 +323,17 @@
   </Player>
   <Player>
     <Rank>65</Rank>
-    <Name>Agenmarini</Name>
-    <StarsCollected>96</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>66</Rank>
     <Name>Indra</Name>
     <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
-    <Rank>67</Rank>
+    <Rank>66</Rank>
     <Name>Dom</Name>
+    <StarsCollected>96</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>67</Rank>
+    <Name>Agenmarini</Name>
     <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
@@ -403,8 +403,8 @@
   </Player>
   <Player>
     <Rank>81</Rank>
-    <Name>Tankatuddo</Name>
-    <StarsCollected>82</StarsCollected>
+    <Name>Ynk</Name>
+    <StarsCollected>83</StarsCollected>
   </Player>
   <Player>
     <Rank>82</Rank>
@@ -418,8 +418,8 @@
   </Player>
   <Player>
     <Rank>84</Rank>
-    <Name>Ynk</Name>
-    <StarsCollected>81</StarsCollected>
+    <Name>Tankatuddo</Name>
+    <StarsCollected>82</StarsCollected>
   </Player>
   <Player>
     <Rank>85</Rank>
@@ -463,22 +463,22 @@
   </Player>
   <Player>
     <Rank>93</Rank>
-    <Name>Itachi</Name>
-    <StarsCollected>77</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>94</Rank>
     <Name>Kopi</Name>
     <StarsCollected>77</StarsCollected>
   </Player>
   <Player>
-    <Rank>95</Rank>
+    <Rank>94</Rank>
     <Name>Killer </Name>
     <StarsCollected>77</StarsCollected>
   </Player>
   <Player>
-    <Rank>96</Rank>
+    <Rank>95</Rank>
     <Name>Gibranx</Name>
+    <StarsCollected>77</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>96</Rank>
+    <Name>Itachi</Name>
     <StarsCollected>77</StarsCollected>
   </Player>
   <Player>
@@ -513,12 +513,12 @@
   </Player>
   <Player>
     <Rank>103</Rank>
-    <Name>Cake</Name>
+    <Name>Kawan</Name>
     <StarsCollected>73</StarsCollected>
   </Player>
   <Player>
     <Rank>104</Rank>
-    <Name>Kawan</Name>
+    <Name>Cake</Name>
     <StarsCollected>73</StarsCollected>
   </Player>
   <Player>
@@ -573,27 +573,27 @@
   </Player>
   <Player>
     <Rank>115</Rank>
-    <Name>Cloudy</Name>
-    <StarsCollected>63</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>116</Rank>
     <Name>Wu</Name>
     <StarsCollected>63</StarsCollected>
   </Player>
   <Player>
-    <Rank>117</Rank>
+    <Rank>116</Rank>
     <Name>Charizard</Name>
     <StarsCollected>63</StarsCollected>
   </Player>
   <Player>
-    <Rank>118</Rank>
+    <Rank>117</Rank>
     <Name>Darius</Name>
     <StarsCollected>63</StarsCollected>
   </Player>
   <Player>
+    <Rank>118</Rank>
+    <Name>Cloudy</Name>
+    <StarsCollected>63</StarsCollected>
+  </Player>
+  <Player>
     <Rank>119</Rank>
-    <Name>Mantan</Name>
+    <Name>Astaroth</Name>
     <StarsCollected>62</StarsCollected>
   </Player>
   <Player>
@@ -603,42 +603,42 @@
   </Player>
   <Player>
     <Rank>121</Rank>
-    <Name>Astaroth</Name>
-    <StarsCollected>62</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>122</Rank>
     <Name>Heal</Name>
     <StarsCollected>62</StarsCollected>
   </Player>
   <Player>
-    <Rank>123</Rank>
+    <Rank>122</Rank>
     <Name>Pageone</Name>
     <StarsCollected>62</StarsCollected>
   </Player>
   <Player>
-    <Rank>124</Rank>
-    <Name>Coffe</Name>
-    <StarsCollected>61</StarsCollected>
+    <Rank>123</Rank>
+    <Name>Mantan</Name>
+    <StarsCollected>62</StarsCollected>
   </Player>
   <Player>
-    <Rank>125</Rank>
+    <Rank>124</Rank>
     <Name>Zajin</Name>
     <StarsCollected>61</StarsCollected>
   </Player>
   <Player>
+    <Rank>125</Rank>
+    <Name>Coffe</Name>
+    <StarsCollected>61</StarsCollected>
+  </Player>
+  <Player>
     <Rank>126</Rank>
-    <Name>Rev</Name>
+    <Name>Ken</Name>
     <StarsCollected>60</StarsCollected>
   </Player>
   <Player>
     <Rank>127</Rank>
-    <Name>Tobirama</Name>
+    <Name>Upinsz </Name>
     <StarsCollected>60</StarsCollected>
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Ken</Name>
+    <Name>Lou</Name>
     <StarsCollected>60</StarsCollected>
   </Player>
 </StarsHighscores>
