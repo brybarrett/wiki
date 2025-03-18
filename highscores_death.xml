@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742286015732</GeneratedAt>
+  <GeneratedAt>1742286315794</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tobirama</Player>
@@ -68,13 +68,21 @@
   <DeathEvent>
     <Rank>9</Rank>
     <Player>Northen</Player>
+    <LostExp>33542</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-03-18 09:24:00</Time>
+    <Location>(32015,31878,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Northen</Player>
     <LostExp>31473</LostExp>
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-03-18 09:10:30</Time>
     <Location>(32024,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Northen</Player>
     <LostExp>21084</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32012,31878,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Northen</Player>
     <LostExp>19888</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32014,31978,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Bellatrix</Player>
     <LostExp>7416</LostExp>
     <KilledBy>Treant</KilledBy>
