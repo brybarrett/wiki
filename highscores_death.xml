@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742272515692</GeneratedAt>
+  <GeneratedAt>1742272815473</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Atheuz</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Templarr</Player>
+    <LostExp>80386</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-03-18 05:38:50</Time>
+    <Location>(32020,31977,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Plreis</Player>
     <LostExp>74663</LostExp>
     <KilledBy>Archvampir</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32733,32275,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Templarr</Player>
     <LostExp>67905</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32028,31975,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Bellatrix</Player>
     <LostExp>7416</LostExp>
     <KilledBy>Treant</KilledBy>
