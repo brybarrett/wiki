@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742279715793</GeneratedAt>
+  <GeneratedAt>1742280015656</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tobirama</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Kingmago</Player>
+    <LostExp>25767237</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-03-18 07:36:02</Time>
+    <Location>(31980,32270,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Atheuz</Player>
     <LostExp>8651533</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31860,32020,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Liad</Player>
     <LostExp>7766966</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31891,32012,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Templarr</Player>
     <LostExp>80386</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32020,31977,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Plreis</Player>
     <LostExp>74663</LostExp>
     <KilledBy>Archvampir</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32733,32275,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Templarr</Player>
     <LostExp>67905</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32028,31975,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Northen</Player>
     <LostExp>19888</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32014,31978,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Bellatrix</Player>
     <LostExp>7416</LostExp>
     <KilledBy>Treant</KilledBy>
