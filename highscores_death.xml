@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742273715830</GeneratedAt>
+  <GeneratedAt>1742274015507</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Atheuz</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Northen</Player>
+    <LostExp>19888</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-03-18 05:55:15</Time>
+    <Location>(32014,31978,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Bellatrix</Player>
     <LostExp>7416</LostExp>
     <KilledBy>Treant</KilledBy>
