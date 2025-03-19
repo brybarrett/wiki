@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742418018239</GeneratedAt>
+  <GeneratedAt>1742418319191</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaizer</Player>
@@ -236,9 +236,33 @@
   <DeathEvent>
     <Rank>30</Rank>
     <Player>Ishiki</Player>
+    <LostExp>58187</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-03-19 22:01:29</Time>
+    <Location>(31988,32013,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>31</Rank>
+    <Player>Ishiki</Player>
     <LostExp>57476</LostExp>
     <KilledBy>Mantis</KilledBy>
     <Time>2025-03-19 16:45:04</Time>
     <Location>(31898,31951,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>32</Rank>
+    <Player>Ishiki</Player>
+    <LostExp>52368</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-03-19 22:04:18</Time>
+    <Location>(32039,32036,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>33</Rank>
+    <Player>Ishiki</Player>
+    <LostExp>52368</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-03-19 22:04:18</Time>
+    <Location>(32039,32036,8)</Location>
   </DeathEvent>
 </DeathHighscores>
