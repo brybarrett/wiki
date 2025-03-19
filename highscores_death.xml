@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742416818023</GeneratedAt>
+  <GeneratedAt>1742417118335</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaizer</Player>
@@ -211,6 +211,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>27</Rank>
+    <Player>Ishiki</Player>
+    <LostExp>71330</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-03-19 21:43:16</Time>
+    <Location>(31971,31961,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
     <Player>Ishiki</Player>
     <LostExp>57476</LostExp>
     <KilledBy>Mantis</KilledBy>
