@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1742348115081</GeneratedAt>
+  <GeneratedAt>1742348415082</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -148,17 +148,17 @@
   </Player>
   <Player>
     <Rank>30</Rank>
-    <Name>Sugar</Name>
-    <StarsCollected>134</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>31</Rank>
     <Name>Hero</Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
-    <Rank>32</Rank>
+    <Rank>31</Rank>
     <Name>Mochi</Name>
+    <StarsCollected>134</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>32</Rank>
+    <Name>Sugar</Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
@@ -278,17 +278,17 @@
   </Player>
   <Player>
     <Rank>56</Rank>
-    <Name>Shirohige</Name>
-    <StarsCollected>111</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>57</Rank>
     <Name>Edward</Name>
     <StarsCollected>111</StarsCollected>
   </Player>
   <Player>
-    <Rank>58</Rank>
+    <Rank>57</Rank>
     <Name>Horr</Name>
+    <StarsCollected>111</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>58</Rank>
+    <Name>Shirohige</Name>
     <StarsCollected>111</StarsCollected>
   </Player>
   <Player>
@@ -438,17 +438,17 @@
   </Player>
   <Player>
     <Rank>88</Rank>
-    <Name>Moon</Name>
-    <StarsCollected>80</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>89</Rank>
     <Name>Pudin</Name>
     <StarsCollected>80</StarsCollected>
   </Player>
   <Player>
-    <Rank>90</Rank>
+    <Rank>89</Rank>
     <Name>Manan</Name>
+    <StarsCollected>80</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>90</Rank>
+    <Name>Moon</Name>
     <StarsCollected>80</StarsCollected>
   </Player>
   <Player>
@@ -618,12 +618,12 @@
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Coffe</Name>
+    <Name>Zajin</Name>
     <StarsCollected>61</StarsCollected>
   </Player>
   <Player>
     <Rank>125</Rank>
-    <Name>Zajin</Name>
+    <Name>Coffe</Name>
     <StarsCollected>61</StarsCollected>
   </Player>
   <Player>
