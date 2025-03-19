@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742346617710</GeneratedAt>
+  <GeneratedAt>1742346918046</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Killer </Player>
+    <LostExp>50837115</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-03-19 02:14:26</Time>
+    <Location>(31964,32270,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Kingmago</Player>
     <LostExp>26404061</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31947,32273,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Jembei</Player>
     <LostExp>10639339</LostExp>
     <KilledBy>ElderDjinn</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32773,32217,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Templarr</Player>
     <LostExp>72680</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
