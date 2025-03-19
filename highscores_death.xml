@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742359217298</GeneratedAt>
+  <GeneratedAt>1742359518237</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer </Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Omadara</Player>
+    <LostExp>3082345</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-03-19 05:41:06</Time>
+    <Location>(32045,31795,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Templar</Player>
     <LostExp>884505</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31863,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Templar</Player>
     <LostExp>831691</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31878,32028,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Templarr</Player>
     <LostExp>72680</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
