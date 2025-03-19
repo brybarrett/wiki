@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742366417839</GeneratedAt>
+  <GeneratedAt>1742366717605</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kaizer</Player>
+    <LostExp>116804713</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-03-19 07:40:24</Time>
+    <Location>(31948,32234,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Killer </Player>
     <LostExp>50837115</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31964,32270,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Kingmago</Player>
     <LostExp>26404061</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31947,32273,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Ace</Player>
     <LostExp>17373892</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32140,32272,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Jembei</Player>
     <LostExp>10639339</LostExp>
     <KilledBy>ElderDjinn</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32773,32217,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Ket</Player>
     <LostExp>3816746</LostExp>
     <KilledBy>Baby Drake</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31988,31945,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Ket</Player>
     <LostExp>3541115</LostExp>
     <KilledBy>ElderDjinn</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32767,32225,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Omadara</Player>
     <LostExp>3082345</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32045,31795,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Templar</Player>
     <LostExp>884505</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31863,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Templar</Player>
     <LostExp>831691</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31878,32028,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Templarr</Player>
     <LostExp>72680</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
