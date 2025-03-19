@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1742355615179</GeneratedAt>
+  <GeneratedAt>1742355915163</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -133,12 +133,12 @@
   </Player>
   <Player>
     <Rank>27</Rank>
-    <Name>Okomura</Name>
+    <Name>Fay</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
     <Rank>28</Rank>
-    <Name>Fay</Name>
+    <Name>Okomura</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -213,12 +213,12 @@
   </Player>
   <Player>
     <Rank>43</Rank>
-    <Name>Vamplod</Name>
+    <Name>Hagoromo</Name>
     <StarsCollected>123</StarsCollected>
   </Player>
   <Player>
     <Rank>44</Rank>
-    <Name>Hagoromo</Name>
+    <Name>Vamplod</Name>
     <StarsCollected>123</StarsCollected>
   </Player>
   <Player>
@@ -368,12 +368,12 @@
   </Player>
   <Player>
     <Rank>74</Rank>
-    <Name>Himmel</Name>
+    <Name>Reacher</Name>
     <StarsCollected>89</StarsCollected>
   </Player>
   <Player>
     <Rank>75</Rank>
-    <Name>Reacher</Name>
+    <Name>Himmel</Name>
     <StarsCollected>89</StarsCollected>
   </Player>
   <Player>
@@ -628,17 +628,17 @@
   </Player>
   <Player>
     <Rank>126</Rank>
-    <Name>Tobirama</Name>
-    <StarsCollected>60</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>127</Rank>
     <Name>Lou</Name>
     <StarsCollected>60</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Upinsz </Name>
+    <StarsCollected>60</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Ken</Name>
     <StarsCollected>60</StarsCollected>
   </Player>
 </StarsHighscores>
