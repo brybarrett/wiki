@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742346019508</GeneratedAt>
+  <GeneratedAt>1742346317621</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kingmago</Player>
+    <LostExp>26404061</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-03-19 02:00:30</Time>
+    <Location>(31947,32273,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Jembei</Player>
     <LostExp>10639339</LostExp>
     <KilledBy>ElderDjinn</KilledBy>
