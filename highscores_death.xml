@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742346317621</GeneratedAt>
+  <GeneratedAt>1742346617710</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingmago</Player>
@@ -16,5 +16,13 @@
     <KilledBy>ElderDjinn</KilledBy>
     <Time>2025-03-19 01:22:41</Time>
     <Location>(32773,32217,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Templarr</Player>
+    <LostExp>72680</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-03-19 02:07:05</Time>
+    <Location>(32025,31973,9)</Location>
   </DeathEvent>
 </DeathHighscores>
