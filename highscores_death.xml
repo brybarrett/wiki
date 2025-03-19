@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742419818224</GeneratedAt>
+  <GeneratedAt>1742420118332</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaizer</Player>
@@ -219,6 +219,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>28</Rank>
+    <Player>Drakezeraa</Player>
+    <LostExp>72516</LostExp>
+    <KilledBy>Fanatic</KilledBy>
+    <Time>2025-03-19 22:30:34</Time>
+    <Location>(31921,32009,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>29</Rank>
     <Player>Ishiki</Player>
     <LostExp>71330</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31971,31961,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Ishiki</Player>
     <LostExp>64610</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31926,31955,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Ishiki</Player>
     <LostExp>58187</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -242,20 +250,12 @@
     <Location>(31988,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Ishiki</Player>
     <LostExp>57476</LostExp>
     <KilledBy>Mantis</KilledBy>
     <Time>2025-03-19 16:45:04</Time>
     <Location>(31898,31951,7)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>32</Rank>
-    <Player>Ishiki</Player>
-    <LostExp>52368</LostExp>
-    <KilledBy>GM-Viajant</KilledBy>
-    <Time>2025-03-19 22:04:18</Time>
-    <Location>(32039,32036,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>33</Rank>
@@ -268,13 +268,21 @@
   <DeathEvent>
     <Rank>34</Rank>
     <Player>Ishiki</Player>
+    <LostExp>52368</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-03-19 22:04:18</Time>
+    <Location>(32039,32036,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
+    <Player>Ishiki</Player>
     <LostExp>47153</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
     <Time>2025-03-19 22:22:52</Time>
     <Location>(32043,32035,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Ishiki</Player>
     <LostExp>42458</LostExp>
     <KilledBy>The Bug</KilledBy>
