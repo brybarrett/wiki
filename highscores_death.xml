@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742400618054</GeneratedAt>
+  <GeneratedAt>1742400918108</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaizer</Player>
@@ -163,6 +163,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>21</Rank>
+    <Player>Ishiki</Player>
+    <LostExp>79256</LostExp>
+    <KilledBy>Bloodfly</KilledBy>
+    <Time>2025-03-19 17:10:18</Time>
+    <Location>(31951,31965,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
     <Player>Templarr</Player>
     <LostExp>72680</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32025,31973,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Ishiki</Player>
     <LostExp>57476</LostExp>
     <KilledBy>Mantis</KilledBy>
