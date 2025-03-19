@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742377817882</GeneratedAt>
+  <GeneratedAt>1742378117811</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaizer</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Teig</Player>
+    <LostExp>3270192</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-03-19 10:51:51</Time>
+    <Location>(32183,32269,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Omadara</Player>
     <LostExp>3123227</LostExp>
     <KilledBy>Zedalapa</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31976,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Omadara</Player>
     <LostExp>3082345</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32045,31795,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Templar</Player>
     <LostExp>884505</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31863,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Templar</Player>
     <LostExp>831691</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31878,32028,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Plreis</Player>
     <LostExp>156916</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31893,31912,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Badrol</Player>
     <LostExp>119287</LostExp>
     <KilledBy>Kaguya</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31898,31935,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Templarr</Player>
     <LostExp>72680</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
