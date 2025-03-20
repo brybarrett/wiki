@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742431816046</GeneratedAt>
+  <GeneratedAt>1742432116071</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templar</Player>
@@ -24,5 +24,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-03-20 01:49:35</Time>
     <Location>(32007,31876,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Templarr</Player>
+    <LostExp>85874</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-03-20 01:53:10</Time>
+    <Location>(32024,31976,9)</Location>
   </DeathEvent>
 </DeathHighscores>
