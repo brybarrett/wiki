@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742455816401</GeneratedAt>
+  <GeneratedAt>1742456116257</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lczinxzz</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Drakezeraa</Player>
+    <LostExp>312966</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-03-20 08:33:35</Time>
+    <Location>(31906,32047,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Plreis</Player>
     <LostExp>264665</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31880,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Drakezeraa</Player>
     <LostExp>116738</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32013,31877,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Drakezeraa</Player>
     <LostExp>110901</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32007,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Templarr</Player>
     <LostExp>85874</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32024,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Bogurel</Player>
     <LostExp>32882</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
