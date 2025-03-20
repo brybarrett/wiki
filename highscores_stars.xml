@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1742439914983</GeneratedAt>
+  <GeneratedAt>1742440213840</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -158,17 +158,17 @@
   </Player>
   <Player>
     <Rank>32</Rank>
-    <Name>Mochi</Name>
-    <StarsCollected>134</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>33</Rank>
     <Name>Sugar</Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
-    <Rank>34</Rank>
+    <Rank>33</Rank>
     <Name>Hero</Name>
+    <StarsCollected>134</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>34</Rank>
+    <Name>Mochi</Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
@@ -253,12 +253,12 @@
   </Player>
   <Player>
     <Rank>51</Rank>
-    <Name>Peavy</Name>
+    <Name>Lynx</Name>
     <StarsCollected>117</StarsCollected>
   </Player>
   <Player>
     <Rank>52</Rank>
-    <Name>Lynx</Name>
+    <Name>Peavy</Name>
     <StarsCollected>117</StarsCollected>
   </Player>
   <Player>
@@ -293,17 +293,17 @@
   </Player>
   <Player>
     <Rank>59</Rank>
-    <Name>Orochimaru</Name>
-    <StarsCollected>107</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>60</Rank>
     <Name>Sp</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
-    <Rank>61</Rank>
+    <Rank>60</Rank>
     <Name>Kingeddi</Name>
+    <StarsCollected>107</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>61</Rank>
+    <Name>Orochimaru</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
@@ -453,22 +453,22 @@
   </Player>
   <Player>
     <Rank>91</Rank>
-    <Name>Jcl</Name>
-    <StarsCollected>78</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>92</Rank>
     <Name>Wizav</Name>
     <StarsCollected>78</StarsCollected>
   </Player>
   <Player>
-    <Rank>93</Rank>
+    <Rank>92</Rank>
     <Name>Mrbean</Name>
     <StarsCollected>78</StarsCollected>
   </Player>
   <Player>
-    <Rank>94</Rank>
+    <Rank>93</Rank>
     <Name>Killer </Name>
+    <StarsCollected>78</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>94</Rank>
+    <Name>Jcl</Name>
     <StarsCollected>78</StarsCollected>
   </Player>
   <Player>
