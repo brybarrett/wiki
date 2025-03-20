@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742511616942</GeneratedAt>
+  <GeneratedAt>1742511916744</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lczinxzz</Player>
@@ -219,6 +219,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>28</Rank>
+    <Player>Vulcon</Player>
+    <LostExp>1364</LostExp>
+    <KilledBy>Bug</KilledBy>
+    <Time>2025-03-21 00:00:31</Time>
+    <Location>(31939,32015,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>29</Rank>
     <Player>Vulcon</Player>
     <LostExp>860</LostExp>
     <KilledBy>Scorpion</KilledBy>
