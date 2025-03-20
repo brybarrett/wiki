@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742496317097</GeneratedAt>
+  <GeneratedAt>1742496617939</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lczinxzz</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Kibo</Player>
+    <LostExp>73761610</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-03-20 19:48:01</Time>
+    <Location>(31918,32232,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Babydoll</Player>
     <LostExp>27238650</LostExp>
     <KilledBy>King Demon</KilledBy>
@@ -26,20 +34,12 @@
     <Location>(32053,32339,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Shizuka</Player>
     <LostExp>19297102</LostExp>
     <KilledBy>Ghoranus</KilledBy>
     <Time>2025-03-20 06:11:59</Time>
     <Location>(32038,31831,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>5</Rank>
-    <Player>Atheuz</Player>
-    <LostExp>11550450</LostExp>
-    <KilledBy>Werewolf</KilledBy>
-    <Time>2025-03-20 17:09:41</Time>
-    <Location>(31880,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Atheuz</Player>
+    <LostExp>11550450</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-03-20 17:09:41</Time>
+    <Location>(31880,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Qr</Player>
     <LostExp>6670612</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32042,32040,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Delo</Player>
     <LostExp>5039076</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Ket</Player>
     <LostExp>4531791</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Deus</Player>
     <LostExp>2897311</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32019,31864,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Drakezeraa</Player>
     <LostExp>683524</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32021,31864,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Drakezeraa</Player>
     <LostExp>659667</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31876,32063,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Templar</Player>
     <LostExp>505785</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31897,31989,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Drakezeraa</Player>
     <LostExp>439243</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31869,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Templar</Player>
     <LostExp>427094</LostExp>
     <KilledBy>Warden</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32046,31891,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Drakezeraa</Player>
     <LostExp>312966</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31906,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Drakezeraa</Player>
     <LostExp>298877</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31895,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Nare</Player>
     <LostExp>277302</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31935,32206,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Plreis</Player>
     <LostExp>264665</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31880,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Drakezeraa</Player>
     <LostExp>116738</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32013,31877,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Drakezeraa</Player>
     <LostExp>110901</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32007,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Templarr</Player>
     <LostExp>85874</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32024,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Bogurel</Player>
     <LostExp>32882</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
