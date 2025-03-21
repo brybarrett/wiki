@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742526013826</GeneratedAt>
+  <GeneratedAt>1742526313763</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Laubisomi</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Drakezeraa</Player>
+    <LostExp>1028059</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-03-21 04:03:39</Time>
+    <Location>(31884,32055,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Templar</Player>
     <LostExp>563440</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31897,31998,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Templarr</Player>
     <LostExp>104569</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
