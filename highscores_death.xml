@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742528113839</GeneratedAt>
+  <GeneratedAt>1742528413730</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Hero</Player>
+    <LostExp>15651955</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2025-03-21 04:36:31</Time>
+    <Location>(32047,32339,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Laubisomi</Player>
     <LostExp>7404073</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31869,32083,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Crazykill</Player>
     <LostExp>7109176</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Drakezeraa</Player>
     <LostExp>1028059</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31884,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Templar</Player>
     <LostExp>563440</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31897,31998,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Magicol</Player>
     <LostExp>191051</LostExp>
     <KilledBy>Kappa</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31932,32021,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Templarr</Player>
     <LostExp>104569</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32020,31988,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Vulcon</Player>
     <LostExp>12806</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31991,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Vulcon</Player>
     <LostExp>11039</LostExp>
     <KilledBy>Hell Guard</KilledBy>
