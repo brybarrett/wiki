@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742527815891</GeneratedAt>
+  <GeneratedAt>1742528113839</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Laubisomi</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Magicol</Player>
+    <LostExp>191051</LostExp>
+    <KilledBy>Kappa</KilledBy>
+    <Time>2025-03-21 04:31:09</Time>
+    <Location>(31932,32021,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Templarr</Player>
     <LostExp>104569</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -42,7 +50,15 @@
     <Location>(32020,31988,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
+    <Player>Vulcon</Player>
+    <LostExp>12806</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-03-21 04:33:21</Time>
+    <Location>(31991,31910,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Vulcon</Player>
     <LostExp>11039</LostExp>
     <KilledBy>Hell Guard</KilledBy>
