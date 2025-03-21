@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742540714555</GeneratedAt>
+  <GeneratedAt>1742541014182</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hero</Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Dragonbr</Player>
+    <LostExp>10776</LostExp>
+    <KilledBy>Hell Guard</KilledBy>
+    <Time>2025-03-21 08:09:51</Time>
+    <Location>(32798,32250,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Dragonbr</Player>
     <LostExp>10632</LostExp>
     <KilledBy>Fire Drake</KilledBy>
