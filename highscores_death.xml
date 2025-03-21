@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742585414484</GeneratedAt>
+  <GeneratedAt>1742585714409</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Maxxbrr</Player>
@@ -108,13 +108,21 @@
   <DeathEvent>
     <Rank>14</Rank>
     <Player>Cristiaaa</Player>
+    <LostExp>1981395</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-03-21 20:34:05</Time>
+    <Location>(31876,32018,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Cristiaaa</Player>
     <LostExp>1680450</LostExp>
     <KilledBy>Fouldraky</KilledBy>
     <Time>2025-03-21 18:45:31</Time>
     <Location>(32280,32341,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Martheus</Player>
     <LostExp>1455074</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32012,31957,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Drakezeraa</Player>
     <LostExp>1028059</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31884,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Templar</Player>
     <LostExp>588683</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31898,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Templar</Player>
     <LostExp>563440</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31897,31998,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Magicol</Player>
     <LostExp>191051</LostExp>
     <KilledBy>Kappa</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31932,32021,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Dragonbr</Player>
     <LostExp>178925</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Templarr</Player>
     <LostExp>104569</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32020,31988,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Dragonbr</Player>
     <LostExp>25610</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31979,32065,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Dragonbr</Player>
     <LostExp>23206</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32025,31974,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Dragonbr</Player>
     <LostExp>21389</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31990,31904,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Dragonbr</Player>
     <LostExp>19629</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31980,31905,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Vulcon</Player>
     <LostExp>12806</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31991,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Dragonbr</Player>
     <LostExp>11273</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31980,31910,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Vulcon</Player>
     <LostExp>11039</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32790,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Dragonbr</Player>
     <LostExp>10776</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32798,32250,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Dragonbr</Player>
     <LostExp>10632</LostExp>
     <KilledBy>Fire Drake</KilledBy>
