@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742573414528</GeneratedAt>
+  <GeneratedAt>1742573714555</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Maxxbrr</Player>
+    <LostExp>149262663</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-03-21 17:10:19</Time>
+    <Location>(31920,32234,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Hero</Player>
     <LostExp>15651955</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -10,20 +18,12 @@
     <Location>(32047,32339,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Liliks</Player>
     <LostExp>12932999</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2025-03-21 16:08:21</Time>
     <Location>(32063,31827,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>3</Rank>
-    <Player>Villain</Player>
-    <LostExp>8906813</LostExp>
-    <KilledBy>Flutty</KilledBy>
-    <Time>2025-03-21 16:08:41</Time>
-    <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Villain</Player>
+    <LostExp>8906813</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-03-21 16:08:41</Time>
+    <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Laubisomi</Player>
     <LostExp>7404073</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31869,32083,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Bob</Player>
     <LostExp>7291025</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Crazykill</Player>
     <LostExp>7109176</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Hordel</Player>
     <LostExp>5105187</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Louu</Player>
     <LostExp>3607647</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31948,32275,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Louu</Player>
     <LostExp>3261215</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31948,32272,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Martheus</Player>
     <LostExp>1455074</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32012,31957,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Drakezeraa</Player>
     <LostExp>1028059</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31884,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Templar</Player>
     <LostExp>588683</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31898,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Templar</Player>
     <LostExp>563440</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31897,31998,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Magicol</Player>
     <LostExp>191051</LostExp>
     <KilledBy>Kappa</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31932,32021,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Templarr</Player>
     <LostExp>104569</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32020,31988,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Dragonbr</Player>
     <LostExp>25610</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31979,32065,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Dragonbr</Player>
     <LostExp>23206</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32025,31974,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Dragonbr</Player>
     <LostExp>21389</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31990,31904,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Dragonbr</Player>
     <LostExp>19629</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31980,31905,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Vulcon</Player>
     <LostExp>12806</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31991,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Dragonbr</Player>
     <LostExp>11273</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31980,31910,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Vulcon</Player>
     <LostExp>11039</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32790,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Dragonbr</Player>
     <LostExp>10776</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32798,32250,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Dragonbr</Player>
     <LostExp>10632</LostExp>
     <KilledBy>Fire Drake</KilledBy>
