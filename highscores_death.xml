@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742607171465</GeneratedAt>
+  <GeneratedAt>1742607471488</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Akashyn</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Plreis</Player>
+    <LostExp>2038952</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2025-03-22 02:34:48</Time>
+    <Location>(31933,32017,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Dragonbr</Player>
     <LostExp>323282</LostExp>
     <KilledBy>Orc Leader</KilledBy>
