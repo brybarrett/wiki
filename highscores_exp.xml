@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Highscores>
-  <GeneratedAt>1742608368129</GeneratedAt>
+  <GeneratedAt>1742608668123</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Sasuke</Name>
@@ -12,14 +12,14 @@
     <Rank>2</Rank>
     <Name>Hamura</Name>
     <Level>353</Level>
-    <Exp>12800231441</Exp>
+    <Exp>12800298281</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>3</Rank>
     <Name>Papito</Name>
     <Level>347</Level>
-    <Exp>11997552625</Exp>
+    <Exp>11998849837</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -52,23 +52,23 @@
   </Player>
   <Player>
     <Rank>8</Rank>
+    <Name>Kakashi</Name>
+    <Level>304</Level>
+    <Exp>7016829129</Exp>
+    <Vocation>Wizard</Vocation>
+  </Player>
+  <Player>
+    <Rank>9</Rank>
     <Name>Serizawa</Name>
     <Level>304</Level>
     <Exp>7015785633</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
-    <Rank>9</Rank>
-    <Name>Kakashi</Name>
-    <Level>304</Level>
-    <Exp>7016697855</Exp>
-    <Vocation>Wizard</Vocation>
-  </Player>
-  <Player>
     <Rank>10</Rank>
     <Name>Fugaku</Name>
     <Level>303</Level>
-    <Exp>6966407445</Exp>
+    <Exp>6966449487</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -96,7 +96,7 @@
     <Rank>14</Rank>
     <Name>Peavy</Name>
     <Level>274</Level>
-    <Exp>4596095808</Exp>
+    <Exp>4596523616</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -138,14 +138,14 @@
     <Rank>20</Rank>
     <Name>Biawak</Name>
     <Level>259</Level>
-    <Exp>3702493309</Exp>
+    <Exp>3703525072</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>21</Rank>
     <Name>Minato</Name>
     <Level>259</Level>
-    <Exp>3691613976</Exp>
+    <Exp>3692249830</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -166,7 +166,7 @@
     <Rank>24</Rank>
     <Name>Hiroshi</Name>
     <Level>256</Level>
-    <Exp>3522169902</Exp>
+    <Exp>3522396084</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -285,7 +285,7 @@
     <Rank>41</Rank>
     <Name>Zedalapa</Name>
     <Level>231</Level>
-    <Exp>2325523904</Exp>
+    <Exp>2325524065</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -299,7 +299,7 @@
     <Rank>43</Rank>
     <Name>Aifa</Name>
     <Level>227</Level>
-    <Exp>2177529080</Exp>
+    <Exp>2177983626</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -334,7 +334,7 @@
     <Rank>48</Rank>
     <Name>Rog</Name>
     <Level>219</Level>
-    <Exp>1887931966</Exp>
+    <Exp>1888439988</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -348,7 +348,7 @@
     <Rank>50</Rank>
     <Name>Aivk</Name>
     <Level>218</Level>
-    <Exp>1862540425</Exp>
+    <Exp>1862849248</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -411,7 +411,7 @@
     <Rank>59</Rank>
     <Name>Nono</Name>
     <Level>212</Level>
-    <Exp>1646615972</Exp>
+    <Exp>1646991073</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -516,7 +516,7 @@
     <Rank>74</Rank>
     <Name>Kuro</Name>
     <Level>203</Level>
-    <Exp>1375229451</Exp>
+    <Exp>1375751018</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -558,7 +558,7 @@
     <Rank>80</Rank>
     <Name>Over</Name>
     <Level>199</Level>
-    <Exp>1273831894</Exp>
+    <Exp>1274116453</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -593,7 +593,7 @@
     <Rank>85</Rank>
     <Name>Nudin</Name>
     <Level>191</Level>
-    <Exp>1079435038</Exp>
+    <Exp>1079729156</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -677,7 +677,7 @@
     <Rank>97</Rank>
     <Name>Lynx</Name>
     <Level>177</Level>
-    <Exp>803729743</Exp>
+    <Exp>804012451</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
