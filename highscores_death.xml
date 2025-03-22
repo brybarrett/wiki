@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742609571607</GeneratedAt>
+  <GeneratedAt>1742609871862</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Akashyn</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Death</Player>
+    <LostExp>14950691</LostExp>
+    <KilledBy>Gold Stone</KilledBy>
+    <Time>2025-03-22 03:15:36</Time>
+    <Location>(32009,32205,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Nibda</Player>
     <LostExp>9345192</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31962,32269,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Warr</Player>
     <LostExp>5321852</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31892,32007,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Hordel</Player>
     <LostExp>4594697</LostExp>
     <KilledBy>Kakashi</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31929,31850,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Hordel</Player>
     <LostExp>4135280</LostExp>
     <KilledBy>Kakashi</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31947,31850,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Hordel</Player>
     <LostExp>3721752</LostExp>
     <KilledBy>Kakashi</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31927,31850,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Teig</Player>
     <LostExp>3145968</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31953,32294,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Plreis</Player>
     <LostExp>2038952</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31933,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Dragonbr</Player>
     <LostExp>323282</LostExp>
     <KilledBy>Orc Leader</KilledBy>
