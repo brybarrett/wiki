@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742675497593</GeneratedAt>
+  <GeneratedAt>1742675797529</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Wu</Player>
+    <LostExp>29897581</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-03-22 21:33:35</Time>
+    <Location>(32156,32270,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Deimonreii</Player>
     <LostExp>12531638</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31954,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Patusek</Player>
     <LostExp>8464326</LostExp>
     <KilledBy>Hiroshi</KilledBy>
@@ -18,19 +26,11 @@
     <Location>(31976,31984,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Laubisomi</Player>
     <LostExp>7873044</LostExp>
     <KilledBy>Dreadtide</KilledBy>
     <Time>2025-03-22 21:16:04</Time>
-    <Location>(31847,32112,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>4</Rank>
-    <Player>Aishiteru</Player>
-    <LostExp>6542169</LostExp>
-    <KilledBy>Dreadtide</KilledBy>
-    <Time>2025-03-22 21:16:02</Time>
     <Location>(31847,32112,8)</Location>
   </DeathEvent>
   <DeathEvent>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Aishiteru</Player>
+    <LostExp>6542169</LostExp>
+    <KilledBy>Dreadtide</KilledBy>
+    <Time>2025-03-22 21:16:02</Time>
+    <Location>(31847,32112,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Aishiteru</Player>
     <LostExp>6542169</LostExp>
     <KilledBy>Dreadtide</KilledBy>
