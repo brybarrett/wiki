@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742616772873</GeneratedAt>
+  <GeneratedAt>1742617071841</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bruxo</Player>
@@ -83,6 +83,38 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>13407349</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 05:13:52</Time>
+    <Location>(31899,31976,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>12066614</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 05:14:33</Time>
+    <Location>(31899,31976,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>10859953</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 05:15:25</Time>
+    <Location>(31899,31976,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>9773957</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 05:16:26</Time>
+    <Location>(31899,31976,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Nibda</Player>
     <LostExp>9345192</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -90,7 +122,15 @@
     <Location>(31962,32269,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>16</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>8796562</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 05:17:07</Time>
+    <Location>(31899,31978,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
     <Player>Warr</Player>
     <LostExp>5321852</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -98,7 +138,7 @@
     <Location>(31892,32007,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>18</Rank>
     <Player>Hordel</Player>
     <LostExp>4594697</LostExp>
     <KilledBy>Kakashi</KilledBy>
@@ -106,7 +146,7 @@
     <Location>(31929,31850,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>19</Rank>
     <Player>Hordel</Player>
     <LostExp>4135280</LostExp>
     <KilledBy>Kakashi</KilledBy>
@@ -114,7 +154,7 @@
     <Location>(31947,31850,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>20</Rank>
     <Player>Hordel</Player>
     <LostExp>3721752</LostExp>
     <KilledBy>Kakashi</KilledBy>
@@ -122,7 +162,7 @@
     <Location>(31927,31850,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>21</Rank>
     <Player>Teig</Player>
     <LostExp>3145968</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -130,7 +170,7 @@
     <Location>(31953,32294,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>22</Rank>
     <Player>Plreis</Player>
     <LostExp>2038952</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -138,7 +178,7 @@
     <Location>(31933,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>23</Rank>
     <Player>Dragonbr</Player>
     <LostExp>323282</LostExp>
     <KilledBy>Orc Leader</KilledBy>
