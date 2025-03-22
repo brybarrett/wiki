@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742633272244</GeneratedAt>
+  <GeneratedAt>1742633571957</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nudin</Player>
@@ -291,6 +291,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>37</Rank>
+    <Player>Luffy</Player>
+    <LostExp>2412972</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-03-22 09:52:29</Time>
+    <Location>(32064,31818,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>38</Rank>
     <Player>Akashyn</Player>
     <LostExp>2235971</LostExp>
     <KilledBy>Victorbr</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31956,32007,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Plreis</Player>
     <LostExp>2038952</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31933,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Akashyn</Player>
     <LostExp>2012374</LostExp>
     <KilledBy>Victorbr</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31956,32007,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Akashyn</Player>
     <LostExp>1811137</LostExp>
     <KilledBy>Victorbr</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31957,32006,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Akashyn</Player>
     <LostExp>1630023</LostExp>
     <KilledBy>Victorbr</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(31957,32007,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Papitooo</Player>
     <LostExp>1413881</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(31896,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Templar</Player>
     <LostExp>1103380</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(31861,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Dragonbr</Player>
     <LostExp>323282</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(32010,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Bogurel</Player>
     <LostExp>185103</LostExp>
     <KilledBy>Orc Leader</KilledBy>
