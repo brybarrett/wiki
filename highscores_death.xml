@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742646771977</GeneratedAt>
+  <GeneratedAt>1742647071907</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nudin</Player>
@@ -363,6 +363,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>46</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>1467021</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:33:22</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>47</Rank>
     <Player>Papitooo</Player>
     <LostExp>1413881</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -370,7 +378,23 @@
     <Location>(31896,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>1320319</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:33:36</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>49</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>1188287</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:33:55</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>50</Rank>
     <Player>Templar</Player>
     <LostExp>1117875</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -378,7 +402,7 @@
     <Location>(31863,32049,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>51</Rank>
     <Player>Templar</Player>
     <LostExp>1103380</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -386,7 +410,7 @@
     <Location>(31861,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>52</Rank>
     <Player>Templar</Player>
     <LostExp>1077041</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -394,7 +418,111 @@
     <Location>(31984,32240,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>53</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>1069458</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:34:10</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>54</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>962512</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:34:25</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>55</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>866261</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:34:38</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>56</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>779635</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:35:03</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>57</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>701671</LostExp>
+    <KilledBy>Mineiro</KilledBy>
+    <Time>2025-03-22 13:35:11</Time>
+    <Location>(31957,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>58</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>631504</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:35:21</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>59</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>568354</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:35:32</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>60</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>511519</LostExp>
+    <KilledBy>Mineiro</KilledBy>
+    <Time>2025-03-22 13:35:40</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>61</Rank>
+    <Player>Dragonbr</Player>
+    <LostExp>473514</LostExp>
+    <KilledBy>Archvampir</KilledBy>
+    <Time>2025-03-22 13:34:22</Time>
+    <Location>(32733,32268,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>62</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>460367</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:36:01</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>63</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>414330</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:36:17</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>64</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>372897</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:36:51</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>65</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>335607</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:37:04</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>66</Rank>
     <Player>Dragonbr</Player>
     <LostExp>323282</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -402,7 +530,7 @@
     <Location>(32010,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>67</Rank>
     <Player>Templarr</Player>
     <LostExp>316898</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -410,7 +538,31 @@
     <Location>(32024,31980,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>68</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>302047</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:37:15</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>69</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>271842</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:37:28</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>70</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>244658</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-03-22 13:37:44</Time>
+    <Location>(31956,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>71</Rank>
     <Player>Bogurel</Player>
     <LostExp>185103</LostExp>
     <KilledBy>Orc Leader</KilledBy>
