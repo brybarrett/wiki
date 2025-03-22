@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742683597546</GeneratedAt>
+  <GeneratedAt>1742683897491</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Wu</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Templar</Player>
+    <LostExp>1220749</LostExp>
+    <KilledBy>GM-Doro</KilledBy>
+    <Time>2025-03-22 23:51:07</Time>
+    <Location>(32043,32036,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Dragonbr</Player>
     <LostExp>639912</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -66,11 +74,19 @@
     <Location>(31941,31988,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Dragonbr</Player>
     <LostExp>577342</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-03-22 22:59:07</Time>
     <Location>(32009,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Templarr</Player>
+    <LostExp>533229</LostExp>
+    <KilledBy>GM-Doro</KilledBy>
+    <Time>2025-03-22 23:50:37</Time>
+    <Location>(32044,32037,8)</Location>
   </DeathEvent>
 </DeathHighscores>
