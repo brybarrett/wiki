@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1742644669637</GeneratedAt>
+  <GeneratedAt>1742644969723</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -73,17 +73,17 @@
   </Player>
   <Player>
     <Rank>15</Rank>
-    <Name>Khex</Name>
-    <StarsCollected>165</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>16</Rank>
     <Name>Bskhaiwar</Name>
     <StarsCollected>165</StarsCollected>
   </Player>
   <Player>
-    <Rank>17</Rank>
+    <Rank>16</Rank>
     <Name>Devorz</Name>
+    <StarsCollected>165</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>17</Rank>
+    <Name>Khex</Name>
     <StarsCollected>165</StarsCollected>
   </Player>
   <Player>
@@ -153,12 +153,12 @@
   </Player>
   <Player>
     <Rank>31</Rank>
-    <Name>Fay</Name>
+    <Name>Jandel</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
     <Rank>32</Rank>
-    <Name>Jandel</Name>
+    <Name>Fay</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -198,22 +198,22 @@
   </Player>
   <Player>
     <Rank>40</Rank>
-    <Name>Carver</Name>
-    <StarsCollected>127</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>41</Rank>
     <Name>Matorindo</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
+    <Rank>41</Rank>
+    <Name>Carver</Name>
+    <StarsCollected>127</StarsCollected>
+  </Player>
+  <Player>
     <Rank>42</Rank>
-    <Name>Mosqitoz</Name>
+    <Name>Aivk </Name>
     <StarsCollected>126</StarsCollected>
   </Player>
   <Player>
     <Rank>43</Rank>
-    <Name>Aivk </Name>
+    <Name>Mosqitoz</Name>
     <StarsCollected>126</StarsCollected>
   </Player>
   <Player>
@@ -238,12 +238,12 @@
   </Player>
   <Player>
     <Rank>48</Rank>
-    <Name>Targaryen</Name>
+    <Name>Lynx</Name>
     <StarsCollected>120</StarsCollected>
   </Player>
   <Player>
     <Rank>49</Rank>
-    <Name>Lynx</Name>
+    <Name>Targaryen</Name>
     <StarsCollected>120</StarsCollected>
   </Player>
   <Player>
@@ -283,12 +283,12 @@
   </Player>
   <Player>
     <Rank>57</Rank>
-    <Name>Edward</Name>
+    <Name>Shirohige</Name>
     <StarsCollected>111</StarsCollected>
   </Player>
   <Player>
     <Rank>58</Rank>
-    <Name>Shirohige</Name>
+    <Name>Edward</Name>
     <StarsCollected>111</StarsCollected>
   </Player>
   <Player>
@@ -313,12 +313,12 @@
   </Player>
   <Player>
     <Rank>63</Rank>
-    <Name>Natoriu </Name>
+    <Name>Victorbr</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
     <Rank>64</Rank>
-    <Name>Victorbr</Name>
+    <Name>Natoriu </Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
@@ -383,12 +383,12 @@
   </Player>
   <Player>
     <Rank>77</Rank>
-    <Name>Reacher</Name>
+    <Name>Himmel</Name>
     <StarsCollected>89</StarsCollected>
   </Player>
   <Player>
     <Rank>78</Rank>
-    <Name>Himmel</Name>
+    <Name>Reacher</Name>
     <StarsCollected>89</StarsCollected>
   </Player>
   <Player>
@@ -513,17 +513,17 @@
   </Player>
   <Player>
     <Rank>103</Rank>
-    <Name>Zoro</Name>
+    <Name>Rouge</Name>
     <StarsCollected>75</StarsCollected>
   </Player>
   <Player>
     <Rank>104</Rank>
-    <Name>Khorhigee</Name>
+    <Name>Zoro</Name>
     <StarsCollected>75</StarsCollected>
   </Player>
   <Player>
     <Rank>105</Rank>
-    <Name>Rouge</Name>
+    <Name>Khorhigee</Name>
     <StarsCollected>75</StarsCollected>
   </Player>
   <Player>
@@ -533,17 +533,17 @@
   </Player>
   <Player>
     <Rank>107</Rank>
-    <Name>Kawan</Name>
+    <Name>Cake</Name>
     <StarsCollected>73</StarsCollected>
   </Player>
   <Player>
     <Rank>108</Rank>
-    <Name>Marquim</Name>
+    <Name>Kawan</Name>
     <StarsCollected>73</StarsCollected>
   </Player>
   <Player>
     <Rank>109</Rank>
-    <Name>Cake</Name>
+    <Name>Marquim</Name>
     <StarsCollected>73</StarsCollected>
   </Player>
   <Player>
@@ -553,12 +553,12 @@
   </Player>
   <Player>
     <Rank>111</Rank>
-    <Name>Narack</Name>
+    <Name>Kiyahatzu</Name>
     <StarsCollected>71</StarsCollected>
   </Player>
   <Player>
     <Rank>112</Rank>
-    <Name>Kiyahatzu</Name>
+    <Name>Narack</Name>
     <StarsCollected>71</StarsCollected>
   </Player>
   <Player>
@@ -588,57 +588,57 @@
   </Player>
   <Player>
     <Rank>118</Rank>
-    <Name>Biawak</Name>
-    <StarsCollected>65</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>119</Rank>
-    <Name>Gops</Name>
-    <StarsCollected>65</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>120</Rank>
     <Name>Darius</Name>
     <StarsCollected>65</StarsCollected>
   </Player>
   <Player>
-    <Rank>121</Rank>
-    <Name>Minato</Name>
-    <StarsCollected>64</StarsCollected>
+    <Rank>119</Rank>
+    <Name>Biawak</Name>
+    <StarsCollected>65</StarsCollected>
   </Player>
   <Player>
-    <Rank>122</Rank>
+    <Rank>120</Rank>
+    <Name>Gops</Name>
+    <StarsCollected>65</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>121</Rank>
     <Name>Adelmokun</Name>
     <StarsCollected>64</StarsCollected>
   </Player>
   <Player>
+    <Rank>122</Rank>
+    <Name>Minato</Name>
+    <StarsCollected>64</StarsCollected>
+  </Player>
+  <Player>
     <Rank>123</Rank>
-    <Name>Lendario</Name>
-    <StarsCollected>63</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>124</Rank>
-    <Name>Charizard</Name>
-    <StarsCollected>63</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>125</Rank>
     <Name>Cloudy</Name>
     <StarsCollected>63</StarsCollected>
   </Player>
   <Player>
+    <Rank>124</Rank>
+    <Name>Lendario</Name>
+    <StarsCollected>63</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>125</Rank>
+    <Name>Charizard</Name>
+    <StarsCollected>63</StarsCollected>
+  </Player>
+  <Player>
     <Rank>126</Rank>
-    <Name>Pageone</Name>
+    <Name>Mantan</Name>
     <StarsCollected>62</StarsCollected>
   </Player>
   <Player>
     <Rank>127</Rank>
-    <Name>Heal</Name>
+    <Name>Astaroth</Name>
     <StarsCollected>62</StarsCollected>
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Astaroth</Name>
+    <Name>Pageone</Name>
     <StarsCollected>62</StarsCollected>
   </Player>
 </StarsHighscores>
