@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742608371618</GeneratedAt>
+  <GeneratedAt>1742608671639</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Akashyn</Player>
@@ -35,6 +35,30 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Hordel</Player>
+    <LostExp>4594697</LostExp>
+    <KilledBy>Kakashi</KilledBy>
+    <Time>2025-03-22 02:53:52</Time>
+    <Location>(31929,31850,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Hordel</Player>
+    <LostExp>4135280</LostExp>
+    <KilledBy>Kakashi</KilledBy>
+    <Time>2025-03-22 02:55:51</Time>
+    <Location>(31947,31850,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Hordel</Player>
+    <LostExp>3721752</LostExp>
+    <KilledBy>Kakashi</KilledBy>
+    <Time>2025-03-22 02:56:21</Time>
+    <Location>(31927,31850,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Teig</Player>
     <LostExp>3145968</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -42,7 +66,7 @@
     <Location>(31953,32294,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>9</Rank>
     <Player>Plreis</Player>
     <LostExp>2038952</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -50,7 +74,7 @@
     <Location>(31933,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>10</Rank>
     <Player>Dragonbr</Player>
     <LostExp>323282</LostExp>
     <KilledBy>Orc Leader</KilledBy>
