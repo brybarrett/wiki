@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742680597490</GeneratedAt>
+  <GeneratedAt>1742680897648</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Wu</Player>
@@ -64,5 +64,13 @@
     <KilledBy>Assasin</KilledBy>
     <Time>2025-03-22 22:56:24</Time>
     <Location>(31941,31988,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Dragonbr</Player>
+    <LostExp>577342</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-03-22 22:59:07</Time>
+    <Location>(32009,31877,8)</Location>
   </DeathEvent>
 </DeathHighscores>
