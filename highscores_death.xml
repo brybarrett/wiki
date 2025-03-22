@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742632072116</GeneratedAt>
+  <GeneratedAt>1742632371989</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bruxo</Player>
@@ -331,6 +331,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>42</Rank>
+    <Player>Templar</Player>
+    <LostExp>1103380</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-03-22 09:28:04</Time>
+    <Location>(31861,32019,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>43</Rank>
     <Player>Dragonbr</Player>
     <LostExp>323282</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(32010,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Bogurel</Player>
     <LostExp>185103</LostExp>
     <KilledBy>Orc Leader</KilledBy>
