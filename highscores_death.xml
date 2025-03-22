@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742641371899</GeneratedAt>
+  <GeneratedAt>1742641671889</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nudin</Player>
@@ -387,6 +387,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>49</Rank>
+    <Player>Templarr</Player>
+    <LostExp>316898</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-03-22 12:05:51</Time>
+    <Location>(32024,31980,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>50</Rank>
     <Player>Bogurel</Player>
     <LostExp>185103</LostExp>
     <KilledBy>Orc Leader</KilledBy>
