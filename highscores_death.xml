@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742641671889</GeneratedAt>
+  <GeneratedAt>1742641971948</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nudin</Player>
@@ -379,6 +379,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>48</Rank>
+    <Player>Templar</Player>
+    <LostExp>1077041</LostExp>
+    <KilledBy>Monk</KilledBy>
+    <Time>2025-03-22 12:09:09</Time>
+    <Location>(31984,32240,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>49</Rank>
     <Player>Dragonbr</Player>
     <LostExp>323282</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(32010,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Templarr</Player>
     <LostExp>316898</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(32024,31980,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Bogurel</Player>
     <LostExp>185103</LostExp>
     <KilledBy>Orc Leader</KilledBy>
