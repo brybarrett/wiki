@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742606871742</GeneratedAt>
+  <GeneratedAt>1742607171465</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>25129951</LostExp>
+    <KilledBy>Saurial</KilledBy>
+    <Time>2025-03-22 02:31:23</Time>
+    <Location>(31914,31847,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Akashyn</Player>
+    <LostExp>25129951</LostExp>
+    <KilledBy>Saurial</KilledBy>
+    <Time>2025-03-22 02:31:23</Time>
+    <Location>(31914,31847,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Nibda</Player>
     <LostExp>9345192</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -10,7 +26,7 @@
     <Location>(31962,32269,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Warr</Player>
     <LostExp>5321852</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(31892,32007,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Dragonbr</Player>
     <LostExp>323282</LostExp>
     <KilledBy>Orc Leader</KilledBy>
