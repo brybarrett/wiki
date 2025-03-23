@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742711091107</GeneratedAt>
+  <GeneratedAt>1742711391061</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Frieren</Player>
@@ -195,10 +195,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>25</Rank>
+    <Player>Sonk</Player>
+    <LostExp>377455</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-03-23 07:29:29</Time>
+    <Location>(32025,31855,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
     <Player>Magicol</Player>
     <LostExp>230997</LostExp>
     <KilledBy>Wardy</KilledBy>
     <Time>2025-03-23 04:56:49</Time>
     <Location>(32002,32202,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>27</Rank>
+    <Player>Kage</Player>
+    <LostExp>110583</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-03-23 07:29:02</Time>
+    <Location>(32019,31938,8)</Location>
   </DeathEvent>
 </DeathHighscores>
