@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1742740489132</GeneratedAt>
+  <GeneratedAt>1742740789133</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -88,17 +88,17 @@
   </Player>
   <Player>
     <Rank>18</Rank>
+    <Name>Maxxbrr</Name>
+    <StarsCollected>164</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>19</Rank>
     <Name>Ashura</Name>
     <StarsCollected>161</StarsCollected>
   </Player>
   <Player>
-    <Rank>19</Rank>
-    <Name>Papito</Name>
-    <StarsCollected>160</StarsCollected>
-  </Player>
-  <Player>
     <Rank>20</Rank>
-    <Name>Maxxbrr</Name>
+    <Name>Papito</Name>
     <StarsCollected>160</StarsCollected>
   </Player>
   <Player>
@@ -253,12 +253,12 @@
   </Player>
   <Player>
     <Rank>51</Rank>
-    <Name>Skyblue</Name>
+    <Name>Kingtibia</Name>
     <StarsCollected>119</StarsCollected>
   </Player>
   <Player>
     <Rank>52</Rank>
-    <Name>Kingtibia</Name>
+    <Name>Skyblue</Name>
     <StarsCollected>119</StarsCollected>
   </Player>
   <Player>
@@ -628,17 +628,17 @@
   </Player>
   <Player>
     <Rank>126</Rank>
-    <Name>Charizard</Name>
-    <StarsCollected>63</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>127</Rank>
     <Name>Cloudy</Name>
     <StarsCollected>63</StarsCollected>
   </Player>
   <Player>
+    <Rank>127</Rank>
+    <Name>Charizard</Name>
+    <StarsCollected>63</StarsCollected>
+  </Player>
+  <Player>
     <Rank>128</Rank>
-    <Name>Pageone</Name>
+    <Name>Heal</Name>
     <StarsCollected>62</StarsCollected>
   </Player>
 </StarsHighscores>
