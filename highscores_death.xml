@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742712891119</GeneratedAt>
+  <GeneratedAt>1742713191051</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Frieren</Player>
@@ -147,6 +147,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>19</Rank>
+    <Player>Manis</Player>
+    <LostExp>2173016</LostExp>
+    <KilledBy>Werewolf Master</KilledBy>
+    <Time>2025-03-23 07:57:24</Time>
+    <Location>(32040,32322,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
     <Player>Templarr</Player>
     <LostExp>1208427</LostExp>
     <KilledBy>Warden</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32039,31900,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Dragonbr</Player>
     <LostExp>786661</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31919,32021,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Dragonbr</Player>
     <LostExp>769363</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32009,31882,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Dragonbr </Player>
     <LostExp>761099</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32008,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Hakina</Player>
     <LostExp>701419</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32008,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Dragonbr </Player>
     <LostExp>688194</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Hakina</Player>
     <LostExp>612667</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32008,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Sonk</Player>
     <LostExp>377455</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32025,31855,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Magicol</Player>
     <LostExp>230997</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32002,32202,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Kage</Player>
     <LostExp>110583</LostExp>
     <KilledBy>Fire Drake</KilledBy>
