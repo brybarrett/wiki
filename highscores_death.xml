@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742756691651</GeneratedAt>
+  <GeneratedAt>1742756991469</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kuro</Player>
@@ -491,11 +491,11 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>62</Rank>
-    <Player>Noia</Player>
-    <LostExp>30541</LostExp>
-    <KilledBy>Wardy</KilledBy>
-    <Time>2025-03-23 14:23:30</Time>
-    <Location>(32007,32225,7)</Location>
+    <Player>Biel</Player>
+    <LostExp>58715</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-03-23 20:08:49</Time>
+    <Location>(31987,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>63</Rank>
@@ -507,6 +507,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>64</Rank>
+    <Player>Noia</Player>
+    <LostExp>30541</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-03-23 14:23:30</Time>
+    <Location>(32007,32225,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>65</Rank>
     <Player>Jke</Player>
     <LostExp>1918</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -514,7 +522,7 @@
     <Location>(31969,31888,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>65</Rank>
+    <Rank>66</Rank>
     <Player>Spartaxx</Player>
     <LostExp>911</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -522,7 +530,7 @@
     <Location>(31931,31922,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>66</Rank>
+    <Rank>67</Rank>
     <Player>Spartaxx</Player>
     <LostExp>553</LostExp>
     <KilledBy>Scorpion</KilledBy>
