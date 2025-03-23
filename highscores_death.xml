@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742734491257</GeneratedAt>
+  <GeneratedAt>1742734791260</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Frieren</Player>
@@ -283,6 +283,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>36</Rank>
+    <Player>Bonilha</Player>
+    <LostExp>142843</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-03-23 13:59:03</Time>
+    <Location>(31980,32058,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>37</Rank>
+    <Player>Bonilha</Player>
+    <LostExp>142843</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-03-23 13:59:03</Time>
+    <Location>(31980,32058,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>38</Rank>
     <Player>Kage</Player>
     <LostExp>110583</LostExp>
     <KilledBy>Fire Drake</KilledBy>
