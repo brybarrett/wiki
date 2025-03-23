@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742753392462</GeneratedAt>
+  <GeneratedAt>1742753691630</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kuro</Player>
@@ -404,26 +404,26 @@
   <DeathEvent>
     <Rank>51</Rank>
     <Player>Bidu</Player>
+    <LostExp>220425</LostExp>
+    <KilledBy>Berseclops</KilledBy>
+    <Time>2025-03-23 19:12:53</Time>
+    <Location>(31885,31874,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>52</Rank>
+    <Player>Bidu</Player>
     <LostExp>173898</LostExp>
     <KilledBy>Shogun</KilledBy>
     <Time>2025-03-23 18:06:23</Time>
     <Location>(32052,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Bonilha</Player>
     <LostExp>153254</LostExp>
     <KilledBy>Ninjaman</KilledBy>
     <Time>2025-03-23 13:41:55</Time>
     <Location>(31983,32059,9)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>53</Rank>
-    <Player>Bonilha</Player>
-    <LostExp>142843</LostExp>
-    <KilledBy>Ninjaman</KilledBy>
-    <Time>2025-03-23 13:59:03</Time>
-    <Location>(31980,32058,9)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>54</Rank>
@@ -435,6 +435,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>55</Rank>
+    <Player>Bonilha</Player>
+    <LostExp>142843</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-03-23 13:59:03</Time>
+    <Location>(31980,32058,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>56</Rank>
     <Player>Xicooo</Player>
     <LostExp>126788</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -442,7 +450,7 @@
     <Location>(31882,31907,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Xicooo</Player>
     <LostExp>123749</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(32019,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Bonilha</Player>
     <LostExp>117571</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -458,20 +466,12 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Kage</Player>
     <LostExp>110583</LostExp>
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-03-23 07:29:02</Time>
     <Location>(32019,31938,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>59</Rank>
-    <Player>Noia</Player>
-    <LostExp>30541</LostExp>
-    <KilledBy>Wardy</KilledBy>
-    <Time>2025-03-23 14:23:30</Time>
-    <Location>(32007,32225,7)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>60</Rank>
@@ -483,10 +483,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>61</Rank>
+    <Player>Noia</Player>
+    <LostExp>30541</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-03-23 14:23:30</Time>
+    <Location>(32007,32225,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>62</Rank>
     <Player>Jke</Player>
     <LostExp>1918</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-03-23 14:01:35</Time>
     <Location>(31969,31888,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>63</Rank>
+    <Player>Spartaxx</Player>
+    <LostExp>553</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-03-23 19:13:35</Time>
+    <Location>(31927,31928,9)</Location>
   </DeathEvent>
 </DeathHighscores>
