@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742700590990</GeneratedAt>
+  <GeneratedAt>1742700890848</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Killer </Player>
+    <LostExp>51866384</LostExp>
+    <KilledBy>Silver Stone</KilledBy>
+    <Time>2025-03-23 04:33:26</Time>
+    <Location>(31952,32289,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Xile</Player>
     <LostExp>31749617</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31898,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Okomura</Player>
     <LostExp>30064000</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31899,31940,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Laubisomi</Player>
     <LostExp>11082093</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31944,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Baxt</Player>
     <LostExp>4900490</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,20 +42,12 @@
     <Location>(32014,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Plreis</Player>
     <LostExp>4091551</LostExp>
     <KilledBy>Bantinel</KilledBy>
     <Time>2025-03-23 04:27:02</Time>
     <Location>(31943,31994,11)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>6</Rank>
-    <Player>Aqat</Player>
-    <LostExp>3648068</LostExp>
-    <KilledBy>Orc Raider</KilledBy>
-    <Time>2025-03-23 04:09:57</Time>
-    <Location>(31944,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Aqat</Player>
+    <LostExp>3648068</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-03-23 04:09:57</Time>
+    <Location>(31944,31857,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Vathar</Player>
     <LostExp>3346612</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32007,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Templar</Player>
     <LostExp>3117712</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32066,32299,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Templar</Player>
     <LostExp>2964670</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32065,32299,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Templarr</Player>
     <LostExp>1208427</LostExp>
     <KilledBy>Warden</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32039,31900,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Dragonbr</Player>
     <LostExp>786661</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31919,32021,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Dragonbr </Player>
     <LostExp>761099</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32008,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Dragonbr </Player>
     <LostExp>688194</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Hakina</Player>
     <LostExp>612667</LostExp>
     <KilledBy>Orc Leader</KilledBy>
