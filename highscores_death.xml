@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742696391030</GeneratedAt>
+  <GeneratedAt>1742696691077</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Xile</Player>
@@ -56,5 +56,13 @@
     <KilledBy>The Bug</KilledBy>
     <Time>2025-03-23 01:47:05</Time>
     <Location>(31990,32013,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Hakina</Player>
+    <LostExp>612667</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-03-23 03:20:27</Time>
+    <Location>(32008,31885,11)</Location>
   </DeathEvent>
 </DeathHighscores>
