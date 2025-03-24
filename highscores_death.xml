@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742793022041</GeneratedAt>
+  <GeneratedAt>1742793322091</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hero</Player>
@@ -44,13 +44,21 @@
   <DeathEvent>
     <Rank>6</Rank>
     <Player>Spartaxx</Player>
+    <LostExp>94748</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-03-24 06:11:31</Time>
+    <Location>(31928,32214,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Spartaxx</Player>
     <LostExp>90292</LostExp>
     <KilledBy>Chaombie</KilledBy>
     <Time>2025-03-24 06:04:53</Time>
     <Location>(31947,32203,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Spartaxx</Player>
     <LostExp>61027</LostExp>
     <KilledBy>Werewolf</KilledBy>
