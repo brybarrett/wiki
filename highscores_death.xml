@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742781322125</GeneratedAt>
+  <GeneratedAt>1742781622131</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hordel</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Ghostnon</KilledBy>
     <Time>2025-03-24 01:10:17</Time>
     <Location>(32045,31800,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Mewone</Player>
+    <LostExp>501826</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-03-24 02:58:18</Time>
+    <Location>(31970,32259,7)</Location>
   </DeathEvent>
 </DeathHighscores>
