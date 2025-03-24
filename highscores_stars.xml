@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1742847020189</GeneratedAt>
+  <GeneratedAt>1742847320340</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi </Name>
@@ -153,17 +153,17 @@
   </Player>
   <Player>
     <Rank>31</Rank>
-    <Name>Fay</Name>
-    <StarsCollected>137</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>32</Rank>
     <Name>Godcarver</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
-    <Rank>33</Rank>
+    <Rank>32</Rank>
     <Name>Jandel</Name>
+    <StarsCollected>137</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>33</Rank>
+    <Name>Fay</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -173,12 +173,12 @@
   </Player>
   <Player>
     <Rank>35</Rank>
-    <Name>Mochi</Name>
+    <Name>Hero</Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
     <Rank>36</Rank>
-    <Name>Hero</Name>
+    <Name>Mochi</Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
@@ -203,12 +203,12 @@
   </Player>
   <Player>
     <Rank>41</Rank>
-    <Name>Matorindo</Name>
+    <Name>Carver</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
     <Rank>42</Rank>
-    <Name>Carver</Name>
+    <Name>Matorindo</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
@@ -268,12 +268,12 @@
   </Player>
   <Player>
     <Rank>54</Rank>
-    <Name>Humbalang</Name>
+    <Name>Henriquee</Name>
     <StarsCollected>116</StarsCollected>
   </Player>
   <Player>
     <Rank>55</Rank>
-    <Name>Henriquee</Name>
+    <Name>Humbalang</Name>
     <StarsCollected>116</StarsCollected>
   </Player>
   <Player>
@@ -333,12 +333,12 @@
   </Player>
   <Player>
     <Rank>67</Rank>
-    <Name>Dom</Name>
+    <Name>Grimmie</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
     <Rank>68</Rank>
-    <Name>Grimmie</Name>
+    <Name>Dom</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
@@ -369,7 +369,7 @@
   <Player>
     <Rank>74</Rank>
     <Name>Lumelia</Name>
-    <StarsCollected>95</StarsCollected>
+    <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
     <Rank>75</Rank>
@@ -388,12 +388,12 @@
   </Player>
   <Player>
     <Rank>78</Rank>
-    <Name>Yukira</Name>
+    <Name>Killua</Name>
     <StarsCollected>90</StarsCollected>
   </Player>
   <Player>
     <Rank>79</Rank>
-    <Name>Killua</Name>
+    <Name>Yukira</Name>
     <StarsCollected>90</StarsCollected>
   </Player>
   <Player>
@@ -403,17 +403,17 @@
   </Player>
   <Player>
     <Rank>81</Rank>
-    <Name>Xforce</Name>
-    <StarsCollected>88</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>82</Rank>
     <Name>Yaza</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
-    <Rank>83</Rank>
+    <Rank>82</Rank>
     <Name>Kingarthur</Name>
+    <StarsCollected>88</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>83</Rank>
+    <Name>Xforce</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
