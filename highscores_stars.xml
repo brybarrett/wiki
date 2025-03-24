@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1742834420229</GeneratedAt>
+  <GeneratedAt>1742834720208</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -153,17 +153,17 @@
   </Player>
   <Player>
     <Rank>31</Rank>
-    <Name>Fay</Name>
-    <StarsCollected>137</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>32</Rank>
     <Name>Godcarver</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
-    <Rank>33</Rank>
+    <Rank>32</Rank>
     <Name>Jandel</Name>
+    <StarsCollected>137</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>33</Rank>
+    <Name>Fay</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -173,12 +173,12 @@
   </Player>
   <Player>
     <Rank>35</Rank>
-    <Name>Mochi</Name>
+    <Name>Hero</Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
     <Rank>36</Rank>
-    <Name>Hero</Name>
+    <Name>Mochi</Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
@@ -203,12 +203,12 @@
   </Player>
   <Player>
     <Rank>41</Rank>
-    <Name>Matorindo</Name>
+    <Name>Carver</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
     <Rank>42</Rank>
-    <Name>Carver</Name>
+    <Name>Matorindo</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
@@ -228,17 +228,17 @@
   </Player>
   <Player>
     <Rank>46</Rank>
-    <Name>Lynx</Name>
-    <StarsCollected>124</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>47</Rank>
     <Name>Boruto</Name>
     <StarsCollected>124</StarsCollected>
   </Player>
   <Player>
-    <Rank>48</Rank>
+    <Rank>47</Rank>
     <Name>Renegado </Name>
+    <StarsCollected>124</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>48</Rank>
+    <Name>Lynx</Name>
     <StarsCollected>124</StarsCollected>
   </Player>
   <Player>
@@ -268,22 +268,22 @@
   </Player>
   <Player>
     <Rank>54</Rank>
-    <Name>Humbalang</Name>
-    <StarsCollected>116</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>55</Rank>
     <Name>Henriquee</Name>
     <StarsCollected>116</StarsCollected>
   </Player>
   <Player>
+    <Rank>55</Rank>
+    <Name>Humbalang</Name>
+    <StarsCollected>116</StarsCollected>
+  </Player>
+  <Player>
     <Rank>56</Rank>
-    <Name>Zezie </Name>
+    <Name>Ynk</Name>
     <StarsCollected>114</StarsCollected>
   </Player>
   <Player>
     <Rank>57</Rank>
-    <Name>Ynk</Name>
+    <Name>Zezie </Name>
     <StarsCollected>114</StarsCollected>
   </Player>
   <Player>
@@ -318,27 +318,27 @@
   </Player>
   <Player>
     <Rank>64</Rank>
-    <Name>Natoriu </Name>
-    <StarsCollected>102</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>65</Rank>
     <Name>Hellokitty</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
-    <Rank>66</Rank>
+    <Rank>65</Rank>
     <Name>Victorbr</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
+    <Rank>66</Rank>
+    <Name>Natoriu </Name>
+    <StarsCollected>102</StarsCollected>
+  </Player>
+  <Player>
     <Rank>67</Rank>
-    <Name>Dom</Name>
+    <Name>Grimmie</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
     <Rank>68</Rank>
-    <Name>Grimmie</Name>
+    <Name>Dom</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
@@ -523,27 +523,27 @@
   </Player>
   <Player>
     <Rank>105</Rank>
-    <Name>Lumelia</Name>
-    <StarsCollected>76</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>106</Rank>
     <Name>Arigatonaa</Name>
     <StarsCollected>76</StarsCollected>
   </Player>
   <Player>
-    <Rank>107</Rank>
-    <Name>Rouge</Name>
-    <StarsCollected>75</StarsCollected>
+    <Rank>106</Rank>
+    <Name>Lumelia</Name>
+    <StarsCollected>76</StarsCollected>
   </Player>
   <Player>
-    <Rank>108</Rank>
+    <Rank>107</Rank>
     <Name>Marquim</Name>
     <StarsCollected>75</StarsCollected>
   </Player>
   <Player>
-    <Rank>109</Rank>
+    <Rank>108</Rank>
     <Name>Khorhigee</Name>
+    <StarsCollected>75</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>109</Rank>
+    <Name>Rouge</Name>
     <StarsCollected>75</StarsCollected>
   </Player>
   <Player>
