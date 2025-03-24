@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742856322666</GeneratedAt>
+  <GeneratedAt>1742856622759</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hawkeyez</Player>
@@ -272,5 +272,13 @@
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-03-24 06:43:31</Time>
     <Location>(31943,31912,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
+    <Player>Babalko</Player>
+    <LostExp>471</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-03-24 23:47:23</Time>
+    <Location>(32186,32270,9)</Location>
   </DeathEvent>
 </DeathHighscores>
