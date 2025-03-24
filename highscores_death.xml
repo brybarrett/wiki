@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742787922013</GeneratedAt>
+  <GeneratedAt>1742788221957</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hero</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Vathar</Player>
+    <LostExp>3184635</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-03-24 04:45:28</Time>
+    <Location>(32014,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Mewone</Player>
     <LostExp>501826</LostExp>
     <KilledBy>Flutt</KilledBy>
