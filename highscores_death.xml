@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742782521933</GeneratedAt>
+  <GeneratedAt>1742782821986</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Hero</Player>
+    <LostExp>14510492</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-03-24 03:16:15</Time>
+    <Location>(32066,31819,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Hero</Player>
+    <LostExp>14510492</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-03-24 03:16:15</Time>
+    <Location>(32066,31819,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Hordel</Player>
     <LostExp>3349591</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -10,7 +26,7 @@
     <Location>(32045,31800,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Mewone</Player>
     <LostExp>501826</LostExp>
     <KilledBy>Flutt</KilledBy>
