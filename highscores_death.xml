@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742794822074</GeneratedAt>
+  <GeneratedAt>1742795122136</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hero</Player>
@@ -64,5 +64,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-03-24 05:23:54</Time>
     <Location>(31905,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Nyaa</Player>
+    <LostExp>858</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-03-24 06:43:31</Time>
+    <Location>(31943,31912,9)</Location>
   </DeathEvent>
 </DeathHighscores>
