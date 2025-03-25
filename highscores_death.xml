@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742898017298</GeneratedAt>
+  <GeneratedAt>1742898316543</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kuro</Player>
@@ -99,6 +99,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Vinion</Player>
+    <LostExp>3478</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-03-25 11:21:15</Time>
+    <Location>(32015,31878,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Babalko</Player>
     <LostExp>1731</LostExp>
     <KilledBy>Scorpion</KilledBy>
