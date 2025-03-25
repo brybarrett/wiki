@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742868916541</GeneratedAt>
+  <GeneratedAt>1742869216234</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kuro</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Sugar</Player>
+    <LostExp>48068943</LostExp>
+    <KilledBy>Ghoranus</KilledBy>
+    <Time>2025-03-25 03:16:29</Time>
+    <Location>(32037,31830,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Bonilha</Player>
     <LostExp>327054</LostExp>
     <KilledBy>Ninjaman</KilledBy>
