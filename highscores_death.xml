@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742870116117</GeneratedAt>
+  <GeneratedAt>1742870416362</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kuro</Player>
@@ -19,6 +19,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Templar</Player>
+    <LostExp>10228074</LostExp>
+    <KilledBy>Tyrannix</KilledBy>
+    <Time>2025-03-25 03:37:34</Time>
+    <Location>(31770,31950,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Dewi</Player>
+    <LostExp>2236748</LostExp>
+    <KilledBy>Ghoranus</KilledBy>
+    <Time>2025-03-25 03:35:36</Time>
+    <Location>(32037,31830,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Bonilha</Player>
     <LostExp>327054</LostExp>
     <KilledBy>Ninjaman</KilledBy>
