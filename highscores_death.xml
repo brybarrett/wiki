@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742886316392</GeneratedAt>
+  <GeneratedAt>1742886616378</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kuro</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Drakezeraa</Player>
+    <LostExp>14067658</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-03-25 08:08:03</Time>
+    <Location>(31961,32265,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Templar</Player>
     <LostExp>10228074</LostExp>
     <KilledBy>Tyrannix</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31770,31950,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Dewi</Player>
     <LostExp>2236748</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32037,31830,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Azocx</Player>
     <LostExp>465541</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31881,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Bonilha</Player>
     <LostExp>327054</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31995,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Hellwarden</Player>
     <LostExp>117235</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32003,31876,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Babalko</Player>
     <LostExp>9286</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31997,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Babalko</Player>
     <LostExp>8505</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31996,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Babalko</Player>
     <LostExp>5803</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31996,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Babalko</Player>
     <LostExp>1731</LostExp>
     <KilledBy>Scorpion</KilledBy>
