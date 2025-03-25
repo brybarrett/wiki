@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742890516965</GeneratedAt>
+  <GeneratedAt>1742890816424</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kuro</Player>
@@ -68,13 +68,21 @@
   <DeathEvent>
     <Rank>9</Rank>
     <Player>Babalko</Player>
+    <LostExp>17598</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-03-25 09:16:17</Time>
+    <Location>(31979,32064,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Babalko</Player>
     <LostExp>9286</LostExp>
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-03-25 05:09:53</Time>
     <Location>(31997,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Babalko</Player>
     <LostExp>8505</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31996,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Babalko</Player>
     <LostExp>5803</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31996,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Babalko</Player>
     <LostExp>1731</LostExp>
     <KilledBy>Scorpion</KilledBy>
