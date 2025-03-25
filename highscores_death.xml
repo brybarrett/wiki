@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742944217034</GeneratedAt>
+  <GeneratedAt>1742944516946</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Orochimaru</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Tanker</Player>
+    <LostExp>61218123</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-03-26 00:14:42</Time>
+    <Location>(31916,32232,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Sugar</Player>
     <LostExp>48068943</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32037,31830,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Darsixer</Player>
     <LostExp>27697702</LostExp>
     <KilledBy>Kul'Krak'u</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31791,31915,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Drakezeraa</Player>
     <LostExp>16622329</LostExp>
     <KilledBy>Ghostsin</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32043,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Drakezeraa</Player>
     <LostExp>14067658</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31961,32265,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Templar</Player>
     <LostExp>10228074</LostExp>
     <KilledBy>Tyrannix</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31770,31950,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Dragon</Player>
     <LostExp>9101504</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31863,32078,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Plreis</Player>
     <LostExp>8989160</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31869,32083,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Gf</Player>
     <LostExp>6149466</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32047,32339,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Bogurel</Player>
     <LostExp>5225615</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31976,32266,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Dewi</Player>
     <LostExp>2236748</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -98,20 +106,12 @@
     <Location>(32037,31830,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Azocx</Player>
     <LostExp>465541</LostExp>
     <KilledBy>Wisper</KilledBy>
     <Time>2025-03-25 06:00:08</Time>
     <Location>(31881,31943,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>14</Rank>
-    <Player>Pedinbr</Player>
-    <LostExp>460578</LostExp>
-    <KilledBy>Fire Drake</KilledBy>
-    <Time>2025-03-25 12:44:15</Time>
-    <Location>(32010,31941,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
@@ -123,6 +123,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
+    <Player>Pedinbr</Player>
+    <LostExp>460578</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-03-25 12:44:15</Time>
+    <Location>(32010,31941,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
     <Player>Bonilha</Player>
     <LostExp>327054</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31995,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Hellwarden</Player>
     <LostExp>117235</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32003,31876,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Babalko</Player>
     <LostExp>17598</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Vinion</Player>
     <LostExp>12052</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31975,31898,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Vinion</Player>
     <LostExp>11176</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32024,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Babalko</Player>
     <LostExp>9286</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31997,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Babalko</Player>
     <LostExp>8505</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31996,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Vinion</Player>
     <LostExp>6649</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31964,31931,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Vinion</Player>
     <LostExp>6138</LostExp>
     <KilledBy>Spider</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31925,31884,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Babalko</Player>
     <LostExp>5803</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31996,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Vinion</Player>
     <LostExp>3478</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32015,31878,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Babalko</Player>
     <LostExp>1731</LostExp>
     <KilledBy>Scorpion</KilledBy>
