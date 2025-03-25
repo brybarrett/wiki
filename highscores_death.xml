@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742867116346</GeneratedAt>
+  <GeneratedAt>1742867416035</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kuro</Player>
+    <LostExp>103059578</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-03-25 02:46:27</Time>
+    <Location>(31948,32274,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Bonilha</Player>
     <LostExp>327054</LostExp>
     <KilledBy>Ninjaman</KilledBy>
