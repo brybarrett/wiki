@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742955015230</GeneratedAt>
+  <GeneratedAt>1742955315393</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Thug</Player>
+    <LostExp>26981856</LostExp>
+    <KilledBy>Lczin</KilledBy>
+    <Time>2025-03-26 03:14:50</Time>
+    <Location>(31783,31939,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Bonilha</Player>
     <LostExp>316598</LostExp>
     <KilledBy>Ninjaman</KilledBy>
