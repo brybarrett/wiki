@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742998216391</GeneratedAt>
+  <GeneratedAt>1742998522834</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hanabi</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Vinion</Player>
+    <LostExp>28234</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-03-26 15:13:33</Time>
+    <Location>(32025,31943,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Beranas</Player>
     <LostExp>12176</LostExp>
     <KilledBy>Scorpion</KilledBy>
