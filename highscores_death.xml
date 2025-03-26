@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742961315513</GeneratedAt>
+  <GeneratedAt>1742961617023</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Thug</Player>
@@ -35,6 +35,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Seia</Player>
+    <LostExp>3649203</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-03-26 04:58:14</Time>
+    <Location>(31867,32061,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Seia</Player>
+    <LostExp>3284282</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-03-26 04:58:14</Time>
+    <Location>(31867,32061,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Dragonbr </Player>
     <LostExp>2454337</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -42,11 +58,19 @@
     <Location>(32062,31819,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Bonilha</Player>
     <LostExp>316598</LostExp>
     <KilledBy>Ninjaman</KilledBy>
     <Time>2025-03-26 01:04:12</Time>
     <Location>(31979,32064,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Babalko</Player>
+    <LostExp>154803</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-03-26 04:59:39</Time>
+    <Location>(31986,32016,8)</Location>
   </DeathEvent>
 </DeathHighscores>
