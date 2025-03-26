@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1742991615823</GeneratedAt>
+  <GeneratedAt>1742991915780</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hanabi</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Meeca</Player>
+    <LostExp>1537452</LostExp>
+    <KilledBy>Rishombie</KilledBy>
+    <Time>2025-03-26 13:22:30</Time>
+    <Location>(31913,31983,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Bonilha</Player>
     <LostExp>316598</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Babalko</Player>
     <LostExp>154803</LostExp>
     <KilledBy>The Bug</KilledBy>
