@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743020715868</GeneratedAt>
+  <GeneratedAt>1743021016184</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Eztoymjr </Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Qr</Player>
+    <LostExp>7143587</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-03-26 21:26:06</Time>
+    <Location>(32060,31819,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Dragonbr</Player>
     <LostExp>4976234</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31960,32275,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Dragonbr</Player>
     <LostExp>4568040</LostExp>
     <KilledBy>Baby Drake</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31992,31942,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Dragonbr </Player>
     <LostExp>4431487</LostExp>
     <KilledBy>Gaspar</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31962,31861,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Seia</Player>
     <LostExp>3649203</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31867,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Seia</Player>
     <LostExp>3284282</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31867,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Meeca</Player>
     <LostExp>2547631</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31872,32044,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Dragonbr </Player>
     <LostExp>2454337</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32062,31819,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Meeca</Player>
     <LostExp>1537452</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31913,31983,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Ladylince</Player>
     <LostExp>537654</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32046,32040,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Nare</Player>
     <LostExp>378622</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31931,32022,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Bonilha</Player>
     <LostExp>316598</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Babalko</Player>
     <LostExp>154803</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31986,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Noia</Player>
     <LostExp>83836</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32017,31989,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Lith</Player>
     <LostExp>30824</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32053,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Vinion</Player>
     <LostExp>28234</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Beranas</Player>
     <LostExp>12176</LostExp>
     <KilledBy>Scorpion</KilledBy>
