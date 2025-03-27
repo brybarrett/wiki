@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743078020061</GeneratedAt>
+  <GeneratedAt>1743078320195</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kage</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Dragonbr</Player>
+    <LostExp>4232748</LostExp>
+    <KilledBy>Bragnak</KilledBy>
+    <Time>2025-03-27 13:24:13</Time>
+    <Location>(32022,31860,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Seia</Player>
     <LostExp>3122954</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32059,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Ladylince</Player>
     <LostExp>679520</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32043,32037,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Ladylince</Player>
     <LostExp>643283</LostExp>
     <KilledBy>Gaspar</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31958,31866,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Bonilha</Player>
     <LostExp>308301</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31988,32070,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Pjking</Player>
     <LostExp>235820</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Frsd</Player>
     <LostExp>215671</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -90,20 +98,12 @@
     <Location>(31986,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Cmpbr</Player>
     <LostExp>200472</LostExp>
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-03-27 03:30:32</Time>
     <Location>(32019,31943,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>13</Rank>
-    <Player>Pjking</Player>
-    <LostExp>191717</LostExp>
-    <KilledBy>Treant</KilledBy>
-    <Time>2025-03-27 08:39:42</Time>
-    <Location>(32024,31950,9)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Pjking</Player>
+    <LostExp>191717</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-03-27 08:39:42</Time>
+    <Location>(32024,31950,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Candongo</Player>
     <LostExp>161287</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Northen</Player>
     <LostExp>29768</LostExp>
     <KilledBy>Treant</KilledBy>
