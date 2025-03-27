@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743081021614</GeneratedAt>
+  <GeneratedAt>1743081320227</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kage</Player>
@@ -147,6 +147,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>19</Rank>
+    <Player>Vinion</Player>
+    <LostExp>69482</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-03-27 14:13:12</Time>
+    <Location>(31992,31863,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
     <Player>Northen</Player>
     <LostExp>29768</LostExp>
     <KilledBy>Treant</KilledBy>
