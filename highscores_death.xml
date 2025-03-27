@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743035419525</GeneratedAt>
+  <GeneratedAt>1743035719471</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bogurel</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Monk</KilledBy>
     <Time>2025-03-27 01:10:47</Time>
     <Location>(32015,32260,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Bonilha</Player>
+    <LostExp>308301</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-03-27 01:33:39</Time>
+    <Location>(31988,32070,9)</Location>
   </DeathEvent>
 </DeathHighscores>
