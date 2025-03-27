@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743088220287</GeneratedAt>
+  <GeneratedAt>1743088520345</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Delo</Player>
@@ -184,5 +184,29 @@
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-03-27 16:10:12</Time>
     <Location>(31996,31940,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>24</Rank>
+    <Player>Idix</Player>
+    <LostExp>8521</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-03-27 16:11:57</Time>
+    <Location>(31990,32019,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
+    <Player>Idix</Player>
+    <LostExp>7690</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-03-27 16:13:45</Time>
+    <Location>(31988,32019,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
+    <Player>Idix</Player>
+    <LostExp>6935</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-03-27 16:15:11</Time>
+    <Location>(31987,32013,8)</Location>
   </DeathEvent>
 </DeathHighscores>
