@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743087920375</GeneratedAt>
+  <GeneratedAt>1743088220287</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Delo</Player>
@@ -176,5 +176,13 @@
     <KilledBy>Treant</KilledBy>
     <Time>2025-03-27 13:04:18</Time>
     <Location>(31994,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Idix</Player>
+    <LostExp>9437</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-03-27 16:10:12</Time>
+    <Location>(31996,31940,10)</Location>
   </DeathEvent>
 </DeathHighscores>
