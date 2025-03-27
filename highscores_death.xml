@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743102320395</GeneratedAt>
+  <GeneratedAt>1743102620920</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Delo</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Dragonbr</Player>
+    <LostExp>3512472</LostExp>
+    <KilledBy>Bantinel</KilledBy>
+    <Time>2025-03-27 20:07:22</Time>
+    <Location>(31947,32026,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Seia</Player>
     <LostExp>3122954</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32059,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Ladylince</Player>
     <LostExp>679520</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32043,32037,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Ladylince</Player>
     <LostExp>643283</LostExp>
     <KilledBy>Gaspar</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31958,31866,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Xicooo</Player>
     <LostExp>569881</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32015,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Biel</Player>
     <LostExp>444012</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31863,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Bonilha</Player>
     <LostExp>308301</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31988,32070,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Pjking</Player>
     <LostExp>235820</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Frsd</Player>
     <LostExp>215671</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -146,20 +154,12 @@
     <Location>(31986,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Cmpbr</Player>
     <LostExp>200472</LostExp>
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-03-27 03:30:32</Time>
     <Location>(32019,31943,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>20</Rank>
-    <Player>Pjking</Player>
-    <LostExp>191717</LostExp>
-    <KilledBy>Treant</KilledBy>
-    <Time>2025-03-27 08:39:42</Time>
-    <Location>(32024,31950,9)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>21</Rank>
@@ -171,6 +171,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>22</Rank>
+    <Player>Pjking</Player>
+    <LostExp>191717</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-03-27 08:39:42</Time>
+    <Location>(32024,31950,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
     <Player>Candongo</Player>
     <LostExp>161287</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Vinion</Player>
     <LostExp>69482</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31992,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Northen</Player>
     <LostExp>29768</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31994,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Faustao</Player>
     <LostExp>9855</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32014,32033,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Idix</Player>
     <LostExp>9437</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31996,31940,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Idix</Player>
     <LostExp>8521</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31990,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Idix</Player>
     <LostExp>7690</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31988,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Idix</Player>
     <LostExp>6935</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31987,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Faustao</Player>
     <LostExp>3915</LostExp>
     <KilledBy>Werewolf</KilledBy>
