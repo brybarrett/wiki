@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743042619633</GeneratedAt>
+  <GeneratedAt>1743042919730</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Omadara</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Ninjaman</KilledBy>
     <Time>2025-03-27 01:33:39</Time>
     <Location>(31988,32070,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Cmpbr</Player>
+    <LostExp>200472</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-03-27 03:30:32</Time>
+    <Location>(32019,31943,8)</Location>
   </DeathEvent>
 </DeathHighscores>
