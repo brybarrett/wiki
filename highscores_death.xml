@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743190579849</GeneratedAt>
+  <GeneratedAt>1743190879924</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Af</Player>
@@ -88,5 +88,13 @@
     <KilledBy>Ninjaman</KilledBy>
     <Time>2025-03-28 20:21:13</Time>
     <Location>(31979,32063,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Cochilo</Player>
+    <LostExp>39631</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-03-28 20:39:27</Time>
+    <Location>(32014,31881,12)</Location>
   </DeathEvent>
 </DeathHighscores>
