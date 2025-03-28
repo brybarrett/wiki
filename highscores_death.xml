@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743170116803</GeneratedAt>
+  <GeneratedAt>1743170416613</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Eztoymjr </Player>
@@ -203,6 +203,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>26</Rank>
+    <Player>Noia</Player>
+    <LostExp>662795</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-03-28 14:55:58</Time>
+    <Location>(32012,32211,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>27</Rank>
+    <Player>Lelekowl</Player>
+    <LostExp>393034</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-03-28 14:59:19</Time>
+    <Location>(31969,31994,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
     <Player>Vinion</Player>
     <LostExp>267686</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -210,7 +226,7 @@
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>29</Rank>
     <Player>Vinion</Player>
     <LostExp>247378</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -218,7 +234,7 @@
     <Location>(31992,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>30</Rank>
     <Player>Karma</Player>
     <LostExp>227807</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -226,7 +242,7 @@
     <Location>(32019,31980,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>31</Rank>
     <Player>Nyaa</Player>
     <LostExp>139675</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -234,7 +250,7 @@
     <Location>(31993,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>32</Rank>
     <Player>Vinion </Player>
     <LostExp>121909</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -242,7 +258,7 @@
     <Location>(31988,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>33</Rank>
     <Player>Lith</Player>
     <LostExp>89104</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -250,7 +266,7 @@
     <Location>(32010,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>34</Rank>
     <Player>Nyaa</Player>
     <LostExp>45164</LostExp>
     <KilledBy>Fire Drake</KilledBy>
