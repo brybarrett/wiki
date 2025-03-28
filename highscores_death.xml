@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743172817614</GeneratedAt>
+  <GeneratedAt>1743173116732</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Eztoymjr </Player>
@@ -272,5 +272,13 @@
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-03-28 06:32:22</Time>
     <Location>(32024,31944,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
+    <Player>Warking</Player>
+    <LostExp>29207</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-03-28 15:42:19</Time>
+    <Location>(31994,31897,9)</Location>
   </DeathEvent>
 </DeathHighscores>
