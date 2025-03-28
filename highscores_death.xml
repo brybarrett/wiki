@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743180979712</GeneratedAt>
+  <GeneratedAt>1743181279844</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Vathar</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Bolkiah</Player>
+    <LostExp>7049033</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2025-03-28 18:01:19</Time>
+    <Location>(32047,32339,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Noia</Player>
     <LostExp>621923</LostExp>
     <KilledBy>Wardy</KilledBy>
