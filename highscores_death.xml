@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743132016272</GeneratedAt>
+  <GeneratedAt>1743132316258</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Warr</Player>
@@ -139,6 +139,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Louu</Player>
+    <LostExp>818671</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-03-28 04:20:24</Time>
+    <Location>(31968,32261,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Louu</Player>
+    <LostExp>736804</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-03-28 04:21:17</Time>
+    <Location>(31968,32261,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
     <Player>Karma</Player>
     <LostExp>227807</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -146,7 +162,7 @@
     <Location>(32019,31980,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>21</Rank>
     <Player>Vinion </Player>
     <LostExp>121909</LostExp>
     <KilledBy>The Bug</KilledBy>
