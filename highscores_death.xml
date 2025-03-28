@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743131416445</GeneratedAt>
+  <GeneratedAt>1743131716250</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Warr</Player>
@@ -51,6 +51,38 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Louu</Player>
+    <LostExp>2608302</LostExp>
+    <KilledBy>Monky</KilledBy>
+    <Time>2025-03-28 04:11:55</Time>
+    <Location>(32036,32263,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Louu</Player>
+    <LostExp>2347471</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-03-28 04:13:06</Time>
+    <Location>(31966,32266,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Louu</Player>
+    <LostExp>2113134</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-03-28 04:14:30</Time>
+    <Location>(31968,32264,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Louu</Player>
+    <LostExp>1901820</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-03-28 04:15:11</Time>
+    <Location>(31968,32261,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Karma</Player>
     <LostExp>227807</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -58,7 +90,7 @@
     <Location>(32019,31980,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>12</Rank>
     <Player>Vinion </Player>
     <LostExp>121909</LostExp>
     <KilledBy>The Bug</KilledBy>
