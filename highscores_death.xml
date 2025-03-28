@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743198553458</GeneratedAt>
+  <GeneratedAt>1743198853244</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Frieren</Player>
+    <LostExp>80953752</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-03-28 22:49:41</Time>
+    <Location>(31927,32214,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Meeca</Player>
     <LostExp>9371587</LostExp>
     <KilledBy>Wardy</KilledBy>
