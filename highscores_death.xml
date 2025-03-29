@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743271623463</GeneratedAt>
+  <GeneratedAt>1743271923251</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bradleywiz</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Akhom</Player>
+    <LostExp>45532919</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-03-29 19:10:27</Time>
+    <Location>(31980,32270,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Ceifadora</Player>
     <LostExp>24499</LostExp>
     <KilledBy>Orc</KilledBy>
