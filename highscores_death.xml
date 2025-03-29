@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743228310352</GeneratedAt>
+  <GeneratedAt>1743228610536</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Marquim</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Kinone</Player>
+    <LostExp>68631</LostExp>
+    <KilledBy>Crepp</KilledBy>
+    <Time>2025-03-29 07:09:30</Time>
+    <Location>(32042,32355,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Ceifadora</Player>
     <LostExp>24626</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31960,31857,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Ceifadora</Player>
     <LostExp>23384</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32019,31861,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Ceifadora</Player>
     <LostExp>20841</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
