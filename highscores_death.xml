@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743290823100</GeneratedAt>
+  <GeneratedAt>1743291123134</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bradleywiz</Player>
@@ -99,6 +99,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Makoto</Player>
+    <LostExp>9189</LostExp>
+    <KilledBy>Mantis</KilledBy>
+    <Time>2025-03-30 00:27:15</Time>
+    <Location>(31941,31984,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Gusttavo</Player>
     <LostExp>385</LostExp>
     <KilledBy>Spider</KilledBy>
