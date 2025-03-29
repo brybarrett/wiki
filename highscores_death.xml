@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743288423288</GeneratedAt>
+  <GeneratedAt>1743288723481</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bradleywiz</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Movie</Player>
+    <LostExp>21409473</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-03-29 23:47:50</Time>
+    <Location>(32042,31800,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Nibda</Player>
     <LostExp>15683096</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31980,32270,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Baxt</Player>
     <LostExp>9029155</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31865,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Nighwolf</Player>
     <LostExp>968616</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31885,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Vinion </Player>
     <LostExp>705858</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32005,31939,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Nyaa</Player>
     <LostExp>431396</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32189,32272,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Ceifadora</Player>
     <LostExp>24499</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31992,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Gusttavo</Player>
     <LostExp>385</LostExp>
     <KilledBy>Spider</KilledBy>
