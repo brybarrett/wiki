@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743280022945</GeneratedAt>
+  <GeneratedAt>1743280323093</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bradleywiz</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Vinion </Player>
+    <LostExp>705858</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-03-29 21:32:03</Time>
+    <Location>(32005,31939,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Ceifadora</Player>
     <LostExp>24499</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31992,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Gusttavo</Player>
     <LostExp>385</LostExp>
     <KilledBy>Spider</KilledBy>
