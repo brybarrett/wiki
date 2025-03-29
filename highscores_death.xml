@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743250264028</GeneratedAt>
+  <GeneratedAt>1743250563941</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Jandel</Player>
+    <LostExp>197639029</LostExp>
+    <KilledBy>Kaguya</KilledBy>
+    <Time>2025-03-29 13:14:49</Time>
+    <Location>(31906,31849,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Sycomu</Player>
     <LostExp>2264045</LostExp>
     <KilledBy>Assasin</KilledBy>
