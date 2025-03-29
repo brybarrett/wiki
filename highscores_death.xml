@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743255664027</GeneratedAt>
+  <GeneratedAt>1743255963749</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jandel</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Treant</KilledBy>
     <Time>2025-03-29 13:59:07</Time>
     <Location>(32040,31932,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Ceifadora</Player>
+    <LostExp>22703</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-03-29 14:43:03</Time>
+    <Location>(31988,31865,8)</Location>
   </DeathEvent>
 </DeathHighscores>
