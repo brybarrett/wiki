@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743250864039</GeneratedAt>
+  <GeneratedAt>1743251163994</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jandel</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Bradleywiz</Player>
+    <LostExp>146433216</LostExp>
+    <KilledBy>Sasuke</KilledBy>
+    <Time>2025-03-29 13:23:53</Time>
+    <Location>(31923,31854,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Sycomu</Player>
     <LostExp>2264045</LostExp>
     <KilledBy>Assasin</KilledBy>
