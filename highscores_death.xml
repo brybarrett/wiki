@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743212410091</GeneratedAt>
+  <GeneratedAt>1743212710382</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Marquim</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Ceifadora</Player>
+    <LostExp>23384</LostExp>
+    <KilledBy>Bragnak</KilledBy>
+    <Time>2025-03-29 02:42:33</Time>
+    <Location>(32019,31861,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Ceifadora</Player>
     <LostExp>20841</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
