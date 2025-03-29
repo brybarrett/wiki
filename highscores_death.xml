@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743223211330</GeneratedAt>
+  <GeneratedAt>1743223510515</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Marquim</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Pjking</Player>
+    <LostExp>1659173</LostExp>
+    <KilledBy>Hell Guard</KilledBy>
+    <Time>2025-03-29 05:42:12</Time>
+    <Location>(32808,32251,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Vinion </Player>
     <LostExp>509445</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31991,31917,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Ceifadora</Player>
     <LostExp>24626</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31960,31857,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Ceifadora</Player>
     <LostExp>23384</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32019,31861,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Ceifadora</Player>
     <LostExp>20841</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
