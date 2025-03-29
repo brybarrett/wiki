@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743277923812</GeneratedAt>
+  <GeneratedAt>1743278223042</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bradleywiz</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Orc</KilledBy>
     <Time>2025-03-29 18:21:31</Time>
     <Location>(31992,31863,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Gusttavo</Player>
+    <LostExp>385</LostExp>
+    <KilledBy>Spider</KilledBy>
+    <Time>2025-03-29 20:53:41</Time>
+    <Location>(31938,31925,9)</Location>
   </DeathEvent>
 </DeathHighscores>
