@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743254464135</GeneratedAt>
+  <GeneratedAt>1743254763948</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jandel</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Templar</Player>
+    <LostExp>10998304</LostExp>
+    <KilledBy>Fouldraky</KilledBy>
+    <Time>2025-03-29 14:21:52</Time>
+    <Location>(32278,32345,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Sycomu</Player>
     <LostExp>2264045</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31895,32006,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Nyaa</Player>
     <LostExp>209612</LostExp>
     <KilledBy>Treant</KilledBy>
