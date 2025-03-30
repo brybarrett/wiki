@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743359256250</GeneratedAt>
+  <GeneratedAt>1743359556252</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Killer </Player>
+    <LostExp>95645635</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-03-30 20:32:19</Time>
+    <Location>(31954,32293,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Serena</Player>
     <LostExp>26551838</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -10,7 +18,15 @@
     <Location>(32018,32204,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
+    <Player>Templar</Player>
+    <LostExp>19156409</LostExp>
+    <KilledBy>Rishombie</KilledBy>
+    <Time>2025-03-30 20:31:47</Time>
+    <Location>(31917,31983,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Templarr</Player>
     <LostExp>15926452</LostExp>
     <KilledBy>Brinefiend</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(31801,32122,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Baxt</Player>
     <LostExp>9243883</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(31887,32051,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Papitooo</Player>
     <LostExp>2686375</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(31973,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Hellwarden</Player>
     <LostExp>465517</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Shanksz</Player>
     <LostExp>19415</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(32015,31884,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Johnnywar</Player>
     <LostExp>5523</LostExp>
     <KilledBy>Orc Leader</KilledBy>
