@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743341703982</GeneratedAt>
+  <GeneratedAt>1743342003833</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bucca</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Gusttavo</Player>
+    <LostExp>1430</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-03-30 15:37:23</Time>
+    <Location>(31990,31904,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Gusttavo</Player>
     <LostExp>889</LostExp>
     <KilledBy>Scorpion</KilledBy>
