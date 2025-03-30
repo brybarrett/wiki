@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743361056153</GeneratedAt>
+  <GeneratedAt>1743361356294</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer </Player>
@@ -68,13 +68,21 @@
   <DeathEvent>
     <Rank>9</Rank>
     <Player>Shanksz</Player>
+    <LostExp>24857</LostExp>
+    <KilledBy>Bear</KilledBy>
+    <Time>2025-03-30 20:59:20</Time>
+    <Location>(32031,31982,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Shanksz</Player>
     <LostExp>19415</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-03-30 20:16:09</Time>
     <Location>(32015,31884,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Johnnywar</Player>
     <LostExp>5523</LostExp>
     <KilledBy>Orc Leader</KilledBy>
