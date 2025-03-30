@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743376056347</GeneratedAt>
+  <GeneratedAt>1743376356439</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Magus</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Frieren</Player>
+    <LostExp>85111694</LostExp>
+    <KilledBy>Rishombie</KilledBy>
+    <Time>2025-03-31 01:12:34</Time>
+    <Location>(31907,31972,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Vamplod </Player>
     <LostExp>32236545</LostExp>
     <KilledBy>Krakomin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31802,31948,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Vamplod </Player>
     <LostExp>29169517</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31785,31956,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Serena</Player>
     <LostExp>26551838</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32018,32204,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Bucca</Player>
     <LostExp>19937980</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31954,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Templar</Player>
     <LostExp>19156409</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31917,31983,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Templarr</Player>
     <LostExp>15926452</LostExp>
     <KilledBy>Brinefiend</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31801,32122,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Baxt</Player>
     <LostExp>9243883</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31887,32051,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Papitooo</Player>
     <LostExp>2686375</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31973,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Nyaa</Player>
     <LostExp>1051782</LostExp>
     <KilledBy>Vampmaster</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31972,31891,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Hellwarden</Player>
     <LostExp>465517</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Shanksz</Player>
     <LostExp>77254</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Shanksz</Player>
     <LostExp>71807</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32004,31878,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Shanksz</Player>
     <LostExp>66103</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32011,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Johnnywar</Player>
     <LostExp>49607</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32015,31875,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Shanksz</Player>
     <LostExp>25165</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31959,31890,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Shanksz</Player>
     <LostExp>24857</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32031,31982,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Shanksz</Player>
     <LostExp>19415</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32015,31884,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Johnnywar</Player>
     <LostExp>5523</LostExp>
     <KilledBy>Orc Leader</KilledBy>
