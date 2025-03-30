@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743295556514</GeneratedAt>
+  <GeneratedAt>1743295856677</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Babydoll</Player>
+    <LostExp>39848005</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2025-03-30 01:48:55</Time>
+    <Location>(32051,32339,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Lith</Player>
     <LostExp>205666</LostExp>
     <KilledBy>Werewolf</KilledBy>
