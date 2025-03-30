@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743370356259</GeneratedAt>
+  <GeneratedAt>1743370656454</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Magus</Player>
@@ -99,6 +99,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Johnnywar</Player>
+    <LostExp>49607</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-03-30 23:36:49</Time>
+    <Location>(32015,31875,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Shanksz</Player>
     <LostExp>25165</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31959,31890,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Shanksz</Player>
     <LostExp>24857</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32031,31982,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Shanksz</Player>
     <LostExp>19415</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32015,31884,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Johnnywar</Player>
     <LostExp>5523</LostExp>
     <KilledBy>Orc Leader</KilledBy>
