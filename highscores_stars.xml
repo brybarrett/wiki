@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1743364353707</GeneratedAt>
+  <GeneratedAt>1743364653824</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi </Name>
@@ -393,22 +393,22 @@
   </Player>
   <Player>
     <Rank>79</Rank>
-    <Name>Indra</Name>
-    <StarsCollected>96</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>80</Rank>
     <Name>Agenmarini</Name>
     <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
+    <Rank>80</Rank>
+    <Name>Indra</Name>
+    <StarsCollected>96</StarsCollected>
+  </Player>
+  <Player>
     <Rank>81</Rank>
-    <Name>Moon</Name>
+    <Name>Mires</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
     <Rank>82</Rank>
-    <Name>Mires</Name>
+    <Name>Moon</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
@@ -498,17 +498,17 @@
   </Player>
   <Player>
     <Rank>100</Rank>
-    <Name>Pudin</Name>
-    <StarsCollected>80</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>101</Rank>
     <Name>Jembei</Name>
     <StarsCollected>80</StarsCollected>
   </Player>
   <Player>
-    <Rank>102</Rank>
+    <Rank>101</Rank>
     <Name>Manan</Name>
+    <StarsCollected>80</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>102</Rank>
+    <Name>Pudin</Name>
     <StarsCollected>80</StarsCollected>
   </Player>
   <Player>
