@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743377856393</GeneratedAt>
+  <GeneratedAt>1743378156978</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Magus</Player>
@@ -148,13 +148,21 @@
   <DeathEvent>
     <Rank>19</Rank>
     <Player>Shanksz</Player>
+    <LostExp>110125</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-03-31 01:37:40</Time>
+    <Location>(31974,31861,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Shanksz</Player>
     <LostExp>77254</LostExp>
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-03-30 23:13:36</Time>
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Shanksz</Player>
     <LostExp>71807</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32004,31878,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Shanksz</Player>
     <LostExp>66103</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32011,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Johnnywar</Player>
     <LostExp>49607</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32015,31875,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Shanksz</Player>
     <LostExp>25165</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31959,31890,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Shanksz</Player>
     <LostExp>24857</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32031,31982,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Shanksz</Player>
     <LostExp>19415</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32015,31884,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Johnnywar</Player>
     <LostExp>5523</LostExp>
     <KilledBy>Orc Leader</KilledBy>
