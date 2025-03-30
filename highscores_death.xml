@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743358356304</GeneratedAt>
+  <GeneratedAt>1743358656292</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Serena</Player>
@@ -35,6 +35,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Hellwarden</Player>
+    <LostExp>465517</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-03-30 20:16:47</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Shanksz</Player>
+    <LostExp>19415</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-03-30 20:16:09</Time>
+    <Location>(32015,31884,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Johnnywar</Player>
     <LostExp>5523</LostExp>
     <KilledBy>Orc Leader</KilledBy>
