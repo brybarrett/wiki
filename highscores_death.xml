@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743334503496</GeneratedAt>
+  <GeneratedAt>1743334803775</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Bucca</Player>
+    <LostExp>20614710</LostExp>
+    <KilledBy>Kakashi</KilledBy>
+    <Time>2025-03-30 13:36:04</Time>
+    <Location>(31925,31850,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Bogurel</Player>
     <LostExp>6358189</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31981,32199,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Bogurel</Player>
     <LostExp>5726476</LostExp>
     <KilledBy>Kakashi</KilledBy>
