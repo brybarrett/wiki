@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743353856062</GeneratedAt>
+  <GeneratedAt>1743354156041</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Serena</Player>
+    <LostExp>26551838</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-03-30 19:01:40</Time>
+    <Location>(32018,32204,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Templarr</Player>
     <LostExp>15926452</LostExp>
     <KilledBy>Brinefiend</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31801,32122,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Papitooo</Player>
     <LostExp>2686375</LostExp>
     <KilledBy>Papito</KilledBy>
