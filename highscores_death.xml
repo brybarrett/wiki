@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743313085621</GeneratedAt>
+  <GeneratedAt>1743313385905</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Agis</Player>
@@ -44,13 +44,21 @@
   <DeathEvent>
     <Rank>6</Rank>
     <Player>Dorubera</Player>
+    <LostExp>6573</LostExp>
+    <KilledBy>Crocodile</KilledBy>
+    <Time>2025-03-30 07:40:38</Time>
+    <Location>(32029,31927,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Dorubera</Player>
     <LostExp>3866</LostExp>
     <KilledBy>Shadow</KilledBy>
     <Time>2025-03-30 07:08:20</Time>
     <Location>(31959,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Dorubera</Player>
     <LostExp>547</LostExp>
     <KilledBy>Orc Leader</KilledBy>
