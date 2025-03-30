@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743345004206</GeneratedAt>
+  <GeneratedAt>1743345303839</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Serizawa</Player>
+    <LostExp>470643783</LostExp>
+    <KilledBy>Jandel</KilledBy>
+    <Time>2025-03-30 16:30:49</Time>
+    <Location>(31965,31843,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Vamplod </Player>
     <LostExp>35086218</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31907,31982,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Bucca</Player>
     <LostExp>20614710</LostExp>
     <KilledBy>Kakashi</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31925,31850,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Vamplod</Player>
     <LostExp>18451600</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32012,32218,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Bogurel</Player>
     <LostExp>6358189</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31981,32199,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Bogurel</Player>
     <LostExp>5726476</LostExp>
     <KilledBy>Kakashi</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31910,31835,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Bogurel</Player>
     <LostExp>5416563</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31963,32204,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Ladylince</Player>
     <LostExp>1143177</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32062,32297,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Ladylince</Player>
     <LostExp>1118017</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32025,32314,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Gusttavo</Player>
     <LostExp>1791</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31982,31899,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Gusttavo</Player>
     <LostExp>1430</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31990,31904,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Gusttavo</Player>
     <LostExp>889</LostExp>
     <KilledBy>Scorpion</KilledBy>
