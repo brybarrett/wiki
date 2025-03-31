@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743392349807</GeneratedAt>
+  <GeneratedAt>1743392649675</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Arthurktt</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Shanksz</Player>
+    <LostExp>135504</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-03-31 05:42:49</Time>
+    <Location>(32052,31894,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Johnnywar</Player>
     <LostExp>68992</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
