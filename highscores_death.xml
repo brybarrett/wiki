@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743447250140</GeneratedAt>
+  <GeneratedAt>1743447552312</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dom</Player>
@@ -108,13 +108,21 @@
   <DeathEvent>
     <Rank>14</Rank>
     <Player>Johnnywar</Player>
+    <LostExp>89492</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-03-31 20:57:10</Time>
+    <Location>(31988,32016,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Johnnywar</Player>
     <LostExp>68992</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
     <Time>2025-03-31 03:36:42</Time>
     <Location>(32022,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Kovolskys</Player>
     <LostExp>6550</LostExp>
     <KilledBy>Hell Guard</KilledBy>
