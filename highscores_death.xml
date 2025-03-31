@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743434950236</GeneratedAt>
+  <GeneratedAt>1743435249948</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dom</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Zycho</Player>
+    <LostExp>50477665</LostExp>
+    <KilledBy>Papito</KilledBy>
+    <Time>2025-03-31 17:33:09</Time>
+    <Location>(31896,31934,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Arthurktt</Player>
     <LostExp>17748465</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31962,32254,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Gabibr </Player>
     <LostExp>11093060</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32022,31813,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Omadara</Player>
     <LostExp>10048675</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32025,31812,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Ladylince</Player>
     <LostExp>4731109</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31864,32075,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Makutowwww</Player>
     <LostExp>4061729</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32043,32036,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Shanksz</Player>
     <LostExp>135504</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32052,31894,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Johnnywar</Player>
     <LostExp>68992</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32022,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Kovolskys</Player>
     <LostExp>6550</LostExp>
     <KilledBy>Hell Guard</KilledBy>
