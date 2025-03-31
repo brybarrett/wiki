@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743464721310</GeneratedAt>
+  <GeneratedAt>1743465020927</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Khex</Player>
+    <LostExp>73764953</LostExp>
+    <KilledBy>Chaomby</KilledBy>
+    <Time>2025-04-01 01:46:22</Time>
+    <Location>(31949,32231,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Johnnywiz</Player>
     <LostExp>28223</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -10,7 +18,15 @@
     <Location>(32022,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
+    <Player>Danka</Player>
+    <LostExp>3361</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-01 01:48:15</Time>
+    <Location>(32003,31882,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Danka</Player>
     <LostExp>691</LostExp>
     <KilledBy>Spider</KilledBy>
