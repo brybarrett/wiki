@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743395649839</GeneratedAt>
+  <GeneratedAt>1743395949793</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Arthurktt</Player>
@@ -11,6 +11,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Gabibr </Player>
+    <LostExp>11093060</LostExp>
+    <KilledBy>Crystally</KilledBy>
+    <Time>2025-03-31 06:37:25</Time>
+    <Location>(32022,31813,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Omadara</Player>
+    <LostExp>10048675</LostExp>
+    <KilledBy>Crystally</KilledBy>
+    <Time>2025-03-31 06:37:19</Time>
+    <Location>(32025,31812,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Ladylince</Player>
     <LostExp>4731109</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(31864,32075,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Shanksz</Player>
     <LostExp>135504</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(32052,31894,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Johnnywar</Player>
     <LostExp>68992</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
