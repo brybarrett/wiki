@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743446950016</GeneratedAt>
+  <GeneratedAt>1743447250140</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dom</Player>
@@ -60,13 +60,21 @@
   <DeathEvent>
     <Rank>8</Rank>
     <Player>Makutowwww</Player>
+    <LostExp>4277280</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-03-31 20:53:55</Time>
+    <Location>(31933,32222,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Makutowwww</Player>
     <LostExp>4061729</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
     <Time>2025-03-31 13:11:50</Time>
     <Location>(32043,32036,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Ken</Player>
     <LostExp>1930134</LostExp>
     <KilledBy>Archvampir</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32736,32278,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Miguel</Player>
     <LostExp>303721</LostExp>
     <KilledBy>Warden</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32045,31897,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Shanksz</Player>
     <LostExp>236167</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31909,32017,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Shanksz</Player>
     <LostExp>135504</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32052,31894,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Johnnywar</Player>
     <LostExp>68992</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32022,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Kovolskys</Player>
     <LostExp>6550</LostExp>
     <KilledBy>Hell Guard</KilledBy>
