@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743384849742</GeneratedAt>
+  <GeneratedAt>1743385149750</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ladylince</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Leviatacle</KilledBy>
     <Time>2025-03-31 03:10:38</Time>
     <Location>(31864,32075,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Johnnywar</Player>
+    <LostExp>68992</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-03-31 03:36:42</Time>
+    <Location>(32022,31976,9)</Location>
   </DeathEvent>
 </DeathHighscores>
