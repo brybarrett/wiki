@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743525321544</GeneratedAt>
+  <GeneratedAt>1743525621478</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Khex</Player>
@@ -243,6 +243,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>31</Rank>
+    <Player>Hellwilzz</Player>
+    <LostExp>3821</LostExp>
+    <KilledBy>Fanatic</KilledBy>
+    <Time>2025-04-01 18:36:31</Time>
+    <Location>(31917,32011,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>32</Rank>
     <Player>Danka</Player>
     <LostExp>3361</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32003,31882,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Avelar</Player>
     <LostExp>1720</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31914,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Danka</Player>
     <LostExp>691</LostExp>
     <KilledBy>Spider</KilledBy>
