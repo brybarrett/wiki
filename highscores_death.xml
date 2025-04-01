@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743507021319</GeneratedAt>
+  <GeneratedAt>1743507321214</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Khex</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Qr</Player>
+    <LostExp>7141784</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-04-01 13:33:54</Time>
+    <Location>(32060,31824,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Xxfuxx</Player>
     <LostExp>2623666</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31944,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Vinion</Player>
     <LostExp>697003</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32017,31863,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Dorubera</Player>
     <LostExp>200943</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32019,31923,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Guardian</Player>
     <LostExp>148095</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31890,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Willmk</Player>
     <LostExp>139045</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31995,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Pierre</Player>
     <LostExp>30876</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31988,32017,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Danka</Player>
     <LostExp>29174</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31988,31874,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Danka</Player>
     <LostExp>28417</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32010,32023,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Johnnywiz</Player>
     <LostExp>28223</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32022,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Danka</Player>
     <LostExp>26668</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32011,32029,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Danka</Player>
     <LostExp>24915</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31994,32057,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Danka</Player>
     <LostExp>23420</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32009,31857,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Danka</Player>
     <LostExp>22128</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31988,31865,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Danka</Player>
     <LostExp>12260</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31971,31864,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Danka</Player>
     <LostExp>11710</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31992,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Danka</Player>
     <LostExp>11526</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31994,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Danka</Player>
     <LostExp>11432</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31977,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Danka</Player>
     <LostExp>9882</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32012,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Danka</Player>
     <LostExp>8587</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32013,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Danka</Player>
     <LostExp>6793</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32006,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Danka</Player>
     <LostExp>3361</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32003,31882,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Danka</Player>
     <LostExp>691</LostExp>
     <KilledBy>Spider</KilledBy>
