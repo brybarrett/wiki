@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743511821389</GeneratedAt>
+  <GeneratedAt>1743512121314</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Khex</Player>
@@ -179,6 +179,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>23</Rank>
+    <Player>Avelar</Player>
+    <LostExp>9526</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-01 14:52:45</Time>
+    <Location>(32015,31874,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>24</Rank>
     <Player>Danka</Player>
     <LostExp>8587</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32013,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Danka</Player>
     <LostExp>6793</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32006,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Zakiro</Player>
     <LostExp>5595</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32008,31878,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Danka</Player>
     <LostExp>3361</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32003,31882,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Avelar</Player>
     <LostExp>1720</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31914,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Danka</Player>
     <LostExp>691</LostExp>
     <KilledBy>Spider</KilledBy>
