@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743508821378</GeneratedAt>
+  <GeneratedAt>1743509121237</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Khex</Player>
@@ -195,6 +195,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>25</Rank>
+    <Player>Zakiro</Player>
+    <LostExp>5595</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-01 14:02:32</Time>
+    <Location>(32008,31878,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
     <Player>Danka</Player>
     <LostExp>3361</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32003,31882,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Danka</Player>
     <LostExp>691</LostExp>
     <KilledBy>Spider</KilledBy>
