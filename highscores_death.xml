@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743473120759</GeneratedAt>
+  <GeneratedAt>1743473420859</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Khex</Player>
@@ -36,13 +36,21 @@
   <DeathEvent>
     <Rank>5</Rank>
     <Player>Danka</Player>
+    <LostExp>11710</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-04-01 04:09:59</Time>
+    <Location>(31992,31864,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Danka</Player>
     <LostExp>11432</LostExp>
     <KilledBy>Orc</KilledBy>
     <Time>2025-04-01 03:58:19</Time>
     <Location>(31977,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Danka</Player>
     <LostExp>9882</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32012,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Danka</Player>
     <LostExp>8587</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32013,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Danka</Player>
     <LostExp>6793</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32006,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Danka</Player>
     <LostExp>3361</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32003,31882,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Danka</Player>
     <LostExp>691</LostExp>
     <KilledBy>Spider</KilledBy>
