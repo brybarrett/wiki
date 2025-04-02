@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743619517656</GeneratedAt>
+  <GeneratedAt>1743619824237</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Khorhigee</Player>
@@ -108,13 +108,21 @@
   <DeathEvent>
     <Rank>14</Rank>
     <Player>Avelar</Player>
+    <LostExp>145455</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-04-02 20:48:15</Time>
+    <Location>(31991,32066,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Avelar</Player>
     <LostExp>87156</LostExp>
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-04-02 10:40:12</Time>
     <Location>(31995,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Avelar</Player>
     <LostExp>72359</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32032,31978,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Danka</Player>
     <LostExp>56740</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32193,32270,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Danka</Player>
     <LostExp>52304</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31877,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Oi</Player>
     <LostExp>12193</LostExp>
     <KilledBy>Ninjaman</KilledBy>
