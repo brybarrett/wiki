@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743584117790</GeneratedAt>
+  <GeneratedAt>1743584417484</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Khorhigee</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Killer </Player>
+    <LostExp>95898313</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-02 11:00:13</Time>
+    <Location>(31952,32264,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Nauk</Player>
     <LostExp>23329876</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31954,32294,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Avelar</Player>
     <LostExp>87156</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31995,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Avelar</Player>
     <LostExp>72359</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32032,31978,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Danka</Player>
     <LostExp>56740</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32193,32270,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Danka</Player>
     <LostExp>52304</LostExp>
     <KilledBy>Werewolf</KilledBy>
