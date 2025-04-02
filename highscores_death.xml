@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743609918230</GeneratedAt>
+  <GeneratedAt>1743610218656</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Khorhigee</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Ladylince</Player>
+    <LostExp>7477711</LostExp>
+    <KilledBy>Rishombie</KilledBy>
+    <Time>2025-04-02 18:06:08</Time>
+    <Location>(31905,31971,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Sonk</Player>
     <LostExp>2691875</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31909,32221,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Johnnywiz</Player>
     <LostExp>707173</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -58,7 +66,15 @@
     <Location>(31884,31906,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
+    <Player>Hellwilzz</Player>
+    <LostExp>674974</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-02 18:09:10</Time>
+    <Location>(31944,31988,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Willmk</Player>
     <LostExp>600355</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(32014,31874,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Avelar</Player>
     <LostExp>87156</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(31995,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Avelar</Player>
     <LostExp>72359</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(32032,31978,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Danka</Player>
     <LostExp>56740</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(32193,32270,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Danka</Player>
     <LostExp>52304</LostExp>
     <KilledBy>Werewolf</KilledBy>
