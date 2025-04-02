@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743612018028</GeneratedAt>
+  <GeneratedAt>1743612318144</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Khorhigee</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Drakezeraa</Player>
+    <LostExp>23987658</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-04-02 18:42:54</Time>
+    <Location>(32061,31826,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Nauk</Player>
     <LostExp>23329876</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31954,32294,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Nibda</Player>
     <LostExp>18936822</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31795,31909,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Ket</Player>
     <LostExp>10845284</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32042,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Ladylince</Player>
     <LostExp>7477711</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -50,7 +58,15 @@
     <Location>(31905,31971,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
+    <Player>Ladylince</Player>
+    <LostExp>7127586</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-04-02 18:42:10</Time>
+    <Location>(32060,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Sonk</Player>
     <LostExp>2691875</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(31909,32221,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Johnnywiz</Player>
     <LostExp>707173</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(31884,31906,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Hellwilzz</Player>
     <LostExp>674974</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(31944,31988,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Willmk</Player>
     <LostExp>600355</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(32014,31874,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Avelar</Player>
     <LostExp>87156</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(31995,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Avelar</Player>
     <LostExp>72359</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -98,7 +114,7 @@
     <Location>(32032,31978,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>15</Rank>
     <Player>Danka</Player>
     <LostExp>56740</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -106,7 +122,7 @@
     <Location>(32193,32270,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <Player>Danka</Player>
     <LostExp>52304</LostExp>
     <KilledBy>Werewolf</KilledBy>
