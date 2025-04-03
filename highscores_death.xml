@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743647715953</GeneratedAt>
+  <GeneratedAt>1743648015892</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Pjking</Player>
+    <LostExp>3013862</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-04-03 04:39:15</Time>
+    <Location>(32007,32209,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Danka</Player>
     <LostExp>116471</LostExp>
     <KilledBy>Skeleguard</KilledBy>
