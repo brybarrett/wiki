@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1743651013701</GeneratedAt>
+  <GeneratedAt>1743651313671</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -238,12 +238,12 @@
   </Player>
   <Player>
     <Rank>48</Rank>
-    <Name>Kinghorr</Name>
+    <Name>Maxxbrr</Name>
     <StarsCollected>128</StarsCollected>
   </Player>
   <Player>
     <Rank>49</Rank>
-    <Name>Maxxbrr</Name>
+    <Name>Kinghorr</Name>
     <StarsCollected>128</StarsCollected>
   </Player>
   <Player>
@@ -303,12 +303,12 @@
   </Player>
   <Player>
     <Rank>61</Rank>
-    <Name>Skyblue</Name>
+    <Name>Kingtibia</Name>
     <StarsCollected>119</StarsCollected>
   </Player>
   <Player>
     <Rank>62</Rank>
-    <Name>Kingtibia</Name>
+    <Name>Skyblue</Name>
     <StarsCollected>119</StarsCollected>
   </Player>
   <Player>
@@ -403,12 +403,12 @@
   </Player>
   <Player>
     <Rank>81</Rank>
-    <Name>Moon</Name>
+    <Name>Mires</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
     <Rank>82</Rank>
-    <Name>Mires</Name>
+    <Name>Moon</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
@@ -623,22 +623,22 @@
   </Player>
   <Player>
     <Rank>125</Rank>
-    <Name>Klng</Name>
-    <StarsCollected>67</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>126</Rank>
-    <Name>Adelmokun</Name>
-    <StarsCollected>67</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>127</Rank>
     <Name>Darius</Name>
     <StarsCollected>67</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>126</Rank>
     <Name>Naruto</Name>
+    <StarsCollected>67</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>127</Rank>
+    <Name>Klng</Name>
+    <StarsCollected>67</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Adelmokun</Name>
     <StarsCollected>67</StarsCollected>
   </Player>
 </StarsHighscores>
