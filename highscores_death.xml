@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743663016100</GeneratedAt>
+  <GeneratedAt>1743663316092</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Templar</Player>
+    <LostExp>24016290</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-04-03 08:50:22</Time>
+    <Location>(31781,31957,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Keleman</Player>
     <LostExp>11080364</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32019,31811,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Pjking</Player>
     <LostExp>3013862</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32007,32209,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Kovolskys</Player>
     <LostExp>191963</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32187,32271,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Danka</Player>
     <LostExp>182734</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31882,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Danka</Player>
     <LostExp>155768</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31992,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Danka</Player>
     <LostExp>116471</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32014,32021,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Eror</Player>
     <LostExp>0</LostExp>
     <KilledBy>Treant</KilledBy>
