@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743705616774</GeneratedAt>
+  <GeneratedAt>1743705916576</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Wk</Player>
@@ -124,13 +124,21 @@
   <DeathEvent>
     <Rank>16</Rank>
     <Player>Danka</Player>
+    <LostExp>221575</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-04-03 20:44:46</Time>
+    <Location>(32049,31905,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
+    <Player>Danka</Player>
     <LostExp>217191</LostExp>
     <KilledBy>The Bug</KilledBy>
     <Time>2025-04-03 18:17:48</Time>
     <Location>(31991,32018,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Kovolskys</Player>
     <LostExp>191963</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32187,32271,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Danka</Player>
     <LostExp>182734</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31882,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Danka</Player>
     <LostExp>155768</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31992,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Buccca</Player>
     <LostExp>118288</LostExp>
     <KilledBy>Buca</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31973,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Danka</Player>
     <LostExp>116471</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32014,32021,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Eror</Player>
     <LostExp>0</LostExp>
     <KilledBy>Treant</KilledBy>
