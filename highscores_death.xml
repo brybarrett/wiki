@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743716716546</GeneratedAt>
+  <GeneratedAt>1743717016601</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Wk</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Bucca</Player>
+    <LostExp>42351647</LostExp>
+    <KilledBy>Silver Stone</KilledBy>
+    <Time>2025-04-03 23:46:14</Time>
+    <Location>(32001,32188,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Bogurel</Player>
     <LostExp>27604297</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -34,20 +42,12 @@
     <Location>(32017,32203,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Templar</Player>
     <LostExp>24016290</LostExp>
     <KilledBy>Ninjana</KilledBy>
     <Time>2025-04-03 08:50:22</Time>
     <Location>(31781,31957,7)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>6</Rank>
-    <Player>Nule</Player>
-    <LostExp>16498568</LostExp>
-    <KilledBy>Assasin</KilledBy>
-    <Time>2025-04-03 09:12:50</Time>
-    <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Nule</Player>
+    <LostExp>16498568</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-03 09:12:50</Time>
+    <Location>(31954,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Gabibr </Player>
     <LostExp>11161648</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31950,32271,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Keleman</Player>
     <LostExp>11080364</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32019,31811,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Pjking</Player>
     <LostExp>3013862</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32007,32209,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Avelar</Player>
     <LostExp>1725210</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31986,32065,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Biel</Player>
     <LostExp>1514043</LostExp>
     <KilledBy>Cultist</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32018,31859,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Lith</Player>
     <LostExp>1404359</LostExp>
     <KilledBy>Mantis</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31906,31960,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Dorian</Player>
     <LostExp>1213350</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Johnnywar </Player>
     <LostExp>826783</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31880,31904,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Cochilo</Player>
     <LostExp>702079</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32010,31873,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Menson</Player>
     <LostExp>226461</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31995,31928,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Danka</Player>
     <LostExp>221575</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32049,31905,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Danka</Player>
     <LostExp>217191</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31991,32018,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Kovolskys</Player>
     <LostExp>191963</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32187,32271,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Danka</Player>
     <LostExp>182734</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31882,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Danka</Player>
     <LostExp>155768</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31992,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Buccca</Player>
     <LostExp>118288</LostExp>
     <KilledBy>Buca</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31973,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Danka</Player>
     <LostExp>116471</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32014,32021,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Eror</Player>
     <LostExp>0</LostExp>
     <KilledBy>Treant</KilledBy>
