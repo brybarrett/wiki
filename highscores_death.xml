@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743681916369</GeneratedAt>
+  <GeneratedAt>1743682216274</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Deimonreii</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Gabibr </Player>
+    <LostExp>11161648</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-04-03 14:07:56</Time>
+    <Location>(31950,32271,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Keleman</Player>
     <LostExp>11080364</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32019,31811,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Pjking</Player>
     <LostExp>3013862</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32007,32209,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Cochilo</Player>
     <LostExp>702079</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32010,31873,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Kovolskys</Player>
     <LostExp>191963</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32187,32271,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Danka</Player>
     <LostExp>182734</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31882,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Danka</Player>
     <LostExp>155768</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31992,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Danka</Player>
     <LostExp>116471</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32014,32021,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Eror</Player>
     <LostExp>0</LostExp>
     <KilledBy>Treant</KilledBy>
