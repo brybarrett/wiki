@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743655816148</GeneratedAt>
+  <GeneratedAt>1743656115977</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pjking</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Skeleguard</KilledBy>
     <Time>2025-04-03 03:53:55</Time>
     <Location>(32014,32021,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Eror</Player>
+    <LostExp>0</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-04-03 06:52:34</Time>
+    <Location>(31994,31908,8)</Location>
   </DeathEvent>
 </DeathHighscores>
