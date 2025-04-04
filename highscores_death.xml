@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743754814904</GeneratedAt>
+  <GeneratedAt>1743755114778</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Af</Player>
@@ -60,13 +60,21 @@
   <DeathEvent>
     <Rank>8</Rank>
     <Player>Canix</Player>
+    <LostExp>66062</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-04 10:23:40</Time>
+    <Location>(32016,31878,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Canix</Player>
     <LostExp>65758</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-04-04 10:08:45</Time>
     <Location>(32016,31878,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Canix</Player>
     <LostExp>50646</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32011,31877,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Arckeman</Player>
     <LostExp>25003</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31982,31907,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Arckeman</Player>
     <LostExp>22503</LostExp>
     <KilledBy>Scorpion</KilledBy>
