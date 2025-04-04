@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743786015044</GeneratedAt>
+  <GeneratedAt>1743786315156</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bradleywiz</Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Ferz</Player>
+    <LostExp>80259</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-04-04 19:00:45</Time>
+    <Location>(32025,31943,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Canix</Player>
     <LostExp>66062</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32016,31878,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Canix</Player>
     <LostExp>65758</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32016,31878,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Canix</Player>
     <LostExp>50646</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -162,20 +170,12 @@
     <Location>(32011,31877,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Arckeman</Player>
     <LostExp>25003</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-04-04 08:57:30</Time>
     <Location>(31982,31907,9)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>22</Rank>
-    <Player>Toji</Player>
-    <LostExp>24522</LostExp>
-    <KilledBy>Treant</KilledBy>
-    <Time>2025-04-04 11:36:10</Time>
-    <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>23</Rank>
@@ -187,6 +187,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>24</Rank>
+    <Player>Toji</Player>
+    <LostExp>24522</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-04-04 11:36:10</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
     <Player>Arckeman</Player>
     <LostExp>22503</LostExp>
     <KilledBy>Scorpion</KilledBy>
