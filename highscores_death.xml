@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743737714604</GeneratedAt>
+  <GeneratedAt>1743738014444</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Af</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Dorubera</Player>
+    <LostExp>401171</LostExp>
+    <KilledBy>Bantinel</KilledBy>
+    <Time>2025-04-04 05:37:12</Time>
+    <Location>(31927,32014,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Danka</Player>
     <LostExp>231510</LostExp>
     <KilledBy>Werewolf</KilledBy>
