@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743749714834</GeneratedAt>
+  <GeneratedAt>1743750015159</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Af</Player>
@@ -48,5 +48,21 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-04 01:42:38</Time>
     <Location>(31882,32053,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Arckeman</Player>
+    <LostExp>25003</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-04 08:57:30</Time>
+    <Location>(31982,31907,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Arckeman</Player>
+    <LostExp>22503</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-04 08:57:30</Time>
+    <Location>(31982,31907,9)</Location>
   </DeathEvent>
 </DeathHighscores>
