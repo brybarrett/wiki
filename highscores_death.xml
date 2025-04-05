@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743833209283</GeneratedAt>
+  <GeneratedAt>1743833508854</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Serena</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Menson</Player>
+    <LostExp>1474792</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-04-05 08:09:33</Time>
+    <Location>(32037,31795,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Mewone</Player>
     <LostExp>1037701</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32036,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Ulta</Player>
     <LostExp>57284</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31912,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Toji</Player>
     <LostExp>55293</LostExp>
     <KilledBy>Skeleton</KilledBy>
