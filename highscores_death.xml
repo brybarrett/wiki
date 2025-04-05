@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743867544439</GeneratedAt>
+  <GeneratedAt>1743867843884</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Templar</Player>
+    <LostExp>28290734</LostExp>
+    <KilledBy>The Wisper</KilledBy>
+    <Time>2025-04-05 17:40:29</Time>
+    <Location>(32067,32362,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Urekmazino</Player>
     <LostExp>28221</LostExp>
     <KilledBy>Werewolf</KilledBy>
