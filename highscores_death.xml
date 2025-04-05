@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743860878323</GeneratedAt>
+  <GeneratedAt>1743861181399</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaizer</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Bantinel</KilledBy>
     <Time>2025-04-05 13:49:41</Time>
     <Location>(31920,32009,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Ishiki</Player>
+    <LostExp>82608</LostExp>
+    <KilledBy>Cupid</KilledBy>
+    <Time>2025-04-05 15:52:33</Time>
+    <Location>(31906,31960,7)</Location>
   </DeathEvent>
 </DeathHighscores>
