@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743875644055</GeneratedAt>
+  <GeneratedAt>1743875944185</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Offtank</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Cochilo</Player>
+    <LostExp>1658785</LostExp>
+    <KilledBy>Kingdeus</KilledBy>
+    <Time>2025-04-05 19:57:07</Time>
+    <Location>(31896,31937,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Urekmazino</Player>
     <LostExp>28221</LostExp>
     <KilledBy>Werewolf</KilledBy>
