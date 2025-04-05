@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743859078207</GeneratedAt>
+  <GeneratedAt>1743859378339</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kaizer</Player>
+    <LostExp>200098166</LostExp>
+    <KilledBy>Chaomby</KilledBy>
+    <Time>2025-04-05 15:21:33</Time>
+    <Location>(31933,32231,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Delo</Player>
     <LostExp>39124794</LostExp>
     <KilledBy>Lordwolf</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31777,31938,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Templarr</Player>
     <LostExp>27271224</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31961,32284,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Sonk</Player>
     <LostExp>4544216</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31963,32270,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Pierre</Player>
     <LostExp>527942</LostExp>
     <KilledBy>Bantinel</KilledBy>
