@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743893644530</GeneratedAt>
+  <GeneratedAt>1743893944212</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Offtank</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Reidelas</Player>
+    <LostExp>21258</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-04-06 00:59:02</Time>
+    <Location>(32017,31946,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Reidelas</Player>
     <LostExp>19081</LostExp>
     <KilledBy>Bear</KilledBy>
