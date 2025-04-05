@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743861181399</GeneratedAt>
+  <GeneratedAt>1743861478586</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaizer</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Cupid</KilledBy>
     <Time>2025-04-05 15:52:33</Time>
     <Location>(31906,31960,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Reidelas</Player>
+    <LostExp>4568</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-05 15:57:27</Time>
+    <Location>(32010,31885,8)</Location>
   </DeathEvent>
 </DeathHighscores>
