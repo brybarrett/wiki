@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743869643889</GeneratedAt>
+  <GeneratedAt>1743869943906</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Offtank</Player>
+    <LostExp>247373406</LostExp>
+    <KilledBy>Ashura</KilledBy>
+    <Time>2025-04-05 18:18:54</Time>
+    <Location>(31871,31943,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Templar</Player>
     <LostExp>28290734</LostExp>
     <KilledBy>The Wisper</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32067,32362,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Urekmazino</Player>
     <LostExp>28221</LostExp>
     <KilledBy>Werewolf</KilledBy>
