@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743884944243</GeneratedAt>
+  <GeneratedAt>1743885244100</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Offtank</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Okomura</Player>
+    <LostExp>30557547</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-04-05 22:33:31</Time>
+    <Location>(32185,32268,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Templar</Player>
     <LostExp>28290734</LostExp>
     <KilledBy>The Wisper</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32067,32362,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Biel</Player>
     <LostExp>2048535</LostExp>
     <KilledBy>Mummy</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32090,31906,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Cochilo</Player>
     <LostExp>1658785</LostExp>
     <KilledBy>Kingdeus</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31896,31937,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Bonilha</Player>
     <LostExp>327567</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31986,32072,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Urekmazino</Player>
     <LostExp>174346</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32043,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Urekmazino</Player>
     <LostExp>28221</LostExp>
     <KilledBy>Werewolf</KilledBy>
