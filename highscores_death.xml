@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743888244124</GeneratedAt>
+  <GeneratedAt>1743888544325</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Offtank</Player>
@@ -72,5 +72,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-05 17:38:43</Time>
     <Location>(31887,32051,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Reidelas</Player>
+    <LostExp>19081</LostExp>
+    <KilledBy>Bear</KilledBy>
+    <Time>2025-04-05 23:25:24</Time>
+    <Location>(32037,31986,8)</Location>
   </DeathEvent>
 </DeathHighscores>
