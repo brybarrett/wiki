@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743959648438</GeneratedAt>
+  <GeneratedAt>1743959948059</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Ishiki</Player>
+    <LostExp>74631</LostExp>
+    <KilledBy>Chun</KilledBy>
+    <Time>2025-04-06 19:15:33</Time>
+    <Location>(31975,31984,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Xzeus</Player>
     <LostExp>1083</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32042,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Bielzin</Player>
     <LostExp>285</LostExp>
     <KilledBy>Cyclops</KilledBy>
