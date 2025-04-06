@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743950348095</GeneratedAt>
+  <GeneratedAt>1743950647871</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Urekmazino</Player>
+    <LostExp>963041</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-06 16:40:01</Time>
+    <Location>(31869,32031,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Baam</Player>
     <LostExp>802217</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32053,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Xzeus</Player>
     <LostExp>1083</LostExp>
     <KilledBy>GM-Doro</KilledBy>
