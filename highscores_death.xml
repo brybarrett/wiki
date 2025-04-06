@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743900018167</GeneratedAt>
+  <GeneratedAt>1743900318115</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panda</Player>
@@ -11,6 +11,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Urekmazino</Player>
+    <LostExp>372027</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-04-06 02:43:48</Time>
+    <Location>(32021,32227,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Zahard</Player>
+    <LostExp>240426</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-04-06 02:41:59</Time>
+    <Location>(32001,32226,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Tozhaizerx</Player>
     <LostExp>13586</LostExp>
     <KilledBy>Skeleton</KilledBy>
