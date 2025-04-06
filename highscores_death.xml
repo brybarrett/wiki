@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743976448205</GeneratedAt>
+  <GeneratedAt>1743976748484</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zedalapa</Player>
@@ -84,13 +84,21 @@
   <DeathEvent>
     <Rank>11</Rank>
     <Player>Zahard</Player>
+    <LostExp>2064012</LostExp>
+    <KilledBy>Werewolf Master</KilledBy>
+    <Time>2025-04-06 23:54:36</Time>
+    <Location>(32048,32319,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Zahard</Player>
     <LostExp>2014603</LostExp>
     <KilledBy>Shogun</KilledBy>
     <Time>2025-04-06 21:21:45</Time>
     <Location>(32052,31911,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Zahard</Player>
     <LostExp>1328011</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32052,31911,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Urekmazino</Player>
     <LostExp>1232590</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31869,32031,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Urekmazino</Player>
     <LostExp>1044241</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31869,32031,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Urekmazino</Player>
     <LostExp>963041</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31869,32031,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Urekmazino</Player>
     <LostExp>928360</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31868,32031,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Baam</Player>
     <LostExp>886542</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32053,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Baam</Player>
     <LostExp>802217</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32053,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Baam</Player>
     <LostExp>783394</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32053,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Ceifadora</Player>
     <LostExp>271457</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31943,31861,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Ishiki</Player>
     <LostExp>74631</LostExp>
     <KilledBy>Chun</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31975,31984,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Xzeus</Player>
     <LostExp>1083</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32042,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Bielzin</Player>
     <LostExp>285</LostExp>
     <KilledBy>Cyclops</KilledBy>
