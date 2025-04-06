@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743899118129</GeneratedAt>
+  <GeneratedAt>1743899418438</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Panda</Player>
+    <LostExp>532952</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-04-06 02:29:05</Time>
+    <Location>(32052,31910,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Tozhaizerx</Player>
     <LostExp>13586</LostExp>
     <KilledBy>Skeleton</KilledBy>
