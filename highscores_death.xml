@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743909918405</GeneratedAt>
+  <GeneratedAt>1743910218487</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Biel</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Urekmazino</Player>
+    <LostExp>471809</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-04-06 05:27:11</Time>
+    <Location>(32063,31903,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Zahard</Player>
     <LostExp>457237</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32003,32201,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Baam</Player>
     <LostExp>389319</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32051,31904,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Baam</Player>
     <LostExp>382099</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32025,31975,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Urekmazino</Player>
     <LostExp>372027</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32021,32227,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Baam</Player>
     <LostExp>364070</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32000,32206,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Zahard</Player>
     <LostExp>314713</LostExp>
     <KilledBy>Blue Stone</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31999,32209,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Zahard</Player>
     <LostExp>240426</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32001,32226,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Zahard</Player>
     <LostExp>239865</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32005,32210,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Tozhaizerx</Player>
     <LostExp>13586</LostExp>
     <KilledBy>Skeleton</KilledBy>
