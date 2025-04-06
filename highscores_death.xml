@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743901518131</GeneratedAt>
+  <GeneratedAt>1743901818155</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panda</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Zahard</Player>
+    <LostExp>457237</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-04-06 03:09:28</Time>
+    <Location>(32003,32201,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Urekmazino</Player>
     <LostExp>372027</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32021,32227,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Baam</Player>
     <LostExp>364070</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32000,32206,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Zahard</Player>
     <LostExp>314713</LostExp>
     <KilledBy>Blue Stone</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31999,32209,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Zahard</Player>
     <LostExp>240426</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32001,32226,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Zahard</Player>
     <LostExp>239865</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32005,32210,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Tozhaizerx</Player>
     <LostExp>13586</LostExp>
     <KilledBy>Skeleton</KilledBy>
