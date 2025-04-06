@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743974048221</GeneratedAt>
+  <GeneratedAt>1743974348184</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zedalapa</Player>
@@ -155,6 +155,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>20</Rank>
+    <Player>Ceifadora</Player>
+    <LostExp>271457</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-04-06 23:14:52</Time>
+    <Location>(31943,31861,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
     <Player>Ishiki</Player>
     <LostExp>74631</LostExp>
     <KilledBy>Chun</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31975,31984,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Xzeus</Player>
     <LostExp>1083</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32042,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Bielzin</Player>
     <LostExp>285</LostExp>
     <KilledBy>Cyclops</KilledBy>
