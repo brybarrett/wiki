@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743983118844</GeneratedAt>
+  <GeneratedAt>1743983418766</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Templar</Player>
+    <LostExp>11940626</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-07 01:48:50</Time>
+    <Location>(31964,32285,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Justin</Player>
     <LostExp>265497</LostExp>
     <KilledBy>Fire Drake</KilledBy>
