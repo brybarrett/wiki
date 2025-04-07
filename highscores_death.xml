@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744056919544</GeneratedAt>
+  <GeneratedAt>1744057219517</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingdeus</Player>
@@ -140,18 +140,18 @@
   <DeathEvent>
     <Rank>18</Rank>
     <Player>Hunterr</Player>
-    <LostExp>366842</LostExp>
-    <KilledBy>GM-Jhonnis</KilledBy>
-    <Time>2025-04-07 17:42:38</Time>
-    <Location>(32040,32039,8)</Location>
+    <LostExp>370185</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-04-07 22:17:39</Time>
+    <Location>(32010,31857,9)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>19</Rank>
     <Player>Hunterr</Player>
-    <LostExp>358440</LostExp>
-    <KilledBy>Fire Drake</KilledBy>
-    <Time>2025-04-07 21:13:33</Time>
-    <Location>(31984,31967,8)</Location>
+    <LostExp>366842</LostExp>
+    <KilledBy>GM-Jhonnis</KilledBy>
+    <Time>2025-04-07 17:42:38</Time>
+    <Location>(32040,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>20</Rank>
@@ -164,13 +164,21 @@
   <DeathEvent>
     <Rank>21</Rank>
     <Player>Hunterr</Player>
+    <LostExp>358440</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-04-07 21:13:33</Time>
+    <Location>(31984,31967,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Hunterr</Player>
     <LostExp>322596</LostExp>
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-04-07 21:15:07</Time>
     <Location>(31984,31969,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Hunterr</Player>
     <LostExp>290336</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31984,31969,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Justin</Player>
     <LostExp>265497</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32022,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Reidelas</Player>
     <LostExp>72634</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31868,31913,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Killmee</Player>
     <LostExp>35860</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32789,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Killmee</Player>
     <LostExp>32708</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32010,31872,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Nandimbr</Player>
     <LostExp>20516</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31905,32057,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Nandimbr</Player>
     <LostExp>14485</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31977,31910,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Nandimbr</Player>
     <LostExp>9625</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31962,31867,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Nandimbr</Player>
     <LostExp>9380</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31995,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Nandimbr</Player>
     <LostExp>1506</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(31938,31919,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Bielzin</Player>
     <LostExp>1009</LostExp>
     <KilledBy>Bug</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31929,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Nandimbr</Player>
     <LostExp>579</LostExp>
     <KilledBy>Chaleton</KilledBy>
