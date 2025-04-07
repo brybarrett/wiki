@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1744051517200</GeneratedAt>
+  <GeneratedAt>1744051817193</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -73,12 +73,12 @@
   </Player>
   <Player>
     <Rank>15</Rank>
-    <Name>Moonzin </Name>
+    <Name>Deimonreii</Name>
     <StarsCollected>190</StarsCollected>
   </Player>
   <Player>
     <Rank>16</Rank>
-    <Name>Deimonreii</Name>
+    <Name>Moonzin </Name>
     <StarsCollected>190</StarsCollected>
   </Player>
   <Player>
@@ -328,12 +328,12 @@
   </Player>
   <Player>
     <Rank>66</Rank>
-    <Name>Faghorr</Name>
+    <Name>Redeon</Name>
     <StarsCollected>114</StarsCollected>
   </Player>
   <Player>
     <Rank>67</Rank>
-    <Name>Redeon</Name>
+    <Name>Faghorr</Name>
     <StarsCollected>114</StarsCollected>
   </Player>
   <Player>
@@ -363,12 +363,12 @@
   </Player>
   <Player>
     <Rank>73</Rank>
-    <Name>Natoriu</Name>
+    <Name>Dom</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
     <Rank>74</Rank>
-    <Name>Dom</Name>
+    <Name>Natoriu</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
@@ -608,17 +608,17 @@
   </Player>
   <Player>
     <Rank>122</Rank>
-    <Name>Kiyahatzu</Name>
+    <Name>Biel</Name>
     <StarsCollected>72</StarsCollected>
   </Player>
   <Player>
     <Rank>123</Rank>
-    <Name>Kham</Name>
+    <Name>Kiyahatzu</Name>
     <StarsCollected>72</StarsCollected>
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Biel</Name>
+    <Name>Kham</Name>
     <StarsCollected>72</StarsCollected>
   </Player>
   <Player>
@@ -628,17 +628,17 @@
   </Player>
   <Player>
     <Rank>126</Rank>
-    <Name>Klng</Name>
-    <StarsCollected>69</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>127</Rank>
     <Name>Lordwolf</Name>
     <StarsCollected>69</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Francisco</Name>
+    <StarsCollected>69</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Klng</Name>
     <StarsCollected>69</StarsCollected>
   </Player>
 </StarsHighscores>
