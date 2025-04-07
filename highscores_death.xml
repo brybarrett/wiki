@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744027819417</GeneratedAt>
+  <GeneratedAt>1744028119286</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingdeus</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Canix</Player>
+    <LostExp>1111893</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-07 14:12:56</Time>
+    <Location>(31944,31992,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Justin</Player>
     <LostExp>265497</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32022,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Nandimbr</Player>
     <LostExp>14485</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31977,31910,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Nandimbr</Player>
     <LostExp>9625</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31962,31867,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Nandimbr</Player>
     <LostExp>9380</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31995,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Nandimbr</Player>
     <LostExp>1506</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31938,31919,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Bielzin</Player>
     <LostExp>1009</LostExp>
     <KilledBy>Bug</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31929,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Nandimbr</Player>
     <LostExp>579</LostExp>
     <KilledBy>Chaleton</KilledBy>
