@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743984318899</GeneratedAt>
+  <GeneratedAt>1743984618672</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templar</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Zahard</Player>
+    <LostExp>1869271</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-07 02:08:15</Time>
+    <Location>(31944,31990,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Justin</Player>
     <LostExp>265497</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32022,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Bielzin</Player>
     <LostExp>1009</LostExp>
     <KilledBy>Bug</KilledBy>
