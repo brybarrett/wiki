@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744026619427</GeneratedAt>
+  <GeneratedAt>1744026919186</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingdeus</Player>
@@ -84,13 +84,21 @@
   <DeathEvent>
     <Rank>11</Rank>
     <Player>Nandimbr</Player>
+    <LostExp>14485</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-07 13:54:48</Time>
+    <Location>(31977,31910,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Nandimbr</Player>
     <LostExp>9625</LostExp>
     <KilledBy>Shadow</KilledBy>
     <Time>2025-04-07 11:44:34</Time>
     <Location>(31962,31867,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Nandimbr</Player>
     <LostExp>9380</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31995,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Nandimbr</Player>
     <LostExp>1506</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31938,31919,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Bielzin</Player>
     <LostExp>1009</LostExp>
     <KilledBy>Bug</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31929,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Nandimbr</Player>
     <LostExp>579</LostExp>
     <KilledBy>Chaleton</KilledBy>
