@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744015519125</GeneratedAt>
+  <GeneratedAt>1744015819130</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingdeus</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Nandimbr</Player>
+    <LostExp>1506</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-07 10:49:04</Time>
+    <Location>(31938,31919,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Bielzin</Player>
     <LostExp>1009</LostExp>
     <KilledBy>Bug</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31929,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Nandimbr</Player>
     <LostExp>579</LostExp>
     <KilledBy>Chaleton</KilledBy>
