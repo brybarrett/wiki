@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1743993918810</GeneratedAt>
+  <GeneratedAt>1743994219242</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kingdeus</Player>
+    <LostExp>856737381</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-07 04:50:07</Time>
+    <Location>(31952,32265,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Thug</Player>
     <LostExp>29823700</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32016,32202,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Templar</Player>
     <LostExp>11940626</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31964,32285,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Urekmazino</Player>
     <LostExp>3093609</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32065,32298,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Zahard</Player>
     <LostExp>1869271</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31944,31990,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Justin</Player>
     <LostExp>265497</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32022,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Bielzin</Player>
     <LostExp>1009</LostExp>
     <KilledBy>Bug</KilledBy>
