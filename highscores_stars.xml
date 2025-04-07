@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1744017316838</GeneratedAt>
+  <GeneratedAt>1744017616847</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -73,12 +73,12 @@
   </Player>
   <Player>
     <Rank>15</Rank>
-    <Name>Deimonreii</Name>
+    <Name>Moonzin</Name>
     <StarsCollected>190</StarsCollected>
   </Player>
   <Player>
     <Rank>16</Rank>
-    <Name>Moonzin</Name>
+    <Name>Deimonreii</Name>
     <StarsCollected>190</StarsCollected>
   </Player>
   <Player>
@@ -128,12 +128,12 @@
   </Player>
   <Player>
     <Rank>26</Rank>
-    <Name>Seventysvn</Name>
+    <Name>Wizav</Name>
     <StarsCollected>158</StarsCollected>
   </Player>
   <Player>
     <Rank>27</Rank>
-    <Name>Wizav</Name>
+    <Name>Seventysvn</Name>
     <StarsCollected>158</StarsCollected>
   </Player>
   <Player>
@@ -363,12 +363,12 @@
   </Player>
   <Player>
     <Rank>73</Rank>
-    <Name>Dom</Name>
+    <Name>Natoriu</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
     <Rank>74</Rank>
-    <Name>Natoriu</Name>
+    <Name>Dom</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
@@ -503,17 +503,17 @@
   </Player>
   <Player>
     <Rank>101</Rank>
-    <Name>Pudin</Name>
-    <StarsCollected>80</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>102</Rank>
     <Name>Jembei</Name>
     <StarsCollected>80</StarsCollected>
   </Player>
   <Player>
-    <Rank>103</Rank>
+    <Rank>102</Rank>
     <Name>Sasuke</Name>
+    <StarsCollected>80</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>103</Rank>
+    <Name>Pudin</Name>
     <StarsCollected>80</StarsCollected>
   </Player>
   <Player>
@@ -608,17 +608,17 @@
   </Player>
   <Player>
     <Rank>122</Rank>
-    <Name>Biel</Name>
-    <StarsCollected>72</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>123</Rank>
     <Name>Kiyahatzu</Name>
     <StarsCollected>72</StarsCollected>
   </Player>
   <Player>
-    <Rank>124</Rank>
+    <Rank>123</Rank>
     <Name>Kham</Name>
+    <StarsCollected>72</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>124</Rank>
+    <Name>Biel</Name>
     <StarsCollected>72</StarsCollected>
   </Player>
   <Player>
@@ -628,17 +628,17 @@
   </Player>
   <Player>
     <Rank>126</Rank>
-    <Name>Francisco</Name>
-    <StarsCollected>69</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>127</Rank>
     <Name>Klng</Name>
     <StarsCollected>69</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Lordwolf</Name>
+    <StarsCollected>69</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Francisco</Name>
     <StarsCollected>69</StarsCollected>
   </Player>
 </StarsHighscores>
