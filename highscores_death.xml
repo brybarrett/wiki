@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744147219270</GeneratedAt>
+  <GeneratedAt>1744147519171</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bradleywiz</Player>
@@ -211,6 +211,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>27</Rank>
+    <Player>Bane</Player>
+    <LostExp>106897</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-04-08 23:23:04</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
     <Player>Krus</Player>
     <LostExp>3744</LostExp>
     <KilledBy>Orc Leader</KilledBy>
