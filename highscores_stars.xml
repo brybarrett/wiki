@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1744115416812</GeneratedAt>
+  <GeneratedAt>1744115716806</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -628,17 +628,17 @@
   </Player>
   <Player>
     <Rank>126</Rank>
+    <Name>Cochilo</Name>
+    <StarsCollected>71</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>127</Rank>
     <Name>Warr</Name>
     <StarsCollected>70</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
-    <Name>Lordwolf</Name>
-    <StarsCollected>69</StarsCollected>
-  </Player>
-  <Player>
     <Rank>128</Rank>
-    <Name>Francisco</Name>
+    <Name>Lordwolf</Name>
     <StarsCollected>69</StarsCollected>
   </Player>
 </StarsHighscores>
