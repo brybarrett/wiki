@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744155918412</GeneratedAt>
+  <GeneratedAt>1744156218363</GeneratedAt>
+  <DeathEvent>
+    <Rank>1</Rank>
+    <Player>Krus</Player>
+    <LostExp>3604</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-09 01:45:41</Time>
+    <Location>(31883,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Krus</Player>
+    <LostExp>3604</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-09 01:45:41</Time>
+    <Location>(31883,32046,8)</Location>
+  </DeathEvent>
 </DeathHighscores>
