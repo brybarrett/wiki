@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744103118907</GeneratedAt>
+  <GeneratedAt>1744103419129</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templarr</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Meeca</Player>
+    <LostExp>26996205</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-04-08 11:08:47</Time>
+    <Location>(32019,32226,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Templarr</Player>
     <LostExp>11673886</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31962,32270,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Cochilo</Player>
     <LostExp>5854072</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31944,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Teig</Player>
     <LostExp>4179934</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32042,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Teig</Player>
     <LostExp>3761941</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32042,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Pierre</Player>
     <LostExp>3045164</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31887,32000,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Phoud</Player>
     <LostExp>2409767</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32048,32338,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Canix</Player>
     <LostExp>1116854</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31899,31989,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Reidelas</Player>
     <LostExp>550744</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31947,32012,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Ynger</Player>
     <LostExp>496892</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31938,32016,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Hunterr</Player>
     <LostExp>370195</LostExp>
     <KilledBy>Fire Drake</KilledBy>
