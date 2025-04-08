@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744076418592</GeneratedAt>
+  <GeneratedAt>1744076718560</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templarr</Player>
@@ -11,6 +11,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Teig</Player>
+    <LostExp>4179934</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-04-08 03:40:38</Time>
+    <Location>(32042,32038,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Teig</Player>
+    <LostExp>3761941</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-04-08 03:40:38</Time>
+    <Location>(32042,32038,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Reidelas</Player>
     <LostExp>550744</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(31947,32012,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Hunterr</Player>
     <LostExp>370195</LostExp>
     <KilledBy>Fire Drake</KilledBy>
