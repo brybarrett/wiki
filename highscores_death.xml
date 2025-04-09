@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744162218403</GeneratedAt>
+  <GeneratedAt>1744162518338</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Templar</Player>
+    <LostExp>30622036</LostExp>
+    <KilledBy>Fouldraky</KilledBy>
+    <Time>2025-04-09 03:31:44</Time>
+    <Location>(32280,32347,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Hordel</Player>
     <LostExp>4818123</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -10,7 +18,15 @@
     <Location>(32044,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
+    <Player>Zahard</Player>
+    <LostExp>3095785</LostExp>
+    <KilledBy>Fouldraky</KilledBy>
+    <Time>2025-04-09 03:31:46</Time>
+    <Location>(32280,32348,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Buccca</Player>
     <LostExp>1386336</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(31888,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Krus</Player>
     <LostExp>3604</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(31883,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Krus</Player>
     <LostExp>3604</LostExp>
     <KilledBy>Werewolf</KilledBy>
