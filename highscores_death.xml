@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744167318346</GeneratedAt>
+  <GeneratedAt>1744167618495</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templar</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Zahard</Player>
+    <LostExp>2918512</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-09 04:57:37</Time>
+    <Location>(31944,31991,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Buccca</Player>
     <LostExp>1386336</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31888,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Hunterr</Player>
     <LostExp>956067</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31982,31958,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Yakoebom</Player>
     <LostExp>450807</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32011,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Yakoebom</Player>
     <LostExp>292452</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31889,31899,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Yakoebom</Player>
     <LostExp>271631</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31886,31898,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Krus</Player>
     <LostExp>3604</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31883,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Krus</Player>
     <LostExp>3604</LostExp>
     <KilledBy>Werewolf</KilledBy>
