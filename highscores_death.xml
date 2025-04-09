@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744215319499</GeneratedAt>
+  <GeneratedAt>1744215618830</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bradleywiz</Player>
@@ -211,6 +211,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>27</Rank>
+    <Player>Kannibalz</Player>
+    <LostExp>1735</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-09 18:17:55</Time>
+    <Location>(31982,31919,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
     <Player>Zewina</Player>
     <LostExp>10</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32042,32036,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Zewina</Player>
     <LostExp>9</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
