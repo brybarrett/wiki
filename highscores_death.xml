@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744160118408</GeneratedAt>
+  <GeneratedAt>1744160418344</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Buccca</Player>
+    <LostExp>1386336</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-09 02:58:40</Time>
+    <Location>(31888,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Krus</Player>
     <LostExp>3604</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31883,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Krus</Player>
     <LostExp>3604</LostExp>
     <KilledBy>Werewolf</KilledBy>
