@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744205718811</GeneratedAt>
+  <GeneratedAt>1744206018849</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bradleywiz</Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Msblue</Player>
+    <LostExp>2651074</LostExp>
+    <KilledBy>Ghoranus</KilledBy>
+    <Time>2025-04-09 15:40:14</Time>
+    <Location>(32040,31832,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Panda</Player>
     <LostExp>1750486</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32052,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Shanksz</Player>
     <LostExp>1471996</LostExp>
     <KilledBy>Scarapy Master</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31986,32311,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Buccca</Player>
     <LostExp>1386336</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31888,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Hunterr</Player>
     <LostExp>1069170</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32026,31977,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Hunterr</Player>
     <LostExp>956067</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31982,31958,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Yakoebom</Player>
     <LostExp>450807</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32011,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Yakoebom</Player>
     <LostExp>443769</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31989,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Bonilha</Player>
     <LostExp>368734</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31991,32075,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Yakoebom</Player>
     <LostExp>292452</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -162,20 +170,12 @@
     <Location>(31889,31899,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Yakoebom</Player>
     <LostExp>271631</LostExp>
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-04-09 03:47:54</Time>
     <Location>(31886,31898,9)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>22</Rank>
-    <Player>Krus</Player>
-    <LostExp>3604</LostExp>
-    <KilledBy>Werewolf</KilledBy>
-    <Time>2025-04-09 01:45:41</Time>
-    <Location>(31883,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>23</Rank>
@@ -187,6 +187,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>24</Rank>
+    <Player>Krus</Player>
+    <LostExp>3604</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-09 01:45:41</Time>
+    <Location>(31883,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
     <Player>Zewina</Player>
     <LostExp>10</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32042,32036,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Zewina</Player>
     <LostExp>9</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
