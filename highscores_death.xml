@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744241419426</GeneratedAt>
+  <GeneratedAt>1744241719349</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bonilha</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Reeh</Player>
+    <LostExp>4258</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-10 01:33:12</Time>
+    <Location>(32012,31884,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Reeh</Player>
     <LostExp>3382</LostExp>
     <KilledBy>Scorpion</KilledBy>
