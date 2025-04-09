@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1744207216614</GeneratedAt>
+  <GeneratedAt>1744207516501</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -163,17 +163,17 @@
   </Player>
   <Player>
     <Rank>33</Rank>
-    <Name>Nobiro</Name>
+    <Name>Lendario</Name>
     <StarsCollected>143</StarsCollected>
   </Player>
   <Player>
     <Rank>34</Rank>
-    <Name>Okomura</Name>
+    <Name>Nobiro</Name>
     <StarsCollected>143</StarsCollected>
   </Player>
   <Player>
     <Rank>35</Rank>
-    <Name>Lendario</Name>
+    <Name>Okomura</Name>
     <StarsCollected>143</StarsCollected>
   </Player>
   <Player>
@@ -188,22 +188,22 @@
   </Player>
   <Player>
     <Rank>38</Rank>
-    <Name>Fay</Name>
+    <Name>Goldtanker</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
     <Rank>39</Rank>
-    <Name>Godcarver</Name>
-    <StarsCollected>137</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>40</Rank>
     <Name>Ynk</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
+    <Rank>40</Rank>
+    <Name>Fay</Name>
+    <StarsCollected>137</StarsCollected>
+  </Player>
+  <Player>
     <Rank>41</Rank>
-    <Name>Goldtanker</Name>
+    <Name>Godcarver</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -273,12 +273,12 @@
   </Player>
   <Player>
     <Rank>55</Rank>
-    <Name>Mosqitoz</Name>
+    <Name>Guinny</Name>
     <StarsCollected>126</StarsCollected>
   </Player>
   <Player>
     <Rank>56</Rank>
-    <Name>Guinny</Name>
+    <Name>Mosqitoz</Name>
     <StarsCollected>126</StarsCollected>
   </Player>
   <Player>
@@ -398,12 +398,12 @@
   </Player>
   <Player>
     <Rank>80</Rank>
-    <Name>Agenmarini</Name>
+    <Name>Indra</Name>
     <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
     <Rank>81</Rank>
-    <Name>Indra</Name>
+    <Name>Agenmarini</Name>
     <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
@@ -448,17 +448,17 @@
   </Player>
   <Player>
     <Rank>90</Rank>
-    <Name>Xforce</Name>
+    <Name>Mineira</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
     <Rank>91</Rank>
-    <Name>Yaza</Name>
+    <Name>Xforce</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
     <Rank>92</Rank>
-    <Name>Mineira</Name>
+    <Name>Yaza</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
@@ -518,27 +518,27 @@
   </Player>
   <Player>
     <Rank>104</Rank>
-    <Name>Cochilo</Name>
-    <StarsCollected>79</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>105</Rank>
     <Name>Kopi</Name>
     <StarsCollected>79</StarsCollected>
   </Player>
   <Player>
+    <Rank>105</Rank>
+    <Name>Cochilo</Name>
+    <StarsCollected>79</StarsCollected>
+  </Player>
+  <Player>
     <Rank>106</Rank>
-    <Name>Jcl</Name>
+    <Name>Mrbean</Name>
     <StarsCollected>78</StarsCollected>
   </Player>
   <Player>
     <Rank>107</Rank>
-    <Name>Templar</Name>
+    <Name>Jcl</Name>
     <StarsCollected>78</StarsCollected>
   </Player>
   <Player>
     <Rank>108</Rank>
-    <Name>Mrbean</Name>
+    <Name>Templar</Name>
     <StarsCollected>78</StarsCollected>
   </Player>
   <Player>
@@ -568,12 +568,12 @@
   </Player>
   <Player>
     <Rank>114</Rank>
-    <Name>Maxxbr</Name>
+    <Name>Arigatonaa</Name>
     <StarsCollected>76</StarsCollected>
   </Player>
   <Player>
     <Rank>115</Rank>
-    <Name>Arigatonaa</Name>
+    <Name>Maxxbr</Name>
     <StarsCollected>76</StarsCollected>
   </Player>
   <Player>
@@ -593,32 +593,32 @@
   </Player>
   <Player>
     <Rank>119</Rank>
-    <Name>Flamenia</Name>
-    <StarsCollected>74</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>120</Rank>
     <Name>Biawak</Name>
     <StarsCollected>74</StarsCollected>
   </Player>
   <Player>
+    <Rank>120</Rank>
+    <Name>Flamenia</Name>
+    <StarsCollected>74</StarsCollected>
+  </Player>
+  <Player>
     <Rank>121</Rank>
-    <Name>Mineiro</Name>
+    <Name>Kawan</Name>
     <StarsCollected>73</StarsCollected>
   </Player>
   <Player>
     <Rank>122</Rank>
-    <Name>Bradleywiz</Name>
+    <Name>Mineiro</Name>
     <StarsCollected>73</StarsCollected>
   </Player>
   <Player>
     <Rank>123</Rank>
-    <Name>Cake</Name>
+    <Name>Bradleywiz</Name>
     <StarsCollected>73</StarsCollected>
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Kawan</Name>
+    <Name>Cake</Name>
     <StarsCollected>73</StarsCollected>
   </Player>
   <Player>
