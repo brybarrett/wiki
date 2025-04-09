@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744166118334</GeneratedAt>
+  <GeneratedAt>1744166418288</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templar</Player>
@@ -52,13 +52,21 @@
   <DeathEvent>
     <Rank>7</Rank>
     <Player>Yakoebom</Player>
+    <LostExp>450807</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-04-09 04:37:35</Time>
+    <Location>(32011,32030,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Yakoebom</Player>
     <LostExp>292452</LostExp>
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-04-09 03:44:55</Time>
     <Location>(31889,31899,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Yakoebom</Player>
     <LostExp>271631</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31886,31898,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Krus</Player>
     <LostExp>3604</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31883,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Krus</Player>
     <LostExp>3604</LostExp>
     <KilledBy>Werewolf</KilledBy>
