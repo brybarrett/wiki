@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744176618635</GeneratedAt>
+  <GeneratedAt>1744176918438</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ynk</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Shanksz</Player>
+    <LostExp>1471996</LostExp>
+    <KilledBy>Scarapy Master</KilledBy>
+    <Time>2025-04-09 07:34:55</Time>
+    <Location>(31986,32311,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Buccca</Player>
     <LostExp>1386336</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31888,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Hunterr</Player>
     <LostExp>1069170</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32026,31977,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Hunterr</Player>
     <LostExp>956067</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31982,31958,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Yakoebom</Player>
     <LostExp>450807</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32011,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Yakoebom</Player>
     <LostExp>292452</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31889,31899,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Yakoebom</Player>
     <LostExp>271631</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31886,31898,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Krus</Player>
     <LostExp>3604</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31883,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Krus</Player>
     <LostExp>3604</LostExp>
     <KilledBy>Werewolf</KilledBy>
