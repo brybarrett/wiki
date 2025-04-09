@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744177818696</GeneratedAt>
+  <GeneratedAt>1744178118393</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ynk</Player>
@@ -136,5 +136,21 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-09 01:45:41</Time>
     <Location>(31883,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
+    <Player>Zewina</Player>
+    <LostExp>10</LostExp>
+    <KilledBy>GM-Jhonnis</KilledBy>
+    <Time>2025-04-09 07:51:32</Time>
+    <Location>(32042,32036,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Zewina</Player>
+    <LostExp>9</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-04-09 07:52:42</Time>
+    <Location>(32042,32037,8)</Location>
   </DeathEvent>
 </DeathHighscores>
