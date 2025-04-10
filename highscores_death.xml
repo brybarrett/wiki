@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744260686631</GeneratedAt>
+  <GeneratedAt>1744260986795</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Canix</Player>
+    <LostExp>2298857</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-10 06:55:48</Time>
+    <Location>(31879,32043,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Tiao</Player>
     <LostExp>1859232</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32014,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Reeh</Player>
     <LostExp>31094</LostExp>
     <KilledBy>Tarantula</KilledBy>
