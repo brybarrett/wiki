@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744293686983</GeneratedAt>
+  <GeneratedAt>1744293987204</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zedalapa</Player>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Aquab</Player>
+    <LostExp>30889</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-04-10 16:02:09</Time>
+    <Location>(32005,31940,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Boduna</Player>
     <LostExp>610</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31992,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Danteniel</Player>
     <LostExp>73</LostExp>
     <KilledBy>Spider</KilledBy>
