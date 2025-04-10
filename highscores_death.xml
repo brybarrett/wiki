@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744309887166</GeneratedAt>
+  <GeneratedAt>1744310187095</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Moonzin</Player>
@@ -195,6 +195,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>25</Rank>
+    <Player>Kannibalz</Player>
+    <LostExp>5511</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-04-10 20:35:32</Time>
+    <Location>(31998,32053,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
     <Player>Boduna</Player>
     <LostExp>610</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31992,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Danteniel</Player>
     <LostExp>73</LostExp>
     <KilledBy>Spider</KilledBy>
