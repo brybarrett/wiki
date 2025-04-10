@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744327819288</GeneratedAt>
+  <GeneratedAt>1744328119393</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templar</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Wardy</KilledBy>
     <Time>2025-04-11 01:09:09</Time>
     <Location>(31999,32193,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Reeh</Player>
+    <LostExp>165842</LostExp>
+    <KilledBy>GM-Doro</KilledBy>
+    <Time>2025-04-11 01:33:53</Time>
+    <Location>(32041,32039,8)</Location>
   </DeathEvent>
 </DeathHighscores>
