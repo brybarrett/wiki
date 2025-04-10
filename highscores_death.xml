@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744266686668</GeneratedAt>
+  <GeneratedAt>1744266986882</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zedalapa</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Serena</Player>
+    <LostExp>36018427</LostExp>
+    <KilledBy>Boruto</KilledBy>
+    <Time>2025-04-10 08:35:42</Time>
+    <Location>(31982,32232,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Meeca</Player>
     <LostExp>28454165</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31949,32275,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Dewi</Player>
     <LostExp>3497568</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32020,31805,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Canix</Player>
     <LostExp>2298857</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31879,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Tiao</Player>
     <LostExp>1859232</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32014,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Cimit</Player>
     <LostExp>98694</LostExp>
     <KilledBy>Baby Drake</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31989,31939,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Reeh</Player>
     <LostExp>31094</LostExp>
     <KilledBy>Tarantula</KilledBy>
