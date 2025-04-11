@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744394720417</GeneratedAt>
+  <GeneratedAt>1744395020673</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingeddi</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Vamplod</Player>
+    <LostExp>25466210</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-11 20:08:22</Time>
+    <Location>(31949,31995,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Templarr</Player>
     <LostExp>15067127</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31915,31968,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Villain</Player>
     <LostExp>9317122</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32038,31832,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Zahard</Player>
     <LostExp>7344302</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31920,31981,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Baam</Player>
     <LostExp>6501385</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31899,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Baam</Player>
     <LostExp>5869327</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -122,7 +130,15 @@
     <Location>(31911,31980,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
+    <Player>Buccca</Player>
+    <LostExp>4213964</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-11 20:06:08</Time>
+    <Location>(31865,32055,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Dewi</Player>
     <LostExp>3432811</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -130,7 +146,7 @@
     <Location>(32037,31830,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>19</Rank>
     <Player>Phoud</Player>
     <LostExp>2802347</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -138,7 +154,7 @@
     <Location>(32042,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>20</Rank>
     <Player>Triad</Player>
     <LostExp>429282</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -146,7 +162,7 @@
     <Location>(31910,32003,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>21</Rank>
     <Player>Neaver</Player>
     <LostExp>408527</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -154,7 +170,7 @@
     <Location>(32789,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>22</Rank>
     <Player>Woaini</Player>
     <LostExp>266538</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -162,7 +178,7 @@
     <Location>(32016,31937,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>23</Rank>
     <Player>Gallant</Player>
     <LostExp>241664</LostExp>
     <KilledBy>Minotaur</KilledBy>
@@ -170,7 +186,7 @@
     <Location>(31892,32012,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>24</Rank>
     <Player>Gallant</Player>
     <LostExp>232196</LostExp>
     <KilledBy>Blue Stone</KilledBy>
@@ -178,7 +194,7 @@
     <Location>(32002,32211,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>25</Rank>
     <Player>Reeh</Player>
     <LostExp>212733</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -186,7 +202,7 @@
     <Location>(31898,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>26</Rank>
     <Player>Reeh</Player>
     <LostExp>165842</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -194,7 +210,7 @@
     <Location>(32041,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>27</Rank>
     <Player>Kannibalz</Player>
     <LostExp>112124</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -202,7 +218,7 @@
     <Location>(31953,31861,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>28</Rank>
     <Player>Barba</Player>
     <LostExp>60617</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -210,7 +226,7 @@
     <Location>(31996,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>29</Rank>
     <Player>Barba</Player>
     <LostExp>44109</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -218,7 +234,7 @@
     <Location>(31900,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>30</Rank>
     <Player>Gallant</Player>
     <LostExp>20457</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -226,7 +242,7 @@
     <Location>(32013,31884,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>31</Rank>
     <Player>Dark</Player>
     <LostExp>20417</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -234,7 +250,7 @@
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>32</Rank>
     <Player>Dark</Player>
     <LostExp>20399</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -242,7 +258,7 @@
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>33</Rank>
     <Player>Dark</Player>
     <LostExp>19359</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -250,7 +266,7 @@
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>34</Rank>
     <Player>Dark</Player>
     <LostExp>18620</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -258,7 +274,7 @@
     <Location>(31991,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>35</Rank>
     <Player>Dark</Player>
     <LostExp>17192</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -266,7 +282,7 @@
     <Location>(31978,32067,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>36</Rank>
     <Player>Gallant</Player>
     <LostExp>15060</LostExp>
     <KilledBy>Cyclops</KilledBy>
@@ -274,7 +290,7 @@
     <Location>(31883,31967,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>37</Rank>
     <Player>Dark</Player>
     <LostExp>14129</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -282,7 +298,7 @@
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>38</Rank>
     <Player>Eunha</Player>
     <LostExp>11194</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -290,7 +306,7 @@
     <Location>(32016,31938,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>39</Rank>
     <Player>Gallant</Player>
     <LostExp>3421</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -298,7 +314,7 @@
     <Location>(31962,31932,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>40</Rank>
     <Player>Gallant</Player>
     <LostExp>3055</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -306,7 +322,7 @@
     <Location>(31967,31925,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>41</Rank>
     <Player>Gallant</Player>
     <LostExp>185</LostExp>
     <KilledBy>Scorpion</KilledBy>
