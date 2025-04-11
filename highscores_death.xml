@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744345819401</GeneratedAt>
+  <GeneratedAt>1744346119919</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templar</Player>
@@ -60,13 +60,21 @@
   <DeathEvent>
     <Rank>8</Rank>
     <Player>Dark</Player>
+    <LostExp>20417</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-04-11 06:35:03</Time>
+    <Location>(31996,32055,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Dark</Player>
     <LostExp>20399</LostExp>
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-04-11 06:09:09</Time>
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Dark</Player>
     <LostExp>17192</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31978,32067,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Dark</Player>
     <LostExp>14129</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Eunha</Player>
     <LostExp>11194</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -90,7 +98,15 @@
     <Location>(32016,31938,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
+    <Player>Gallant</Player>
+    <LostExp>3055</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-11 06:32:17</Time>
+    <Location>(31967,31925,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Gallant</Player>
     <LostExp>185</LostExp>
     <KilledBy>Scorpion</KilledBy>
