@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744347919532</GeneratedAt>
+  <GeneratedAt>1744348219595</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Templar</Player>
+    <LostExp>34154432</LostExp>
+    <KilledBy>Ninjany</KilledBy>
+    <Time>2025-04-11 07:05:43</Time>
+    <Location>(31793,31908,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Templar</Player>
     <LostExp>32381054</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31999,32193,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Phoud</Player>
     <LostExp>2802347</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32042,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Triad</Player>
     <LostExp>429282</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31910,32003,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Neaver</Player>
     <LostExp>408527</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32789,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Woaini</Player>
     <LostExp>266538</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32016,31937,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Reeh</Player>
     <LostExp>212733</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31898,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Reeh</Player>
     <LostExp>165842</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32041,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Dark</Player>
     <LostExp>20417</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Dark</Player>
     <LostExp>20399</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Dark</Player>
     <LostExp>17192</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -82,7 +90,15 @@
     <Location>(31978,32067,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
+    <Player>Gallant</Player>
+    <LostExp>15060</LostExp>
+    <KilledBy>Cyclops</KilledBy>
+    <Time>2025-04-11 07:07:10</Time>
+    <Location>(31883,31967,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Dark</Player>
     <LostExp>14129</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Eunha</Player>
     <LostExp>11194</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -98,7 +114,7 @@
     <Location>(32016,31938,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>15</Rank>
     <Player>Gallant</Player>
     <LostExp>3421</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -106,7 +122,7 @@
     <Location>(31962,31932,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <Player>Gallant</Player>
     <LostExp>3055</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -114,7 +130,7 @@
     <Location>(31967,31925,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>17</Rank>
     <Player>Gallant</Player>
     <LostExp>185</LostExp>
     <KilledBy>Scorpion</KilledBy>
