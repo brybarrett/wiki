@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744337119346</GeneratedAt>
+  <GeneratedAt>1744337419526</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templar</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Triad</Player>
+    <LostExp>429282</LostExp>
+    <KilledBy>Kreppan</KilledBy>
+    <Time>2025-04-11 04:09:24</Time>
+    <Location>(31910,32003,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Neaver</Player>
     <LostExp>408527</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32789,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Woaini</Player>
     <LostExp>266538</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32016,31937,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Reeh</Player>
     <LostExp>212733</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31898,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Reeh</Player>
     <LostExp>165842</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32041,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Dark</Player>
     <LostExp>14129</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Eunha</Player>
     <LostExp>11194</LostExp>
     <KilledBy>Fire Drake</KilledBy>
