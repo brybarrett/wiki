@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744330819991</GeneratedAt>
+  <GeneratedAt>1744331119399</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templar</Player>
@@ -24,5 +24,13 @@
     <KilledBy>GM-Doro</KilledBy>
     <Time>2025-04-11 01:33:53</Time>
     <Location>(32041,32039,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Eunha</Player>
+    <LostExp>11194</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-04-11 02:23:18</Time>
+    <Location>(32016,31938,8)</Location>
   </DeathEvent>
 </DeathHighscores>
