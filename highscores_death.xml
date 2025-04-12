@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744424722768</GeneratedAt>
+  <GeneratedAt>1744425022901</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hero</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Layse</Player>
+    <LostExp>3395602</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-04-12 04:30:14</Time>
+    <Location>(31986,32065,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Ayder</Player>
     <LostExp>2718418</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32031,32266,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Neaver</Player>
     <LostExp>705767</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -42,7 +50,15 @@
     <Location>(31951,32015,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
+    <Player>Gallant</Player>
+    <LostExp>360954</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-04-12 04:28:18</Time>
+    <Location>(31988,32016,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Kannibalz</Player>
     <LostExp>172287</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(32025,31979,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Kannibalz</Player>
     <LostExp>164941</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(31983,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Ishiki</Player>
     <LostExp>67175</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(31992,32018,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Dark</Player>
     <LostExp>57344</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(31990,31861,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Frostfenix</Player>
     <LostExp>7872</LostExp>
     <KilledBy>Scorpion</KilledBy>
