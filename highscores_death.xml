@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744451123161</GeneratedAt>
+  <GeneratedAt>1744451423078</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Zahard</Player>
+    <LostExp>6874256</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-12 11:46:03</Time>
+    <Location>(31954,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Baam</Player>
     <LostExp>6014259</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31946,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Reidelas</Player>
     <LostExp>3650648</LostExp>
     <KilledBy>Orc Master</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31988,31817,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Layse</Player>
     <LostExp>3395602</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31986,32065,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Ayder</Player>
     <LostExp>2718418</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32031,32266,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Laxus</Player>
     <LostExp>1297718</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31925,31986,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Neaver</Player>
     <LostExp>705767</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31951,32015,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Gallant</Player>
     <LostExp>360954</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31988,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Brisadeira</Player>
     <LostExp>173269</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32021,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Kannibalz</Player>
     <LostExp>172287</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32025,31979,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Kannibalz</Player>
     <LostExp>164941</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31983,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Dark</Player>
     <LostExp>115331</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31989,31866,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Dark</Player>
     <LostExp>107516</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31992,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Dark</Player>
     <LostExp>100489</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31943,31866,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Barba</Player>
     <LostExp>88233</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31989,32017,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Ishiki</Player>
     <LostExp>67175</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31992,32018,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Dark</Player>
     <LostExp>57344</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31990,31861,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Frostfenix</Player>
     <LostExp>7872</LostExp>
     <KilledBy>Scorpion</KilledBy>
