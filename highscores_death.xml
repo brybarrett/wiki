@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744483822826</GeneratedAt>
+  <GeneratedAt>1744484122663</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pageone</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Bucccca</Player>
+    <LostExp>3804097</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-12 20:51:09</Time>
+    <Location>(31872,32060,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Brisadeira</Player>
     <LostExp>1135180</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32023,32257,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Boos</Player>
     <LostExp>849259</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32019,32226,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Xenaa</Player>
     <LostExp>574272</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32858,31971,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Brisadeira</Player>
     <LostExp>559127</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31881,31906,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Wylhamw</Player>
     <LostExp>246145</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31874,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Frostfenix</Player>
     <LostExp>105098</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32005,32048,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Dancrow</Player>
     <LostExp>686</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31965,31930,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Dancrow</Player>
     <LostExp>133</LostExp>
     <KilledBy>Scorpion</KilledBy>
