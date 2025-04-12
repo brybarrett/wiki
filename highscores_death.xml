@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744479322790</GeneratedAt>
+  <GeneratedAt>1744479622656</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pageone</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-12 18:52:41</Time>
     <Location>(31874,32061,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Dancrow</Player>
+    <LostExp>133</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-12 19:39:52</Time>
+    <Location>(31962,31931,8)</Location>
   </DeathEvent>
 </DeathHighscores>
