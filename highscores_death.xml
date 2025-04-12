@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744492822840</GeneratedAt>
+  <GeneratedAt>1744493122712</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pageone</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Aishiteru</Player>
+    <LostExp>8511904</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-04-12 23:24:15</Time>
+    <Location>(31987,32206,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Baam</Player>
     <LostExp>7987747</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Lith</Player>
     <LostExp>7288495</LostExp>
     <KilledBy>Horrornet</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32778,31985,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Bucccca</Player>
     <LostExp>3804097</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31872,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Jke</Player>
     <LostExp>3509364</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31880,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Takiyo</Player>
     <LostExp>1776080</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -82,20 +90,12 @@
     <Location>(32825,31984,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Brisadeira</Player>
     <LostExp>1135180</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-12 19:42:22</Time>
     <Location>(32023,32257,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>12</Rank>
-    <Player>Brisadeira</Player>
-    <LostExp>1037706</LostExp>
-    <KilledBy>Werewolf</KilledBy>
-    <Time>2025-04-12 21:01:35</Time>
-    <Location>(32026,32252,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Brisadeira</Player>
+    <LostExp>1037706</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-12 21:01:35</Time>
+    <Location>(32026,32252,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Boos</Player>
     <LostExp>849259</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32019,32226,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Xenaa</Player>
     <LostExp>574272</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32858,31971,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Brisadeira</Player>
     <LostExp>559127</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31881,31906,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Wylhamw</Player>
     <LostExp>246145</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31874,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Embrazado</Player>
     <LostExp>221343</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31996,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Frostfenix</Player>
     <LostExp>122603</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32004,32009,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Frostfenix</Player>
     <LostExp>117682</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32004,32009,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Frostfenix</Player>
     <LostExp>105098</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32005,32048,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Dancrow</Player>
     <LostExp>40475</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31982,31921,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Dancrow</Player>
     <LostExp>34329</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31981,31868,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Dancrow</Player>
     <LostExp>686</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31965,31930,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Dancrow</Player>
     <LostExp>133</LostExp>
     <KilledBy>Scorpion</KilledBy>
