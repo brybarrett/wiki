@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744479622656</GeneratedAt>
+  <GeneratedAt>1744479922732</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pageone</Player>
@@ -36,13 +36,21 @@
   <DeathEvent>
     <Rank>5</Rank>
     <Player>Brisadeira</Player>
+    <LostExp>1135180</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-12 19:42:22</Time>
+    <Location>(32023,32257,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Brisadeira</Player>
     <LostExp>559127</LostExp>
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-04-12 17:51:57</Time>
     <Location>(31881,31906,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Wylhamw</Player>
     <LostExp>246145</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31874,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Dancrow</Player>
     <LostExp>133</LostExp>
     <KilledBy>Scorpion</KilledBy>
