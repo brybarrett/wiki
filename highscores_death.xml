@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744417222689</GeneratedAt>
+  <GeneratedAt>1744417522781</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Hero</Player>
+    <LostExp>14182945</LostExp>
+    <KilledBy>Ghoranus</KilledBy>
+    <Time>2025-04-12 02:22:56</Time>
+    <Location>(32037,31830,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Villain</Player>
+    <LostExp>8480424</LostExp>
+    <KilledBy>Ghoranus</KilledBy>
+    <Time>2025-04-12 02:22:59</Time>
+    <Location>(32039,31831,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Ishiki</Player>
     <LostExp>67175</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -10,7 +26,7 @@
     <Location>(31992,32018,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Frostfenix</Player>
     <LostExp>7872</LostExp>
     <KilledBy>Scorpion</KilledBy>
