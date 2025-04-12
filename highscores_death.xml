@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744472479987</GeneratedAt>
+  <GeneratedAt>1744472780109</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Frieren</Player>
@@ -92,13 +92,21 @@
   <DeathEvent>
     <Rank>12</Rank>
     <Player>Brisadeiro</Player>
+    <LostExp>542219</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-04-12 17:43:55</Time>
+    <Location>(31866,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>Brisadeiro</Player>
     <LostExp>388177</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-12 14:57:06</Time>
     <Location>(31863,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Hunted</Player>
     <LostExp>185927</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31984,31968,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Punipun</Player>
     <LostExp>11302</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32017,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Punipun</Player>
     <LostExp>10172</LostExp>
     <KilledBy>Fire Drake</KilledBy>
