@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744470679965</GeneratedAt>
+  <GeneratedAt>1744470980095</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Frieren</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Baam</Player>
+    <LostExp>6592429</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-12 17:14:47</Time>
+    <Location>(31954,31992,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Zahard</Player>
     <LostExp>6495883</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31944,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Dinho</Player>
     <LostExp>2428988</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32822,32031,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Cimit</Player>
     <LostExp>1593699</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31901,31854,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Reeh</Player>
     <LostExp>929377</LostExp>
     <KilledBy>Vampmaster</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31974,31890,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Eduardo</Player>
     <LostExp>555490</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31878,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Brisadeiro</Player>
     <LostExp>388177</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31863,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Hunted</Player>
     <LostExp>185927</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31984,31968,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Punipun</Player>
     <LostExp>11302</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32017,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Punipun</Player>
     <LostExp>10172</LostExp>
     <KilledBy>Fire Drake</KilledBy>
