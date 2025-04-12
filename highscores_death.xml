@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744476622802</GeneratedAt>
+  <GeneratedAt>1744476922716</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Foreskin</Player>
@@ -11,10 +11,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Baam</Player>
+    <LostExp>7987747</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-12 18:55:02</Time>
+    <Location>(31954,31992,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Brisadeira</Player>
     <LostExp>559127</LostExp>
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-04-12 17:51:57</Time>
     <Location>(31881,31906,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Wylhamw</Player>
+    <LostExp>246145</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-12 18:52:41</Time>
+    <Location>(31874,32061,8)</Location>
   </DeathEvent>
 </DeathHighscores>
