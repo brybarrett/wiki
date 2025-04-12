@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1744479620414</GeneratedAt>
+  <GeneratedAt>1744479920444</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -173,12 +173,12 @@
   </Player>
   <Player>
     <Rank>35</Rank>
-    <Name>Drakee</Name>
+    <Name>Nono</Name>
     <StarsCollected>145</StarsCollected>
   </Player>
   <Player>
     <Rank>36</Rank>
-    <Name>Nono</Name>
+    <Name>Drakee</Name>
     <StarsCollected>145</StarsCollected>
   </Player>
   <Player>
@@ -403,17 +403,17 @@
   </Player>
   <Player>
     <Rank>81</Rank>
-    <Name>Indra</Name>
-    <StarsCollected>96</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>82</Rank>
     <Name>Agenmarini</Name>
     <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
-    <Rank>83</Rank>
+    <Rank>82</Rank>
     <Name>Killua</Name>
+    <StarsCollected>96</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>83</Rank>
+    <Name>Indra</Name>
     <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
@@ -518,22 +518,22 @@
   </Player>
   <Player>
     <Rank>104</Rank>
-    <Name>Jembei</Name>
-    <StarsCollected>80</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>105</Rank>
     <Name>Biel</Name>
     <StarsCollected>80</StarsCollected>
   </Player>
   <Player>
-    <Rank>106</Rank>
+    <Rank>105</Rank>
     <Name>Pudin</Name>
     <StarsCollected>80</StarsCollected>
   </Player>
   <Player>
-    <Rank>107</Rank>
+    <Rank>106</Rank>
     <Name>Sasuke</Name>
+    <StarsCollected>80</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>107</Rank>
+    <Name>Jembei</Name>
     <StarsCollected>80</StarsCollected>
   </Player>
   <Player>
@@ -588,17 +588,17 @@
   </Player>
   <Player>
     <Rank>118</Rank>
-    <Name>Biawak</Name>
-    <StarsCollected>75</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>119</Rank>
     <Name>Rouge</Name>
     <StarsCollected>75</StarsCollected>
   </Player>
   <Player>
-    <Rank>120</Rank>
+    <Rank>119</Rank>
     <Name>Khorhigee </Name>
+    <StarsCollected>75</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>120</Rank>
+    <Name>Biawak</Name>
     <StarsCollected>75</StarsCollected>
   </Player>
   <Player>
@@ -633,12 +633,12 @@
   </Player>
   <Player>
     <Rank>127</Rank>
-    <Name>Kham</Name>
+    <Name>Kiyahatzu</Name>
     <StarsCollected>72</StarsCollected>
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Kiyahatzu</Name>
+    <Name>Kham</Name>
     <StarsCollected>72</StarsCollected>
   </Player>
 </StarsHighscores>
