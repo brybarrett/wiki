@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744478422776</GeneratedAt>
+  <GeneratedAt>1744478722670</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pageone</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Nauk</Player>
+    <LostExp>28311647</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-12 19:23:31</Time>
+    <Location>(31962,32285,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Baam</Player>
     <LostExp>7987747</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Brisadeira</Player>
     <LostExp>559127</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31881,31906,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Wylhamw</Player>
     <LostExp>246145</LostExp>
     <KilledBy>Werewolf</KilledBy>
