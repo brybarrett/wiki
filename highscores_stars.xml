@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1744486220430</GeneratedAt>
+  <GeneratedAt>1744486520603</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -58,17 +58,17 @@
   </Player>
   <Player>
     <Rank>12</Rank>
+    <Name>Papito</Name>
+    <StarsCollected>201</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>13</Rank>
     <Name>Moonzin</Name>
     <StarsCollected>200</StarsCollected>
   </Player>
   <Player>
-    <Rank>13</Rank>
-    <Name>Shizuka</Name>
-    <StarsCollected>198</StarsCollected>
-  </Player>
-  <Player>
     <Rank>14</Rank>
-    <Name>Papito</Name>
+    <Name>Shizuka</Name>
     <StarsCollected>198</StarsCollected>
   </Player>
   <Player>
@@ -178,23 +178,23 @@
   </Player>
   <Player>
     <Rank>36</Rank>
-    <Name>Nono</Name>
+    <Name>Hiroshi</Name>
     <StarsCollected>145</StarsCollected>
   </Player>
   <Player>
     <Rank>37</Rank>
+    <Name>Nono</Name>
+    <StarsCollected>145</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>38</Rank>
     <Name>Lendario</Name>
     <StarsCollected>144</StarsCollected>
   </Player>
   <Player>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Name>Nobiro</Name>
     <StarsCollected>143</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>39</Rank>
-    <Name>Hiroshi</Name>
-    <StarsCollected>141</StarsCollected>
   </Player>
   <Player>
     <Rank>40</Rank>
