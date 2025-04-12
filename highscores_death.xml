@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744467080013</GeneratedAt>
+  <GeneratedAt>1744467380022</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Foreskin</Player>
@@ -48,5 +48,21 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-12 14:57:06</Time>
     <Location>(31863,32052,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Punipun</Player>
+    <LostExp>11302</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-04-12 16:15:37</Time>
+    <Location>(32017,31945,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Punipun</Player>
+    <LostExp>10172</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-04-12 16:15:37</Time>
+    <Location>(32017,31945,8)</Location>
   </DeathEvent>
 </DeathHighscores>
