@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744422623177</GeneratedAt>
+  <GeneratedAt>1744422922744</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hero</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Ayder</Player>
+    <LostExp>2718418</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-12 03:54:00</Time>
+    <Location>(32031,32266,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Neaver</Player>
     <LostExp>705767</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31951,32015,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Kannibalz</Player>
     <LostExp>172287</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32025,31979,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Kannibalz</Player>
     <LostExp>164941</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31983,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Ishiki</Player>
     <LostExp>67175</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31992,32018,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Dark</Player>
     <LostExp>57344</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31990,31861,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Frostfenix</Player>
     <LostExp>7872</LostExp>
     <KilledBy>Scorpion</KilledBy>
