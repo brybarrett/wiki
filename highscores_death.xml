@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744466179885</GeneratedAt>
+  <GeneratedAt>1744466480067</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Foreskin</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Baam</Player>
+    <LostExp>6600421</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-12 15:58:18</Time>
+    <Location>(31954,31992,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Zahard</Player>
     <LostExp>6495883</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31944,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Cimit</Player>
     <LostExp>1593699</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31901,31854,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Eduardo</Player>
     <LostExp>555490</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31878,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Brisadeiro</Player>
     <LostExp>388177</LostExp>
     <KilledBy>Werewolf</KilledBy>
