@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744560023015</GeneratedAt>
+  <GeneratedAt>1744560323045</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer </Player>
@@ -299,6 +299,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>38</Rank>
+    <Player>Digdin</Player>
+    <LostExp>24839</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-04-13 18:01:36</Time>
+    <Location>(31970,31861,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>39</Rank>
     <Player>Zabuza</Player>
     <LostExp>23993</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31984,31878,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Digdin</Player>
     <LostExp>20545</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(32006,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Zabuza</Player>
     <LostExp>14697</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31989,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Zabuza</Player>
     <LostExp>14051</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(31996,32057,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Zabuza</Player>
     <LostExp>13161</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(31997,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Zabuza</Player>
     <LostExp>13064</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(32014,32034,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Zulkarnain</Player>
     <LostExp>12649</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -354,11 +362,19 @@
     <Location>(32052,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Digdin</Player>
     <LostExp>11598</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-04-13 06:05:19</Time>
     <Location>(32013,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>47</Rank>
+    <Player>Alona</Player>
+    <LostExp>10210</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-04-13 18:04:24</Time>
+    <Location>(32015,32036,8)</Location>
   </DeathEvent>
 </DeathHighscores>
