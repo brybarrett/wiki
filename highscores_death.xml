@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744566022969</GeneratedAt>
+  <GeneratedAt>1744566323064</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer </Player>
@@ -424,5 +424,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-04-13 18:04:24</Time>
     <Location>(32015,32036,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>54</Rank>
+    <Player>Jggkdd</Player>
+    <LostExp>7408</LostExp>
+    <KilledBy>Cyclops</KilledBy>
+    <Time>2025-04-13 19:41:22</Time>
+    <Location>(31886,31967,9)</Location>
   </DeathEvent>
 </DeathHighscores>
