@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744586606093</GeneratedAt>
+  <GeneratedAt>1744586905892</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bruxo</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Yakoebom</Player>
+    <LostExp>8224018</LostExp>
+    <KilledBy>(Others)</KilledBy>
+    <Time>2025-04-14 01:25:08</Time>
+    <Location>(31791,31913,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Vinion</Player>
     <LostExp>5357982</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31840,32058,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Ceifadora</Player>
     <LostExp>276126</LostExp>
     <KilledBy>Fanatic</KilledBy>
