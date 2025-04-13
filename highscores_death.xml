@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744521922512</GeneratedAt>
+  <GeneratedAt>1744522222629</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer </Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Zabuza</Player>
+    <LostExp>13064</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-04-13 07:26:22</Time>
+    <Location>(32014,32034,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Zulkarnain</Player>
     <LostExp>12649</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32052,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Digdin</Player>
     <LostExp>11598</LostExp>
     <KilledBy>Orc Leader</KilledBy>
