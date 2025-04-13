@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744554322792</GeneratedAt>
+  <GeneratedAt>1744554623032</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer </Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Frostfenix</Player>
+    <LostExp>612129</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2025-04-13 16:28:42</Time>
+    <Location>(32048,32338,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Xenaa</Player>
     <LostExp>568999</LostExp>
     <KilledBy>Long</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32025,32273,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Dewez</Player>
     <LostExp>470795</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31995,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Eunha</Player>
     <LostExp>291087</LostExp>
     <KilledBy>Minotaur</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31878,31981,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Ceifadora</Player>
     <LostExp>277085</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31943,31861,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Dark</Player>
     <LostExp>260069</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32010,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Eunha</Player>
     <LostExp>158510</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32013,31877,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Eunha</Player>
     <LostExp>133250</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32024,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Erthep</Player>
     <LostExp>85248</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31983,32062,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Dancrow</Player>
     <LostExp>47662</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31878,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Dancrow</Player>
     <LostExp>44033</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32032,31973,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Dancrow</Player>
     <LostExp>43830</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32036,31979,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Dancrow</Player>
     <LostExp>42618</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Dancrow</Player>
     <LostExp>39447</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(32036,31979,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Digdin</Player>
     <LostExp>27867</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32012,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Zabuza</Player>
     <LostExp>23993</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31984,31878,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Digdin</Player>
     <LostExp>20545</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(32006,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Zabuza</Player>
     <LostExp>14697</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31989,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Zabuza</Player>
     <LostExp>14051</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31996,32057,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Zabuza</Player>
     <LostExp>13161</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(31997,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Zabuza</Player>
     <LostExp>13064</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(32014,32034,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Zulkarnain</Player>
     <LostExp>12649</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(32052,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Digdin</Player>
     <LostExp>11598</LostExp>
     <KilledBy>Orc Leader</KilledBy>
