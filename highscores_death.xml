@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744512022319</GeneratedAt>
+  <GeneratedAt>1744512322397</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gabibr</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Justin</Player>
+    <LostExp>3688288</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-04-13 04:43:16</Time>
+    <Location>(32060,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Dewi</Player>
     <LostExp>3659530</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -18,7 +26,15 @@
     <Location>(32018,31808,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
+    <Player>Valkiria</Player>
+    <LostExp>1848154</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-04-13 04:43:21</Time>
+    <Location>(32060,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Brisadeira</Player>
     <LostExp>1733512</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(32037,32246,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Eunha</Player>
     <LostExp>133250</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(32024,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Erthep</Player>
     <LostExp>85248</LostExp>
     <KilledBy>Skeleton</KilledBy>
