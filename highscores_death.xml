@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744513222365</GeneratedAt>
+  <GeneratedAt>1744513522429</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer </Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Dark</Player>
+    <LostExp>260069</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-13 05:01:18</Time>
+    <Location>(32010,31885,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Eunha</Player>
     <LostExp>133250</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32024,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Erthep</Player>
     <LostExp>85248</LostExp>
     <KilledBy>Skeleton</KilledBy>
