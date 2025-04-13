@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744586006538</GeneratedAt>
+  <GeneratedAt>1744586306044</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bruxo</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Blaze Master</KilledBy>
     <Time>2025-04-14 01:05:40</Time>
     <Location>(32001,32254,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Vinion</Player>
+    <LostExp>5357982</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-04-14 01:13:53</Time>
+    <Location>(31840,32058,7)</Location>
   </DeathEvent>
 </DeathHighscores>
