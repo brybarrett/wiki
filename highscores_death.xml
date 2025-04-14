@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744655606936</GeneratedAt>
+  <GeneratedAt>1744655906904</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingeddi</Player>
@@ -483,6 +483,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>61</Rank>
+    <Player>Enricosz</Player>
+    <LostExp>8955</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-14 20:36:28</Time>
+    <Location>(31875,32060,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>62</Rank>
     <Player>Justen</Player>
     <LostExp>5314</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -490,7 +498,7 @@
     <Location>(31987,31884,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>62</Rank>
+    <Rank>63</Rank>
     <Player>Justen</Player>
     <LostExp>3520</LostExp>
     <KilledBy>Orc</KilledBy>
