@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744592005953</GeneratedAt>
+  <GeneratedAt>1744592306061</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaisel</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Wizze</Player>
+    <LostExp>1819512</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-04-14 02:55:51</Time>
+    <Location>(32059,31826,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Ceifadora</Player>
     <LostExp>276126</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31919,32014,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Top</Player>
     <LostExp>171349</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31894,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Justen</Player>
     <LostExp>5314</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31987,31884,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Justen</Player>
     <LostExp>3520</LostExp>
     <KilledBy>Orc</KilledBy>
