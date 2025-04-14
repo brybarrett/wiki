@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744601006181</GeneratedAt>
+  <GeneratedAt>1744601306144</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mineira</Player>
@@ -164,13 +164,21 @@
   <DeathEvent>
     <Rank>21</Rank>
     <Player>Zabuza</Player>
+    <LostExp>268315</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-14 05:27:39</Time>
+    <Location>(32010,31885,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Zabuza</Player>
     <LostExp>204585</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-04-14 03:17:20</Time>
     <Location>(32005,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Top</Player>
     <LostExp>171349</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31894,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Justen</Player>
     <LostExp>38753</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31991,31995,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Fullwar</Player>
     <LostExp>25828</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32061,31902,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Justen</Player>
     <LostExp>5314</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31987,31884,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Justen</Player>
     <LostExp>3520</LostExp>
     <KilledBy>Orc</KilledBy>
