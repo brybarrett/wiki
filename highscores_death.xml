@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744589306046</GeneratedAt>
+  <GeneratedAt>1744589606025</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bruxo</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Noia</Player>
+    <LostExp>3635157</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-04-14 02:09:58</Time>
+    <Location>(32867,31994,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Ceifadora</Player>
     <LostExp>276126</LostExp>
     <KilledBy>Fanatic</KilledBy>
