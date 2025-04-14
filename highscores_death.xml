@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744590806169</GeneratedAt>
+  <GeneratedAt>1744591106053</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kaisel</Player>
+    <LostExp>73777443</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-14 02:37:17</Time>
+    <Location>(31951,32264,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Bruxo</Player>
     <LostExp>69121529</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32001,32254,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Arthurktt</Player>
     <LostExp>55083009</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,15 @@
     <Location>(31975,32271,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
+    <Player>Vathar</Player>
+    <LostExp>42857194</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-14 02:38:07</Time>
+    <Location>(31948,32270,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Yakoebom</Player>
     <LostExp>8224018</LostExp>
     <KilledBy>(Others)</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(31791,31913,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Vinion</Player>
     <LostExp>5357982</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(31840,32058,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Noia</Player>
     <LostExp>3635157</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(32867,31994,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Ceifadora</Player>
     <LostExp>276126</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -50,7 +66,15 @@
     <Location>(31919,32014,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
+    <Player>Top</Player>
+    <LostExp>171349</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-14 02:35:36</Time>
+    <Location>(31894,32047,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Justen</Player>
     <LostExp>5314</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -58,7 +82,7 @@
     <Location>(31987,31884,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>11</Rank>
     <Player>Justen</Player>
     <LostExp>3520</LostExp>
     <KilledBy>Orc</KilledBy>
