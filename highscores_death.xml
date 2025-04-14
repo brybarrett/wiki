@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744647806749</GeneratedAt>
+  <GeneratedAt>1744648106689</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingeddi</Player>
@@ -411,6 +411,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>52</Rank>
+    <Player>Bebelaq</Player>
+    <LostExp>88518</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-14 18:23:48</Time>
+    <Location>(31885,32053,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>53</Rank>
     <Player>Coronell</Player>
     <LostExp>87376</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(31870,31917,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Justen</Player>
     <LostExp>78946</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -426,7 +434,7 @@
     <Location>(31881,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
     <Player>Bebelaq</Player>
     <LostExp>50414</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -434,7 +442,7 @@
     <Location>(32061,31899,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>56</Rank>
     <Player>Justen</Player>
     <LostExp>38753</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -442,7 +450,7 @@
     <Location>(31991,31995,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Fullwar</Player>
     <LostExp>25828</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(32061,31902,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Sombrio</Player>
     <LostExp>9777</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -458,7 +466,7 @@
     <Location>(31982,31884,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Justen</Player>
     <LostExp>5314</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -466,7 +474,7 @@
     <Location>(31987,31884,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>59</Rank>
+    <Rank>60</Rank>
     <Player>Justen</Player>
     <LostExp>3520</LostExp>
     <KilledBy>Orc</KilledBy>
