@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744590505953</GeneratedAt>
+  <GeneratedAt>1744590806169</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bruxo</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Justen</Player>
+    <LostExp>5314</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-14 02:32:56</Time>
+    <Location>(31987,31884,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Justen</Player>
     <LostExp>3520</LostExp>
     <KilledBy>Orc</KilledBy>
