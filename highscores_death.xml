@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744641506698</GeneratedAt>
+  <GeneratedAt>1744641806665</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingeddi</Player>
@@ -363,6 +363,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>46</Rank>
+    <Player>Coronell</Player>
+    <LostExp>87376</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-04-14 16:42:33</Time>
+    <Location>(31870,31917,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>47</Rank>
     <Player>Justen</Player>
     <LostExp>78946</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(31881,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Bebelaq</Player>
     <LostExp>50414</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(32061,31899,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Justen</Player>
     <LostExp>38753</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(31991,31995,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Fullwar</Player>
     <LostExp>25828</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(32061,31902,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Sombrio</Player>
     <LostExp>9777</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31982,31884,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Justen</Player>
     <LostExp>5314</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(31987,31884,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Justen</Player>
     <LostExp>3520</LostExp>
     <KilledBy>Orc</KilledBy>
