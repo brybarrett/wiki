@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744673126935</GeneratedAt>
+  <GeneratedAt>1744673426851</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sombrio</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-04-15 01:19:41</Time>
     <Location>(31998,32054,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Sombrio</Player>
+    <LostExp>19664</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-15 01:26:30</Time>
+    <Location>(31983,31908,9)</Location>
   </DeathEvent>
 </DeathHighscores>
