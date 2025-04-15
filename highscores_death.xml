@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744686027030</GeneratedAt>
+  <GeneratedAt>1744686327000</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingeddy</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Magicol</Player>
+    <LostExp>1213162</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-15 05:00:44</Time>
+    <Location>(32009,31872,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Dark</Player>
     <LostExp>333874</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32008,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Dark</Player>
     <LostExp>300500</LostExp>
     <KilledBy>Djinn</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32794,32220,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Dark</Player>
     <LostExp>287561</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32004,31875,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Sombrio</Player>
     <LostExp>21104</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31997,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Sombrio</Player>
     <LostExp>20169</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31998,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Sombrio</Player>
     <LostExp>19664</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31983,31908,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Hale</Player>
     <LostExp>868</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31982,31897,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Hale</Player>
     <LostExp>703</LostExp>
     <KilledBy>Werewolf</KilledBy>
