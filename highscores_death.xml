@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744729827711</GeneratedAt>
+  <GeneratedAt>1744730127538</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zedalapa</Player>
@@ -204,26 +204,26 @@
   <DeathEvent>
     <Rank>26</Rank>
     <Player>Erbaloki</Player>
+    <LostExp>11658</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-15 17:15:04</Time>
+    <Location>(31976,31890,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>27</Rank>
+    <Player>Erbaloki</Player>
     <LostExp>9792</LostExp>
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-04-15 10:38:18</Time>
     <Location>(32006,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Erbaloki</Player>
     <LostExp>9325</LostExp>
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-04-15 10:58:30</Time>
     <Location>(32006,32040,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>28</Rank>
-    <Player>Erbaloki</Player>
-    <LostExp>8711</LostExp>
-    <KilledBy>Skeleton</KilledBy>
-    <Time>2025-04-15 11:06:43</Time>
-    <Location>(32004,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>29</Rank>
@@ -236,13 +236,21 @@
   <DeathEvent>
     <Rank>30</Rank>
     <Player>Erbaloki</Player>
+    <LostExp>8711</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-04-15 11:06:43</Time>
+    <Location>(32004,32043,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>31</Rank>
+    <Player>Erbaloki</Player>
     <LostExp>2696</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-04-15 10:16:41</Time>
     <Location>(31984,31905,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Hale</Player>
     <LostExp>868</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(31982,31897,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Hale</Player>
     <LostExp>703</LostExp>
     <KilledBy>Werewolf</KilledBy>
