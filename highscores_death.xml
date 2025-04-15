@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744707327183</GeneratedAt>
+  <GeneratedAt>1744707627480</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer </Player>
@@ -140,13 +140,21 @@
   <DeathEvent>
     <Rank>18</Rank>
     <Player>Erbaloki</Player>
+    <LostExp>9325</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-04-15 10:58:30</Time>
+    <Location>(32006,32040,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Erbaloki</Player>
     <LostExp>2696</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-04-15 10:16:41</Time>
     <Location>(31984,31905,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Hale</Player>
     <LostExp>868</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31982,31897,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Hale</Player>
     <LostExp>703</LostExp>
     <KilledBy>Werewolf</KilledBy>
