@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744680327018</GeneratedAt>
+  <GeneratedAt>1744680627073</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Existence</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Dark</Player>
+    <LostExp>300500</LostExp>
+    <KilledBy>Djinn</KilledBy>
+    <Time>2025-04-15 03:28:59</Time>
+    <Location>(32794,32220,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Sombrio</Player>
     <LostExp>21104</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31997,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Sombrio</Player>
     <LostExp>20169</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31998,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Sombrio</Player>
     <LostExp>19664</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31983,31908,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Hale</Player>
     <LostExp>868</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31982,31897,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Hale</Player>
     <LostExp>703</LostExp>
     <KilledBy>Werewolf</KilledBy>
