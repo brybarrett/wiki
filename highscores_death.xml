@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744721127512</GeneratedAt>
+  <GeneratedAt>1744721427782</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer </Player>
@@ -148,13 +148,21 @@
   <DeathEvent>
     <Rank>19</Rank>
     <Player>Sombrio</Player>
+    <LostExp>88301</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-04-15 14:49:09</Time>
+    <Location>(31874,31909,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Sombrio</Player>
     <LostExp>88242</LostExp>
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-04-15 11:35:57</Time>
     <Location>(31881,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Sombrio</Player>
     <LostExp>21104</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31997,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Sombrio</Player>
     <LostExp>20169</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31998,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Sombrio</Player>
     <LostExp>19664</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31983,31908,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Erbaloki</Player>
     <LostExp>9792</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -186,20 +194,12 @@
     <Location>(32006,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Erbaloki</Player>
     <LostExp>9325</LostExp>
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-04-15 10:58:30</Time>
     <Location>(32006,32040,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>25</Rank>
-    <Player>Erbaloki</Player>
-    <LostExp>8711</LostExp>
-    <KilledBy>Skeleton</KilledBy>
-    <Time>2025-04-15 11:06:43</Time>
-    <Location>(32004,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>26</Rank>
@@ -212,13 +212,21 @@
   <DeathEvent>
     <Rank>27</Rank>
     <Player>Erbaloki</Player>
+    <LostExp>8711</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-04-15 11:06:43</Time>
+    <Location>(32004,32043,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
+    <Player>Erbaloki</Player>
     <LostExp>2696</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-04-15 10:16:41</Time>
     <Location>(31984,31905,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Hale</Player>
     <LostExp>868</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31982,31897,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Hale</Player>
     <LostExp>703</LostExp>
     <KilledBy>Werewolf</KilledBy>
