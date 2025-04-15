@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744683926941</GeneratedAt>
+  <GeneratedAt>1744684227051</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Yakoebom</Player>
+    <LostExp>9985832</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-15 04:30:14</Time>
+    <Location>(31943,32269,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Existence</Player>
     <LostExp>2768760</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32845,32059,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Dark</Player>
     <LostExp>333874</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32008,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Dark</Player>
     <LostExp>300500</LostExp>
     <KilledBy>Djinn</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32794,32220,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Dark</Player>
     <LostExp>287561</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32004,31875,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Sombrio</Player>
     <LostExp>21104</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31997,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Sombrio</Player>
     <LostExp>20169</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31998,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Sombrio</Player>
     <LostExp>19664</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31983,31908,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Hale</Player>
     <LostExp>868</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31982,31897,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Hale</Player>
     <LostExp>703</LostExp>
     <KilledBy>Werewolf</KilledBy>
