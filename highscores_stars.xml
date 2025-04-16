@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1744819349400</GeneratedAt>
+  <GeneratedAt>1744819649400</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -203,12 +203,12 @@
   </Player>
   <Player>
     <Rank>41</Rank>
-    <Name>Nobiro</Name>
+    <Name>Kingeddi </Name>
     <StarsCollected>143</StarsCollected>
   </Player>
   <Player>
     <Rank>42</Rank>
-    <Name>Kingeddi </Name>
+    <Name>Nobiro</Name>
     <StarsCollected>143</StarsCollected>
   </Player>
   <Player>
@@ -228,12 +228,12 @@
   </Player>
   <Player>
     <Rank>46</Rank>
-    <Name>Offtank </Name>
+    <Name>Kakuzu</Name>
     <StarsCollected>138</StarsCollected>
   </Player>
   <Player>
     <Rank>47</Rank>
-    <Name>Kakuzu</Name>
+    <Name>Offtank </Name>
     <StarsCollected>138</StarsCollected>
   </Player>
   <Player>
@@ -498,27 +498,27 @@
   </Player>
   <Player>
     <Rank>100</Rank>
-    <Name>Superstar</Name>
-    <StarsCollected>88</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>101</Rank>
     <Name>Yaza</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
-    <Rank>102</Rank>
+    <Rank>101</Rank>
     <Name>Xforce</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
+    <Rank>102</Rank>
+    <Name>Superstar</Name>
+    <StarsCollected>88</StarsCollected>
+  </Player>
+  <Player>
     <Rank>103</Rank>
-    <Name>Yakoebom</Name>
+    <Name>Narack</Name>
     <StarsCollected>86</StarsCollected>
   </Player>
   <Player>
     <Rank>104</Rank>
-    <Name>Narack</Name>
+    <Name>Yakoebom</Name>
     <StarsCollected>86</StarsCollected>
   </Player>
   <Player>
@@ -558,12 +558,12 @@
   </Player>
   <Player>
     <Rank>112</Rank>
-    <Name>Pudin</Name>
+    <Name>Jembei</Name>
     <StarsCollected>80</StarsCollected>
   </Player>
   <Player>
     <Rank>113</Rank>
-    <Name>Jembei</Name>
+    <Name>Pudin</Name>
     <StarsCollected>80</StarsCollected>
   </Player>
   <Player>
@@ -623,22 +623,22 @@
   </Player>
   <Player>
     <Rank>125</Rank>
-    <Name>Flamenia</Name>
-    <StarsCollected>74</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>126</Rank>
     <Name>Pandatank</Name>
     <StarsCollected>74</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
+    <Rank>126</Rank>
     <Name>Warr</Name>
     <StarsCollected>74</StarsCollected>
   </Player>
   <Player>
+    <Rank>127</Rank>
+    <Name>Flamenia</Name>
+    <StarsCollected>74</StarsCollected>
+  </Player>
+  <Player>
     <Rank>128</Rank>
-    <Name>Cake</Name>
+    <Name>Kawan</Name>
     <StarsCollected>73</StarsCollected>
   </Player>
 </StarsHighscores>
