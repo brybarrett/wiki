@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744764029020</GeneratedAt>
+  <GeneratedAt>1744764329115</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Zahard</Player>
+    <LostExp>25571270</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-16 02:44:51</Time>
+    <Location>(32025,32254,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Hellwilzz</Player>
     <LostExp>6736158</LostExp>
     <KilledBy>Dreadtide</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31847,32112,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Eduardo</Player>
     <LostExp>572971</LostExp>
     <KilledBy>Apprentice</KilledBy>
