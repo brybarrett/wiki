@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744762528997</GeneratedAt>
+  <GeneratedAt>1744762830798</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Hellwilzz</Player>
+    <LostExp>6736158</LostExp>
+    <KilledBy>Dreadtide</KilledBy>
+    <Time>2025-04-16 02:17:42</Time>
+    <Location>(31847,32112,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Eduardo</Player>
     <LostExp>572971</LostExp>
     <KilledBy>Apprentice</KilledBy>
