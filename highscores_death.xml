@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744818451996</GeneratedAt>
+  <GeneratedAt>1744818751807</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaisel</Player>
@@ -144,5 +144,13 @@
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-04-16 13:55:09</Time>
     <Location>(31943,31922,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Playlady</Player>
+    <LostExp>391</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-16 17:51:27</Time>
+    <Location>(32010,31885,8)</Location>
   </DeathEvent>
 </DeathHighscores>
