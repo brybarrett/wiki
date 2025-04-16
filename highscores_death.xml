@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744810051596</GeneratedAt>
+  <GeneratedAt>1744810351927</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaisel</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Justin</Player>
+    <LostExp>7272435</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-16 15:28:59</Time>
+    <Location>(31884,32054,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Existence</Player>
     <LostExp>4512979</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31944,31982,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Rokz</Player>
     <LostExp>2053954</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31878,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Digdin</Player>
     <LostExp>1341727</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Justen</Player>
     <LostExp>1169316</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31876,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Dark</Player>
     <LostExp>273121</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31978,32067,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Durin</Player>
     <LostExp>3451</LostExp>
     <KilledBy>Ghost</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31918,32028,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Durin</Player>
     <LostExp>3106</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31995,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Durin</Player>
     <LostExp>940</LostExp>
     <KilledBy>Scorpion</KilledBy>
