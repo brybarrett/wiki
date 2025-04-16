@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744810951777</GeneratedAt>
+  <GeneratedAt>1744811251678</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaisel</Player>
@@ -108,13 +108,21 @@
   <DeathEvent>
     <Rank>14</Rank>
     <Player>Durin</Player>
+    <LostExp>15776</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-16 15:44:13</Time>
+    <Location>(31868,32061,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Durin</Player>
     <LostExp>3451</LostExp>
     <KilledBy>Ghost</KilledBy>
     <Time>2025-04-16 14:03:12</Time>
     <Location>(31918,32028,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Durin</Player>
     <LostExp>3106</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31995,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Durin</Player>
     <LostExp>940</LostExp>
     <KilledBy>Scorpion</KilledBy>
