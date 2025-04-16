@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744840651978</GeneratedAt>
+  <GeneratedAt>1744840952085</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Urekmazino</Player>
+    <LostExp>23408841</LostExp>
+    <KilledBy>Brinefiend</KilledBy>
+    <Time>2025-04-17 00:00:54</Time>
+    <Location>(31808,32120,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Buccca</Player>
     <LostExp>11054037</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,20 +98,12 @@
     <Location>(31863,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Lith</Player>
     <LostExp>10991399</LostExp>
     <KilledBy>Wardy</KilledBy>
     <Time>2025-04-16 12:21:23</Time>
     <Location>(32000,32236,9)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>13</Rank>
-    <Player>Hellwilzz</Player>
-    <LostExp>8940129</LostExp>
-    <KilledBy>Orc Raider</KilledBy>
-    <Time>2025-04-16 23:31:30</Time>
-    <Location>(31944,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Hellwilzz</Player>
+    <LostExp>8940129</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-04-16 23:31:30</Time>
+    <Location>(31944,31857,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Justin</Player>
     <LostExp>7272435</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31884,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Existence</Player>
     <LostExp>4512979</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31944,31982,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Rokz</Player>
     <LostExp>2053954</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31878,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Digdin</Player>
     <LostExp>1341727</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Justen</Player>
     <LostExp>1169316</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31876,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Dark</Player>
     <LostExp>273121</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31978,32067,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Durin</Player>
     <LostExp>15776</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31868,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Durin</Player>
     <LostExp>3451</LostExp>
     <KilledBy>Ghost</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31918,32028,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Durin</Player>
     <LostExp>3106</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31995,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Durin</Player>
     <LostExp>940</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31943,31922,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Playlady</Player>
     <LostExp>391</LostExp>
     <KilledBy>Orc Leader</KilledBy>
