@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744804351717</GeneratedAt>
+  <GeneratedAt>1744804651712</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaisel</Player>
@@ -80,5 +80,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-04-16 03:43:09</Time>
     <Location>(31978,32067,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Durin</Player>
+    <LostExp>940</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-16 13:55:09</Time>
+    <Location>(31943,31922,9)</Location>
   </DeathEvent>
 </DeathHighscores>
