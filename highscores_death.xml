@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744771951277</GeneratedAt>
+  <GeneratedAt>1744772251255</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaisel</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Vathar</Player>
+    <LostExp>38676934</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-16 04:52:31</Time>
+    <Location>(31950,32264,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Dark</Player>
     <LostExp>273121</LostExp>
     <KilledBy>Skeleton</KilledBy>
