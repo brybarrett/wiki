@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744903682332</GeneratedAt>
+  <GeneratedAt>1744903982644</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tenna</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Durin</Player>
+    <LostExp>237873</LostExp>
+    <KilledBy>Minorrior</KilledBy>
+    <Time>2025-04-17 17:31:53</Time>
+    <Location>(31921,31975,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Rensyah</Player>
     <LostExp>123443</LostExp>
     <KilledBy>Shogun</KilledBy>
