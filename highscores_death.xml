@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744903982644</GeneratedAt>
+  <GeneratedAt>1744904282452</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tenna</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Freezing</Player>
+    <LostExp>249526</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-17 17:37:46</Time>
+    <Location>(31887,32054,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Durin</Player>
     <LostExp>237873</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31921,31975,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Rensyah</Player>
     <LostExp>123443</LostExp>
     <KilledBy>Shogun</KilledBy>
