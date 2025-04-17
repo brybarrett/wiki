@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744855447550</GeneratedAt>
+  <GeneratedAt>1744855747696</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Templar</Player>
+    <LostExp>29771738</LostExp>
+    <KilledBy>Dreadtide</KilledBy>
+    <Time>2025-04-17 04:05:48</Time>
+    <Location>(31845,32109,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Brisadeiro</Player>
+    <LostExp>17625538</LostExp>
+    <KilledBy>Dreadtide</KilledBy>
+    <Time>2025-04-17 04:06:04</Time>
+    <Location>(31842,32111,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Dark</Player>
     <LostExp>441989</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -10,7 +26,7 @@
     <Location>(31985,32060,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Dark</Player>
     <LostExp>397790</LostExp>
     <KilledBy>Lucyr</KilledBy>
