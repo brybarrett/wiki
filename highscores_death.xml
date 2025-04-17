@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744859947684</GeneratedAt>
+  <GeneratedAt>1744860247615</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templar</Player>
@@ -40,5 +40,21 @@
     <KilledBy>Lucyr</KilledBy>
     <Time>2025-04-17 03:23:26</Time>
     <Location>(32048,32338,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Odda</Player>
+    <LostExp>331162</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-17 05:21:53</Time>
+    <Location>(31980,31910,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Odda</Player>
+    <LostExp>298046</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-17 05:21:53</Time>
+    <Location>(31980,31910,9)</Location>
   </DeathEvent>
 </DeathHighscores>
