@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744915083021</GeneratedAt>
+  <GeneratedAt>1744915382640</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Sombrio</Player>
+    <LostExp>134771</LostExp>
+    <KilledBy>Bear</KilledBy>
+    <Time>2025-04-17 20:41:25</Time>
+    <Location>(32027,31977,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Rensyah</Player>
     <LostExp>123443</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32054,31894,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Wizzard</Player>
     <LostExp>43398</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32055,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Wizzard</Player>
     <LostExp>39058</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32055,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Wizzard</Player>
     <LostExp>24581</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32017,31938,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Punipun</Player>
     <LostExp>22691</LostExp>
     <KilledBy>Skeleton</KilledBy>
