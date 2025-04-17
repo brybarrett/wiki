@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744904582415</GeneratedAt>
+  <GeneratedAt>1744904882886</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Hakina</Player>
+    <LostExp>29323084</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-17 17:46:19</Time>
+    <Location>(31859,32020,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Tenna</Player>
     <LostExp>14860359</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Digdin</Player>
     <LostExp>2461832</LostExp>
     <KilledBy>Horrornet</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32783,31980,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Boos</Player>
     <LostExp>788666</LostExp>
     <KilledBy>Dragon</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31906,31954,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Freezing</Player>
     <LostExp>249526</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31887,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Durin</Player>
     <LostExp>237873</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31921,31975,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Rensyah</Player>
     <LostExp>123443</LostExp>
     <KilledBy>Shogun</KilledBy>
