@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744875547947</GeneratedAt>
+  <GeneratedAt>1744875847936</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bruxo</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Canix</Player>
+    <LostExp>4025977</LostExp>
+    <KilledBy>Werewolf Master</KilledBy>
+    <Time>2025-04-17 09:41:41</Time>
+    <Location>(32045,32305,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Eunha</Player>
     <LostExp>933313</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31903,32035,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Dark</Player>
     <LostExp>613184</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31989,32067,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Dark</Player>
     <LostExp>441989</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31985,32060,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Dark</Player>
     <LostExp>397790</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32048,32338,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Odda</Player>
     <LostExp>331162</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31980,31910,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Odda</Player>
     <LostExp>298046</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31980,31910,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Durin</Player>
     <LostExp>234957</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31863,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Durin</Player>
     <LostExp>214621</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31891,31869,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Durin</Player>
     <LostExp>214317</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31985,31923,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Freezing</Player>
     <LostExp>86048</LostExp>
     <KilledBy>Small Eye</KilledBy>
