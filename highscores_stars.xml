@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1744922880055</GeneratedAt>
+  <GeneratedAt>1744923180091</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -213,17 +213,17 @@
   </Player>
   <Player>
     <Rank>43</Rank>
+    <Name>Offtank </Name>
+    <StarsCollected>145</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>44</Rank>
     <Name>Wylhamwar</Name>
     <StarsCollected>144</StarsCollected>
   </Player>
   <Player>
-    <Rank>44</Rank>
-    <Name>Kingeddi</Name>
-    <StarsCollected>143</StarsCollected>
-  </Player>
-  <Player>
     <Rank>45</Rank>
-    <Name>Offtank </Name>
+    <Name>Kingeddi</Name>
     <StarsCollected>143</StarsCollected>
   </Player>
   <Player>
@@ -333,13 +333,13 @@
   </Player>
   <Player>
     <Rank>67</Rank>
-    <Name>Targaryen</Name>
+    <Name>Dom</Name>
     <StarsCollected>120</StarsCollected>
   </Player>
   <Player>
     <Rank>68</Rank>
-    <Name>Dom</Name>
-    <StarsCollected>119</StarsCollected>
+    <Name>Targaryen</Name>
+    <StarsCollected>120</StarsCollected>
   </Player>
   <Player>
     <Rank>69</Rank>
@@ -579,7 +579,7 @@
   <Player>
     <Rank>116</Rank>
     <Name>Pandatank</Name>
-    <StarsCollected>78</StarsCollected>
+    <StarsCollected>79</StarsCollected>
   </Player>
   <Player>
     <Rank>117</Rank>
