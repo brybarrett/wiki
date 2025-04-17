@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1744926780079</GeneratedAt>
+  <GeneratedAt>1744927080095</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -463,17 +463,17 @@
   </Player>
   <Player>
     <Rank>93</Rank>
-    <Name>Yukira</Name>
-    <StarsCollected>93</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>94</Rank>
     <Name>Moon</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
-    <Rank>95</Rank>
+    <Rank>94</Rank>
     <Name>Mires</Name>
+    <StarsCollected>93</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>95</Rank>
+    <Name>Yukira</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
@@ -493,22 +493,22 @@
   </Player>
   <Player>
     <Rank>99</Rank>
-    <Name>Superstar</Name>
-    <StarsCollected>89</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>100</Rank>
     <Name>Himmel</Name>
     <StarsCollected>89</StarsCollected>
   </Player>
   <Player>
+    <Rank>100</Rank>
+    <Name>Superstar</Name>
+    <StarsCollected>89</StarsCollected>
+  </Player>
+  <Player>
     <Rank>101</Rank>
-    <Name>Yaza</Name>
+    <Name>Narack</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
     <Rank>102</Rank>
-    <Name>Narack</Name>
+    <Name>Yaza</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
@@ -538,12 +538,12 @@
   </Player>
   <Player>
     <Rank>108</Rank>
-    <Name>Totol</Name>
+    <Name>Tankatuddo</Name>
     <StarsCollected>82</StarsCollected>
   </Player>
   <Player>
     <Rank>109</Rank>
-    <Name>Tankatuddo</Name>
+    <Name>Totol</Name>
     <StarsCollected>82</StarsCollected>
   </Player>
   <Player>
@@ -603,12 +603,12 @@
   </Player>
   <Player>
     <Rank>121</Rank>
-    <Name>Zoro</Name>
+    <Name>Mineiro</Name>
     <StarsCollected>77</StarsCollected>
   </Player>
   <Player>
     <Rank>122</Rank>
-    <Name>Mineiro</Name>
+    <Name>Zoro</Name>
     <StarsCollected>77</StarsCollected>
   </Player>
   <Player>
@@ -633,12 +633,12 @@
   </Player>
   <Player>
     <Rank>127</Rank>
-    <Name>Flamenia</Name>
+    <Name>Warr</Name>
     <StarsCollected>74</StarsCollected>
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Warr</Name>
+    <Name>Flamenia</Name>
     <StarsCollected>74</StarsCollected>
   </Player>
 </StarsHighscores>
