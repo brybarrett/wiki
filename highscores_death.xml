@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744890782207</GeneratedAt>
+  <GeneratedAt>1744891082150</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tenna</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-04-17 13:46:17</Time>
     <Location>(32014,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Boos</Player>
+    <LostExp>788666</LostExp>
+    <KilledBy>Dragon</KilledBy>
+    <Time>2025-04-17 13:54:35</Time>
+    <Location>(31906,31954,9)</Location>
   </DeathEvent>
 </DeathHighscores>
