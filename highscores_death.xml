@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744913282562</GeneratedAt>
+  <GeneratedAt>1744913582929</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -75,6 +75,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Wizzard</Player>
+    <LostExp>43398</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-04-17 20:09:48</Time>
+    <Location>(32055,31895,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Wizzard</Player>
+    <LostExp>39058</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-04-17 20:09:48</Time>
+    <Location>(32055,31895,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Wizzard</Player>
     <LostExp>24581</LostExp>
     <KilledBy>Fire Drake</KilledBy>
