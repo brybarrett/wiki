@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744871347723</GeneratedAt>
+  <GeneratedAt>1744871647932</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bruxo</Player>
@@ -152,5 +152,13 @@
     <KilledBy>Treant</KilledBy>
     <Time>2025-04-17 05:31:37</Time>
     <Location>(31985,31923,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Freezing</Player>
+    <LostExp>86048</LostExp>
+    <KilledBy>Small Eye</KilledBy>
+    <Time>2025-04-17 08:29:51</Time>
+    <Location>(31913,32056,8)</Location>
   </DeathEvent>
 </DeathHighscores>
