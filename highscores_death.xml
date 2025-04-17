@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744858447647</GeneratedAt>
+  <GeneratedAt>1744858747660</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templar</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Bucccca</Player>
+    <LostExp>12257213</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-04-17 04:56:17</Time>
+    <Location>(31944,31857,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Dark</Player>
     <LostExp>441989</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31985,32060,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Dark</Player>
     <LostExp>397790</LostExp>
     <KilledBy>Lucyr</KilledBy>
