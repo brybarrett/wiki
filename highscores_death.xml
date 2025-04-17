@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744917182368</GeneratedAt>
+  <GeneratedAt>1744917482526</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Laubisomi</Player>
+    <LostExp>36394652</LostExp>
+    <KilledBy>Ninjany</KilledBy>
+    <Time>2025-04-17 21:13:41</Time>
+    <Location>(31794,31911,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Hakina</Player>
     <LostExp>29323084</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31859,32020,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Gabibr </Player>
     <LostExp>28963458</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32008,32250,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Gops</Player>
     <LostExp>17872807</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31796,31915,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Tenna</Player>
     <LostExp>14860359</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Canix</Player>
     <LostExp>3810991</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31899,31989,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Digdin</Player>
     <LostExp>2461832</LostExp>
     <KilledBy>Horrornet</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32783,31980,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Justen</Player>
     <LostExp>1949220</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31876,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Eunha</Player>
     <LostExp>1112113</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32854,31970,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Boos</Player>
     <LostExp>788666</LostExp>
     <KilledBy>Dragon</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31906,31954,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Giraya</Player>
     <LostExp>681285</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31932,31980,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Giraya</Player>
     <LostExp>615845</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31932,31980,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Freezing</Player>
     <LostExp>249526</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31887,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Durin</Player>
     <LostExp>237873</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31921,31975,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Kirito</Player>
     <LostExp>151713</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32010,31880,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Sombrio</Player>
     <LostExp>134771</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32027,31977,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Rensyah</Player>
     <LostExp>123443</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32054,31894,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Wizzard</Player>
     <LostExp>43398</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32055,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Wizzard</Player>
     <LostExp>39058</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32055,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Wizzard</Player>
     <LostExp>24581</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32017,31938,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Punipun</Player>
     <LostExp>22691</LostExp>
     <KilledBy>Skeleton</KilledBy>
