@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744995626969</GeneratedAt>
+  <GeneratedAt>1744995926964</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ynk</Player>
@@ -164,13 +164,21 @@
   <DeathEvent>
     <Rank>21</Rank>
     <Player>Justen</Player>
+    <LostExp>2805243</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-04-18 19:03:49</Time>
+    <Location>(32861,31983,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Justen</Player>
     <LostExp>2738510</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-18 06:42:34</Time>
     <Location>(31884,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Justen</Player>
     <LostExp>2397434</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32018,31811,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Eunha</Player>
     <LostExp>968762</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32878,32002,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Dark</Player>
     <LostExp>889775</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32013,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Dark</Player>
     <LostExp>627140</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31982,32059,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Wizzard</Player>
     <LostExp>500961</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32026,32262,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Bruninzk</Player>
     <LostExp>383933</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32010,32252,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Wizzard</Player>
     <LostExp>378539</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31959,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Somnus</Player>
     <LostExp>374473</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32032,32269,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Wizzard</Player>
     <LostExp>340686</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31959,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Somnus</Player>
     <LostExp>336462</LostExp>
     <KilledBy>Long</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32027,32272,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Dinastia</Player>
     <LostExp>245795</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(32038,31980,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Kaparzo</Player>
     <LostExp>213643</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(31875,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Wizzard</Player>
     <LostExp>208233</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(32031,31974,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Kaitt</Player>
     <LostExp>102439</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31911,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Zakiro</Player>
     <LostExp>29661</LostExp>
     <KilledBy>Orc Raider</KilledBy>
