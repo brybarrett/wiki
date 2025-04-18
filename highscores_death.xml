@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744998626996</GeneratedAt>
+  <GeneratedAt>1744998926998</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ynk</Player>
@@ -268,13 +268,21 @@
   <DeathEvent>
     <Rank>34</Rank>
     <Player>Dinastia</Player>
+    <LostExp>281808</LostExp>
+    <KilledBy>Bear</KilledBy>
+    <Time>2025-04-18 19:52:25</Time>
+    <Location>(32037,31980,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
+    <Player>Dinastia</Player>
     <LostExp>245795</LostExp>
     <KilledBy>Bear</KilledBy>
     <Time>2025-04-18 16:49:32</Time>
     <Location>(32038,31980,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Kaparzo</Player>
     <LostExp>213643</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31875,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Wizzard</Player>
     <LostExp>208233</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(32031,31974,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Kaitt</Player>
     <LostExp>102439</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31911,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Zakiro</Player>
     <LostExp>29661</LostExp>
     <KilledBy>Orc Raider</KilledBy>
