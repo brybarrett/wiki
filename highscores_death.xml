@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744937726417</GeneratedAt>
+  <GeneratedAt>1744938026415</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templarr</Player>
@@ -24,5 +24,13 @@
     <KilledBy>Ifrit</KilledBy>
     <Time>2025-04-18 02:36:34</Time>
     <Location>(32843,32013,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Justen</Player>
+    <LostExp>2397434</LostExp>
+    <KilledBy>Frostily</KilledBy>
+    <Time>2025-04-18 02:55:59</Time>
+    <Location>(32018,31811,8)</Location>
   </DeathEvent>
 </DeathHighscores>
