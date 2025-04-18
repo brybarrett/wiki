@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744942226451</GeneratedAt>
+  <GeneratedAt>1744942526456</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Bucca</Player>
+    <LostExp>88093403</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-04-18 04:14:53</Time>
+    <Location>(32000,32206,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Templarr</Player>
     <LostExp>27924617</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32040,31800,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Brisadeira</Player>
     <LostExp>20720704</LostExp>
     <KilledBy>Ghostsin</KilledBy>
@@ -18,7 +26,15 @@
     <Location>(32041,31800,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
+    <Player>Lirilai</Player>
+    <LostExp>19362210</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-18 04:14:16</Time>
+    <Location>(32010,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Bucccca</Player>
     <LostExp>11796932</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(31944,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Frostfenix</Player>
     <LostExp>9767540</LostExp>
     <KilledBy>Ifrit</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(32843,32013,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Menson</Player>
     <LostExp>5727468</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -42,7 +58,15 @@
     <Location>(31948,32269,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
+    <Player>Tiao</Player>
+    <LostExp>4261856</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-04-18 04:11:26</Time>
+    <Location>(32062,31826,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Justen</Player>
     <LostExp>2397434</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -50,7 +74,7 @@
     <Location>(32018,31811,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>10</Rank>
     <Player>Dark</Player>
     <LostExp>627140</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -58,7 +82,7 @@
     <Location>(31982,32059,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>11</Rank>
     <Player>Wizzard</Player>
     <LostExp>208233</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -66,7 +90,7 @@
     <Location>(32031,31974,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>12</Rank>
     <Player>Kaitt</Player>
     <LostExp>102439</LostExp>
     <KilledBy>Werewolf</KilledBy>
