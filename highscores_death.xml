@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744951226557</GeneratedAt>
+  <GeneratedAt>1744951526554</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bucca</Player>
@@ -76,13 +76,21 @@
   <DeathEvent>
     <Rank>10</Rank>
     <Player>Justen</Player>
+    <LostExp>2738510</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-18 06:42:34</Time>
+    <Location>(31884,32054,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Justen</Player>
     <LostExp>2397434</LostExp>
     <KilledBy>Frostily</KilledBy>
     <Time>2025-04-18 02:55:59</Time>
     <Location>(32018,31811,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Eunha</Player>
     <LostExp>968762</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32878,32002,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Dark</Player>
     <LostExp>627140</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31982,32059,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Kaparzo</Player>
     <LostExp>213643</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31875,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Wizzard</Player>
     <LostExp>208233</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32031,31974,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Kaitt</Player>
     <LostExp>102439</LostExp>
     <KilledBy>Werewolf</KilledBy>
