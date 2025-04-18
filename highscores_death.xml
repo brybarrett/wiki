@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745013327155</GeneratedAt>
+  <GeneratedAt>1745013627159</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ynk</Player>
@@ -355,6 +355,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>45</Rank>
+    <Player>Luskovis</Player>
+    <LostExp>224098</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-18 23:59:35</Time>
+    <Location>(31871,32061,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>46</Rank>
+    <Player>Luskovis</Player>
+    <LostExp>224098</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-18 23:59:35</Time>
+    <Location>(31871,32061,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>47</Rank>
     <Player>Kaparzo</Player>
     <LostExp>213643</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -362,7 +378,7 @@
     <Location>(31875,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>48</Rank>
     <Player>Wizzard</Player>
     <LostExp>208233</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -370,7 +386,7 @@
     <Location>(32031,31974,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>49</Rank>
     <Player>Yuan</Player>
     <LostExp>111305</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -378,7 +394,7 @@
     <Location>(32009,31884,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>50</Rank>
     <Player>Kaitt</Player>
     <LostExp>102439</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -386,7 +402,7 @@
     <Location>(31911,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>51</Rank>
     <Player>Pintoral</Player>
     <LostExp>87747</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -394,7 +410,7 @@
     <Location>(32017,31865,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>52</Rank>
     <Player>Pintoral</Player>
     <LostExp>79735</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -402,7 +418,7 @@
     <Location>(32017,31866,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>53</Rank>
     <Player>Pintoral</Player>
     <LostExp>74528</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -410,7 +426,7 @@
     <Location>(32020,31859,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>54</Rank>
     <Player>Tetezinho</Player>
     <LostExp>68963</LostExp>
     <KilledBy>Gaspar</KilledBy>
@@ -418,7 +434,7 @@
     <Location>(31962,31861,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>55</Rank>
     <Player>Pintoral</Player>
     <LostExp>62874</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -426,7 +442,7 @@
     <Location>(31962,31866,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>56</Rank>
     <Player>Pintoral</Player>
     <LostExp>62629</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -434,7 +450,7 @@
     <Location>(31960,31861,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>57</Rank>
     <Player>Tetezinho</Player>
     <LostExp>62093</LostExp>
     <KilledBy>Gaspar</KilledBy>
@@ -442,7 +458,7 @@
     <Location>(31956,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>58</Rank>
     <Player>Pintoral</Player>
     <LostExp>57056</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -450,7 +466,7 @@
     <Location>(32006,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>59</Rank>
     <Player>Zakiro</Player>
     <LostExp>29661</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -458,7 +474,7 @@
     <Location>(31962,31862,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>60</Rank>
     <Player>Wesly</Player>
     <LostExp>15906</LostExp>
     <KilledBy>Shadow</KilledBy>
