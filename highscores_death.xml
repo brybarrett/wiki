@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745006127077</GeneratedAt>
+  <GeneratedAt>1745006427072</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ynk</Player>
@@ -372,13 +372,21 @@
   <DeathEvent>
     <Rank>47</Rank>
     <Player>Pintoral</Player>
+    <LostExp>62874</LostExp>
+    <KilledBy>Shadow</KilledBy>
+    <Time>2025-04-18 21:58:56</Time>
+    <Location>(31962,31866,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>48</Rank>
+    <Player>Pintoral</Player>
     <LostExp>57056</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-04-18 21:32:54</Time>
     <Location>(32006,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Zakiro</Player>
     <LostExp>29661</LostExp>
     <KilledBy>Orc Raider</KilledBy>
