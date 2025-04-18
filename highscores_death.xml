@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745010327117</GeneratedAt>
+  <GeneratedAt>1745010627123</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ynk</Player>
@@ -371,6 +371,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>47</Rank>
+    <Player>Pintoral</Player>
+    <LostExp>87747</LostExp>
+    <KilledBy>Bragnak</KilledBy>
+    <Time>2025-04-18 23:06:12</Time>
+    <Location>(32017,31865,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>48</Rank>
     <Player>Tetezinho</Player>
     <LostExp>68963</LostExp>
     <KilledBy>Gaspar</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31962,31861,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Pintoral</Player>
     <LostExp>62874</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(31962,31866,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Pintoral</Player>
     <LostExp>62629</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31960,31861,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Tetezinho</Player>
     <LostExp>62093</LostExp>
     <KilledBy>Gaspar</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31956,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Pintoral</Player>
     <LostExp>57056</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(32006,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Zakiro</Player>
     <LostExp>29661</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(31962,31862,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Wesly</Player>
     <LostExp>15906</LostExp>
     <KilledBy>Shadow</KilledBy>
