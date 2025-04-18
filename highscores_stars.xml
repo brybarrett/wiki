@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1744974326786</GeneratedAt>
+  <GeneratedAt>1744974626788</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -73,17 +73,17 @@
   </Player>
   <Player>
     <Rank>15</Rank>
-    <Name>Shizuka</Name>
-    <StarsCollected>198</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>16</Rank>
     <Name>Abaddon</Name>
     <StarsCollected>198</StarsCollected>
   </Player>
   <Player>
-    <Rank>17</Rank>
+    <Rank>16</Rank>
     <Name>Pancernik</Name>
+    <StarsCollected>198</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>17</Rank>
+    <Name>Shizuka</Name>
     <StarsCollected>198</StarsCollected>
   </Player>
   <Player>
@@ -248,17 +248,17 @@
   </Player>
   <Player>
     <Rank>50</Rank>
-    <Name>Godcarver</Name>
-    <StarsCollected>137</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>51</Rank>
     <Name>Goldtanker</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
-    <Rank>52</Rank>
+    <Rank>51</Rank>
     <Name>Fay</Name>
+    <StarsCollected>137</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>52</Rank>
+    <Name>Godcarver</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -293,12 +293,12 @@
   </Player>
   <Player>
     <Rank>59</Rank>
-    <Name>Vamplod</Name>
+    <Name>Nudin</Name>
     <StarsCollected>131</StarsCollected>
   </Player>
   <Player>
     <Rank>60</Rank>
-    <Name>Nudin</Name>
+    <Name>Vamplod</Name>
     <StarsCollected>131</StarsCollected>
   </Player>
   <Player>
@@ -423,17 +423,17 @@
   </Player>
   <Player>
     <Rank>85</Rank>
-    <Name>Agenmarini</Name>
-    <StarsCollected>99</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>86</Rank>
     <Name>Indra</Name>
     <StarsCollected>99</StarsCollected>
   </Player>
   <Player>
-    <Rank>87</Rank>
+    <Rank>86</Rank>
     <Name>Raven</Name>
+    <StarsCollected>99</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>87</Rank>
+    <Name>Agenmarini</Name>
     <StarsCollected>99</StarsCollected>
   </Player>
   <Player>
@@ -443,12 +443,12 @@
   </Player>
   <Player>
     <Rank>89</Rank>
-    <Name>Killua</Name>
+    <Name>Templar</Name>
     <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
     <Rank>90</Rank>
-    <Name>Templar</Name>
+    <Name>Killua</Name>
     <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
@@ -498,12 +498,12 @@
   </Player>
   <Player>
     <Rank>100</Rank>
-    <Name>Superstar</Name>
+    <Name>Himmel</Name>
     <StarsCollected>89</StarsCollected>
   </Player>
   <Player>
     <Rank>101</Rank>
-    <Name>Himmel</Name>
+    <Name>Superstar</Name>
     <StarsCollected>89</StarsCollected>
   </Player>
   <Player>
@@ -558,7 +558,7 @@
   </Player>
   <Player>
     <Rank>112</Rank>
-    <Name>Pudin</Name>
+    <Name>Jembei</Name>
     <StarsCollected>80</StarsCollected>
   </Player>
   <Player>
@@ -568,7 +568,7 @@
   </Player>
   <Player>
     <Rank>114</Rank>
-    <Name>Jembei</Name>
+    <Name>Pudin</Name>
     <StarsCollected>80</StarsCollected>
   </Player>
   <Player>
@@ -608,12 +608,12 @@
   </Player>
   <Player>
     <Rank>122</Rank>
-    <Name>Pemburu</Name>
+    <Name>Wiillmk</Name>
     <StarsCollected>77</StarsCollected>
   </Player>
   <Player>
     <Rank>123</Rank>
-    <Name>Wiillmk</Name>
+    <Name>Pemburu</Name>
     <StarsCollected>77</StarsCollected>
   </Player>
   <Player>
@@ -638,7 +638,7 @@
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Warr</Name>
+    <Name>Flamenia</Name>
     <StarsCollected>74</StarsCollected>
   </Player>
 </StarsHighscores>
