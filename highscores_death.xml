@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744987226897</GeneratedAt>
+  <GeneratedAt>1744987526910</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ynk</Player>
@@ -232,5 +232,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-18 03:36:09</Time>
     <Location>(31911,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
+    <Player>Zakiro</Player>
+    <LostExp>29661</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-04-18 16:43:17</Time>
+    <Location>(31962,31862,9)</Location>
   </DeathEvent>
 </DeathHighscores>
