@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1744943126466</GeneratedAt>
+  <GeneratedAt>1744943426472</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bucca</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Eunha</Player>
+    <LostExp>968762</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-04-18 04:28:52</Time>
+    <Location>(32878,32002,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Dark</Player>
     <LostExp>627140</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31982,32059,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Wizzard</Player>
     <LostExp>208233</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32031,31974,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Kaitt</Player>
     <LostExp>102439</LostExp>
     <KilledBy>Werewolf</KilledBy>
