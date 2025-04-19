@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745087811303</GeneratedAt>
+  <GeneratedAt>1745088111297</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingkiller</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Lith</Player>
+    <LostExp>20988661</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-19 20:37:30</Time>
+    <Location>(31954,32289,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Urekmazino</Player>
     <LostExp>19860551</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Menson</Player>
     <LostExp>6307680</LostExp>
     <KilledBy>Soulrath</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31929,31883,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Justen</Player>
     <LostExp>4772413</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31863,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Manis</Player>
     <LostExp>2665068</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32027,32316,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Manis</Player>
     <LostExp>2401698</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31998,31927,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Manis</Player>
     <LostExp>2215378</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31918,31990,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Pingulin</Player>
     <LostExp>1797043</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31895,32005,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Eunha</Player>
     <LostExp>1387742</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32865,31999,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Dark</Player>
     <LostExp>812698</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31981,32068,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Tetezinho</Player>
     <LostExp>549913</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32858,31981,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Panqueca</Player>
     <LostExp>77234</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32045,31931,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Serie</Player>
     <LostExp>0</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32001,31976,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Serie</Player>
     <LostExp>0</LostExp>
     <KilledBy>Draguns</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31900,31955,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Serie</Player>
     <LostExp>0</LostExp>
     <KilledBy>Mantis</KilledBy>
