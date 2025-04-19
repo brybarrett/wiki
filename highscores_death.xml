@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745066266360</GeneratedAt>
+  <GeneratedAt>1745066566365</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Narack</Player>
@@ -104,5 +104,13 @@
     <KilledBy>Long</KilledBy>
     <Time>2025-04-19 13:13:51</Time>
     <Location>(32034,32279,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Somnus</Player>
+    <LostExp>1646929</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-19 14:38:43</Time>
+    <Location>(32038,32246,8)</Location>
   </DeathEvent>
 </DeathHighscores>
