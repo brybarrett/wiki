@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745030727107</GeneratedAt>
+  <GeneratedAt>1745031027111</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mineira</Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Yuan</Player>
+    <LostExp>101013</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-04-19 04:49:25</Time>
+    <Location>(31992,31864,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Mand</Player>
     <LostExp>9979</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32007,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Mand</Player>
     <LostExp>9979</LostExp>
     <KilledBy>Orc Leader</KilledBy>
