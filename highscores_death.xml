@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745061166315</GeneratedAt>
+  <GeneratedAt>1745061466312</GeneratedAt>
+  <DeathEvent>
+    <Rank>1</Rank>
+    <Player>Meeca</Player>
+    <LostExp>96821738</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-19 13:15:48</Time>
+    <Location>(31949,32284,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Brisadeiro</Player>
+    <LostExp>15515071</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-04-19 13:12:59</Time>
+    <Location>(32034,32282,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Somnus</Player>
+    <LostExp>1649584</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-04-19 13:13:51</Time>
+    <Location>(32034,32279,7)</Location>
+  </DeathEvent>
 </DeathHighscores>
