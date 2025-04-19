@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745028027072</GeneratedAt>
+  <GeneratedAt>1745028327072</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Mineira</Player>
+    <LostExp>183449248</LostExp>
+    <KilledBy>Rishombie</KilledBy>
+    <Time>2025-04-19 04:01:57</Time>
+    <Location>(31907,31971,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Templarr</Player>
     <LostExp>28482781</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31950,32265,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Vinion</Player>
     <LostExp>23295405</LostExp>
     <KilledBy>Brinefiend</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31812,32118,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Canix</Player>
     <LostExp>3712536</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32038,31883,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Shanksz</Player>
     <LostExp>1954950</LostExp>
     <KilledBy>Blackdrake</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32238,32361,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Coronell</Player>
     <LostExp>1751266</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32858,31995,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Eunha</Player>
     <LostExp>1457407</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31943,31861,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Dark</Player>
     <LostExp>906260</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31954,31990,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Dressrossa</Player>
     <LostExp>900001</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,15 @@
     <Location>(32031,32262,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
+    <Player>Dark</Player>
+    <LostExp>841829</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-19 04:02:21</Time>
+    <Location>(31954,31991,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Dressrossa</Player>
     <LostExp>837582</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(32029,32262,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Dressrossa</Player>
     <LostExp>797993</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(32031,32262,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Dressrossa</Player>
     <LostExp>751899</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(32027,32263,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Dressrossa</Player>
     <LostExp>695846</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -98,7 +114,7 @@
     <Location>(32031,32264,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>15</Rank>
     <Player>Snob</Player>
     <LostExp>127867</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -106,7 +122,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <Player>Snob</Player>
     <LostExp>126851</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -114,7 +130,7 @@
     <Location>(32004,31922,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>17</Rank>
     <Player>Mand</Player>
     <LostExp>9979</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -122,7 +138,7 @@
     <Location>(32007,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>18</Rank>
     <Player>Mand</Player>
     <LostExp>9979</LostExp>
     <KilledBy>Orc Leader</KilledBy>
