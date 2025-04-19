@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745023227026</GeneratedAt>
+  <GeneratedAt>1745023527022</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templarr</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Canix</Player>
+    <LostExp>3712536</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-04-19 02:43:40</Time>
+    <Location>(32038,31883,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Shanksz</Player>
     <LostExp>1954950</LostExp>
     <KilledBy>Blackdrake</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32238,32361,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Coronell</Player>
     <LostExp>1751266</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32858,31995,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Dressrossa</Player>
     <LostExp>900001</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32031,32262,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Dressrossa</Player>
     <LostExp>837582</LostExp>
     <KilledBy>Werewolf</KilledBy>
