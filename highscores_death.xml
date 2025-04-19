@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745050227316</GeneratedAt>
+  <GeneratedAt>1745050527319</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kinghorr</Player>
@@ -1004,13 +1004,21 @@
   <DeathEvent>
     <Rank>126</Rank>
     <Player>Snob</Player>
+    <LostExp>143740</LostExp>
+    <KilledBy>Fanatic</KilledBy>
+    <Time>2025-04-19 10:15:04</Time>
+    <Location>(31915,32013,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>127</Rank>
+    <Player>Snob</Player>
     <LostExp>127867</LostExp>
     <KilledBy>Treant</KilledBy>
     <Time>2025-04-19 02:58:51</Time>
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>127</Rank>
+    <Rank>128</Rank>
     <Player>Snob</Player>
     <LostExp>126851</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -1018,7 +1026,7 @@
     <Location>(32004,31922,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>128</Rank>
+    <Rank>129</Rank>
     <Player>Yuan</Player>
     <LostExp>101013</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -1026,7 +1034,7 @@
     <Location>(31992,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>129</Rank>
+    <Rank>130</Rank>
     <Player>Nandimbr</Player>
     <LostExp>38112</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -1034,7 +1042,7 @@
     <Location>(31982,32059,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>130</Rank>
+    <Rank>131</Rank>
     <Player>Nandimbr</Player>
     <LostExp>38077</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -1042,7 +1050,7 @@
     <Location>(31878,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>131</Rank>
+    <Rank>132</Rank>
     <Player>Mand</Player>
     <LostExp>9979</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -1050,7 +1058,7 @@
     <Location>(32007,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>132</Rank>
+    <Rank>133</Rank>
     <Player>Mand</Player>
     <LostExp>9979</LostExp>
     <KilledBy>Orc Leader</KilledBy>
