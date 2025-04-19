@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745086011281</GeneratedAt>
+  <GeneratedAt>1745086311277</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Manis</Player>
+    <LostExp>2215378</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-19 20:08:41</Time>
+    <Location>(31918,31990,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Pingulin</Player>
     <LostExp>1797043</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31895,32005,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Eunha</Player>
     <LostExp>1387742</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32865,31999,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Dark</Player>
     <LostExp>812698</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31981,32068,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Panqueca</Player>
     <LostExp>77234</LostExp>
     <KilledBy>Treant</KilledBy>
