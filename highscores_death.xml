@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745087211272</GeneratedAt>
+  <GeneratedAt>1745087511293</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingkiller</Player>
@@ -120,5 +120,13 @@
     <KilledBy>Eggosaurus</KilledBy>
     <Time>2025-04-19 20:24:56</Time>
     <Location>(32001,31976,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Serie</Player>
+    <LostExp>0</LostExp>
+    <KilledBy>Draguns</KilledBy>
+    <Time>2025-04-19 20:29:11</Time>
+    <Location>(31900,31955,7)</Location>
   </DeathEvent>
 </DeathHighscores>
