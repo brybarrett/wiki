@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745058627407</GeneratedAt>
+  <GeneratedAt>1745058927406</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kinghorr</Player>
@@ -1084,13 +1084,21 @@
   <DeathEvent>
     <Rank>136</Rank>
     <Player>Nandimbr</Player>
+    <LostExp>58138</LostExp>
+    <KilledBy>The Fanatic</KilledBy>
+    <Time>2025-04-19 12:33:59</Time>
+    <Location>(31912,32010,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>137</Rank>
+    <Player>Nandimbr</Player>
     <LostExp>38112</LostExp>
     <KilledBy>Ninjaman</KilledBy>
     <Time>2025-04-19 09:05:07</Time>
     <Location>(31982,32059,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>137</Rank>
+    <Rank>138</Rank>
     <Player>Nandimbr</Player>
     <LostExp>38077</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -1098,7 +1106,7 @@
     <Location>(31878,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>138</Rank>
+    <Rank>139</Rank>
     <Player>Mand</Player>
     <LostExp>9979</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -1106,7 +1114,7 @@
     <Location>(32007,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>139</Rank>
+    <Rank>140</Rank>
     <Player>Mand</Player>
     <LostExp>9979</LostExp>
     <KilledBy>Orc Leader</KilledBy>
