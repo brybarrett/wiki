@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745053527342</GeneratedAt>
+  <GeneratedAt>1745053827349</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kinghorr</Player>
@@ -979,6 +979,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>123</Rank>
+    <Player>Durin</Player>
+    <LostExp>619194</LostExp>
+    <KilledBy>The Frog</KilledBy>
+    <Time>2025-04-19 11:05:32</Time>
+    <Location>(31953,32043,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>124</Rank>
     <Player>Kaitt</Player>
     <LostExp>446756</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -986,7 +994,7 @@
     <Location>(31985,31925,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>124</Rank>
+    <Rank>125</Rank>
     <Player>Sabrina</Player>
     <LostExp>410585</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -994,7 +1002,7 @@
     <Location>(31863,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>125</Rank>
+    <Rank>126</Rank>
     <Player>Kaitt</Player>
     <LostExp>402301</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -1002,7 +1010,7 @@
     <Location>(31988,31913,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>126</Rank>
+    <Rank>127</Rank>
     <Player>Sabrina</Player>
     <LostExp>374397</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -1010,7 +1018,7 @@
     <Location>(31863,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>127</Rank>
+    <Rank>128</Rank>
     <Player>Snob</Player>
     <LostExp>143740</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -1018,7 +1026,7 @@
     <Location>(31915,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>128</Rank>
+    <Rank>129</Rank>
     <Player>Snob</Player>
     <LostExp>127867</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -1026,7 +1034,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>129</Rank>
+    <Rank>130</Rank>
     <Player>Snob</Player>
     <LostExp>126851</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -1034,7 +1042,7 @@
     <Location>(32004,31922,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>130</Rank>
+    <Rank>131</Rank>
     <Player>Yuan</Player>
     <LostExp>101013</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -1042,7 +1050,7 @@
     <Location>(31992,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>131</Rank>
+    <Rank>132</Rank>
     <Player>Nandimbr</Player>
     <LostExp>38112</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -1050,7 +1058,7 @@
     <Location>(31982,32059,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>132</Rank>
+    <Rank>133</Rank>
     <Player>Nandimbr</Player>
     <LostExp>38077</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -1058,7 +1066,7 @@
     <Location>(31878,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>133</Rank>
+    <Rank>134</Rank>
     <Player>Mand</Player>
     <LostExp>9979</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -1066,7 +1074,7 @@
     <Location>(32007,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>134</Rank>
+    <Rank>135</Rank>
     <Player>Mand</Player>
     <LostExp>9979</LostExp>
     <KilledBy>Orc Leader</KilledBy>
