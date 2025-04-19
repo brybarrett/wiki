@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745062066320</GeneratedAt>
+  <GeneratedAt>1745062366326</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Boruto</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Bogurel</Player>
+    <LostExp>49951900</LostExp>
+    <KilledBy>Papito</KilledBy>
+    <Time>2025-04-19 13:28:02</Time>
+    <Location>(31951,31855,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Baxt</Player>
     <LostExp>46899716</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31875,32017,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Brisadeiro</Player>
     <LostExp>15515071</LostExp>
     <KilledBy>Long</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32034,32282,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Somnus</Player>
     <LostExp>1649584</LostExp>
     <KilledBy>Long</KilledBy>
