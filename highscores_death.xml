@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745078511210</GeneratedAt>
+  <GeneratedAt>1745078811213</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Menson</Player>
+    <LostExp>6307680</LostExp>
+    <KilledBy>Soulrath</KilledBy>
+    <Time>2025-04-19 18:05:19</Time>
+    <Location>(31929,31883,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Pingulin</Player>
     <LostExp>1797043</LostExp>
     <KilledBy>Assasin</KilledBy>
