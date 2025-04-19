@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745094711364</GeneratedAt>
+  <GeneratedAt>1745095011361</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingkiller</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Barba</Player>
+    <LostExp>17503149</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-04-19 22:35:43</Time>
+    <Location>(31858,32075,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Menson</Player>
     <LostExp>6307680</LostExp>
     <KilledBy>Soulrath</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31929,31883,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Justen</Player>
     <LostExp>4772413</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31863,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Wizzard</Player>
     <LostExp>3376176</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31899,31854,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Manis</Player>
     <LostExp>2665068</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32027,32316,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Giraya</Player>
     <LostExp>2518966</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31949,32013,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Manis</Player>
     <LostExp>2401698</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31998,31927,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Giraya</Player>
     <LostExp>2358058</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31926,31980,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Manis</Player>
     <LostExp>2215378</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31918,31990,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Pingulin</Player>
     <LostExp>1797043</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31895,32005,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Eunha</Player>
     <LostExp>1387742</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32865,31999,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Dark</Player>
     <LostExp>1019232</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31956,31987,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Dark</Player>
     <LostExp>812698</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31981,32068,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Pintoral</Player>
     <LostExp>797924</LostExp>
     <KilledBy>Bokk</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31991,32076,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Tetezinho</Player>
     <LostExp>753575</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32009,31859,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Tetezinho</Player>
     <LostExp>549913</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32858,31981,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Judith</Player>
     <LostExp>369776</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31902,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Panqueca</Player>
     <LostExp>222471</LostExp>
     <KilledBy>Bokk</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31989,32072,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Serie</Player>
     <LostExp>137013</LostExp>
     <KilledBy>Draguns</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31898,31975,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Panqueca</Player>
     <LostExp>77234</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32045,31931,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Serie</Player>
     <LostExp>9237</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31988,32044,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Serie</Player>
     <LostExp>2605</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32009,31883,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Serie</Player>
     <LostExp>0</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32001,31976,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Serie</Player>
     <LostExp>0</LostExp>
     <KilledBy>Draguns</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31900,31955,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Serie</Player>
     <LostExp>0</LostExp>
     <KilledBy>Mantis</KilledBy>
