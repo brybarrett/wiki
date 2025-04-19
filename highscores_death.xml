@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745070766410</GeneratedAt>
+  <GeneratedAt>1745071066419</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Narack</Player>
@@ -168,5 +168,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-19 14:38:43</Time>
     <Location>(32038,32246,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Danka</Player>
+    <LostExp>270613</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-04-19 15:56:33</Time>
+    <Location>(32038,31882,8)</Location>
   </DeathEvent>
 </DeathHighscores>
