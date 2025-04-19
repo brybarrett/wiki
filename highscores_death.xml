@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745061766321</GeneratedAt>
+  <GeneratedAt>1745062066320</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Boruto</Player>
+    <LostExp>146115365</LostExp>
+    <KilledBy>Papito</KilledBy>
+    <Time>2025-04-19 13:24:37</Time>
+    <Location>(31907,31828,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Meeca</Player>
     <LostExp>96821738</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,23 @@
     <Location>(31949,32284,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
+    <Player>Bogurel</Player>
+    <LostExp>55499335</LostExp>
+    <KilledBy>Papasmerf</KilledBy>
+    <Time>2025-04-19 13:24:25</Time>
+    <Location>(31906,31831,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Baxt</Player>
+    <LostExp>46899716</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-19 13:27:11</Time>
+    <Location>(31875,32017,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Brisadeiro</Player>
     <LostExp>15515071</LostExp>
     <KilledBy>Long</KilledBy>
@@ -18,7 +42,7 @@
     <Location>(32034,32282,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>6</Rank>
     <Player>Somnus</Player>
     <LostExp>1649584</LostExp>
     <KilledBy>Long</KilledBy>
