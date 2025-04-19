@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745021427021</GeneratedAt>
+  <GeneratedAt>1745021727023</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Vinion</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-19 01:59:24</Time>
     <Location>(32031,32262,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Dressrossa</Player>
+    <LostExp>837582</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-19 02:12:49</Time>
+    <Location>(32029,32262,8)</Location>
   </DeathEvent>
 </DeathHighscores>
