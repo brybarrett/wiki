@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745086611281</GeneratedAt>
+  <GeneratedAt>1745086911273</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kingkiller</Player>
+    <LostExp>282006096</LostExp>
+    <KilledBy>Scarapy Master</KilledBy>
+    <Time>2025-04-19 20:19:45</Time>
+    <Location>(32020,32228,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Heineken</Player>
     <LostExp>94397709</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31907,31970,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Destino</Player>
     <LostExp>39839414</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31865,32066,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Destino</Player>
     <LostExp>35855507</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31864,32065,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Menson</Player>
     <LostExp>6307680</LostExp>
     <KilledBy>Soulrath</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31929,31883,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Justen</Player>
     <LostExp>4772413</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31863,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Manis</Player>
     <LostExp>2665068</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32027,32316,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Manis</Player>
     <LostExp>2401698</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31998,31927,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Manis</Player>
     <LostExp>2215378</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31918,31990,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Pingulin</Player>
     <LostExp>1797043</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31895,32005,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Eunha</Player>
     <LostExp>1387742</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32865,31999,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Dark</Player>
     <LostExp>812698</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31981,32068,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Panqueca</Player>
     <LostExp>77234</LostExp>
     <KilledBy>Treant</KilledBy>
