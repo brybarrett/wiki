@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745086911273</GeneratedAt>
+  <GeneratedAt>1745087211272</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingkiller</Player>
@@ -99,10 +99,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Tetezinho</Player>
+    <LostExp>549913</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-04-19 20:23:35</Time>
+    <Location>(32858,31981,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Panqueca</Player>
     <LostExp>77234</LostExp>
     <KilledBy>Treant</KilledBy>
     <Time>2025-04-19 20:03:17</Time>
     <Location>(32045,31931,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Serie</Player>
+    <LostExp>0</LostExp>
+    <KilledBy>Eggosaurus</KilledBy>
+    <Time>2025-04-19 20:24:56</Time>
+    <Location>(32001,31976,7)</Location>
   </DeathEvent>
 </DeathHighscores>
