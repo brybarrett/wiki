@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745069266394</GeneratedAt>
+  <GeneratedAt>1745069566393</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Narack</Player>
@@ -123,6 +123,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
+    <Player>Bogurel</Player>
+    <LostExp>19522504</LostExp>
+    <KilledBy>Kakashi</KilledBy>
+    <Time>2025-04-19 15:30:49</Time>
+    <Location>(31946,31850,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
     <Player>Brisadeiro</Player>
     <LostExp>15515071</LostExp>
     <KilledBy>Long</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32034,32282,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Somnus</Player>
     <LostExp>1649584</LostExp>
     <KilledBy>Long</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32034,32279,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Somnus</Player>
     <LostExp>1646929</LostExp>
     <KilledBy>Werewolf</KilledBy>
