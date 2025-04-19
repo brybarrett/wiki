@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745100711421</GeneratedAt>
+  <GeneratedAt>1745101011427</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingkiller</Player>
@@ -196,13 +196,21 @@
   <DeathEvent>
     <Rank>25</Rank>
     <Player>Dark</Player>
+    <LostExp>1033198</LostExp>
+    <KilledBy>Blackburn</KilledBy>
+    <Time>2025-04-20 00:14:58</Time>
+    <Location>(31996,32049,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
+    <Player>Dark</Player>
     <LostExp>1019232</LostExp>
     <KilledBy>Assasin</KilledBy>
     <Time>2025-04-19 21:15:00</Time>
     <Location>(31956,31987,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Dark</Player>
     <LostExp>812698</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31981,32068,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Pintoral</Player>
     <LostExp>797924</LostExp>
     <KilledBy>Bokk</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31991,32076,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Tetezinho</Player>
     <LostExp>753575</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32009,31859,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Tetezinho</Player>
     <LostExp>549913</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32858,31981,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Judith</Player>
     <LostExp>369776</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31902,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Panqueca</Player>
     <LostExp>222471</LostExp>
     <KilledBy>Bokk</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(31989,32072,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Serie</Player>
     <LostExp>137013</LostExp>
     <KilledBy>Draguns</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31898,31975,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Panqueca</Player>
     <LostExp>77234</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(32045,31931,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Willinha</Player>
     <LostExp>73711</LostExp>
     <KilledBy>Djinn</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(32795,32220,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Serie</Player>
     <LostExp>9237</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31988,32044,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Serie</Player>
     <LostExp>2605</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(32009,31883,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Serie</Player>
     <LostExp>0</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(32001,31976,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Serie</Player>
     <LostExp>0</LostExp>
     <KilledBy>Draguns</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31900,31955,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Serie</Player>
     <LostExp>0</LostExp>
     <KilledBy>Mantis</KilledBy>
