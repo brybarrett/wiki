@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745067166378</GeneratedAt>
+  <GeneratedAt>1745067466377</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Narack</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Mineira</Player>
+    <LostExp>183622349</LostExp>
+    <KilledBy>Papasmerf</KilledBy>
+    <Time>2025-04-19 14:52:52</Time>
+    <Location>(31906,31827,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Boruto</Player>
     <LostExp>146115365</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31907,31828,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Meeca</Player>
     <LostExp>96821738</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31949,32284,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Bogurel</Player>
     <LostExp>55499335</LostExp>
     <KilledBy>Papasmerf</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31906,31831,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Bogurel</Player>
     <LostExp>49951900</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31951,31855,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Baxt</Player>
     <LostExp>46899716</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31875,32017,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Bogurel</Player>
     <LostExp>44958475</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31960,31841,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Bogurel</Player>
     <LostExp>40467990</LostExp>
     <KilledBy>Kakashi</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31962,31835,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Bogurel</Player>
     <LostExp>36424252</LostExp>
     <KilledBy>Kakashi</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31959,31854,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Bogurel</Player>
     <LostExp>32789076</LostExp>
     <KilledBy>Papasmerf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31962,31838,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Bogurel</Player>
     <LostExp>29734964</LostExp>
     <KilledBy>Victorwiz</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31908,31827,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Bogurel</Player>
     <LostExp>26763724</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31910,31830,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Bogurel</Player>
     <LostExp>24087352</LostExp>
     <KilledBy>Kakashi</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31910,31835,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Brisadeiro</Player>
     <LostExp>15515071</LostExp>
     <KilledBy>Long</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32034,32282,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Somnus</Player>
     <LostExp>1649584</LostExp>
     <KilledBy>Long</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32034,32279,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Somnus</Player>
     <LostExp>1646929</LostExp>
     <KilledBy>Werewolf</KilledBy>
