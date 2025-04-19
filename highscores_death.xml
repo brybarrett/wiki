@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745064466344</GeneratedAt>
+  <GeneratedAt>1745064766347</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Narack</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Bogurel</Player>
+    <LostExp>32789076</LostExp>
+    <KilledBy>Papasmerf</KilledBy>
+    <Time>2025-04-19 14:09:43</Time>
+    <Location>(31962,31838,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Brisadeiro</Player>
     <LostExp>15515071</LostExp>
     <KilledBy>Long</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32034,32282,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Somnus</Player>
     <LostExp>1649584</LostExp>
     <KilledBy>Long</KilledBy>
