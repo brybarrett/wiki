@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745081211234</GeneratedAt>
+  <GeneratedAt>1745081511232</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Heineken</Player>
+    <LostExp>94397709</LostExp>
+    <KilledBy>Rishombie</KilledBy>
+    <Time>2025-04-19 18:47:53</Time>
+    <Location>(31907,31970,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Menson</Player>
     <LostExp>6307680</LostExp>
     <KilledBy>Soulrath</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31929,31883,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Manis</Player>
     <LostExp>2665068</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -18,7 +26,15 @@
     <Location>(32027,32316,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
+    <Player>Manis</Player>
+    <LostExp>2401698</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-04-19 18:47:41</Time>
+    <Location>(31998,31927,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Pingulin</Player>
     <LostExp>1797043</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(31895,32005,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Eunha</Player>
     <LostExp>1387742</LostExp>
     <KilledBy>Redeath</KilledBy>
