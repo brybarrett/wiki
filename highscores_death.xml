@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745156024216</GeneratedAt>
+  <GeneratedAt>1745156324216</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Superstar</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Aishiteru</Player>
+    <LostExp>7662698</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-04-20 15:38:13</Time>
+    <Location>(31993,32212,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Manis</Player>
     <LostExp>2743311</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31864,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Ceifadora</Player>
     <LostExp>1072285</LostExp>
     <KilledBy>Soulrath</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31921,31895,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Serie</Player>
     <LostExp>844881</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31945,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Serie</Player>
     <LostExp>550922</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -66,7 +74,15 @@
     <Location>(31944,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
+    <Player>Kingbogu</Player>
+    <LostExp>9477</LostExp>
+    <KilledBy>Troll</KilledBy>
+    <Time>2025-04-20 15:37:09</Time>
+    <Location>(31865,32067,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Mand</Player>
     <LostExp>9145</LostExp>
     <KilledBy>Orc Leader</KilledBy>
