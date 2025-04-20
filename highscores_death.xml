@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745157524224</GeneratedAt>
+  <GeneratedAt>1745157824242</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Superstar</Player>
@@ -123,6 +123,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
+    <Player>Cascadebal</Player>
+    <LostExp>3549</LostExp>
+    <KilledBy>Eggosaurus</KilledBy>
+    <Time>2025-04-20 15:58:45</Time>
+    <Location>(31981,32043,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
     <Player>Cascadebal</Player>
     <LostExp>965</LostExp>
     <KilledBy>Scorpion</KilledBy>
