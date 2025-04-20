@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745184782336</GeneratedAt>
+  <GeneratedAt>1745185082336</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templarr</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Urekmazino</Player>
+    <LostExp>23766339</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-04-20 23:34:23</Time>
+    <Location>(32187,32273,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Cochilo</Player>
     <LostExp>18019941</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31990,32193,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Cochilo</Player>
     <LostExp>14552064</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31900,31997,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Qr</Player>
     <LostExp>6169542</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31869,32031,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Wizzard</Player>
     <LostExp>6127521</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31991,32200,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Somnus</Player>
     <LostExp>4447352</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32054,32219,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Killermgic</Player>
     <LostExp>3550098</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32845,31982,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Manis</Player>
     <LostExp>3400112</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32045,32305,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Manis</Player>
     <LostExp>3160167</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31869,32028,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Killermgic</Player>
     <LostExp>3028795</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32857,31999,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Ceifadora</Player>
     <LostExp>2639489</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32877,32020,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Kingbogu</Player>
     <LostExp>1112347</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31944,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Tetezinho</Player>
     <LostExp>701963</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31962,32015,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Kingbogu</Player>
     <LostExp>678228</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -146,20 +154,12 @@
     <Location>(31942,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Kingbogu</Player>
     <LostExp>296592</LostExp>
     <KilledBy>Troll</KilledBy>
     <Time>2025-04-20 18:14:10</Time>
     <Location>(31867,32068,12)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>20</Rank>
-    <Player>Kingbogu</Player>
-    <LostExp>247034</LostExp>
-    <KilledBy>Ninjaman</KilledBy>
-    <Time>2025-04-20 18:04:41</Time>
-    <Location>(31986,32071,9)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>21</Rank>
@@ -172,13 +172,21 @@
   <DeathEvent>
     <Rank>22</Rank>
     <Player>Kingbogu</Player>
+    <LostExp>247034</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-04-20 18:04:41</Time>
+    <Location>(31986,32071,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Kingbogu</Player>
     <LostExp>100463</LostExp>
     <KilledBy>Ninjaman</KilledBy>
     <Time>2025-04-20 17:48:41</Time>
     <Location>(31986,32071,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Willinha</Player>
     <LostExp>73188</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32789,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Kingbogu</Player>
     <LostExp>53438</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32025,31974,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Kingbogu</Player>
     <LostExp>33442</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32021,31979,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Kingbogu</Player>
     <LostExp>33041</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32026,31972,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Kingbogu</Player>
     <LostExp>27847</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31988,32070,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Kingbogu</Player>
     <LostExp>21919</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Cascadebal</Player>
     <LostExp>13358</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32047,31887,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Sakee</Player>
     <LostExp>12779</LostExp>
     <KilledBy>Scorpion</KilledBy>
