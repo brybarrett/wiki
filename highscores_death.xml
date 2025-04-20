@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745163482113</GeneratedAt>
+  <GeneratedAt>1745163782127</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Manis</Player>
@@ -12,13 +12,21 @@
   <DeathEvent>
     <Rank>2</Rank>
     <Player>Kingbogu</Player>
+    <LostExp>53438</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-04-20 17:41:17</Time>
+    <Location>(32025,31974,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Kingbogu</Player>
     <LostExp>33442</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
     <Time>2025-04-20 17:32:59</Time>
     <Location>(32021,31979,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Kingbogu</Player>
     <LostExp>33041</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32026,31972,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Kingbogu</Player>
     <LostExp>27847</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31988,32070,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Kingbogu</Player>
     <LostExp>21919</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Cascadebal</Player>
     <LostExp>13358</LostExp>
     <KilledBy>Shogun</KilledBy>
