@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745114107567</GeneratedAt>
+  <GeneratedAt>1745114407565</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Chun</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Qr</Player>
+    <LostExp>3357350</LostExp>
+    <KilledBy>Eggosaurus</KilledBy>
+    <Time>2025-04-20 03:57:46</Time>
+    <Location>(31985,32048,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Dressrossa</Player>
     <LostExp>2231204</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32032,32267,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Ceifadora</Player>
     <LostExp>1100022</LostExp>
     <KilledBy>The Miner</KilledBy>
