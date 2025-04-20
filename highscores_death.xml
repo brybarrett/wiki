@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745161982118</GeneratedAt>
+  <GeneratedAt>1745162282129</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kingbogu</Player>
+    <LostExp>21919</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-04-20 17:16:10</Time>
+    <Location>(31979,32064,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Cascadebal</Player>
     <LostExp>13358</LostExp>
     <KilledBy>Shogun</KilledBy>
