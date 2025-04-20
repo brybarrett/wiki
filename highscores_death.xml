@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745142907833</GeneratedAt>
+  <GeneratedAt>1745143207836</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kakuzu</Player>
+    <LostExp>183159354</LostExp>
+    <KilledBy>Soulrath</KilledBy>
+    <Time>2025-04-20 11:57:46</Time>
+    <Location>(31921,31895,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Baam</Player>
     <LostExp>36174920</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32038,32246,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Hakina</Player>
     <LostExp>29110558</LostExp>
     <KilledBy>Hailey</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Chun</Player>
     <LostExp>11239785</LostExp>
     <KilledBy>Draguns</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31888,31957,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Wizzard</Player>
     <LostExp>3408641</LostExp>
     <KilledBy>Electryon</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32003,31971,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Qr</Player>
     <LostExp>3357350</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31985,32048,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Sweetie</Player>
     <LostExp>2426756</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31964,32265,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Dressrossa</Player>
     <LostExp>2399275</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32032,32267,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Dressrossa</Player>
     <LostExp>2231204</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32032,32267,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Papeka</Player>
     <LostExp>2051293</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -74,20 +82,12 @@
     <Location>(32822,32040,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Eunha</Player>
     <LostExp>1827391</LostExp>
     <KilledBy>Flutt</KilledBy>
     <Time>2025-04-20 07:16:46</Time>
     <Location>(31974,32275,7)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>11</Rank>
-    <Player>Srluis</Player>
-    <LostExp>1804846</LostExp>
-    <KilledBy>Eggosaurus</KilledBy>
-    <Time>2025-04-20 04:24:43</Time>
-    <Location>(31992,32045,7)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
@@ -99,6 +99,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Srluis</Player>
+    <LostExp>1804846</LostExp>
+    <KilledBy>Eggosaurus</KilledBy>
+    <Time>2025-04-20 04:24:43</Time>
+    <Location>(31992,32045,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Papeka</Player>
     <LostExp>1642258</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Ceifadora</Player>
     <LostExp>1100022</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31852,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Kaitt</Player>
     <LostExp>482358</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31872,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Jensen</Player>
     <LostExp>343214</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31984,32018,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Khersek</Player>
     <LostExp>320450</LostExp>
     <KilledBy>Djinn</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32794,32221,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Nauak</Player>
     <LostExp>25224</LostExp>
     <KilledBy>Soulrath</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31919,31897,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Yao</Player>
     <LostExp>12659</LostExp>
     <KilledBy>Skeleton</KilledBy>
