@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745117107593</GeneratedAt>
+  <GeneratedAt>1745117407585</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -64,5 +64,13 @@
     <KilledBy>The Miner</KilledBy>
     <Time>2025-04-20 02:41:26</Time>
     <Location>(31852,31972,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Khersek</Player>
+    <LostExp>320450</LostExp>
+    <KilledBy>Djinn</KilledBy>
+    <Time>2025-04-20 04:46:29</Time>
+    <Location>(32794,32221,9)</Location>
   </DeathEvent>
 </DeathHighscores>
