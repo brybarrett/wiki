@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745115607575</GeneratedAt>
+  <GeneratedAt>1745115907571</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Chun</Player>
@@ -35,6 +35,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Srluis</Player>
+    <LostExp>1804846</LostExp>
+    <KilledBy>Eggosaurus</KilledBy>
+    <Time>2025-04-20 04:24:43</Time>
+    <Location>(31992,32045,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Srluis</Player>
+    <LostExp>1804846</LostExp>
+    <KilledBy>Eggosaurus</KilledBy>
+    <Time>2025-04-20 04:24:43</Time>
+    <Location>(31992,32045,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Ceifadora</Player>
     <LostExp>1100022</LostExp>
     <KilledBy>The Miner</KilledBy>
