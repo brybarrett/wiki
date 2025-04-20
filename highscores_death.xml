@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745125207674</GeneratedAt>
+  <GeneratedAt>1745125507674</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -88,5 +88,13 @@
     <KilledBy>Soulrath</KilledBy>
     <Time>2025-04-20 05:25:41</Time>
     <Location>(31919,31897,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Yao</Player>
+    <LostExp>12659</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-04-20 07:01:55</Time>
+    <Location>(32006,32031,8)</Location>
   </DeathEvent>
 </DeathHighscores>
