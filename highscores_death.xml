@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745157224226</GeneratedAt>
+  <GeneratedAt>1745157524224</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Superstar</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Dark</Player>
+    <LostExp>1306949</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-04-20 15:56:42</Time>
+    <Location>(31981,32071,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Ceifadora</Player>
     <LostExp>1072285</LostExp>
     <KilledBy>Soulrath</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31921,31895,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Serie</Player>
     <LostExp>844881</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31945,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Serie</Player>
     <LostExp>550922</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31944,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Kingbogu</Player>
     <LostExp>15211</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Kingbogu</Player>
     <LostExp>9477</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31865,32067,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Mand</Player>
     <LostExp>9145</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32009,31871,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Cascadebal</Player>
     <LostExp>965</LostExp>
     <KilledBy>Scorpion</KilledBy>
