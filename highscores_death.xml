@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745109907515</GeneratedAt>
+  <GeneratedAt>1745110207515</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Chun</Player>
+    <LostExp>11239785</LostExp>
+    <KilledBy>Draguns</KilledBy>
+    <Time>2025-04-20 02:48:19</Time>
+    <Location>(31888,31957,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Wizzard</Player>
     <LostExp>3408641</LostExp>
     <KilledBy>Electryon</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32003,31971,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Ceifadora</Player>
     <LostExp>1100022</LostExp>
     <KilledBy>The Miner</KilledBy>
