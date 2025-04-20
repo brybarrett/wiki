@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745159924232</GeneratedAt>
+  <GeneratedAt>1745160224243</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Ynk</Player>
+    <LostExp>129842057</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-04-20 16:42:04</Time>
+    <Location>(32868,31968,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Superstar</Player>
     <LostExp>48537746</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32154,32271,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Gabibr </Player>
     <LostExp>38671264</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32023,32254,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Biel </Player>
     <LostExp>32644806</LostExp>
     <KilledBy>Kapami</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32842,32015,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Frostfenix</Player>
     <LostExp>32601806</LostExp>
     <KilledBy>Kapami</KilledBy>
@@ -34,20 +42,12 @@
     <Location>(32822,32031,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Frostfenix</Player>
     <LostExp>29341626</LostExp>
     <KilledBy>Kapami</KilledBy>
     <Time>2025-04-20 15:52:40</Time>
     <Location>(32835,32010,9)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>6</Rank>
-    <Player>Movie</Player>
-    <LostExp>18741303</LostExp>
-    <KilledBy>Blaze Master</KilledBy>
-    <Time>2025-04-20 15:25:10</Time>
-    <Location>(31959,32279,9)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
@@ -60,13 +60,21 @@
   <DeathEvent>
     <Rank>8</Rank>
     <Player>Movie</Player>
+    <LostExp>18741303</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-20 15:25:10</Time>
+    <Location>(31959,32279,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Movie</Player>
     <LostExp>17788406</LostExp>
     <KilledBy>Leviatacle</KilledBy>
     <Time>2025-04-20 16:37:41</Time>
     <Location>(31863,32077,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Aishiteru</Player>
     <LostExp>7662698</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31993,32212,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Manis</Player>
     <LostExp>2743311</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31864,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Serie</Player>
     <LostExp>2331681</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31946,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Dark</Player>
     <LostExp>1306949</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31981,32071,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Ceifadora</Player>
     <LostExp>1072285</LostExp>
     <KilledBy>Soulrath</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31921,31895,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Serie</Player>
     <LostExp>844881</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31945,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Serie</Player>
     <LostExp>550922</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31944,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Kingbogu</Player>
     <LostExp>15211</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Kingbogu</Player>
     <LostExp>9477</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31865,32067,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Mand</Player>
     <LostExp>9145</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32009,31871,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Cascadebal</Player>
     <LostExp>3549</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31981,32043,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Cascadebal</Player>
     <LostExp>3430</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32005,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Cascadebal</Player>
     <LostExp>965</LostExp>
     <KilledBy>Scorpion</KilledBy>
