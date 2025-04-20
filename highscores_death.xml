@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745155424195</GeneratedAt>
+  <GeneratedAt>1745155724205</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Superstar</Player>
@@ -11,6 +11,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Movie</Player>
+    <LostExp>18741303</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-20 15:25:10</Time>
+    <Location>(31959,32279,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Movie</Player>
+    <LostExp>18741303</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-20 15:25:10</Time>
+    <Location>(31959,32279,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Ceifadora</Player>
     <LostExp>1072285</LostExp>
     <KilledBy>Soulrath</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(31921,31895,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Serie</Player>
     <LostExp>844881</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(31945,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Serie</Player>
     <LostExp>550922</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(31944,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Mand</Player>
     <LostExp>9145</LostExp>
     <KilledBy>Orc Leader</KilledBy>
