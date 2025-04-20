@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745109607509</GeneratedAt>
+  <GeneratedAt>1745109907515</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Wizzard</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Electryon</KilledBy>
     <Time>2025-04-20 02:16:58</Time>
     <Location>(32003,31971,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Ceifadora</Player>
+    <LostExp>1100022</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2025-04-20 02:41:26</Time>
+    <Location>(31852,31972,11)</Location>
   </DeathEvent>
 </DeathHighscores>
