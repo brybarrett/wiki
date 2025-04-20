@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745156624209</GeneratedAt>
+  <GeneratedAt>1745156924221</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Superstar</Player>
@@ -76,13 +76,21 @@
   <DeathEvent>
     <Rank>10</Rank>
     <Player>Kingbogu</Player>
+    <LostExp>15211</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-04-20 15:44:28</Time>
+    <Location>(31979,32064,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Kingbogu</Player>
     <LostExp>9477</LostExp>
     <KilledBy>Troll</KilledBy>
     <Time>2025-04-20 15:37:09</Time>
     <Location>(31865,32067,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Mand</Player>
     <LostExp>9145</LostExp>
     <KilledBy>Orc Leader</KilledBy>
