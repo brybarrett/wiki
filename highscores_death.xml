@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745130307721</GeneratedAt>
+  <GeneratedAt>1745130607729</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Baam</Player>
@@ -44,26 +44,26 @@
   <DeathEvent>
     <Rank>6</Rank>
     <Player>Dressrossa</Player>
+    <LostExp>2399275</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-20 08:29:05</Time>
+    <Location>(32032,32267,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Dressrossa</Player>
     <LostExp>2231204</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-20 03:51:14</Time>
     <Location>(32032,32267,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Eunha</Player>
     <LostExp>1827391</LostExp>
     <KilledBy>Flutt</KilledBy>
     <Time>2025-04-20 07:16:46</Time>
     <Location>(31974,32275,7)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>8</Rank>
-    <Player>Srluis</Player>
-    <LostExp>1804846</LostExp>
-    <KilledBy>Eggosaurus</KilledBy>
-    <Time>2025-04-20 04:24:43</Time>
-    <Location>(31992,32045,7)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Srluis</Player>
+    <LostExp>1804846</LostExp>
+    <KilledBy>Eggosaurus</KilledBy>
+    <Time>2025-04-20 04:24:43</Time>
+    <Location>(31992,32045,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Ceifadora</Player>
     <LostExp>1100022</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31852,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Kaitt</Player>
     <LostExp>482358</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31872,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Khersek</Player>
     <LostExp>320450</LostExp>
     <KilledBy>Djinn</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32794,32221,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Nauak</Player>
     <LostExp>25224</LostExp>
     <KilledBy>Soulrath</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31919,31897,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Yao</Player>
     <LostExp>12659</LostExp>
     <KilledBy>Skeleton</KilledBy>
