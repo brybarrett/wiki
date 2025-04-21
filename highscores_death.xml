@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745256329107</GeneratedAt>
+  <GeneratedAt>1745256629107</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -291,6 +291,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>37</Rank>
+    <Player>Mtzera</Player>
+    <LostExp>37978</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-04-21 19:27:23</Time>
+    <Location>(31982,31861,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>38</Rank>
     <Player>Mand</Player>
     <LostExp>8426</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31974,32045,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Mand</Player>
     <LostExp>7619</LostExp>
     <KilledBy>Blackburn</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31980,32042,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Bigodeira</Player>
     <LostExp>530</LostExp>
     <KilledBy>Orc Leader</KilledBy>
