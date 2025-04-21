@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745195728532</GeneratedAt>
+  <GeneratedAt>1745196028538</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindada</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Marl</Player>
+    <LostExp>8425164</LostExp>
+    <KilledBy>Blackburn</KilledBy>
+    <Time>2025-04-21 02:40:24</Time>
+    <Location>(31980,32042,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Pierre</Player>
     <LostExp>6888130</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -18,11 +26,19 @@
     <Location>(31951,31981,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Dark</Player>
     <LostExp>2418715</LostExp>
     <KilledBy>Flutt</KilledBy>
     <Time>2025-04-21 01:00:59</Time>
     <Location>(31962,32261,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Mand</Player>
+    <LostExp>8426</LostExp>
+    <KilledBy>Eggosaurus</KilledBy>
+    <Time>2025-04-21 02:40:07</Time>
+    <Location>(31974,32045,7)</Location>
   </DeathEvent>
 </DeathHighscores>
