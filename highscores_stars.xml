@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1745218828708</GeneratedAt>
+  <GeneratedAt>1745219128717</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -168,12 +168,12 @@
   </Player>
   <Player>
     <Rank>34</Rank>
-    <Name>Ashura</Name>
+    <Name>Wizav</Name>
     <StarsCollected>161</StarsCollected>
   </Player>
   <Player>
     <Rank>35</Rank>
-    <Name>Wizav</Name>
+    <Name>Ashura</Name>
     <StarsCollected>161</StarsCollected>
   </Player>
   <Player>
@@ -618,27 +618,27 @@
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Gibranx</Name>
-    <StarsCollected>77</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>125</Rank>
-    <Name>Kiyahatzu</Name>
-    <StarsCollected>77</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>126</Rank>
-    <Name>Pageone</Name>
-    <StarsCollected>77</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>127</Rank>
     <Name>Wiillmk</Name>
     <StarsCollected>77</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>125</Rank>
     <Name>Zoro</Name>
+    <StarsCollected>77</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>126</Rank>
+    <Name>Gibranx</Name>
+    <StarsCollected>77</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>127</Rank>
+    <Name>Kiyahatzu</Name>
+    <StarsCollected>77</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Pageone</Name>
     <StarsCollected>77</StarsCollected>
   </Player>
 </StarsHighscores>
