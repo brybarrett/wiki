@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745200228575</GeneratedAt>
+  <GeneratedAt>1745200528579</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -35,6 +35,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Pierre</Player>
+    <LostExp>6681909</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-04-21 03:54:02</Time>
+    <Location>(31868,32083,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Kirito</Player>
+    <LostExp>2740139</LostExp>
+    <KilledBy>Minorrior</KilledBy>
+    <Time>2025-04-21 03:54:34</Time>
+    <Location>(31911,31953,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Dark</Player>
     <LostExp>2418715</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31962,32261,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Mand</Player>
     <LostExp>8426</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(31974,32045,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Mand</Player>
     <LostExp>7619</LostExp>
     <KilledBy>Blackburn</KilledBy>
