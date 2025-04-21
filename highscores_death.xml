@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745276737760</GeneratedAt>
+  <GeneratedAt>1745277037756</GeneratedAt>
+  <DeathEvent>
+    <Rank>1</Rank>
+    <Player>Hellwilzz</Player>
+    <LostExp>67618251</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-22 01:08:32</Time>
+    <Location>(31983,32269,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Baam</Player>
+    <LostExp>54667998</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-04-22 01:09:18</Time>
+    <Location>(32191,32261,9)</Location>
+  </DeathEvent>
 </DeathHighscores>
