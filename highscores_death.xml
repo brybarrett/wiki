@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745201728590</GeneratedAt>
+  <GeneratedAt>1745202028594</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Villain</Player>
+    <LostExp>11433732</LostExp>
+    <KilledBy>Frostily</KilledBy>
+    <Time>2025-04-21 04:18:34</Time>
+    <Location>(32018,31806,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Marl</Player>
     <LostExp>8425164</LostExp>
     <KilledBy>Blackburn</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31980,32042,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Pierre</Player>
     <LostExp>6888130</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31951,31981,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Pierre</Player>
     <LostExp>6681909</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31868,32083,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Kirito</Player>
     <LostExp>2740139</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31911,31953,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Dark</Player>
     <LostExp>2418715</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -58,7 +66,15 @@
     <Location>(31962,32261,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
+    <Player>Opah</Player>
+    <LostExp>1852464</LostExp>
+    <KilledBy>Frostily</KilledBy>
+    <Time>2025-04-21 04:18:42</Time>
+    <Location>(32020,31807,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Mand</Player>
     <LostExp>8426</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(31974,32045,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Mand</Player>
     <LostExp>7619</LostExp>
     <KilledBy>Blackburn</KilledBy>
