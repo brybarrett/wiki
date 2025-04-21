@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745276129300</GeneratedAt>
+  <GeneratedAt>1745276429312</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -515,6 +515,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>65</Rank>
+    <Player>Mand</Player>
+    <LostExp>5177</LostExp>
+    <KilledBy>Blackburn</KilledBy>
+    <Time>2025-04-22 00:57:59</Time>
+    <Location>(31980,32043,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>66</Rank>
     <Player>Bigodeira</Player>
     <LostExp>530</LostExp>
     <KilledBy>Orc Leader</KilledBy>
