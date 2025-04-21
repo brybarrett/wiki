@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745275529299</GeneratedAt>
+  <GeneratedAt>1745275829297</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -435,6 +435,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>55</Rank>
+    <Player>Reimacaco</Player>
+    <LostExp>31946</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-04-22 00:50:00</Time>
+    <Location>(31988,31866,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>56</Rank>
     <Player>Mortal</Player>
     <LostExp>16432</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -442,7 +450,7 @@
     <Location>(32002,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Reimacaco</Player>
     <LostExp>10865</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(32009,31882,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Reimacaco</Player>
     <LostExp>10690</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -458,7 +466,7 @@
     <Location>(32005,31872,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Mand</Player>
     <LostExp>8426</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -466,7 +474,7 @@
     <Location>(31974,32045,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>59</Rank>
+    <Rank>60</Rank>
     <Player>Mand</Player>
     <LostExp>7619</LostExp>
     <KilledBy>Blackburn</KilledBy>
@@ -474,7 +482,7 @@
     <Location>(31980,32042,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>60</Rank>
+    <Rank>61</Rank>
     <Player>Mand</Player>
     <LostExp>6893</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -482,7 +490,7 @@
     <Location>(31981,32041,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>61</Rank>
+    <Rank>62</Rank>
     <Player>Mand</Player>
     <LostExp>6303</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -490,7 +498,7 @@
     <Location>(31952,31868,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>62</Rank>
+    <Rank>63</Rank>
     <Player>Reimacaco</Player>
     <LostExp>6154</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -498,7 +506,7 @@
     <Location>(32006,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>63</Rank>
+    <Rank>64</Rank>
     <Player>Mand</Player>
     <LostExp>5673</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -506,7 +514,7 @@
     <Location>(31984,32048,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>64</Rank>
+    <Rank>65</Rank>
     <Player>Bigodeira</Player>
     <LostExp>530</LostExp>
     <KilledBy>Orc Leader</KilledBy>
