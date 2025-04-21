@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745253629075</GeneratedAt>
+  <GeneratedAt>1745253929072</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -163,6 +163,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>21</Rank>
+    <Player>Dark</Player>
+    <LostExp>3956256</LostExp>
+    <KilledBy>Bullwar</KilledBy>
+    <Time>2025-04-21 18:40:30</Time>
+    <Location>(31898,31858,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Dark</Player>
+    <LostExp>3562332</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-04-21 18:44:51</Time>
+    <Location>(32851,31972,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
     <Player>Canix</Player>
     <LostExp>3535280</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -170,7 +186,7 @@
     <Location>(32866,32041,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>24</Rank>
     <Player>Kannizinha</Player>
     <LostExp>3297856</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -178,7 +194,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>25</Rank>
     <Player>Kannizinha</Player>
     <LostExp>2964696</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -186,7 +202,7 @@
     <Location>(31944,31981,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>26</Rank>
     <Player>Vaitas</Player>
     <LostExp>2789089</LostExp>
     <KilledBy>Electryon</KilledBy>
@@ -194,7 +210,7 @@
     <Location>(32000,31974,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>27</Rank>
     <Player>Kirito</Player>
     <LostExp>2740139</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -202,7 +218,7 @@
     <Location>(31911,31953,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>28</Rank>
     <Player>Dark</Player>
     <LostExp>2418715</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -210,7 +226,7 @@
     <Location>(31962,32261,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>29</Rank>
     <Player>Eunha</Player>
     <LostExp>2176296</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -218,7 +234,7 @@
     <Location>(32839,32009,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>30</Rank>
     <Player>Pingulin </Player>
     <LostExp>1897236</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -226,7 +242,7 @@
     <Location>(32062,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>31</Rank>
     <Player>Opah</Player>
     <LostExp>1852464</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -234,7 +250,7 @@
     <Location>(32020,31807,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>32</Rank>
     <Player>Kalea</Player>
     <LostExp>991151</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -242,7 +258,7 @@
     <Location>(32868,32032,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>33</Rank>
     <Player>Restaf</Player>
     <LostExp>273379</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -250,7 +266,7 @@
     <Location>(31915,31977,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>34</Rank>
     <Player>Mand</Player>
     <LostExp>8426</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -258,7 +274,7 @@
     <Location>(31974,32045,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>35</Rank>
     <Player>Mand</Player>
     <LostExp>7619</LostExp>
     <KilledBy>Blackburn</KilledBy>
@@ -266,7 +282,7 @@
     <Location>(31980,32042,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>36</Rank>
     <Player>Bigodeira</Player>
     <LostExp>530</LostExp>
     <KilledBy>Orc Leader</KilledBy>
