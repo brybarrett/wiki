@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745274029284</GeneratedAt>
+  <GeneratedAt>1745274329282</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -363,6 +363,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>46</Rank>
+    <Player>Kingbogu</Player>
+    <LostExp>1472034</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-04-22 00:20:34</Time>
+    <Location>(32852,31976,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>47</Rank>
     <Player>Dinastia</Player>
     <LostExp>1452271</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Dinastia</Player>
     <LostExp>1307044</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Kalea</Player>
     <LostExp>991151</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(32868,32032,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Willinha</Player>
     <LostExp>362270</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31983,32043,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Restaf</Player>
     <LostExp>273379</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31915,31977,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Mtzera</Player>
     <LostExp>37978</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(31982,31861,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Mortal</Player>
     <LostExp>16432</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(32002,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Reimacaco</Player>
     <LostExp>10865</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -426,7 +434,7 @@
     <Location>(32009,31882,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
     <Player>Reimacaco</Player>
     <LostExp>10690</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -434,7 +442,7 @@
     <Location>(32005,31872,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>56</Rank>
     <Player>Mand</Player>
     <LostExp>8426</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -442,7 +450,7 @@
     <Location>(31974,32045,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Mand</Player>
     <LostExp>7619</LostExp>
     <KilledBy>Blackburn</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(31980,32042,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Mand</Player>
     <LostExp>6893</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -458,7 +466,7 @@
     <Location>(31981,32041,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Mand</Player>
     <LostExp>6303</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -466,7 +474,7 @@
     <Location>(31952,31868,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>59</Rank>
+    <Rank>60</Rank>
     <Player>Reimacaco</Player>
     <LostExp>6154</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -474,7 +482,7 @@
     <Location>(32006,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>60</Rank>
+    <Rank>61</Rank>
     <Player>Mand</Player>
     <LostExp>5673</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -482,7 +490,7 @@
     <Location>(31984,32048,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>61</Rank>
+    <Rank>62</Rank>
     <Player>Bigodeira</Player>
     <LostExp>530</LostExp>
     <KilledBy>Orc Leader</KilledBy>
