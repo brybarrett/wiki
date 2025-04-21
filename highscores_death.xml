@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745197228552</GeneratedAt>
+  <GeneratedAt>1745197528558</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindada</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Eggosaurus</KilledBy>
     <Time>2025-04-21 02:40:07</Time>
     <Location>(31974,32045,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Mand</Player>
+    <LostExp>7619</LostExp>
+    <KilledBy>Blackburn</KilledBy>
+    <Time>2025-04-21 03:02:35</Time>
+    <Location>(31980,32042,7)</Location>
   </DeathEvent>
 </DeathHighscores>
