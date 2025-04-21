@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745258729154</GeneratedAt>
+  <GeneratedAt>1745259029175</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -299,6 +299,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>38</Rank>
+    <Player>Willinha</Player>
+    <LostExp>362270</LostExp>
+    <KilledBy>Eggosaurus</KilledBy>
+    <Time>2025-04-21 20:07:47</Time>
+    <Location>(31983,32043,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>39</Rank>
     <Player>Restaf</Player>
     <LostExp>273379</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31915,31977,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Mtzera</Player>
     <LostExp>37978</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31982,31861,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Mortal</Player>
     <LostExp>16432</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(32002,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Mand</Player>
     <LostExp>8426</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(31974,32045,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Mand</Player>
     <LostExp>7619</LostExp>
     <KilledBy>Blackburn</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(31980,32042,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Bigodeira</Player>
     <LostExp>530</LostExp>
     <KilledBy>Orc Leader</KilledBy>
