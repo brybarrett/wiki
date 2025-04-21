@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745198728556</GeneratedAt>
+  <GeneratedAt>1745199028565</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Srlira</Player>
+    <LostExp>205506682</LostExp>
+    <KilledBy>Krakomin</KilledBy>
+    <Time>2025-04-21 03:28:47</Time>
+    <Location>(31790,31941,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Blindada</Player>
     <LostExp>175524569</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31981,32270,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Marl</Player>
     <LostExp>8425164</LostExp>
     <KilledBy>Blackburn</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31980,32042,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Pierre</Player>
     <LostExp>6888130</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31951,31981,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Dark</Player>
     <LostExp>2418715</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31962,32261,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Mand</Player>
     <LostExp>8426</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31974,32045,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Mand</Player>
     <LostExp>7619</LostExp>
     <KilledBy>Blackburn</KilledBy>
