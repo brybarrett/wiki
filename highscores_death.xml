@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745330738309</GeneratedAt>
+  <GeneratedAt>1745331038297</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Cloudy</Player>
+    <LostExp>6917295</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-04-22 16:09:53</Time>
+    <Location>(32838,31990,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Giraya</Player>
     <LostExp>5389828</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32065,32298,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Kirito</Player>
     <LostExp>4194371</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31937,31981,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Vaitas</Player>
     <LostExp>3905489</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31989,31914,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Habibi</Player>
     <LostExp>3560468</LostExp>
     <KilledBy>Gigantula</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32927,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Xenaa </Player>
     <LostExp>2124706</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31881,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Kaitt</Player>
     <LostExp>1667583</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31898,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Kaitt</Player>
     <LostExp>1532429</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31903,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Masterwiz</Player>
     <LostExp>713578</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31896,31937,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Snob</Player>
     <LostExp>208123</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31996,32057,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Reimacaco</Player>
     <LostExp>122918</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32003,31875,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Jhonniss</Player>
     <LostExp>114735</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31899,31935,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Reimacaco</Player>
     <LostExp>74896</LostExp>
     <KilledBy>Shiverthor</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32027,31893,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Reimacaco</Player>
     <LostExp>49098</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Reimacaco</Player>
     <LostExp>47413</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31876,32075,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Reimacaco</Player>
     <LostExp>44346</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31889,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Rendezvous</Player>
     <LostExp>25557</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31982,31862,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Rendezvous</Player>
     <LostExp>17355</LostExp>
     <KilledBy>Blackburn</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31979,32041,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Rendezvous</Player>
     <LostExp>17077</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31996,31998,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Mand</Player>
     <LostExp>4684</LostExp>
     <KilledBy>Blackburn</KilledBy>
