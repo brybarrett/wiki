@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745365835324</GeneratedAt>
+  <GeneratedAt>1745366135318</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Noia</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-23 01:43:12</Time>
     <Location>(31873,32060,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Vespa</Player>
+    <LostExp>279829</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-04-23 01:51:58</Time>
+    <Location>(31994,31909,8)</Location>
   </DeathEvent>
 </DeathHighscores>
