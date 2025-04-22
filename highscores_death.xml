@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745354138537</GeneratedAt>
+  <GeneratedAt>1745354438541</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kakuzu</Player>
@@ -291,6 +291,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>37</Rank>
+    <Player>Sullivan</Player>
+    <LostExp>23888</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-22 22:38:04</Time>
+    <Location>(31983,31906,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>38</Rank>
     <Player>Rendezvous</Player>
     <LostExp>17355</LostExp>
     <KilledBy>Blackburn</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31979,32041,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Rendezvous</Player>
     <LostExp>17077</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31996,31998,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Sullivan</Player>
     <LostExp>11049</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31985,31901,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Mand</Player>
     <LostExp>4684</LostExp>
     <KilledBy>Blackburn</KilledBy>
