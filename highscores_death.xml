@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745281237809</GeneratedAt>
+  <GeneratedAt>1745281537804</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -28,13 +28,21 @@
   <DeathEvent>
     <Rank>4</Rank>
     <Player>Reimacaco</Player>
+    <LostExp>49098</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-04-22 02:21:27</Time>
+    <Location>(32025,31943,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Reimacaco</Player>
     <LostExp>47413</LostExp>
     <KilledBy>Troll</KilledBy>
     <Time>2025-04-22 01:42:24</Time>
     <Location>(31876,32075,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Reimacaco</Player>
     <LostExp>44346</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31889,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Mand</Player>
     <LostExp>4684</LostExp>
     <KilledBy>Blackburn</KilledBy>
