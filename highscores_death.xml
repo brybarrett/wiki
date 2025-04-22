@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745350238494</GeneratedAt>
+  <GeneratedAt>1745350538510</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kakuzu</Player>
@@ -307,6 +307,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>39</Rank>
+    <Player>Sullivan</Player>
+    <LostExp>11049</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-22 21:31:32</Time>
+    <Location>(31985,31901,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>40</Rank>
     <Player>Mand</Player>
     <LostExp>4684</LostExp>
     <KilledBy>Blackburn</KilledBy>
