@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745304338021</GeneratedAt>
+  <GeneratedAt>1745304638030</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -43,6 +43,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Giraya</Player>
+    <LostExp>5389828</LostExp>
+    <KilledBy>Werewolf Master</KilledBy>
+    <Time>2025-04-22 08:49:24</Time>
+    <Location>(32065,32298,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Kirito</Player>
+    <LostExp>4194371</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-22 08:49:36</Time>
+    <Location>(31937,31981,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Xenaa </Player>
     <LostExp>2124706</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(31881,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Kaitt</Player>
     <LostExp>1667583</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(31898,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Kaitt</Player>
     <LostExp>1532429</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(31903,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Masterwiz</Player>
     <LostExp>713578</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(31896,31937,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Reimacaco</Player>
     <LostExp>74896</LostExp>
     <KilledBy>Shiverthor</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(32027,31893,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Reimacaco</Player>
     <LostExp>49098</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Reimacaco</Player>
     <LostExp>47413</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -98,7 +114,7 @@
     <Location>(31876,32075,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>15</Rank>
     <Player>Reimacaco</Player>
     <LostExp>44346</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -106,7 +122,7 @@
     <Location>(31889,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <Player>Mand</Player>
     <LostExp>4684</LostExp>
     <KilledBy>Blackburn</KilledBy>
