@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745336738368</GeneratedAt>
+  <GeneratedAt>1745337038371</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -212,13 +212,21 @@
   <DeathEvent>
     <Rank>27</Rank>
     <Player>Vespa</Player>
+    <LostExp>44126</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-22 17:46:49</Time>
+    <Location>(32010,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
+    <Player>Vespa</Player>
     <LostExp>37913</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-22 16:35:46</Time>
     <Location>(31883,32053,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Rendezvous</Player>
     <LostExp>25557</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31982,31862,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Rendezvous</Player>
     <LostExp>17355</LostExp>
     <KilledBy>Blackburn</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31979,32041,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Rendezvous</Player>
     <LostExp>17077</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31996,31998,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Mand</Player>
     <LostExp>4684</LostExp>
     <KilledBy>Blackburn</KilledBy>
