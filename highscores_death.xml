@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745319638186</GeneratedAt>
+  <GeneratedAt>1745319938191</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -172,13 +172,21 @@
   <DeathEvent>
     <Rank>22</Rank>
     <Player>Rendezvous</Player>
+    <LostExp>25557</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-04-22 13:04:00</Time>
+    <Location>(31982,31862,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Rendezvous</Player>
     <LostExp>17355</LostExp>
     <KilledBy>Blackburn</KilledBy>
     <Time>2025-04-22 11:23:26</Time>
     <Location>(31979,32041,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Rendezvous</Player>
     <LostExp>17077</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31996,31998,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Mand</Player>
     <LostExp>4684</LostExp>
     <KilledBy>Blackburn</KilledBy>
