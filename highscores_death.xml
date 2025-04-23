@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745367335329</GeneratedAt>
+  <GeneratedAt>1745367635334</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Noia</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Oi</Player>
+    <LostExp>2004393</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-04-23 02:17:42</Time>
+    <Location>(31995,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Vespa</Player>
     <LostExp>279829</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31994,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Mand</Player>
     <LostExp>4694</LostExp>
     <KilledBy>Werewolf</KilledBy>
