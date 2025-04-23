@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1745421635874</GeneratedAt>
+  <GeneratedAt>1745421935877</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -623,22 +623,22 @@
   </Player>
   <Player>
     <Rank>125</Rank>
-    <Name>Kiyahatzu</Name>
+    <Name>Pageone</Name>
     <StarsCollected>78</StarsCollected>
   </Player>
   <Player>
     <Rank>126</Rank>
+    <Name>Kiyahatzu</Name>
+    <StarsCollected>78</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>127</Rank>
     <Name>Wiillmk</Name>
     <StarsCollected>77</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
-    <Name>Zoro</Name>
-    <StarsCollected>77</StarsCollected>
-  </Player>
-  <Player>
     <Rank>128</Rank>
-    <Name>Pageone</Name>
+    <Name>Zoro</Name>
     <StarsCollected>77</StarsCollected>
   </Player>
 </StarsHighscores>
