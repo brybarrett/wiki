@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745449839030</GeneratedAt>
+  <GeneratedAt>1745450139041</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Templarr</Player>
+    <LostExp>82081029</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-04-24 01:13:26</Time>
+    <Location>(32194,32224,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Baam</Player>
     <LostExp>60807179</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32185,32210,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Baam</Player>
     <LostExp>60807179</LostExp>
     <KilledBy>Chaleton</KilledBy>
