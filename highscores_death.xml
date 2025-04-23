@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745377235425</GeneratedAt>
+  <GeneratedAt>1745377535415</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -107,11 +107,11 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
-    <Player>Io</Player>
-    <LostExp>9810</LostExp>
+    <Player>Wanglinn</Player>
+    <LostExp>206047</LostExp>
     <KilledBy>Werewolf</KilledBy>
-    <Time>2025-04-23 02:34:22</Time>
-    <Location>(31892,32006,8)</Location>
+    <Time>2025-04-23 05:04:34</Time>
+    <Location>(31887,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
@@ -123,6 +123,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
+    <Player>Io</Player>
+    <LostExp>9810</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-23 02:34:22</Time>
+    <Location>(31892,32006,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
     <Player>Mand</Player>
     <LostExp>4694</LostExp>
     <KilledBy>Werewolf</KilledBy>
