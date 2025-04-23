@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745413235786</GeneratedAt>
+  <GeneratedAt>1745413535790</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Liliks</Player>
@@ -171,19 +171,19 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>22</Rank>
+    <Player>Mazeee</Player>
+    <LostExp>439316</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-04-23 15:03:26</Time>
+    <Location>(32001,31966,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
     <Player>Fullwar</Player>
     <LostExp>406533</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
     <Time>2025-04-23 04:30:46</Time>
     <Location>(32030,31908,7)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>23</Rank>
-    <Player>Xenaaa</Player>
-    <LostExp>355570</LostExp>
-    <KilledBy>Treant</KilledBy>
-    <Time>2025-04-23 03:57:16</Time>
-    <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>24</Rank>
@@ -195,6 +195,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>25</Rank>
+    <Player>Xenaaa</Player>
+    <LostExp>355570</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-04-23 03:57:16</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
     <Player>Mtzera</Player>
     <LostExp>352669</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32008,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Vespa</Player>
     <LostExp>298735</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31997,31926,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Vespa</Player>
     <LostExp>279829</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31994,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Mortal</Player>
     <LostExp>253332</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32791,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Xenaaa</Player>
     <LostExp>229679</LostExp>
     <KilledBy>Warden</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32049,31909,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Wanglinn</Player>
     <LostExp>206047</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31887,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Ria</Player>
     <LostExp>190380</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32025,31922,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Xmatthew</Player>
     <LostExp>156154</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31961,31862,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Xmatthew</Player>
     <LostExp>131365</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(32003,31851,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Xmatthew</Player>
     <LostExp>121458</LostExp>
     <KilledBy>Cultist</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(32015,31860,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Mazeee</Player>
     <LostExp>37039</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31983,31920,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Mazeee</Player>
     <LostExp>33335</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -290,20 +298,12 @@
     <Location>(31980,31953,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Io</Player>
     <LostExp>29835</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-23 11:29:28</Time>
     <Location>(31882,32051,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>38</Rank>
-    <Player>Io</Player>
-    <LostExp>9810</LostExp>
-    <KilledBy>Werewolf</KilledBy>
-    <Time>2025-04-23 02:34:22</Time>
-    <Location>(31892,32006,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>39</Rank>
@@ -315,6 +315,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>40</Rank>
+    <Player>Io</Player>
+    <LostExp>9810</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-23 02:34:22</Time>
+    <Location>(31892,32006,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>41</Rank>
     <Player>Mand</Player>
     <LostExp>4694</LostExp>
     <KilledBy>Werewolf</KilledBy>
