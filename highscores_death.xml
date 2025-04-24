@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745488539428</GeneratedAt>
+  <GeneratedAt>1745488839427</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nule</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Canix</Player>
+    <LostExp>2956026</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-24 12:00:02</Time>
+    <Location>(31898,31989,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Masterwiz</Player>
     <LostExp>1068668</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32856,31971,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Jensen</Player>
     <LostExp>432332</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32036,32247,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Jembuff</Player>
     <LostExp>90341</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31969,32044,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Mand</Player>
     <LostExp>4100</LostExp>
     <KilledBy>Cyclops</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31881,31960,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Mand</Player>
     <LostExp>3690</LostExp>
     <KilledBy>Minorrior</KilledBy>
