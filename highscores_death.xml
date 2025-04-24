@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745502939566</GeneratedAt>
+  <GeneratedAt>1745503239567</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nule</Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Noparty</Player>
+    <LostExp>516916</LostExp>
+    <KilledBy>Eggosaurus</KilledBy>
+    <Time>2025-04-24 15:59:28</Time>
+    <Location>(32031,31894,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Jensen</Player>
     <LostExp>432332</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32036,32247,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Rendezvous</Player>
     <LostExp>419874</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31933,32020,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Noparty</Player>
     <LostExp>282344</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32003,31959,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Noparty</Player>
     <LostExp>120210</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31985,31905,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Jembuff</Player>
     <LostExp>90341</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31969,32044,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Mand</Player>
     <LostExp>4100</LostExp>
     <KilledBy>Cyclops</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31881,31960,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Mand</Player>
     <LostExp>3690</LostExp>
     <KilledBy>Minorrior</KilledBy>
