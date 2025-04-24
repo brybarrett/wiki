@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745464539171</GeneratedAt>
+  <GeneratedAt>1745464839177</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Vinion</Player>
+    <LostExp>91603158</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-24 05:19:32</Time>
+    <Location>(31978,32249,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Templarr</Player>
     <LostExp>82081029</LostExp>
     <KilledBy>Chaleton</KilledBy>
     <Time>2025-04-24 01:13:26</Time>
     <Location>(32194,32224,9)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>2</Rank>
-    <Player>Baam</Player>
-    <LostExp>60807179</LostExp>
-    <KilledBy>Chaleton</KilledBy>
-    <Time>2025-04-24 01:08:19</Time>
-    <Location>(32185,32210,9)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Baam</Player>
+    <LostExp>60807179</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-04-24 01:08:19</Time>
+    <Location>(32185,32210,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Khun</Player>
     <LostExp>37399626</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32195,32216,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Menson</Player>
     <LostExp>6602131</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31963,32271,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Masterwiz</Player>
     <LostExp>1068668</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32856,31971,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Mand</Player>
     <LostExp>4100</LostExp>
     <KilledBy>Cyclops</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31881,31960,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Mand</Player>
     <LostExp>3690</LostExp>
     <KilledBy>Minorrior</KilledBy>
