@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745601626377</GeneratedAt>
+  <GeneratedAt>1745601926378</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -259,6 +259,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>33</Rank>
+    <Player>Opah</Player>
+    <LostExp>2839996</LostExp>
+    <KilledBy>Crystally</KilledBy>
+    <Time>2025-04-25 19:24:37</Time>
+    <Location>(32019,31814,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>34</Rank>
+    <Player>Gryffindor</Player>
+    <LostExp>2504765</LostExp>
+    <KilledBy>Crystally</KilledBy>
+    <Time>2025-04-25 19:24:30</Time>
+    <Location>(32019,31814,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Nenawiz</Player>
     <LostExp>293090</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -266,7 +282,7 @@
     <Location>(31894,32000,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>36</Rank>
     <Player>Snob</Player>
     <LostExp>224457</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
