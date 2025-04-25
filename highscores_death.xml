@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745609726470</GeneratedAt>
+  <GeneratedAt>1745610026456</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -344,5 +344,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-04-25 21:35:21</Time>
     <Location>(31868,32060,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>44</Rank>
+    <Player>Mand</Player>
+    <LostExp>2909</LostExp>
+    <KilledBy>Little Bat</KilledBy>
+    <Time>2025-04-25 21:38:26</Time>
+    <Location>(31955,31883,7)</Location>
   </DeathEvent>
 </DeathHighscores>
