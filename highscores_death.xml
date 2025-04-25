@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745559025951</GeneratedAt>
+  <GeneratedAt>1745559325947</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Baam</Player>
+    <LostExp>38477424</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-04-25 07:33:57</Time>
+    <Location>(32184,32268,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Brisadeiro</Player>
     <LostExp>35206528</LostExp>
     <KilledBy>Shellborn</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31846,32112,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Justen</Player>
     <LostExp>19880412</LostExp>
     <KilledBy>Hellwizz</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31787,31939,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Rin</Player>
     <LostExp>11144908</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32857,31989,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Somnus</Player>
     <LostExp>8880145</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32060,32312,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Kannizinha</Player>
     <LostExp>7063567</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31944,31981,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Dressrossa</Player>
     <LostExp>6410928</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32060,32312,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Dark</Player>
     <LostExp>4600470</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Rokz</Player>
     <LostExp>3085818</LostExp>
     <KilledBy>Crystally</KilledBy>
