@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745547625825</GeneratedAt>
+  <GeneratedAt>1745547925827</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Dark</Player>
+    <LostExp>4600470</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-25 04:24:35</Time>
+    <Location>(31954,31992,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Rokz</Player>
     <LostExp>3085818</LostExp>
     <KilledBy>Crystally</KilledBy>
