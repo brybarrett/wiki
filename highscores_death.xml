@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745567726048</GeneratedAt>
+  <GeneratedAt>1745568026049</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -123,6 +123,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
+    <Player>Opah</Player>
+    <LostExp>2997217</LostExp>
+    <KilledBy>Frostily</KilledBy>
+    <Time>2025-04-25 09:55:58</Time>
+    <Location>(32019,31808,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
     <Player>Lupy</Player>
     <LostExp>2934014</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
