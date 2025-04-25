@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745615126509</GeneratedAt>
+  <GeneratedAt>1745615426516</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -347,6 +347,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>44</Rank>
+    <Player>Sxgabrielx</Player>
+    <LostExp>17967</LostExp>
+    <KilledBy>Skelenary</KilledBy>
+    <Time>2025-04-25 23:07:11</Time>
+    <Location>(32015,32034,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>45</Rank>
     <Player>Mand</Player>
     <LostExp>3574</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(31880,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Mand</Player>
     <LostExp>3217</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(31868,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Mand</Player>
     <LostExp>2909</LostExp>
     <KilledBy>Little Bat</KilledBy>
