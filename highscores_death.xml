@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745545525800</GeneratedAt>
+  <GeneratedAt>1745545825813</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Killerwiz</Player>
+    <LostExp>64848632</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-25 03:49:12</Time>
+    <Location>(31997,32255,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Baam</Player>
+    <LostExp>46900122</LostExp>
+    <KilledBy>Shellborn</KilledBy>
+    <Time>2025-04-25 03:49:57</Time>
+    <Location>(31841,32105,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Justen</Player>
     <LostExp>19880412</LostExp>
     <KilledBy>Hellwizz</KilledBy>
@@ -10,7 +26,7 @@
     <Location>(31787,31939,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Rokz</Player>
     <LostExp>3085818</LostExp>
     <KilledBy>Crystally</KilledBy>
