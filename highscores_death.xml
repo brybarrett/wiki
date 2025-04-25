@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745603426393</GeneratedAt>
+  <GeneratedAt>1745603726402</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -288,5 +288,13 @@
     <KilledBy>Eggosaurus</KilledBy>
     <Time>2025-04-25 11:17:14</Time>
     <Location>(32051,31897,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>37</Rank>
+    <Player>Snob</Player>
+    <LostExp>215333</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-04-25 19:52:22</Time>
+    <Location>(31988,32016,8)</Location>
   </DeathEvent>
 </DeathHighscores>
