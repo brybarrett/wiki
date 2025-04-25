@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745588426242</GeneratedAt>
+  <GeneratedAt>1745588726242</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Zahard</Player>
+    <LostExp>55461183</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-04-25 15:44:13</Time>
+    <Location>(32183,32211,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Barba</Player>
     <LostExp>51164492</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32010,32249,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Barba</Player>
     <LostExp>50263502</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32010,32249,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Baam</Player>
     <LostExp>46900122</LostExp>
     <KilledBy>Shellborn</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31841,32105,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Baam</Player>
     <LostExp>42747977</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32188,32209,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Baam</Player>
     <LostExp>38477424</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32184,32268,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Brisadeiro</Player>
     <LostExp>35206528</LostExp>
     <KilledBy>Shellborn</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31846,32112,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Justen</Player>
     <LostExp>19880412</LostExp>
     <KilledBy>Hellwizz</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31787,31939,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Omadara</Player>
     <LostExp>18003056</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31863,32082,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Cupy</Player>
     <LostExp>13634499</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32043,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Rin</Player>
     <LostExp>11144908</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32857,31989,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Somnus</Player>
     <LostExp>8880145</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32060,32312,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Kannizinha</Player>
     <LostExp>7063567</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31944,31981,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Dressrossa</Player>
     <LostExp>6410928</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32060,32312,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Dark</Player>
     <LostExp>4600470</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Luskovis</Player>
     <LostExp>4316241</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31947,32028,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Rokz</Player>
     <LostExp>3085818</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32024,31810,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Opah</Player>
     <LostExp>2997217</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32019,31808,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Lupy</Player>
     <LostExp>2934014</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32041,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Snob</Player>
     <LostExp>224457</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
