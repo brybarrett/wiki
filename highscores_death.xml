@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745703959401</GeneratedAt>
+  <GeneratedAt>1745704259404</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellokitty</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Brisadeira</Player>
+    <LostExp>37043395</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-04-26 23:46:56</Time>
+    <Location>(32192,32268,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Justen</Player>
     <LostExp>20604432</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32000,32236,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Omadara</Player>
     <LostExp>19198574</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31911,32208,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Kannizinha</Player>
     <LostExp>8943394</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Pierre</Player>
     <LostExp>6621829</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31944,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Pierre</Player>
     <LostExp>6315136</LostExp>
     <KilledBy>Dreadtide</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31847,32112,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Boos</Player>
     <LostExp>4550632</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32016,32202,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Dark</Player>
     <LostExp>4170628</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31945,31987,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Kaitt</Player>
     <LostExp>4130459</LostExp>
     <KilledBy>Cultist</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32016,31863,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Dark</Player>
     <LostExp>3886544</LostExp>
     <KilledBy>Long</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32026,32280,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Dark</Player>
     <LostExp>3821426</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31944,31990,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Noparty</Player>
     <LostExp>1319998</LostExp>
     <KilledBy>Electryon</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31996,31968,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Xmatthew</Player>
     <LostExp>927226</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32012,32276,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Nenawiz </Player>
     <LostExp>702708</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32008,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Sofaraway</Player>
     <LostExp>313868</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31880,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Tadalinha</Player>
     <LostExp>303481</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32006,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Kila</Player>
     <LostExp>216857</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32018,31959,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Embrazad</Player>
     <LostExp>216134</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31995,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Matrix</Player>
     <LostExp>153989</LostExp>
     <KilledBy>Shiverthor</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32047,31904,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Embrazad</Player>
     <LostExp>149506</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31978,31957,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Jembuff</Player>
     <LostExp>146299</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31981,32041,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Pause</Player>
     <LostExp>29727</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32009,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Kila</Player>
     <LostExp>5196</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31976,31892,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Kila</Player>
     <LostExp>4926</LostExp>
     <KilledBy>Scorpion</KilledBy>
