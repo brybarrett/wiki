@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745688059248</GeneratedAt>
+  <GeneratedAt>1745688359261</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pierre</Player>
@@ -96,5 +96,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-04-26 18:18:55</Time>
     <Location>(32009,31885,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>Kila</Player>
+    <LostExp>4926</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-04-26 19:25:38</Time>
+    <Location>(31967,31887,10)</Location>
   </DeathEvent>
 </DeathHighscores>
