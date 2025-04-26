@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745631023025</GeneratedAt>
+  <GeneratedAt>1745631323024</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellokitty</Player>
@@ -28,13 +28,21 @@
   <DeathEvent>
     <Rank>4</Rank>
     <Player>Sxgabrielx</Player>
+    <LostExp>35514</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-04-26 03:30:48</Time>
+    <Location>(31991,31865,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Sxgabrielx</Player>
     <LostExp>21587</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
     <Time>2025-04-26 02:00:42</Time>
     <Location>(32025,31975,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Joe</Player>
     <LostExp>285</LostExp>
     <KilledBy>Small Eye</KilledBy>
