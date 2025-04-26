@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745643323161</GeneratedAt>
+  <GeneratedAt>1745643623165</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellokitty</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Xmatthew</Player>
+    <LostExp>830794</LostExp>
+    <KilledBy>Cultist</KilledBy>
+    <Time>2025-04-26 06:57:55</Time>
+    <Location>(32017,31862,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Fullwar</Player>
     <LostExp>532078</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32867,31968,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Fullwar</Player>
     <LostExp>503112</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32860,31975,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Fullwar</Player>
     <LostExp>455447</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32862,31974,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Matrix</Player>
     <LostExp>83432</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32026,31972,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Sxgabrielx</Player>
     <LostExp>35514</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31991,31865,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Sxgabrielx</Player>
     <LostExp>21587</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32025,31975,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Joe</Player>
     <LostExp>285</LostExp>
     <KilledBy>Small Eye</KilledBy>
