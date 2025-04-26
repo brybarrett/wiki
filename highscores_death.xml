@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745680559174</GeneratedAt>
+  <GeneratedAt>1745680859180</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pierre</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Embrazad</Player>
+    <LostExp>149506</LostExp>
+    <KilledBy>Eggosaurus</KilledBy>
+    <Time>2025-04-26 17:19:38</Time>
+    <Location>(31978,31957,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Jembuff</Player>
     <LostExp>146299</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
