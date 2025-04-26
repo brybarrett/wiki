@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745686559237</GeneratedAt>
+  <GeneratedAt>1745686859238</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pierre</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Dark</Player>
+    <LostExp>3821426</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-26 19:00:07</Time>
+    <Location>(31944,31990,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Noparty</Player>
     <LostExp>1319998</LostExp>
     <KilledBy>Electryon</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31996,31968,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Xmatthew</Player>
     <LostExp>927226</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32012,32276,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Sofaraway</Player>
     <LostExp>313868</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31880,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Matrix</Player>
     <LostExp>153989</LostExp>
     <KilledBy>Shiverthor</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32047,31904,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Embrazad</Player>
     <LostExp>149506</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31978,31957,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Jembuff</Player>
     <LostExp>146299</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31981,32041,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Pause</Player>
     <LostExp>29727</LostExp>
     <KilledBy>Orc Leader</KilledBy>
