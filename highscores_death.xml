@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745671170125</GeneratedAt>
+  <GeneratedAt>1745671470130</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Indra</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Pause</Player>
+    <LostExp>23027</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-04-26 14:41:34</Time>
+    <Location>(32043,32034,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Pause</Player>
     <LostExp>585</LostExp>
     <KilledBy>The Bug</KilledBy>
