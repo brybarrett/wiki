@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745707259443</GeneratedAt>
+  <GeneratedAt>1745707559450</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellokitty</Player>
@@ -163,6 +163,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>21</Rank>
+    <Player>Tetezinho</Player>
+    <LostExp>702334</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-04-27 00:43:44</Time>
+    <Location>(31995,31941,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Tetezinho</Player>
+    <LostExp>702334</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-04-27 00:43:44</Time>
+    <Location>(31995,31941,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
     <Player>Sofaraway</Player>
     <LostExp>313868</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -170,7 +186,7 @@
     <Location>(31880,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>24</Rank>
     <Player>Tadalinha</Player>
     <LostExp>303481</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -178,7 +194,7 @@
     <Location>(32006,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>25</Rank>
     <Player>Kila</Player>
     <LostExp>216857</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -186,7 +202,7 @@
     <Location>(32018,31959,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>26</Rank>
     <Player>Embrazad</Player>
     <LostExp>216134</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -194,7 +210,7 @@
     <Location>(31995,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>27</Rank>
     <Player>Matrix</Player>
     <LostExp>153989</LostExp>
     <KilledBy>Shiverthor</KilledBy>
@@ -202,7 +218,7 @@
     <Location>(32047,31904,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>28</Rank>
     <Player>Embrazad</Player>
     <LostExp>149506</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -210,7 +226,7 @@
     <Location>(31978,31957,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>29</Rank>
     <Player>Jembuff</Player>
     <LostExp>146299</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -218,7 +234,7 @@
     <Location>(31981,32041,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>30</Rank>
     <Player>Pause</Player>
     <LostExp>29727</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -226,7 +242,7 @@
     <Location>(32009,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>31</Rank>
     <Player>Kila</Player>
     <LostExp>5196</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -234,7 +250,7 @@
     <Location>(31976,31892,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>32</Rank>
     <Player>Kila</Player>
     <LostExp>4926</LostExp>
     <KilledBy>Scorpion</KilledBy>
