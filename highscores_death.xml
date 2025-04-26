@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745644223158</GeneratedAt>
+  <GeneratedAt>1745644523157</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellokitty</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Jembuff</Player>
+    <LostExp>158593</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-04-26 07:12:46</Time>
+    <Location>(31995,32047,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Matrix</Player>
     <LostExp>83432</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32026,31972,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Sxgabrielx</Player>
     <LostExp>35514</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31991,31865,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Sofaraway</Player>
     <LostExp>26691</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32024,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Sxgabrielx</Player>
     <LostExp>21587</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32025,31975,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Joe</Player>
     <LostExp>285</LostExp>
     <KilledBy>Small Eye</KilledBy>
