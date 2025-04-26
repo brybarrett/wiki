@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745625622971</GeneratedAt>
+  <GeneratedAt>1745625922982</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Hellokitty</Player>
+    <LostExp>285677361</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-26 02:02:06</Time>
+    <Location>(31950,32264,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Hellwilzz</Player>
     <LostExp>41155098</LostExp>
     <KilledBy>Blaze Master</KilledBy>
     <Time>2025-04-26 01:43:29</Time>
     <Location>(32021,32254,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Sxgabrielx</Player>
+    <LostExp>21587</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-04-26 02:00:42</Time>
+    <Location>(32025,31975,9)</Location>
   </DeathEvent>
 </DeathHighscores>
