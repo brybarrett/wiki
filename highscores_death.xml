@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745673870160</GeneratedAt>
+  <GeneratedAt>1745674170163</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Indra</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Pierre</Player>
+    <LostExp>6546964</LostExp>
+    <KilledBy>Eggosaurus</KilledBy>
+    <Time>2025-04-26 15:27:01</Time>
+    <Location>(32027,31893,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Joe</Player>
     <LostExp>119157</LostExp>
     <KilledBy>Mantis</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31907,31978,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Pause</Player>
     <LostExp>23027</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32043,32034,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Pause</Player>
     <LostExp>585</LostExp>
     <KilledBy>The Bug</KilledBy>
