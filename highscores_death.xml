@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745679059159</GeneratedAt>
+  <GeneratedAt>1745679359168</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pierre</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Dreadtide</KilledBy>
     <Time>2025-04-26 16:43:11</Time>
     <Location>(31847,32112,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Noparty</Player>
+    <LostExp>1319998</LostExp>
+    <KilledBy>Electryon</KilledBy>
+    <Time>2025-04-26 16:55:27</Time>
+    <Location>(31996,31968,7)</Location>
   </DeathEvent>
 </DeathHighscores>
