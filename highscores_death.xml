@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745674470167</GeneratedAt>
+  <GeneratedAt>1745674770171</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Indra</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Matrix</Player>
+    <LostExp>135337</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-26 15:34:32</Time>
+    <Location>(32010,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Joe</Player>
     <LostExp>119157</LostExp>
     <KilledBy>Mantis</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31907,31978,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Pause</Player>
     <LostExp>23027</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32043,32034,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Pause</Player>
     <LostExp>585</LostExp>
     <KilledBy>The Bug</KilledBy>
