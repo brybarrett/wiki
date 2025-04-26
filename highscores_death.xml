@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745684159216</GeneratedAt>
+  <GeneratedAt>1745684459219</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pierre</Player>
@@ -64,5 +64,13 @@
     <KilledBy>Eggosaurus</KilledBy>
     <Time>2025-04-26 17:03:54</Time>
     <Location>(31981,32041,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Pause</Player>
+    <LostExp>29727</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-26 18:18:55</Time>
+    <Location>(32009,31885,11)</Location>
   </DeathEvent>
 </DeathHighscores>
