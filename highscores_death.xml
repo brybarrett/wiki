@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745682959207</GeneratedAt>
+  <GeneratedAt>1745683259202</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pierre</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Sofaraway</Player>
+    <LostExp>313868</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-04-26 17:57:14</Time>
+    <Location>(31880,31909,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Matrix</Player>
     <LostExp>153989</LostExp>
     <KilledBy>Shiverthor</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32047,31904,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Embrazad</Player>
     <LostExp>149506</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31978,31957,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Jembuff</Player>
     <LostExp>146299</LostExp>
     <KilledBy>Eggosaurus</KilledBy>
