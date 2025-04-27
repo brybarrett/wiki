@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745774989611</GeneratedAt>
+  <GeneratedAt>1745775289616</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Liliks</Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Joe</Player>
+    <LostExp>313620</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-04-27 19:34:24</Time>
+    <Location>(31877,31910,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Joe</Player>
     <LostExp>196155</LostExp>
     <KilledBy>Tarantula</KilledBy>
