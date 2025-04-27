@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745713826978</GeneratedAt>
+  <GeneratedAt>1745714126980</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Megume</Player>
+    <LostExp>33532926</LostExp>
+    <KilledBy>Vinion</KilledBy>
+    <Time>2025-04-27 02:31:10</Time>
+    <Location>(31785,31931,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Afk</Player>
+    <LostExp>16657116</LostExp>
+    <KilledBy>Shirohige</KilledBy>
+    <Time>2025-04-27 02:31:40</Time>
+    <Location>(31777,31938,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Valkiria</Player>
     <LostExp>6992484</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -10,7 +26,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Zabuza</Player>
     <LostExp>3346413</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Matrix</Player>
     <LostExp>457984</LostExp>
     <KilledBy>Bantinel</KilledBy>
