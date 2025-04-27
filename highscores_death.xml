@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745759220753</GeneratedAt>
+  <GeneratedAt>1745759520759</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Connorz</Player>
+    <LostExp>430661248</LostExp>
+    <KilledBy>Papito</KilledBy>
+    <Time>2025-04-27 15:07:34</Time>
+    <Location>(31911,31833,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Kingkiller</Player>
     <LostExp>353570694</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31914,31832,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Kingkiller</Player>
     <LostExp>335896610</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31908,31832,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Indra</Player>
     <LostExp>188026818</LostExp>
     <KilledBy>Chaombie</KilledBy>
