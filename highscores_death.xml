@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745716826995</GeneratedAt>
+  <GeneratedAt>1745717127004</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Megume</Player>
@@ -36,13 +36,21 @@
   <DeathEvent>
     <Rank>5</Rank>
     <Player>Matrix</Player>
+    <LostExp>518664</LostExp>
+    <KilledBy>Mantis</KilledBy>
+    <Time>2025-04-27 03:24:16</Time>
+    <Location>(31936,31896,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Matrix</Player>
     <LostExp>457984</LostExp>
     <KilledBy>Bantinel</KilledBy>
     <Time>2025-04-27 01:53:54</Time>
     <Location>(31944,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Kingsblack</Player>
     <LostExp>4103</LostExp>
     <KilledBy>Shogun</KilledBy>
