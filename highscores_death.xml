@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745763420797</GeneratedAt>
+  <GeneratedAt>1745763720795</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Connorz</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Kingsblack</Player>
+    <LostExp>75716</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-27 16:20:51</Time>
+    <Location>(31873,32060,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Xam</Player>
     <LostExp>1380</LostExp>
     <KilledBy>Scorpion</KilledBy>
