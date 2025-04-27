@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745773489596</GeneratedAt>
+  <GeneratedAt>1745773789603</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Liliks</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Zahard</Player>
+    <LostExp>53078858</LostExp>
+    <KilledBy>Werewolf Master</KilledBy>
+    <Time>2025-04-27 19:08:25</Time>
+    <Location>(32057,32297,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Khun</Player>
     <LostExp>40304951</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32186,32230,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Urekmazino</Player>
     <LostExp>31115044</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32182,32227,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Urekmazino</Player>
     <LostExp>28113289</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32176,32217,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Sunrako</Player>
     <LostExp>7376231</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31944,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Snob</Player>
     <LostExp>853627</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32853,31970,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Snob</Player>
     <LostExp>768264</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32865,32027,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Mtzera</Player>
     <LostExp>601773</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32911,32012,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Mtzera</Player>
     <LostExp>507625</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32864,31971,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Joe</Player>
     <LostExp>196155</LostExp>
     <KilledBy>Tarantula</KilledBy>
