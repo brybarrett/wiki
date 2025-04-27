@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745777689642</GeneratedAt>
+  <GeneratedAt>1745777989644</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Liliks</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Templarr</Player>
+    <LostExp>101597003</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-04-27 20:15:00</Time>
+    <Location>(32194,32224,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Zahard</Player>
     <LostExp>53078858</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32057,32297,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Khun</Player>
     <LostExp>40304951</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32186,32230,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Okomura</Player>
     <LostExp>32156853</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32171,32291,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Urekmazino</Player>
     <LostExp>31115044</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32182,32227,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Urekmazino</Player>
     <LostExp>28113289</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32176,32217,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Sunrako</Player>
     <LostExp>7376231</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31944,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Snob</Player>
     <LostExp>853627</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32853,31970,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Snob</Player>
     <LostExp>768264</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32865,32027,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Mtzera</Player>
     <LostExp>601773</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32911,32012,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Mtzera</Player>
     <LostExp>507625</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32864,31971,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Joe</Player>
     <LostExp>313620</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31877,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Joe</Player>
     <LostExp>196155</LostExp>
     <KilledBy>Tarantula</KilledBy>
