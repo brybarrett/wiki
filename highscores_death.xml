@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745735127211</GeneratedAt>
+  <GeneratedAt>1745735427203</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Okomura</Player>
@@ -171,6 +171,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>22</Rank>
+    <Player>Sofaraway</Player>
+    <LostExp>342058</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-04-27 08:26:46</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
     <Player>Krawzer</Player>
     <LostExp>19568</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31990,31912,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Kingsblack</Player>
     <LostExp>4103</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32034,31872,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Xam</Player>
     <LostExp>1464</LostExp>
     <KilledBy>Scorpion</KilledBy>
