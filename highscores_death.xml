@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745719227031</GeneratedAt>
+  <GeneratedAt>1745719527037</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Okomura</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Dressrossa</Player>
+    <LostExp>8316724</LostExp>
+    <KilledBy>Werewolf Master</KilledBy>
+    <Time>2025-04-27 04:02:01</Time>
+    <Location>(32065,32298,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Kalea</Player>
     <LostExp>7544928</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32052,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Valkiria</Player>
     <LostExp>6992484</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Zabuza</Player>
     <LostExp>3346413</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Matrix</Player>
     <LostExp>518664</LostExp>
     <KilledBy>Mantis</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31936,31896,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Matrix</Player>
     <LostExp>457984</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31944,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Kingsblack</Player>
     <LostExp>4103</LostExp>
     <KilledBy>Shogun</KilledBy>
