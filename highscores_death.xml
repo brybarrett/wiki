@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745760420768</GeneratedAt>
+  <GeneratedAt>1745760720767</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Connorz</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Chaombie</KilledBy>
     <Time>2025-04-27 14:36:38</Time>
     <Location>(31917,32232,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Omadara</Player>
+    <LostExp>18342685</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-04-27 15:28:19</Time>
+    <Location>(32008,32250,9)</Location>
   </DeathEvent>
 </DeathHighscores>
