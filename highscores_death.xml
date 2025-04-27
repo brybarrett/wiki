@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745757120738</GeneratedAt>
+  <GeneratedAt>1745757420741</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingkiller</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Papito</KilledBy>
     <Time>2025-04-27 14:25:24</Time>
     <Location>(31914,31832,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Indra</Player>
+    <LostExp>188026818</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-04-27 14:36:38</Time>
+    <Location>(31917,32232,8)</Location>
   </DeathEvent>
 </DeathHighscores>
