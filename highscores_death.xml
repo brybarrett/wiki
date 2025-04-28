@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745844050397</GeneratedAt>
+  <GeneratedAt>1745844350403</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -160,5 +160,13 @@
     <KilledBy>Nunaquatch</KilledBy>
     <Time>2025-04-28 06:34:35</Time>
     <Location>(32910,32012,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
+    <Player>Kageki</Player>
+    <LostExp>28378</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-04-28 14:43:46</Time>
+    <Location>(31988,32019,8)</Location>
   </DeathEvent>
 </DeathHighscores>
