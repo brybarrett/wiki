@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745879150771</GeneratedAt>
+  <GeneratedAt>1745879450772</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -275,6 +275,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>35</Rank>
+    <Player>Sxgabrielx</Player>
+    <LostExp>91745</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-04-29 00:28:30</Time>
+    <Location>(31990,31865,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>36</Rank>
     <Player>Nikito</Player>
     <LostExp>87842</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31854,31968,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Kageki</Player>
     <LostExp>46647</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(32017,31988,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Kageki</Player>
     <LostExp>28378</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31988,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Kageki</Player>
     <LostExp>25540</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31986,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Fodao</Player>
     <LostExp>112</LostExp>
     <KilledBy>Spider</KilledBy>
