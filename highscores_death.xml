@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745803250001</GeneratedAt>
+  <GeneratedAt>1745803549994</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kirito</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Kaitt</Player>
+    <LostExp>10855772</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-04-28 03:24:35</Time>
+    <Location>(31869,32083,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Mit</Player>
     <LostExp>8594505</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32041,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Dark</Player>
     <LostExp>4676907</LostExp>
     <KilledBy>The Fanatic</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31912,32012,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Dark</Player>
     <LostExp>4255815</LostExp>
     <KilledBy>Bragnak</KilledBy>
