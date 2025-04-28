@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745874650718</GeneratedAt>
+  <GeneratedAt>1745874950720</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Giraya</Player>
+    <LostExp>6696676</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-28 23:10:59</Time>
+    <Location>(31895,32007,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Dark</Player>
     <LostExp>4676907</LostExp>
     <KilledBy>The Fanatic</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31912,32012,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Dark</Player>
     <LostExp>4255815</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32013,31861,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Shanksz</Player>
     <LostExp>3837820</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31895,32008,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Tadalinha</Player>
     <LostExp>3415134</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31862,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Tadalinha</Player>
     <LostExp>2513405</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31967,32266,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Sadness</Player>
     <LostExp>2126281</LostExp>
     <KilledBy>Ghostsin</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32047,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Kila</Player>
     <LostExp>1284816</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Kila</Player>
     <LostExp>1156335</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -146,20 +154,12 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Mtzera</Player>
     <LostExp>530840</LostExp>
     <KilledBy>Wardy</KilledBy>
     <Time>2025-04-28 14:15:37</Time>
     <Location>(32014,32220,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>20</Rank>
-    <Player>Mtzera</Player>
-    <LostExp>511038</LostExp>
-    <KilledBy>Orc Leader</KilledBy>
-    <Time>2025-04-28 04:41:34</Time>
-    <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>21</Rank>
@@ -172,13 +172,21 @@
   <DeathEvent>
     <Rank>22</Rank>
     <Player>Mtzera</Player>
+    <LostExp>511038</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-28 04:41:34</Time>
+    <Location>(32008,31883,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Mtzera</Player>
     <LostExp>463230</LostExp>
     <KilledBy>Redeath</KilledBy>
     <Time>2025-04-28 05:02:43</Time>
     <Location>(32859,32010,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Joe</Player>
     <LostExp>440529</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31934,32015,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Mtzera</Player>
     <LostExp>416907</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32910,32012,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Ekzim</Player>
     <LostExp>206294</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -202,7 +210,15 @@
     <Location>(32018,31950,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
+    <Player>Kingsblack</Player>
+    <LostExp>123816</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-04-28 23:15:43</Time>
+    <Location>(31990,32013,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
     <Player>Kageki</Player>
     <LostExp>107648</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -210,7 +226,7 @@
     <Location>(31856,31975,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>29</Rank>
     <Player>Fodao</Player>
     <LostExp>103108</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -218,7 +234,7 @@
     <Location>(31992,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>30</Rank>
     <Player>Kageki</Player>
     <LostExp>94436</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -226,7 +242,15 @@
     <Location>(31991,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>31</Rank>
+    <Player>Nikito</Player>
+    <LostExp>87842</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2025-04-28 23:11:44</Time>
+    <Location>(31854,31968,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>32</Rank>
     <Player>Kageki</Player>
     <LostExp>46647</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -234,7 +258,7 @@
     <Location>(32017,31988,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>33</Rank>
     <Player>Kageki</Player>
     <LostExp>28378</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -242,7 +266,7 @@
     <Location>(31988,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>34</Rank>
     <Player>Kageki</Player>
     <LostExp>25540</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -250,7 +274,7 @@
     <Location>(31986,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>35</Rank>
     <Player>Fodao</Player>
     <LostExp>112</LostExp>
     <KilledBy>Spider</KilledBy>
