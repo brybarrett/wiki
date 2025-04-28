@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745854250501</GeneratedAt>
+  <GeneratedAt>1745854550512</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -216,5 +216,13 @@
     <KilledBy>The Bug</KilledBy>
     <Time>2025-04-28 14:46:20</Time>
     <Location>(31986,32019,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
+    <Player>Fodao</Player>
+    <LostExp>112</LostExp>
+    <KilledBy>Spider</KilledBy>
+    <Time>2025-04-28 17:33:03</Time>
+    <Location>(31943,31920,9)</Location>
   </DeathEvent>
 </DeathHighscores>
