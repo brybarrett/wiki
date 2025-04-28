@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745807750032</GeneratedAt>
+  <GeneratedAt>1745808050040</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kirito</Player>
@@ -51,6 +51,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Kila</Player>
+    <LostExp>1284816</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-28 04:39:41</Time>
+    <Location>(31954,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Kila</Player>
+    <LostExp>1156335</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-28 04:39:41</Time>
+    <Location>(31954,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Joe</Player>
     <LostExp>440529</LostExp>
     <KilledBy>Terrorbird</KilledBy>
