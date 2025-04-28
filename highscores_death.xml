@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745820650181</GeneratedAt>
+  <GeneratedAt>1745820950176</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brisadeiro</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Sadness</Player>
+    <LostExp>2126281</LostExp>
+    <KilledBy>Ghostsin</KilledBy>
+    <Time>2025-04-28 08:14:49</Time>
+    <Location>(32047,31799,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Kila</Player>
     <LostExp>1284816</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -74,20 +82,12 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Kila</Player>
     <LostExp>1156335</LostExp>
     <KilledBy>Assasin</KilledBy>
     <Time>2025-04-28 04:39:41</Time>
     <Location>(31954,31993,9)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>11</Rank>
-    <Player>Mtzera</Player>
-    <LostExp>511038</LostExp>
-    <KilledBy>Orc Leader</KilledBy>
-    <Time>2025-04-28 04:41:34</Time>
-    <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
@@ -100,13 +100,21 @@
   <DeathEvent>
     <Rank>13</Rank>
     <Player>Mtzera</Player>
+    <LostExp>511038</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-28 04:41:34</Time>
+    <Location>(32008,31883,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Mtzera</Player>
     <LostExp>463230</LostExp>
     <KilledBy>Redeath</KilledBy>
     <Time>2025-04-28 05:02:43</Time>
     <Location>(32859,32010,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Joe</Player>
     <LostExp>440529</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31934,32015,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Mtzera</Player>
     <LostExp>416907</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
