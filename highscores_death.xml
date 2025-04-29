@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745946930039</GeneratedAt>
+  <GeneratedAt>1745947230059</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bruxo</Player>
@@ -259,6 +259,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>33</Rank>
+    <Player>Makima</Player>
+    <LostExp>5273</LostExp>
+    <KilledBy>Skelenary</KilledBy>
+    <Time>2025-04-29 19:17:43</Time>
+    <Location>(32001,32037,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>34</Rank>
     <Player>Xam</Player>
     <LostExp>3369</LostExp>
     <KilledBy>Scorpion</KilledBy>
