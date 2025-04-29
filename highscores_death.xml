@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745955930108</GeneratedAt>
+  <GeneratedAt>1745956230113</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bruxo</Player>
@@ -307,6 +307,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>39</Rank>
+    <Player>Oftheking</Player>
+    <LostExp>6275</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-29 21:47:21</Time>
+    <Location>(31888,32000,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>40</Rank>
     <Player>Makima</Player>
     <LostExp>5273</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(32001,32037,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Oftheking</Player>
     <LostExp>3811</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(32004,31874,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Xam</Player>
     <LostExp>3369</LostExp>
     <KilledBy>Scorpion</KilledBy>
