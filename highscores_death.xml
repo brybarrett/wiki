@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745919029749</GeneratedAt>
+  <GeneratedAt>1745919329742</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panda</Player>
@@ -99,6 +99,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Fiolu</Player>
+    <LostExp>5783136</LostExp>
+    <KilledBy>Rishombie</KilledBy>
+    <Time>2025-04-29 11:33:28</Time>
+    <Location>(31907,31970,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Kaitt</Player>
     <LostExp>5644963</LostExp>
     <KilledBy>Dreadtide</KilledBy>
@@ -106,7 +114,15 @@
     <Location>(31839,32109,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
+    <Player>Fiolu</Player>
+    <LostExp>5493979</LostExp>
+    <KilledBy>Rishombie</KilledBy>
+    <Time>2025-04-29 11:33:28</Time>
+    <Location>(31907,31970,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Mtzera</Player>
     <LostExp>488508</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -114,7 +130,7 @@
     <Location>(32017,32224,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>17</Rank>
     <Player>Magrela</Player>
     <LostExp>484757</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -122,7 +138,7 @@
     <Location>(31932,32021,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>18</Rank>
     <Player>Joe</Player>
     <LostExp>450915</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -130,7 +146,7 @@
     <Location>(31994,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>19</Rank>
     <Player>Jembuff</Player>
     <LostExp>179043</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -138,7 +154,7 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>20</Rank>
     <Player>Nandimbr</Player>
     <LostExp>121321</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -146,7 +162,7 @@
     <Location>(31912,32002,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>21</Rank>
     <Player>Krawzer</Player>
     <LostExp>17616</LostExp>
     <KilledBy>Fire Drake</KilledBy>
