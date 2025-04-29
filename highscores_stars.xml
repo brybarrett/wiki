@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1745922029775</GeneratedAt>
+  <GeneratedAt>1745922329775</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -83,17 +83,17 @@
   </Player>
   <Player>
     <Rank>17</Rank>
-    <Name>Guard</Name>
+    <Name>Shizuka</Name>
     <StarsCollected>199</StarsCollected>
   </Player>
   <Player>
     <Rank>18</Rank>
-    <Name>Pancernik</Name>
+    <Name>Guard</Name>
     <StarsCollected>199</StarsCollected>
   </Player>
   <Player>
     <Rank>19</Rank>
-    <Name>Shizuka</Name>
+    <Name>Pancernik</Name>
     <StarsCollected>199</StarsCollected>
   </Player>
   <Player>
@@ -148,22 +148,22 @@
   </Player>
   <Player>
     <Rank>30</Rank>
-    <Name>Fearlock</Name>
-    <StarsCollected>168</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>31</Rank>
     <Name>Lendario</Name>
     <StarsCollected>168</StarsCollected>
   </Player>
   <Player>
+    <Rank>31</Rank>
+    <Name>Fearlock</Name>
+    <StarsCollected>168</StarsCollected>
+  </Player>
+  <Player>
     <Rank>32</Rank>
-    <Name>Devorz</Name>
+    <Name>Wizav</Name>
     <StarsCollected>166</StarsCollected>
   </Player>
   <Player>
     <Rank>33</Rank>
-    <Name>Wizav</Name>
+    <Name>Devorz</Name>
     <StarsCollected>166</StarsCollected>
   </Player>
   <Player>
@@ -198,12 +198,12 @@
   </Player>
   <Player>
     <Rank>40</Rank>
-    <Name>Guinny </Name>
+    <Name>Deimonrei</Name>
     <StarsCollected>156</StarsCollected>
   </Player>
   <Player>
     <Rank>41</Rank>
-    <Name>Deimonrei</Name>
+    <Name>Guinny </Name>
     <StarsCollected>156</StarsCollected>
   </Player>
   <Player>
@@ -233,27 +233,27 @@
   </Player>
   <Player>
     <Rank>47</Rank>
-    <Name>Lordblack</Name>
-    <StarsCollected>145</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>48</Rank>
     <Name>Drakee</Name>
     <StarsCollected>145</StarsCollected>
   </Player>
   <Player>
-    <Rank>49</Rank>
-    <Name>Shirohige</Name>
-    <StarsCollected>142</StarsCollected>
+    <Rank>48</Rank>
+    <Name>Lordblack</Name>
+    <StarsCollected>145</StarsCollected>
   </Player>
   <Player>
-    <Rank>50</Rank>
+    <Rank>49</Rank>
     <Name>Redeon</Name>
     <StarsCollected>142</StarsCollected>
   </Player>
   <Player>
-    <Rank>51</Rank>
+    <Rank>50</Rank>
     <Name>Skyblue</Name>
+    <StarsCollected>142</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>51</Rank>
+    <Name>Shirohige</Name>
     <StarsCollected>142</StarsCollected>
   </Player>
   <Player>
@@ -308,22 +308,22 @@
   </Player>
   <Player>
     <Rank>62</Rank>
-    <Name>Nudin</Name>
-    <StarsCollected>131</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>63</Rank>
     <Name>Vamplod</Name>
     <StarsCollected>131</StarsCollected>
   </Player>
   <Player>
+    <Rank>63</Rank>
+    <Name>Nudin</Name>
+    <StarsCollected>131</StarsCollected>
+  </Player>
+  <Player>
     <Rank>64</Rank>
-    <Name>Srlira</Name>
+    <Name>Digdin</Name>
     <StarsCollected>130</StarsCollected>
   </Player>
   <Player>
     <Rank>65</Rank>
-    <Name>Digdin</Name>
+    <Name>Srlira</Name>
     <StarsCollected>130</StarsCollected>
   </Player>
   <Player>
@@ -353,17 +353,17 @@
   </Player>
   <Player>
     <Rank>71</Rank>
-    <Name>Hellokitty</Name>
+    <Name>Superstar</Name>
     <StarsCollected>124</StarsCollected>
   </Player>
   <Player>
     <Rank>72</Rank>
-    <Name>Renegado </Name>
+    <Name>Hellokitty</Name>
     <StarsCollected>124</StarsCollected>
   </Player>
   <Player>
     <Rank>73</Rank>
-    <Name>Superstar</Name>
+    <Name>Renegado </Name>
     <StarsCollected>124</StarsCollected>
   </Player>
   <Player>
@@ -378,17 +378,17 @@
   </Player>
   <Player>
     <Rank>76</Rank>
-    <Name>Mineira</Name>
+    <Name>Khorhigee</Name>
     <StarsCollected>120</StarsCollected>
   </Player>
   <Player>
     <Rank>77</Rank>
-    <Name>Targaryen</Name>
+    <Name>Mineira</Name>
     <StarsCollected>120</StarsCollected>
   </Player>
   <Player>
     <Rank>78</Rank>
-    <Name>Khorhigee</Name>
+    <Name>Targaryen</Name>
     <StarsCollected>120</StarsCollected>
   </Player>
   <Player>
@@ -483,12 +483,12 @@
   </Player>
   <Player>
     <Rank>97</Rank>
-    <Name>Agentgalon</Name>
+    <Name>Killua</Name>
     <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
     <Rank>98</Rank>
-    <Name>Killua</Name>
+    <Name>Agentgalon</Name>
     <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
@@ -538,17 +538,17 @@
   </Player>
   <Player>
     <Rank>108</Rank>
-    <Name>Xforce</Name>
+    <Name>Yakoebom</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
     <Rank>109</Rank>
-    <Name>Yaza</Name>
+    <Name>Xforce</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
     <Rank>110</Rank>
-    <Name>Yakoebom</Name>
+    <Name>Yaza</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
@@ -613,27 +613,27 @@
   </Player>
   <Player>
     <Rank>123</Rank>
-    <Name>Kiyahatzu</Name>
-    <StarsCollected>79</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>124</Rank>
-    <Name>Megume </Name>
-    <StarsCollected>79</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>125</Rank>
     <Name>Marquim</Name>
     <StarsCollected>79</StarsCollected>
   </Player>
   <Player>
-    <Rank>126</Rank>
+    <Rank>124</Rank>
     <Name>Maxxbr</Name>
     <StarsCollected>79</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
+    <Rank>125</Rank>
     <Name>Mrbean</Name>
+    <StarsCollected>79</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>126</Rank>
+    <Name>Kiyahatzu</Name>
+    <StarsCollected>79</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>127</Rank>
+    <Name>Megume</Name>
     <StarsCollected>79</StarsCollected>
   </Player>
   <Player>
