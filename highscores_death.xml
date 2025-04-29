@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745964330196</GeneratedAt>
+  <GeneratedAt>1745964630211</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Abaddon</Player>
@@ -307,6 +307,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>39</Rank>
+    <Player>Kageki</Player>
+    <LostExp>262091</LostExp>
+    <KilledBy>Troll</KilledBy>
+    <Time>2025-04-30 00:08:09</Time>
+    <Location>(31869,32065,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>40</Rank>
     <Player>Jembuff</Player>
     <LostExp>179043</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Nandimbr</Player>
     <LostExp>121321</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31912,32002,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Krawzer</Player>
     <LostExp>17616</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(31997,31952,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Oftheking</Player>
     <LostExp>6275</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(31888,32000,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Makima</Player>
     <LostExp>5273</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(32001,32037,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Oftheking</Player>
     <LostExp>3811</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(32004,31874,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Xam</Player>
     <LostExp>3369</LostExp>
     <KilledBy>Scorpion</KilledBy>
