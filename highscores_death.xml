@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745954730102</GeneratedAt>
+  <GeneratedAt>1745955030107</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bruxo</Player>
@@ -228,13 +228,21 @@
   <DeathEvent>
     <Rank>29</Rank>
     <Player>Mtzera</Player>
+    <LostExp>702877</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-04-29 21:28:30</Time>
+    <Location>(32853,31970,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
+    <Player>Mtzera</Player>
     <LostExp>488508</LostExp>
     <KilledBy>Wardy</KilledBy>
     <Time>2025-04-29 01:34:28</Time>
     <Location>(32017,32224,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Magrela</Player>
     <LostExp>484757</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -242,20 +250,12 @@
     <Location>(31932,32021,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Joe</Player>
     <LostExp>450915</LostExp>
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-04-29 08:24:43</Time>
     <Location>(31994,32049,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>32</Rank>
-    <Player>Gaspar</Player>
-    <LostExp>411544</LostExp>
-    <KilledBy>Orc Leader</KilledBy>
-    <Time>2025-04-29 16:38:37</Time>
-    <Location>(32010,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>33</Rank>
@@ -267,6 +267,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>34</Rank>
+    <Player>Gaspar</Player>
+    <LostExp>411544</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-29 16:38:37</Time>
+    <Location>(32010,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Khersek</Player>
     <LostExp>290865</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31942,32271,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Jembuff</Player>
     <LostExp>179043</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Nandimbr</Player>
     <LostExp>121321</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(31912,32002,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Krawzer</Player>
     <LostExp>17616</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31997,31952,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Makima</Player>
     <LostExp>5273</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(32001,32037,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Oftheking</Player>
     <LostExp>3811</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(32004,31874,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Xam</Player>
     <LostExp>3369</LostExp>
     <KilledBy>Scorpion</KilledBy>
