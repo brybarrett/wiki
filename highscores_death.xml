@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745913329692</GeneratedAt>
+  <GeneratedAt>1745913629695</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panda</Player>
@@ -112,5 +112,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-04-29 08:24:43</Time>
     <Location>(31994,32049,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Jembuff</Player>
+    <LostExp>179043</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-04-29 09:58:04</Time>
+    <Location>(31979,32064,9)</Location>
   </DeathEvent>
 </DeathHighscores>
