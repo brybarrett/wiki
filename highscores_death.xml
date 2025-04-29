@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745892629510</GeneratedAt>
+  <GeneratedAt>1745892929496</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panda</Player>
@@ -35,6 +35,38 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Fiolu</Player>
+    <LostExp>6297383</LostExp>
+    <KilledBy>Rishombie</KilledBy>
+    <Time>2025-04-29 04:11:27</Time>
+    <Location>(31915,31968,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Fiolu</Player>
+    <LostExp>6297383</LostExp>
+    <KilledBy>Rishombie</KilledBy>
+    <Time>2025-04-29 04:11:27</Time>
+    <Location>(31915,31968,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Fiolu</Player>
+    <LostExp>6297383</LostExp>
+    <KilledBy>Rishombie</KilledBy>
+    <Time>2025-04-29 04:11:27</Time>
+    <Location>(31915,31968,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Fiolu</Player>
+    <LostExp>5982514</LostExp>
+    <KilledBy>Rishombie</KilledBy>
+    <Time>2025-04-29 04:11:27</Time>
+    <Location>(31915,31968,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Kaitt</Player>
     <LostExp>5644963</LostExp>
     <KilledBy>Dreadtide</KilledBy>
@@ -42,7 +74,7 @@
     <Location>(31839,32109,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>10</Rank>
     <Player>Mtzera</Player>
     <LostExp>488508</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -50,7 +82,7 @@
     <Location>(32017,32224,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>11</Rank>
     <Player>Magrela</Player>
     <LostExp>484757</LostExp>
     <KilledBy>Terrorbird</KilledBy>
