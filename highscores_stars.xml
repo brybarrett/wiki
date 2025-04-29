@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1745891429478</GeneratedAt>
+  <GeneratedAt>1745891729478</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -103,17 +103,17 @@
   </Player>
   <Player>
     <Rank>21</Rank>
+    <Name>Guard</Name>
+    <StarsCollected>193</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>22</Rank>
     <Name>Deimonreii</Name>
     <StarsCollected>192</StarsCollected>
   </Player>
   <Player>
-    <Rank>22</Rank>
-    <Name>Ace</Name>
-    <StarsCollected>191</StarsCollected>
-  </Player>
-  <Player>
     <Rank>23</Rank>
-    <Name>Guard</Name>
+    <Name>Ace</Name>
     <StarsCollected>191</StarsCollected>
   </Player>
   <Player>
@@ -349,7 +349,7 @@
   <Player>
     <Rank>70</Rank>
     <Name>Biel</Name>
-    <StarsCollected>125</StarsCollected>
+    <StarsCollected>126</StarsCollected>
   </Player>
   <Player>
     <Rank>71</Rank>
