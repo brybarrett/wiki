@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745937329938</GeneratedAt>
+  <GeneratedAt>1745937629939</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bruxo</Player>
@@ -219,6 +219,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>28</Rank>
+    <Player>Gaspar</Player>
+    <LostExp>411544</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-29 16:38:37</Time>
+    <Location>(32010,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>29</Rank>
+    <Player>Gaspar</Player>
+    <LostExp>411544</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-04-29 16:38:37</Time>
+    <Location>(32010,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
     <Player>Jembuff</Player>
     <LostExp>179043</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -226,7 +242,7 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>31</Rank>
     <Player>Nandimbr</Player>
     <LostExp>121321</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -234,7 +250,7 @@
     <Location>(31912,32002,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>32</Rank>
     <Player>Krawzer</Player>
     <LostExp>17616</LostExp>
     <KilledBy>Fire Drake</KilledBy>
