@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745886629430</GeneratedAt>
+  <GeneratedAt>1745886929435</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mtzera</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Wardy</KilledBy>
     <Time>2025-04-29 01:34:28</Time>
     <Location>(32017,32224,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Magrela</Player>
+    <LostExp>484757</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2025-04-29 02:31:45</Time>
+    <Location>(31932,32021,11)</Location>
   </DeathEvent>
 </DeathHighscores>
