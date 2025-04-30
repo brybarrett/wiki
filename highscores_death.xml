@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745993126752</GeneratedAt>
+  <GeneratedAt>1745993426749</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Doro</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Megume</Player>
+    <LostExp>43523199</LostExp>
+    <KilledBy>Chaomby</KilledBy>
+    <Time>2025-04-30 08:06:15</Time>
+    <Location>(31919,32232,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Cosmos</Player>
     <LostExp>43192679</LostExp>
     <KilledBy>(Others)</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31791,31909,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Darsixer</Player>
     <LostExp>21943550</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31792,31904,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Kalea</Player>
     <LostExp>10361233</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31898,31989,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Khersek</Player>
     <LostExp>261778</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31948,32275,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Oftheking</Player>
     <LostExp>215849</LostExp>
     <KilledBy>Fire Drake</KilledBy>
