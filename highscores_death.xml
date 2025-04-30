@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745994026754</GeneratedAt>
+  <GeneratedAt>1745994326754</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Doro</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Dark</Player>
+    <LostExp>5397026</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-04-30 08:20:49</Time>
+    <Location>(31962,31979,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Khersek</Player>
     <LostExp>261778</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31948,32275,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Oftheking</Player>
     <LostExp>215849</LostExp>
     <KilledBy>Fire Drake</KilledBy>
