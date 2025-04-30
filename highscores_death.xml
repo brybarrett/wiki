@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745980226620</GeneratedAt>
+  <GeneratedAt>1745980526613</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Doro</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Kalea</Player>
+    <LostExp>10361233</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-30 04:33:55</Time>
+    <Location>(31898,31989,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Khersek</Player>
     <LostExp>261778</LostExp>
     <KilledBy>Flutt</KilledBy>
