@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745978726603</GeneratedAt>
+  <GeneratedAt>1745979026597</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Doro</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Vathar</Player>
+    <LostExp>75847054</LostExp>
+    <KilledBy>Zahard</KilledBy>
+    <Time>2025-04-30 04:07:26</Time>
+    <Location>(31780,31938,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Khersek</Player>
     <LostExp>261778</LostExp>
     <KilledBy>Flutt</KilledBy>
