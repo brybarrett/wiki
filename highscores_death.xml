@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1745975126570</GeneratedAt>
+  <GeneratedAt>1745975426560</GeneratedAt>
+  <DeathEvent>
+    <Rank>1</Rank>
+    <Player>Doro</Player>
+    <LostExp>124972303</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-04-30 03:08:56</Time>
+    <Location>(31950,32275,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Khersek</Player>
+    <LostExp>261778</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-04-30 03:06:34</Time>
+    <Location>(31948,32275,7)</Location>
+  </DeathEvent>
 </DeathHighscores>
