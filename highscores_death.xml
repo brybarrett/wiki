@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746015326981</GeneratedAt>
+  <GeneratedAt>1746015626989</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Doro</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Destino</Player>
+    <LostExp>42273487</LostExp>
+    <KilledBy>Kul'Krak'u</KilledBy>
+    <Time>2025-04-30 14:15:27</Time>
+    <Location>(31791,31904,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Darsixer</Player>
     <LostExp>21943550</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31792,31904,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Kalea</Player>
     <LostExp>10361233</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31898,31989,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Dark</Player>
     <LostExp>5397026</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31962,31979,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Shanksz</Player>
     <LostExp>4218759</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31881,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Sadness</Player>
     <LostExp>2508881</LostExp>
     <KilledBy>Blackdrake</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32245,32366,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Sadness</Player>
     <LostExp>2308724</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32042,31802,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Khersek</Player>
     <LostExp>261778</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31948,32275,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Oftheking</Player>
     <LostExp>215849</LostExp>
     <KilledBy>Fire Drake</KilledBy>
