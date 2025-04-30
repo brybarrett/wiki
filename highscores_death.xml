@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746008726897</GeneratedAt>
+  <GeneratedAt>1746009026904</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Doro</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Shanksz</Player>
+    <LostExp>4218759</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-04-30 12:30:19</Time>
+    <Location>(31881,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Sadness</Player>
     <LostExp>2508881</LostExp>
     <KilledBy>Blackdrake</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32245,32366,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Sadness</Player>
     <LostExp>2308724</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32042,31802,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Khersek</Player>
     <LostExp>261778</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31948,32275,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Oftheking</Player>
     <LostExp>215849</LostExp>
     <KilledBy>Fire Drake</KilledBy>
