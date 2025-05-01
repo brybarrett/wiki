@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746058830482</GeneratedAt>
+  <GeneratedAt>1746059130477</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kannivrau</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Blaze Master</KilledBy>
     <Time>2025-05-01 02:17:36</Time>
     <Location>(31946,32271,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Marketeiro</Player>
+    <LostExp>192067</LostExp>
+    <KilledBy>Triad</KilledBy>
+    <Time>2025-05-01 02:21:17</Time>
+    <Location>(31974,31986,7)</Location>
   </DeathEvent>
 </DeathHighscores>
