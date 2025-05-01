@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746058530476</GeneratedAt>
+  <GeneratedAt>1746058830482</GeneratedAt>
+  <DeathEvent>
+    <Rank>1</Rank>
+    <Player>Kannivrau</Player>
+    <LostExp>2002124</LostExp>
+    <KilledBy>Chilong</KilledBy>
+    <Time>2025-05-01 02:16:39</Time>
+    <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Khersek</Player>
+    <LostExp>215728</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-05-01 02:17:36</Time>
+    <Location>(31946,32271,8)</Location>
+  </DeathEvent>
 </DeathHighscores>
