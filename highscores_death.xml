@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746061830520</GeneratedAt>
+  <GeneratedAt>1746062130519</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Mitt</Player>
+    <LostExp>15184146</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-01 03:14:27</Time>
+    <Location>(32014,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Piraswiz</Player>
+    <LostExp>10691206</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-01 03:12:48</Time>
+    <Location>(31863,32051,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Kannivrau</Player>
     <LostExp>2002124</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -10,7 +26,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Marketeiro</Player>
     <LostExp>222878</LostExp>
     <KilledBy>Triad</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(31976,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Khersek</Player>
     <LostExp>215728</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(31946,32271,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Marketeiro</Player>
     <LostExp>192067</LostExp>
     <KilledBy>Triad</KilledBy>
