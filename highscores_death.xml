@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746115231064</GeneratedAt>
+  <GeneratedAt>1746115531053</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -284,13 +284,21 @@
   <DeathEvent>
     <Rank>36</Rank>
     <Player>Powerofgod</Player>
+    <LostExp>108714</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-01 18:01:28</Time>
+    <Location>(31905,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>37</Rank>
+    <Player>Powerofgod</Player>
     <LostExp>104073</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-05-01 17:57:21</Time>
     <Location>(31864,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Powerofgod</Player>
     <LostExp>43073</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31904,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Amaralwiz</Player>
     <LostExp>14925</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31871,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Amaralwiz</Player>
     <LostExp>14614</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31863,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Mnhoulisu</Player>
     <LostExp>506</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31989,32014,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Mnhoulisu</Player>
     <LostExp>469</LostExp>
     <KilledBy>The Bug</KilledBy>
