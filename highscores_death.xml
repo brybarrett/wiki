@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746135631249</GeneratedAt>
+  <GeneratedAt>1746135931251</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -523,6 +523,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>66</Rank>
+    <Player>Xam</Player>
+    <LostExp>3596</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-05-01 23:40:51</Time>
+    <Location>(31985,31902,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>67</Rank>
     <Player>Mnhoulisu</Player>
     <LostExp>506</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -530,7 +538,7 @@
     <Location>(31989,32014,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>67</Rank>
+    <Rank>68</Rank>
     <Player>Mnhoulisu</Player>
     <LostExp>469</LostExp>
     <KilledBy>The Bug</KilledBy>
