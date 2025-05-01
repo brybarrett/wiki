@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746066330550</GeneratedAt>
+  <GeneratedAt>1746066630556</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mitt</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Zetabaco</Player>
+    <LostExp>217291</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-01 04:27:32</Time>
+    <Location>(31893,32026,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Khersek</Player>
     <LostExp>215728</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31946,32271,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Marketeiro</Player>
     <LostExp>192067</LostExp>
     <KilledBy>Triad</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31974,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Amaralwiz</Player>
     <LostExp>14925</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31871,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Amaralwiz</Player>
     <LostExp>14614</LostExp>
     <KilledBy>Werewolf</KilledBy>
