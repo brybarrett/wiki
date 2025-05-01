@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746140732490</GeneratedAt>
+  <GeneratedAt>1746141032491</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Psychomage</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Chaombie</KilledBy>
     <Time>2025-05-02 01:04:51</Time>
     <Location>(31915,32220,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Vizkal</Player>
+    <LostExp>18780291</LostExp>
+    <KilledBy>Papasmerf</KilledBy>
+    <Time>2025-05-02 01:09:40</Time>
+    <Location>(31790,31936,10)</Location>
   </DeathEvent>
 </DeathHighscores>
