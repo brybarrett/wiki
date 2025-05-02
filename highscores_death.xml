@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746192033002</GeneratedAt>
+  <GeneratedAt>1746192333012</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Psychomage</Player>
@@ -124,13 +124,21 @@
   <DeathEvent>
     <Rank>16</Rank>
     <Player>Pierre</Player>
+    <LostExp>11808056</LostExp>
+    <KilledBy>Kul'Krak'u</KilledBy>
+    <Time>2025-05-02 15:24:10</Time>
+    <Location>(31794,31915,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
+    <Player>Pierre</Player>
     <LostExp>11761972</LostExp>
     <KilledBy>Dreadtide</KilledBy>
     <Time>2025-05-02 02:25:31</Time>
     <Location>(31851,32111,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Pintoral</Player>
     <LostExp>10083619</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31863,32078,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Dark</Player>
     <LostExp>6154731</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31961,31862,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Kingbogu</Player>
     <LostExp>1391829</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32852,31989,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1282039</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31880,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Dewes</Player>
     <LostExp>523211</LostExp>
     <KilledBy>Shogun</KilledBy>
