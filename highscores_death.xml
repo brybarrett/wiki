@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746223833334</GeneratedAt>
+  <GeneratedAt>1746224133339</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Psychomage</Player>
@@ -323,6 +323,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>41</Rank>
+    <Player>Powerofgod</Player>
+    <LostExp>926297</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-03 00:11:34</Time>
+    <Location>(31865,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>42</Rank>
     <Player>Ekzim</Player>
     <LostExp>670239</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(32189,32264,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Dewes</Player>
     <LostExp>523211</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(32056,31900,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Oftheking</Player>
     <LostExp>410984</LostExp>
     <KilledBy>Treant</KilledBy>
