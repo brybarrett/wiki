@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746228330307</GeneratedAt>
+  <GeneratedAt>1746228630316</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Maceio</Player>
@@ -12,9 +12,25 @@
   <DeathEvent>
     <Rank>2</Rank>
     <Player>Maceio</Player>
+    <LostExp>3407</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-03 01:25:53</Time>
+    <Location>(31892,32002,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Maceio</Player>
     <LostExp>3234</LostExp>
     <KilledBy>Shogun</KilledBy>
     <Time>2025-05-03 01:08:57</Time>
     <Location>(32054,31894,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Maceio</Player>
+    <LostExp>3217</LostExp>
+    <KilledBy>Minotaur</KilledBy>
+    <Time>2025-05-03 01:29:43</Time>
+    <Location>(31878,31980,11)</Location>
   </DeathEvent>
 </DeathHighscores>
