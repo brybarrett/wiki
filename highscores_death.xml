@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746213933231</GeneratedAt>
+  <GeneratedAt>1746214233238</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Psychomage</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Barba</Player>
+    <LostExp>103653819</LostExp>
+    <KilledBy>Abominatio</KilledBy>
+    <Time>2025-05-02 21:29:22</Time>
+    <Location>(32473,32458,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Ikytbking</Player>
     <LostExp>100622508</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32029,31908,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Vinion</Player>
     <LostExp>91266199</LostExp>
     <KilledBy>Fouldrake</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32264,32346,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Johnnywiz </Player>
     <LostExp>54475413</LostExp>
     <KilledBy>Papasmerf</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31790,31934,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Khun</Player>
     <LostExp>54311585</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32177,32221,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Brisadeira</Player>
     <LostExp>50852163</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32200,32215,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Brisadeiro</Player>
     <LostExp>47257388</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32186,32229,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Okomura</Player>
     <LostExp>45257654</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32159,32284,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Megume</Player>
     <LostExp>44722245</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31948,32233,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Urekmazino</Player>
     <LostExp>41005327</LostExp>
     <KilledBy>(Others)</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31794,31911,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Kannizinha</Player>
     <LostExp>28737423</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31960,32266,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Vizkal</Player>
     <LostExp>18780291</LostExp>
     <KilledBy>Papasmerf</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31790,31936,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Vizkal</Player>
     <LostExp>17044789</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31863,32081,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Somnus</Player>
     <LostExp>16239682</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32036,32236,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Eunha</Player>
     <LostExp>12821605</LostExp>
     <KilledBy>Kapami</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32875,32053,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Masterwiz</Player>
     <LostExp>12682738</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32065,32298,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Villain</Player>
     <LostExp>12236012</LostExp>
     <KilledBy>King Demon</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32060,32340,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Pierre</Player>
     <LostExp>11808056</LostExp>
     <KilledBy>Kul'Krak'u</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31794,31915,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Pierre</Player>
     <LostExp>11761972</LostExp>
     <KilledBy>Dreadtide</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31851,32111,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Menson</Player>
     <LostExp>10942725</LostExp>
     <KilledBy>Wispin</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32069,32363,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Pintoral</Player>
     <LostExp>10083619</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31863,32078,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Dark</Player>
     <LostExp>6154731</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31961,31862,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Dark</Player>
     <LostExp>5563433</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32013,31861,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Magrela</Player>
     <LostExp>3265913</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32855,32000,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Kingbogu</Player>
     <LostExp>1391829</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32852,31989,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Mnhoulisu</Player>
     <LostExp>1365134</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31884,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1282039</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31880,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1263177</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31878,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1249526</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31863,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1223054</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(32852,32003,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1111500</LostExp>
     <KilledBy>Horrornet</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32822,31991,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1014044</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(32826,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Ekzim</Player>
     <LostExp>670239</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(32189,32264,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Dewes</Player>
     <LostExp>523211</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(32056,31900,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Oftheking</Player>
     <LostExp>410984</LostExp>
     <KilledBy>Treant</KilledBy>
