@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746229230330</GeneratedAt>
+  <GeneratedAt>1746229530328</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Maceio</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Treant</KilledBy>
     <Time>2025-05-03 01:32:04</Time>
     <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Maceio</Player>
+    <LostExp>2705</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-05-03 01:44:11</Time>
+    <Location>(31990,31862,8)</Location>
   </DeathEvent>
 </DeathHighscores>
