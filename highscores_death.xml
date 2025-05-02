@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746189932976</GeneratedAt>
+  <GeneratedAt>1746190232981</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Psychomage</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Villain</Player>
+    <LostExp>12236012</LostExp>
+    <KilledBy>King Demon</KilledBy>
+    <Time>2025-05-02 14:46:37</Time>
+    <Location>(32060,32340,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Pierre</Player>
     <LostExp>11761972</LostExp>
     <KilledBy>Dreadtide</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31851,32111,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1282039</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31880,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Dewes</Player>
     <LostExp>523211</LostExp>
     <KilledBy>Shogun</KilledBy>
