@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746193533023</GeneratedAt>
+  <GeneratedAt>1746193833037</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Psychomage</Player>
@@ -179,6 +179,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>23</Rank>
+    <Player>Ekzim</Player>
+    <LostExp>670239</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-05-02 15:47:28</Time>
+    <Location>(32189,32264,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>24</Rank>
     <Player>Dewes</Player>
     <LostExp>523211</LostExp>
     <KilledBy>Shogun</KilledBy>
