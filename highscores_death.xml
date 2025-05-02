@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746204633140</GeneratedAt>
+  <GeneratedAt>1746204933134</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Psychomage</Player>
@@ -179,6 +179,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>23</Rank>
+    <Player>Magrela</Player>
+    <LostExp>3265913</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-05-02 18:52:35</Time>
+    <Location>(32855,32000,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>24</Rank>
     <Player>Kingbogu</Player>
     <LostExp>1391829</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32852,31989,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1282039</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31880,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1263177</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31878,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Ekzim</Player>
     <LostExp>670239</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32189,32264,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Dewes</Player>
     <LostExp>523211</LostExp>
     <KilledBy>Shogun</KilledBy>
