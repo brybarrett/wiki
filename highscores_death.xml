@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746217833265</GeneratedAt>
+  <GeneratedAt>1746218133267</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Psychomage</Player>
@@ -260,13 +260,21 @@
   <DeathEvent>
     <Rank>33</Rank>
     <Player>Powerofgod</Player>
+    <LostExp>1147734</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-05-02 22:34:56</Time>
+    <Location>(32845,31992,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>34</Rank>
+    <Player>Powerofgod</Player>
     <LostExp>1111500</LostExp>
     <KilledBy>Horrornet</KilledBy>
     <Time>2025-05-02 20:36:50</Time>
     <Location>(32822,31991,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1014044</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(32826,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Ekzim</Player>
     <LostExp>670239</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(32189,32264,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Dewes</Player>
     <LostExp>523211</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(32056,31900,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Oftheking</Player>
     <LostExp>410984</LostExp>
     <KilledBy>Treant</KilledBy>
