@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746225933354</GeneratedAt>
+  <GeneratedAt>1746226233351</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Psychomage</Player>
@@ -352,5 +352,13 @@
     <KilledBy>Treant</KilledBy>
     <Time>2025-05-02 20:28:53</Time>
     <Location>(31996,31926,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>45</Rank>
+    <Player>Maceio</Player>
+    <LostExp>758</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-05-03 00:45:47</Time>
+    <Location>(32189,32271,9)</Location>
   </DeathEvent>
 </DeathHighscores>
