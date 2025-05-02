@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746151532596</GeneratedAt>
+  <GeneratedAt>1746151832606</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Psychomage</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Vinion</Player>
+    <LostExp>91266199</LostExp>
+    <KilledBy>Fouldrake</KilledBy>
+    <Time>2025-05-02 04:06:22</Time>
+    <Location>(32264,32346,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Johnnywiz </Player>
     <LostExp>54475413</LostExp>
     <KilledBy>Papasmerf</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31790,31934,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Vizkal</Player>
     <LostExp>18780291</LostExp>
     <KilledBy>Papasmerf</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31790,31936,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Vizkal</Player>
     <LostExp>17044789</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31863,32081,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Masterwiz</Player>
     <LostExp>12682738</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32065,32298,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Pierre</Player>
     <LostExp>11761972</LostExp>
     <KilledBy>Dreadtide</KilledBy>
