@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746210333202</GeneratedAt>
+  <GeneratedAt>1746210633199</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Psychomage</Player>
@@ -203,6 +203,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>26</Rank>
+    <Player>Mnhoulisu</Player>
+    <LostExp>1365134</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-02 20:28:44</Time>
+    <Location>(31884,32054,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>27</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1282039</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31880,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1263177</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31878,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1249526</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31863,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1223054</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32852,32003,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Ekzim</Player>
     <LostExp>670239</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -242,11 +250,19 @@
     <Location>(32189,32264,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Dewes</Player>
     <LostExp>523211</LostExp>
     <KilledBy>Shogun</KilledBy>
     <Time>2025-05-02 06:18:34</Time>
     <Location>(32056,31900,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>33</Rank>
+    <Player>Oftheking</Player>
+    <LostExp>410984</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-05-02 20:28:53</Time>
+    <Location>(31996,31926,8)</Location>
   </DeathEvent>
 </DeathHighscores>
