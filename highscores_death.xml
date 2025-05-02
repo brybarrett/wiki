@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746192333012</GeneratedAt>
+  <GeneratedAt>1746192633032</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Psychomage</Player>
@@ -155,6 +155,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>20</Rank>
+    <Player>Dark</Player>
+    <LostExp>5563433</LostExp>
+    <KilledBy>Bragnak</KilledBy>
+    <Time>2025-05-02 15:26:28</Time>
+    <Location>(32013,31861,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
     <Player>Kingbogu</Player>
     <LostExp>1391829</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32852,31989,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Powerofgod</Player>
     <LostExp>1282039</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31880,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Dewes</Player>
     <LostExp>523211</LostExp>
     <KilledBy>Shogun</KilledBy>
