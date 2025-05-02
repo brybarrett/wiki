@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746145232536</GeneratedAt>
+  <GeneratedAt>1746145532543</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Psychomage</Player>
@@ -24,5 +24,13 @@
     <KilledBy>Papasmerf</KilledBy>
     <Time>2025-05-02 01:09:40</Time>
     <Location>(31790,31936,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Pierre</Player>
+    <LostExp>11761972</LostExp>
+    <KilledBy>Dreadtide</KilledBy>
+    <Time>2025-05-02 02:25:31</Time>
+    <Location>(31851,32111,8)</Location>
   </DeathEvent>
 </DeathHighscores>
