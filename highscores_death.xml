@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746227130307</GeneratedAt>
+  <GeneratedAt>1746227430321</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Maceio</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-05-03 01:04:13</Time>
     <Location>(32024,31945,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Maceio</Player>
+    <LostExp>3234</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-05-03 01:08:57</Time>
+    <Location>(32054,31894,8)</Location>
   </DeathEvent>
 </DeathHighscores>
