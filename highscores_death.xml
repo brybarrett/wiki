@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746288253305</GeneratedAt>
+  <GeneratedAt>1746288553334</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mineira</Player>
@@ -24,5 +24,13 @@
     <KilledBy>Foresdrake</KilledBy>
     <Time>2025-05-03 17:28:06</Time>
     <Location>(32873,32029,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Kingsblack</Player>
+    <LostExp>3150138</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-05-03 18:05:57</Time>
+    <Location>(32806,32029,7)</Location>
   </DeathEvent>
 </DeathHighscores>
