@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746292153352</GeneratedAt>
+  <GeneratedAt>1746292453377</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mineira</Player>
@@ -44,13 +44,21 @@
   <DeathEvent>
     <Rank>6</Rank>
     <Player>Corujaa</Player>
+    <LostExp>346486</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-05-03 19:13:08</Time>
+    <Location>(32856,31999,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Corujaa</Player>
     <LostExp>269217</LostExp>
     <KilledBy>Redeath</KilledBy>
     <Time>2025-05-03 18:33:13</Time>
     <Location>(32855,31996,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Corujaa</Player>
     <LostExp>254590</LostExp>
     <KilledBy>Redeath</KilledBy>
