@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746309253534</GeneratedAt>
+  <GeneratedAt>1746309553538</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mineira</Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Rafinha</Player>
+    <LostExp>15808</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-05-03 23:54:17</Time>
+    <Location>(32014,32033,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Reeh</Player>
     <LostExp>15381</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31997,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Reeh</Player>
     <LostExp>14198</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31995,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Reeh</Player>
     <LostExp>14146</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31994,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Reeh</Player>
     <LostExp>13053</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31984,31971,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Reeh</Player>
     <LostExp>11777</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31994,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Reeh</Player>
     <LostExp>9753</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32007,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Reeh</Player>
     <LostExp>9503</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32001,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Joewiz</Player>
     <LostExp>3117</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31980,31921,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Joewiz</Player>
     <LostExp>1029</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31980,31902,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Joewiz</Player>
     <LostExp>898</LostExp>
     <KilledBy>Scorpion</KilledBy>
