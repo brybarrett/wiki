@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746284326675</GeneratedAt>
+  <GeneratedAt>1746284626691</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bogurel</Player>
@@ -52,13 +52,21 @@
   <DeathEvent>
     <Rank>7</Rank>
     <Player>Corujaa</Player>
+    <LostExp>201642</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-03 16:59:41</Time>
+    <Location>(31894,32047,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Corujaa</Player>
     <LostExp>114637</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-05-03 15:32:34</Time>
     <Location>(32015,31884,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Xam</Player>
     <LostExp>6261</LostExp>
     <KilledBy>Scorpion</KilledBy>
