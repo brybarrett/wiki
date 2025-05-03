@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746304453465</GeneratedAt>
+  <GeneratedAt>1746304753465</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mineira</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Reeh</Player>
+    <LostExp>9503</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-05-03 22:36:23</Time>
+    <Location>(32001,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Joewiz</Player>
     <LostExp>3117</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31980,31921,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Joewiz</Player>
     <LostExp>1029</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31980,31902,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Joewiz</Player>
     <LostExp>898</LostExp>
     <KilledBy>Scorpion</KilledBy>
