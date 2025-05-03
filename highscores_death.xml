@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746296353392</GeneratedAt>
+  <GeneratedAt>1746296653399</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mineira</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Guardian</Player>
+    <LostExp>7338855</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-03 20:21:23</Time>
+    <Location>(31860,32020,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Dark</Player>
     <LostExp>5422264</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32873,32029,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Kingsblack</Player>
     <LostExp>4160705</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32824,32038,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Kingsblack</Player>
     <LostExp>3150138</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32806,32029,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Corujaa</Player>
     <LostExp>346486</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32856,31999,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Corujaa</Player>
     <LostExp>269217</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32855,31996,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Corujaa</Player>
     <LostExp>254590</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32857,31999,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Candongo</Player>
     <LostExp>221204</LostExp>
     <KilledBy>Mantis</KilledBy>
