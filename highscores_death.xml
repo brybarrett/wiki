@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746294553367</GeneratedAt>
+  <GeneratedAt>1746294853359</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mineira</Player>
@@ -64,5 +64,13 @@
     <KilledBy>Redeath</KilledBy>
     <Time>2025-05-03 18:20:13</Time>
     <Location>(32857,31999,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Candongo</Player>
+    <LostExp>221204</LostExp>
+    <KilledBy>Mantis</KilledBy>
+    <Time>2025-05-03 19:52:24</Time>
+    <Location>(31897,31969,7)</Location>
   </DeathEvent>
 </DeathHighscores>
