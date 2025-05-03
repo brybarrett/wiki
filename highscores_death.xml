@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746316233449</GeneratedAt>
+  <GeneratedAt>1746316533430</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dark</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Marketeiro</Player>
+    <LostExp>558055</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-05-04 01:53:10</Time>
+    <Location>(32016,31938,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Rafinha</Player>
     <LostExp>12351</LostExp>
     <KilledBy>Skelenary</KilledBy>
