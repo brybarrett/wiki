@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746287653299</GeneratedAt>
+  <GeneratedAt>1746287953305</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Mineira</Player>
+    <LostExp>219131436</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-05-03 17:55:03</Time>
+    <Location>(31947,32204,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Okomura</Player>
     <LostExp>46460305</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32157,32274,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Dark</Player>
     <LostExp>5422264</LostExp>
     <KilledBy>Foresdrake</KilledBy>
