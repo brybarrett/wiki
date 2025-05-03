@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746260130639</GeneratedAt>
+  <GeneratedAt>1746260430635</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Abaddon</Player>
@@ -148,13 +148,21 @@
   <DeathEvent>
     <Rank>19</Rank>
     <Player>Corujaa</Player>
+    <LostExp>53111</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-03 10:15:56</Time>
+    <Location>(32005,31882,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Corujaa</Player>
     <LostExp>43739</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-05-03 04:35:58</Time>
     <Location>(32005,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Corujaa</Player>
     <LostExp>35825</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32006,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Corujaa</Player>
     <LostExp>27820</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32007,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Corujaa</Player>
     <LostExp>25933</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32013,31884,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Maceio</Player>
     <LostExp>3590</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32024,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Maceio</Player>
     <LostExp>3407</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31892,32002,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Maceio</Player>
     <LostExp>3234</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32054,31894,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Maceio</Player>
     <LostExp>3217</LostExp>
     <KilledBy>Minotaur</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31878,31980,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Maceio</Player>
     <LostExp>2896</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Maceio</Player>
     <LostExp>2705</LostExp>
     <KilledBy>Orc</KilledBy>
