@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746234030372</GeneratedAt>
+  <GeneratedAt>1746234330378</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Boruto</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Srlira</Player>
+    <LostExp>112127487</LostExp>
+    <KilledBy>Abominatio</KilledBy>
+    <Time>2025-05-03 03:02:25</Time>
+    <Location>(32529,32456,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Michael</Player>
     <LostExp>1880965</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31896,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Maceio</Player>
     <LostExp>3590</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32024,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Maceio</Player>
     <LostExp>3407</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31892,32002,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Maceio</Player>
     <LostExp>3234</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32054,31894,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Maceio</Player>
     <LostExp>3217</LostExp>
     <KilledBy>Minotaur</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31878,31980,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Maceio</Player>
     <LostExp>2896</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Maceio</Player>
     <LostExp>2705</LostExp>
     <KilledBy>Orc</KilledBy>
