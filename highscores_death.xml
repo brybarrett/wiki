@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746276226594</GeneratedAt>
+  <GeneratedAt>1746276526593</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Bogurel</Player>
+    <LostExp>14694848</LostExp>
+    <KilledBy>Bullwar</KilledBy>
+    <Time>2025-05-03 14:47:52</Time>
+    <Location>(31908,31827,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Srluis</Player>
     <LostExp>1801547</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31944,31990,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Joe</Player>
     <LostExp>607152</LostExp>
     <KilledBy>Redeath</KilledBy>
