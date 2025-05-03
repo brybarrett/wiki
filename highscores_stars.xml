@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1746298453417</GeneratedAt>
+  <GeneratedAt>1746298753417</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -63,12 +63,12 @@
   </Player>
   <Player>
     <Rank>13</Rank>
-    <Name>Kingkiller</Name>
+    <Name>Papito</Name>
     <StarsCollected>217</StarsCollected>
   </Player>
   <Player>
     <Rank>14</Rank>
-    <Name>Papito</Name>
+    <Name>Kingkiller</Name>
     <StarsCollected>217</StarsCollected>
   </Player>
   <Player>
@@ -88,22 +88,22 @@
   </Player>
   <Player>
     <Rank>18</Rank>
-    <Name>Pancernik</Name>
+    <Name>Shizuka</Name>
     <StarsCollected>199</StarsCollected>
   </Player>
   <Player>
     <Rank>19</Rank>
-    <Name>Zedalapa</Name>
+    <Name>Pancernik</Name>
     <StarsCollected>199</StarsCollected>
   </Player>
   <Player>
     <Rank>20</Rank>
-    <Name>Frieren</Name>
+    <Name>Zedalapa</Name>
     <StarsCollected>199</StarsCollected>
   </Player>
   <Player>
     <Rank>21</Rank>
-    <Name>Shizuka</Name>
+    <Name>Frieren</Name>
     <StarsCollected>199</StarsCollected>
   </Player>
   <Player>
@@ -213,12 +213,12 @@
   </Player>
   <Player>
     <Rank>43</Rank>
-    <Name>Zezie</Name>
+    <Name>Deimonrei</Name>
     <StarsCollected>156</StarsCollected>
   </Player>
   <Player>
     <Rank>44</Rank>
-    <Name>Deimonrei</Name>
+    <Name>Zezie</Name>
     <StarsCollected>156</StarsCollected>
   </Player>
   <Player>
@@ -318,12 +318,12 @@
   </Player>
   <Player>
     <Rank>64</Rank>
-    <Name>Nudin</Name>
+    <Name>Vamplod </Name>
     <StarsCollected>131</StarsCollected>
   </Player>
   <Player>
     <Rank>65</Rank>
-    <Name>Vamplod </Name>
+    <Name>Nudin</Name>
     <StarsCollected>131</StarsCollected>
   </Player>
   <Player>
@@ -523,12 +523,12 @@
   </Player>
   <Player>
     <Rank>105</Rank>
-    <Name>Yukira</Name>
+    <Name>Lordwolf</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
     <Rank>106</Rank>
-    <Name>Lordwolf</Name>
+    <Name>Yukira</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
@@ -578,17 +578,17 @@
   </Player>
   <Player>
     <Rank>116</Rank>
-    <Name>Pandatank</Name>
-    <StarsCollected>84</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>117</Rank>
     <Name>Wizzard</Name>
     <StarsCollected>84</StarsCollected>
   </Player>
   <Player>
-    <Rank>118</Rank>
+    <Rank>117</Rank>
     <Name>Qahderijan</Name>
+    <StarsCollected>84</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>118</Rank>
+    <Name>Pandatank</Name>
     <StarsCollected>84</StarsCollected>
   </Player>
   <Player>
@@ -598,27 +598,27 @@
   </Player>
   <Player>
     <Rank>120</Rank>
-    <Name>Mineiro</Name>
+    <Name>Totol</Name>
     <StarsCollected>82</StarsCollected>
   </Player>
   <Player>
     <Rank>121</Rank>
-    <Name>Michael</Name>
+    <Name>Mineiro</Name>
     <StarsCollected>82</StarsCollected>
   </Player>
   <Player>
     <Rank>122</Rank>
-    <Name>Tankatuddo</Name>
+    <Name>Michael</Name>
     <StarsCollected>82</StarsCollected>
   </Player>
   <Player>
     <Rank>123</Rank>
-    <Name>Psychomage</Name>
+    <Name>Tankatuddo</Name>
     <StarsCollected>82</StarsCollected>
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Totol</Name>
+    <Name>Psychomage</Name>
     <StarsCollected>82</StarsCollected>
   </Player>
   <Player>
