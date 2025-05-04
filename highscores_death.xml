@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746323433503</GeneratedAt>
+  <GeneratedAt>1746323733505</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pierre</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Dark</Player>
+    <LostExp>4567502</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-05-04 03:54:18</Time>
+    <Location>(32856,32004,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Malekosala</Player>
     <LostExp>4272270</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31867,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Corujaa</Player>
     <LostExp>719849</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32865,31996,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Marketeiro</Player>
     <LostExp>558055</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32016,31938,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Rafinha</Player>
     <LostExp>12351</LostExp>
     <KilledBy>Skelenary</KilledBy>
