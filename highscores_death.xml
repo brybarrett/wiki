@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746344433720</GeneratedAt>
+  <GeneratedAt>1746344733727</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Justin</Player>
+    <LostExp>62615896</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-05-04 09:40:37</Time>
+    <Location>(31950,32289,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Panda</Player>
     <LostExp>36570023</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32010,32200,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Bskhaiwiz</Player>
     <LostExp>29019945</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31957,32269,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Pierre</Player>
     <LostExp>13715169</LostExp>
     <KilledBy>(Others)</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31790,31911,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Pierre</Player>
     <LostExp>13031547</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31793,31948,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Pierre</Player>
     <LostExp>12384439</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31788,31955,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Dark</Player>
     <LostExp>5932674</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32870,32028,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Dark</Player>
     <LostExp>5342457</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32872,32029,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Dark</Player>
     <LostExp>4971784</LostExp>
     <KilledBy>Long</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32019,32287,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Dark</Player>
     <LostExp>4567502</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32856,32004,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Dark</Player>
     <LostExp>4451759</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31944,31981,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Ria</Player>
     <LostExp>4436486</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31859,32070,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Malekosala</Player>
     <LostExp>4272270</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31867,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Corujaa</Player>
     <LostExp>719849</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32865,31996,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Marketeiro</Player>
     <LostExp>558055</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32016,31938,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Rafinha</Player>
     <LostExp>12351</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32001,32031,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Lupo</Player>
     <LostExp>6783</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31989,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Lupo</Player>
     <LostExp>6104</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31988,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Lupo</Player>
     <LostExp>5568</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31989,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Lupo</Player>
     <LostExp>5263</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31984,31909,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Humnoy</Player>
     <LostExp>10</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
