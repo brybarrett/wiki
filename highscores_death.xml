@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746394872930</GeneratedAt>
+  <GeneratedAt>1746395172933</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingdeus</Player>
@@ -147,6 +147,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>19</Rank>
+    <Player>Dark</Player>
+    <LostExp>4705507</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-05-04 23:44:56</Time>
+    <Location>(31944,31981,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
     <Player>Zetabaco</Player>
     <LostExp>3812624</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31893,32009,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Teig</Player>
     <LostExp>3782767</LostExp>
     <KilledBy>Crysmantis</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32824,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Rei</Player>
     <LostExp>2288213</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31898,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Phad</Player>
     <LostExp>394607</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31907,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Reeh</Player>
     <LostExp>310598</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32043,32034,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Humnoy</Player>
     <LostExp>147561</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31880,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Rafinha</Player>
     <LostExp>132426</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32009,32029,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Rafinha</Player>
     <LostExp>132078</LostExp>
     <KilledBy>Mummy</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32079,31901,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Rafinha</Player>
     <LostExp>124680</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32005,32015,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Rafinha</Player>
     <LostExp>122859</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32040,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Rafinha</Player>
     <LostExp>116111</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32001,32036,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Rafinha</Player>
     <LostExp>112303</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(32041,31882,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Rafinha</Player>
     <LostExp>104500</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32001,32036,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Rafinha</Player>
     <LostExp>103012</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(32024,31978,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Arzhel</Player>
     <LostExp>27493</LostExp>
     <KilledBy>Frieren</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(32022,31909,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Iptu</Player>
     <LostExp>3314</LostExp>
     <KilledBy>Masterwiz</KilledBy>
