@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746370101942</GeneratedAt>
+  <GeneratedAt>1746370401944</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Warr</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Bogurel</Player>
+    <LostExp>16743035</LostExp>
+    <KilledBy>Hiroshi</KilledBy>
+    <Time>2025-05-04 16:48:59</Time>
+    <Location>(31901,31861,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Apollo</Player>
     <LostExp>16612282</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31924,31850,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Apollo</Player>
     <LostExp>14951054</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31924,31849,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Apollo</Player>
     <LostExp>13455948</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31923,31847,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Pierre</Player>
     <LostExp>11983875</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31959,32272,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Zeboostin</Player>
     <LostExp>6778567</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32039,31830,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Dark</Player>
     <LostExp>4149619</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31900,31854,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Feiticeira</Player>
     <LostExp>1773212</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31880,31902,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Rafinha</Player>
     <LostExp>131638</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31881,31912,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Rafinha</Player>
     <LostExp>118870</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32048,31890,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Rafinha</Player>
     <LostExp>114006</LostExp>
     <KilledBy>Shogun</KilledBy>
