@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746374772731</GeneratedAt>
+  <GeneratedAt>1746375072726</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ghost</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Rafinha</Player>
+    <LostExp>132426</LostExp>
+    <KilledBy>Skelenary</KilledBy>
+    <Time>2025-05-04 18:07:10</Time>
+    <Location>(32009,32029,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Arzhel</Player>
     <LostExp>27493</LostExp>
     <KilledBy>Frieren</KilledBy>
