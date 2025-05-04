@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746374172732</GeneratedAt>
+  <GeneratedAt>1746374472730</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ghost</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Mnhoulisu</Player>
+    <LostExp>9783049</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-05-04 17:57:27</Time>
+    <Location>(32177,32250,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Zeboostin</Player>
     <LostExp>8887637</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -34,7 +42,15 @@
     <Location>(32187,32239,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
+    <Player>Zeboostin</Player>
+    <LostExp>8496029</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-05-04 17:56:52</Time>
+    <Location>(32010,32219,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Zetabaco</Player>
     <LostExp>3812624</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31893,32009,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Teig</Player>
     <LostExp>3782767</LostExp>
     <KilledBy>Crysmantis</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(32824,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Phad</Player>
     <LostExp>394607</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(31907,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Arzhel</Player>
     <LostExp>27493</LostExp>
     <KilledBy>Frieren</KilledBy>
