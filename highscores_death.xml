@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746372072693</GeneratedAt>
+  <GeneratedAt>1746372372701</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zetabaco</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Assasin</KilledBy>
     <Time>2025-05-04 17:14:03</Time>
     <Location>(31893,32009,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Phad</Player>
+    <LostExp>394607</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-04 17:22:06</Time>
+    <Location>(31907,32045,8)</Location>
   </DeathEvent>
 </DeathHighscores>
