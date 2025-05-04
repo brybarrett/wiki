@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746373272711</GeneratedAt>
+  <GeneratedAt>1746373572724</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ghost</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-05-04 17:22:06</Time>
     <Location>(31907,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Arzhel</Player>
+    <LostExp>27493</LostExp>
+    <KilledBy>Frieren</KilledBy>
+    <Time>2025-05-04 17:42:17</Time>
+    <Location>(32022,31909,9)</Location>
   </DeathEvent>
 </DeathHighscores>
