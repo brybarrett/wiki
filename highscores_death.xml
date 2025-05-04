@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746355533827</GeneratedAt>
+  <GeneratedAt>1746355833834</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Justin</Player>
@@ -195,6 +195,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>25</Rank>
+    <Player>Phad</Player>
+    <LostExp>221409</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-04 12:47:39</Time>
+    <Location>(31883,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
     <Player>Rafinha</Player>
     <LostExp>12351</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32001,32031,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Lupo</Player>
     <LostExp>6783</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31989,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Lupo</Player>
     <LostExp>6104</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31988,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Lupo</Player>
     <LostExp>5568</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31989,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Lupo</Player>
     <LostExp>5263</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31984,31909,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Humnoy</Player>
     <LostExp>10</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
