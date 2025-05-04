@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746380472778</GeneratedAt>
+  <GeneratedAt>1746380772778</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingdeus</Player>
@@ -203,6 +203,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>26</Rank>
+    <Player>Rafinha</Player>
+    <LostExp>103012</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-05-04 19:41:28</Time>
+    <Location>(32024,31978,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>27</Rank>
     <Player>Arzhel</Player>
     <LostExp>27493</LostExp>
     <KilledBy>Frieren</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32022,31909,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Iptu</Player>
     <LostExp>3314</LostExp>
     <KilledBy>Masterwiz</KilledBy>
