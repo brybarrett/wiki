@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746375672736</GeneratedAt>
+  <GeneratedAt>1746375972747</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ghost</Player>
@@ -104,5 +104,13 @@
     <KilledBy>Frieren</KilledBy>
     <Time>2025-05-04 17:42:17</Time>
     <Location>(32022,31909,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Iptu</Player>
+    <LostExp>3314</LostExp>
+    <KilledBy>Masterwiz</KilledBy>
+    <Time>2025-05-04 18:25:33</Time>
+    <Location>(31970,31863,7)</Location>
   </DeathEvent>
 </DeathHighscores>
