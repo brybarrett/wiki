@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1746325233520</GeneratedAt>
+  <GeneratedAt>1746325533520</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -318,27 +318,27 @@
   </Player>
   <Player>
     <Rank>64</Rank>
-    <Name>Vamplod </Name>
-    <StarsCollected>131</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>65</Rank>
-    <Name>Nudin</Name>
-    <StarsCollected>131</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>66</Rank>
     <Name>Biel</Name>
     <StarsCollected>131</StarsCollected>
   </Player>
   <Player>
+    <Rank>65</Rank>
+    <Name>Vamplod </Name>
+    <StarsCollected>131</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>66</Rank>
+    <Name>Nudin</Name>
+    <StarsCollected>131</StarsCollected>
+  </Player>
+  <Player>
     <Rank>67</Rank>
-    <Name>Connor</Name>
+    <Name>Carver</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
     <Rank>68</Rank>
-    <Name>Carver</Name>
+    <Name>Connor</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
@@ -353,12 +353,12 @@
   </Player>
   <Player>
     <Rank>71</Rank>
-    <Name>Superstar</Name>
+    <Name>Jcl</Name>
     <StarsCollected>125</StarsCollected>
   </Player>
   <Player>
     <Rank>72</Rank>
-    <Name>Jcl</Name>
+    <Name>Superstar</Name>
     <StarsCollected>125</StarsCollected>
   </Player>
   <Player>
@@ -383,12 +383,12 @@
   </Player>
   <Player>
     <Rank>77</Rank>
-    <Name>Killer </Name>
+    <Name>Mineira</Name>
     <StarsCollected>122</StarsCollected>
   </Player>
   <Player>
     <Rank>78</Rank>
-    <Name>Mineira</Name>
+    <Name>Killer </Name>
     <StarsCollected>122</StarsCollected>
   </Player>
   <Player>
@@ -498,17 +498,17 @@
   </Player>
   <Player>
     <Rank>100</Rank>
-    <Name>Killua</Name>
-    <StarsCollected>96</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>101</Rank>
     <Name>Agentgalon</Name>
     <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
-    <Rank>102</Rank>
+    <Rank>101</Rank>
     <Name>Cochilo</Name>
+    <StarsCollected>96</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>102</Rank>
+    <Name>Killua</Name>
     <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
@@ -588,17 +588,17 @@
   </Player>
   <Player>
     <Rank>118</Rank>
-    <Name>Wizzard</Name>
+    <Name>Qahderijan</Name>
     <StarsCollected>84</StarsCollected>
   </Player>
   <Player>
     <Rank>119</Rank>
-    <Name>Pandatank</Name>
+    <Name>Wizzard</Name>
     <StarsCollected>84</StarsCollected>
   </Player>
   <Player>
     <Rank>120</Rank>
-    <Name>Qahderijan</Name>
+    <Name>Pandatank</Name>
     <StarsCollected>84</StarsCollected>
   </Player>
   <Player>
@@ -638,7 +638,7 @@
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Jembei</Name>
+    <Name>Bsmercy</Name>
     <StarsCollected>80</StarsCollected>
   </Player>
 </StarsHighscores>
