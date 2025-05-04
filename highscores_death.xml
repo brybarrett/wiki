@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746363801888</GeneratedAt>
+  <GeneratedAt>1746364101896</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kibo</Player>
@@ -80,5 +80,13 @@
     <KilledBy>Shogun</KilledBy>
     <Time>2025-05-04 14:20:06</Time>
     <Location>(32048,31890,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Rafinha</Player>
+    <LostExp>114006</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-05-04 15:05:20</Time>
+    <Location>(32059,31895,8)</Location>
   </DeathEvent>
 </DeathHighscores>
