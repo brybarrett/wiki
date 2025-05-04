@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1746378372749</GeneratedAt>
+  <GeneratedAt>1746378672752</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -383,17 +383,17 @@
   </Player>
   <Player>
     <Rank>77</Rank>
+    <Name>Michael</Name>
+    <StarsCollected>123</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>78</Rank>
     <Name>Mineira</Name>
     <StarsCollected>122</StarsCollected>
   </Player>
   <Player>
-    <Rank>78</Rank>
-    <Name>Killer </Name>
-    <StarsCollected>122</StarsCollected>
-  </Player>
-  <Player>
     <Rank>79</Rank>
-    <Name>Michael</Name>
+    <Name>Killer </Name>
     <StarsCollected>122</StarsCollected>
   </Player>
   <Player>
@@ -549,7 +549,7 @@
   <Player>
     <Rank>110</Rank>
     <Name>Wizzard</Name>
-    <StarsCollected>90</StarsCollected>
+    <StarsCollected>91</StarsCollected>
   </Player>
   <Player>
     <Rank>111</Rank>
