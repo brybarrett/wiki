@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746361101867</GeneratedAt>
+  <GeneratedAt>1746361401869</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kibo</Player>
@@ -56,5 +56,13 @@
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-05-04 14:16:25</Time>
     <Location>(31881,31912,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Rafinha</Player>
+    <LostExp>118870</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-05-04 14:20:06</Time>
+    <Location>(32048,31890,8)</Location>
   </DeathEvent>
 </DeathHighscores>
