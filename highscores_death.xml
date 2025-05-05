@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746432333868</GeneratedAt>
+  <GeneratedAt>1746432633865</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gandalf</Player>
@@ -96,5 +96,13 @@
     <KilledBy>Ninjaman</KilledBy>
     <Time>2025-05-05 02:28:56</Time>
     <Location>(31982,32067,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>Humnoy</Player>
+    <LostExp>134428</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-05-05 10:07:14</Time>
+    <Location>(32030,32225,7)</Location>
   </DeathEvent>
 </DeathHighscores>
