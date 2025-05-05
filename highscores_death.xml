@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746458734118</GeneratedAt>
+  <GeneratedAt>1746459034119</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gandalf</Player>
@@ -156,13 +156,21 @@
   <DeathEvent>
     <Rank>20</Rank>
     <Player>Giovani</Player>
+    <LostExp>99</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-05 17:30:25</Time>
+    <Location>(32017,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
+    <Player>Giovani</Player>
     <LostExp>7</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-05-05 16:01:13</Time>
     <Location>(32008,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Giovani</Player>
     <LostExp>6</LostExp>
     <KilledBy>Orc Leader</KilledBy>
