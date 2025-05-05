@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746464434181</GeneratedAt>
+  <GeneratedAt>1746464734174</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gandalf</Player>
@@ -99,6 +99,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Pukimak</Player>
+    <LostExp>6476165</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-05-05 19:01:56</Time>
+    <Location>(32043,31802,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Dark</Player>
     <LostExp>4484300</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31984,32067,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Mar</Player>
     <LostExp>3482355</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31972,32250,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Sxgabrielx</Player>
     <LostExp>570035</LostExp>
     <KilledBy>Cultist</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32017,31865,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Reeh</Player>
     <LostExp>530581</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31980,32059,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Rafinha</Player>
     <LostExp>329243</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31982,32067,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Humnoy</Player>
     <LostExp>134428</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32030,32225,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Giovani</Player>
     <LostExp>3355</LostExp>
     <KilledBy>Archvampir</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32733,32271,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Giovani</Player>
     <LostExp>3311</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31976,31855,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Giovani</Player>
     <LostExp>110</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32009,31872,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Giovani</Player>
     <LostExp>99</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32017,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Giovani</Player>
     <LostExp>89</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32009,31882,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Giovani</Player>
     <LostExp>7</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32008,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Giovani</Player>
     <LostExp>6</LostExp>
     <KilledBy>Orc Leader</KilledBy>
