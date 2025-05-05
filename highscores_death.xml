@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746443133970</GeneratedAt>
+  <GeneratedAt>1746443433977</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gandalf</Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Canix</Player>
+    <LostExp>8168400</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-05 13:09:39</Time>
+    <Location>(32025,32255,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Dark</Player>
     <LostExp>4484300</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31984,32067,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Mar</Player>
     <LostExp>3482355</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31972,32250,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Reeh</Player>
     <LostExp>530581</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31980,32059,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Rafinha</Player>
     <LostExp>329243</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31982,32067,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Humnoy</Player>
     <LostExp>134428</LostExp>
     <KilledBy>Wardy</KilledBy>
