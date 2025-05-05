@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746437133905</GeneratedAt>
+  <GeneratedAt>1746437433902</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gandalf</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Brisadeiro</Player>
+    <LostExp>53096763</LostExp>
+    <KilledBy>Silver Stone</KilledBy>
+    <Time>2025-05-05 11:28:59</Time>
+    <Location>(32019,32237,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Piraswiz</Player>
     <LostExp>25469674</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,20 +34,12 @@
     <Location>(31863,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Dressrossa</Player>
     <LostExp>21581590</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
     <Time>2025-05-05 11:15:28</Time>
     <Location>(32065,32299,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>5</Rank>
-    <Player>Ket</Player>
-    <LostExp>16695225</LostExp>
-    <KilledBy>Werewolf</KilledBy>
-    <Time>2025-05-05 05:39:31</Time>
-    <Location>(31869,32031,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Ket</Player>
+    <LostExp>16695225</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-05 05:39:31</Time>
+    <Location>(31869,32031,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Shanksz</Player>
     <LostExp>12348305</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31895,32008,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Bucccca</Player>
     <LostExp>11575718</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32067,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Kalea</Player>
     <LostExp>11217032</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32059,31824,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Canix</Player>
     <LostExp>8351848</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31884,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Dark</Player>
     <LostExp>4484300</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31984,32067,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Reeh</Player>
     <LostExp>530581</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31980,32059,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Rafinha</Player>
     <LostExp>329243</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31982,32067,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Humnoy</Player>
     <LostExp>134428</LostExp>
     <KilledBy>Wardy</KilledBy>
