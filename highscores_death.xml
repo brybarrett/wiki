@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746419433732</GeneratedAt>
+  <GeneratedAt>1746419733732</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Lordzikzs</Player>
+    <LostExp>108762528</LostExp>
+    <KilledBy>Bullwar</KilledBy>
+    <Time>2025-05-05 06:31:17</Time>
+    <Location>(32022,31903,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Piraswiz</Player>
     <LostExp>25469674</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-05-05 04:21:36</Time>
     <Location>(31863,32049,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>2</Rank>
-    <Player>Ket</Player>
-    <LostExp>16695225</LostExp>
-    <KilledBy>Werewolf</KilledBy>
-    <Time>2025-05-05 05:39:31</Time>
-    <Location>(31869,32031,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Ket</Player>
+    <LostExp>16695225</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-05 05:39:31</Time>
+    <Location>(31869,32031,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Shanksz</Player>
     <LostExp>12348305</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31895,32008,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Bucccca</Player>
     <LostExp>11575718</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32067,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Canix</Player>
     <LostExp>8351848</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31884,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Dark</Player>
     <LostExp>4484300</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31984,32067,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Reeh</Player>
     <LostExp>530581</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31980,32059,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Rafinha</Player>
     <LostExp>329243</LostExp>
     <KilledBy>Ninjaman</KilledBy>
