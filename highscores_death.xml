@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746487238127</GeneratedAt>
+  <GeneratedAt>1746487538133</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Feiticeira</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Giovani</Player>
+    <LostExp>10221</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-06 01:25:18</Time>
+    <Location>(32008,31883,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Giovani</Player>
     <LostExp>10220</LostExp>
     <KilledBy>Orc Leader</KilledBy>
