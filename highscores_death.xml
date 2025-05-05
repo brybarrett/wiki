@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746460234142</GeneratedAt>
+  <GeneratedAt>1746460534145</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gandalf</Player>
@@ -148,13 +148,21 @@
   <DeathEvent>
     <Rank>19</Rank>
     <Player>Giovani</Player>
+    <LostExp>3355</LostExp>
+    <KilledBy>Archvampir</KilledBy>
+    <Time>2025-05-05 17:52:37</Time>
+    <Location>(32733,32271,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Giovani</Player>
     <LostExp>3311</LostExp>
     <KilledBy>Orc Raider</KilledBy>
     <Time>2025-05-05 17:39:52</Time>
     <Location>(31976,31855,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Giovani</Player>
     <LostExp>110</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32009,31872,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Giovani</Player>
     <LostExp>99</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32017,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Giovani</Player>
     <LostExp>89</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32009,31882,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Giovani</Player>
     <LostExp>7</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32008,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Giovani</Player>
     <LostExp>6</LostExp>
     <KilledBy>Orc Leader</KilledBy>
