@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746566139174</GeneratedAt>
+  <GeneratedAt>1746566438906</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingkiller</Player>
@@ -299,6 +299,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>38</Rank>
+    <Player>Cad</Player>
+    <LostExp>285</LostExp>
+    <KilledBy>Gaspar</KilledBy>
+    <Time>2025-05-06 23:17:23</Time>
+    <Location>(31976,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>39</Rank>
+    <Player>Cad</Player>
+    <LostExp>256</LostExp>
+    <KilledBy>Gaspar</KilledBy>
+    <Time>2025-05-06 23:18:06</Time>
+    <Location>(31976,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>40</Rank>
     <Player>Bolsonaro</Player>
     <LostExp>0</LostExp>
     <KilledBy>Inaciolula</KilledBy>
