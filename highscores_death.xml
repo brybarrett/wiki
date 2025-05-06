@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746504038274</GeneratedAt>
+  <GeneratedAt>1746504338278</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Noia</Player>
@@ -168,5 +168,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-05-06 01:26:06</Time>
     <Location>(32005,31881,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Bolsonaro</Player>
+    <LostExp>0</LostExp>
+    <KilledBy>Inaciolula</KilledBy>
+    <Time>2025-05-06 06:00:39</Time>
+    <Location>(31973,31986,7)</Location>
   </DeathEvent>
 </DeathHighscores>
