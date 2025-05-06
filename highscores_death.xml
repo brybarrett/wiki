@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746489638139</GeneratedAt>
+  <GeneratedAt>1746489938137</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Noia</Player>
+    <LostExp>23024726</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-06 02:04:27</Time>
+    <Location>(31898,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Dark</Player>
+    <LostExp>4758145</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-05-06 02:05:25</Time>
+    <Location>(31954,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Feiticeira</Player>
     <LostExp>1943151</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -10,7 +26,7 @@
     <Location>(32019,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Feiticeira</Player>
     <LostExp>1748850</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Minatox</Player>
     <LostExp>1724915</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -26,7 +42,15 @@
     <Location>(32069,31821,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
+    <Player>Durin</Player>
+    <LostExp>602916</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-05-06 02:02:40</Time>
+    <Location>(31983,32062,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Giovani</Player>
     <LostExp>10221</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +58,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>8</Rank>
     <Player>Giovani</Player>
     <LostExp>10220</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -42,7 +66,7 @@
     <Location>(32007,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>9</Rank>
     <Player>Giovani</Player>
     <LostExp>9886</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -50,7 +74,7 @@
     <Location>(32053,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>10</Rank>
     <Player>Giovani</Player>
     <LostExp>8897</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -58,7 +82,7 @@
     <Location>(32052,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>11</Rank>
     <Player>Zin</Player>
     <LostExp>543</LostExp>
     <KilledBy>Orc Leader</KilledBy>
