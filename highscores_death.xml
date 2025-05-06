@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746542138666</GeneratedAt>
+  <GeneratedAt>1746542438673</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Megume</Player>
@@ -155,6 +155,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>20</Rank>
+    <Player>Arzhel</Player>
+    <LostExp>24743</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-05-06 16:38:04</Time>
+    <Location>(32022,32193,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
     <Player>Giovani</Player>
     <LostExp>17393</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32004,32029,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Giovani</Player>
     <LostExp>16617</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32026,31972,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Giovani</Player>
     <LostExp>13153</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32002,32032,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Giovani</Player>
     <LostExp>10221</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Giovani</Player>
     <LostExp>10220</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32007,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Giovani</Player>
     <LostExp>9886</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32053,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Giovani</Player>
     <LostExp>8897</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32052,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Zin</Player>
     <LostExp>543</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32005,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Bolsonaro</Player>
     <LostExp>0</LostExp>
     <KilledBy>Inaciolula</KilledBy>
