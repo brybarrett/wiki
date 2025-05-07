@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746597937396</GeneratedAt>
+  <GeneratedAt>1746598237396</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Killer </Player>
+    <LostExp>271890449</LostExp>
+    <KilledBy>Ainz</KilledBy>
+    <Time>2025-05-07 08:08:22</Time>
+    <Location>(31803,31942,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Justin</Player>
     <LostExp>143317124</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31794,31912,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Willmk</Player>
     <LostExp>65259868</LostExp>
     <KilledBy>Krakomin</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31791,31934,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Urekmazino</Player>
     <LostExp>56607252</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32032,32267,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Brisadeiro</Player>
     <LostExp>49351890</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31791,31953,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Hero</Player>
     <LostExp>19369550</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32037,31830,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Villain</Player>
     <LostExp>12057460</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32040,31831,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Silentkill</Player>
     <LostExp>6294954</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32017,32256,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Manis</Player>
     <LostExp>5999740</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32009,32190,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Sxgabrielx</Player>
     <LostExp>847187</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Joewiz</Player>
     <LostExp>709319</LostExp>
     <KilledBy>Long</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32014,32282,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Belzebugod</Player>
     <LostExp>695452</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31991,31996,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Bonilha</Player>
     <LostExp>681124</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31962,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Belzebugod</Player>
     <LostExp>663065</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32875,31991,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Xiuuking</Player>
     <LostExp>95079</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Xiuuking</Player>
     <LostExp>85571</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Nexteg</Player>
     <LostExp>51197</LostExp>
     <KilledBy>Skeleton</KilledBy>
