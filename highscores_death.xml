@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746632737751</GeneratedAt>
+  <GeneratedAt>1746633037768</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer </Player>
@@ -187,6 +187,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>24</Rank>
+    <Player>Giovani</Player>
+    <LostExp>282291</LostExp>
+    <KilledBy>Archvampir</KilledBy>
+    <Time>2025-05-07 17:46:19</Time>
+    <Location>(32740,32277,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
     <Player>Nexteg</Player>
     <LostExp>108624</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32001,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Xiuuking</Player>
     <LostExp>95079</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Xiuuking</Player>
     <LostExp>85571</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Nexteg</Player>
     <LostExp>69592</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31980,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Nexteg</Player>
     <LostExp>51197</LostExp>
     <KilledBy>Skeleton</KilledBy>
