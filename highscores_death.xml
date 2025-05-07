@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746583537247</GeneratedAt>
+  <GeneratedAt>1746583837259</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Willmk</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Urekmazino</Player>
+    <LostExp>56607252</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-07 04:10:06</Time>
+    <Location>(32032,32267,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Hero</Player>
     <LostExp>19369550</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32037,31830,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Villain</Player>
     <LostExp>12057460</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -26,7 +34,15 @@
     <Location>(32040,31831,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
+    <Player>Joewiz</Player>
+    <LostExp>709319</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-05-07 04:09:39</Time>
+    <Location>(32014,32282,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Belzebugod</Player>
     <LostExp>695452</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(31991,31996,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Bonilha</Player>
     <LostExp>681124</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31962,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Belzebugod</Player>
     <LostExp>663065</LostExp>
     <KilledBy>Redeath</KilledBy>
