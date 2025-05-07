@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746643837868</GeneratedAt>
+  <GeneratedAt>1746644137860</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellokitty</Player>
@@ -267,6 +267,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>34</Rank>
+    <Player>Wolverine</Player>
+    <LostExp>85109</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-07 20:54:19</Time>
+    <Location>(32006,31872,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
+    <Player>Wolverine</Player>
+    <LostExp>76598</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-07 20:54:19</Time>
+    <Location>(32006,31872,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>36</Rank>
     <Player>Nexteg</Player>
     <LostExp>69592</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -274,7 +290,7 @@
     <Location>(31980,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>37</Rank>
     <Player>Nexteg</Player>
     <LostExp>51197</LostExp>
     <KilledBy>Skeleton</KilledBy>
