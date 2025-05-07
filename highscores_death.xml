@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746612637537</GeneratedAt>
+  <GeneratedAt>1746612937538</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer </Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Nexteg</Player>
+    <LostExp>69592</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-05-07 12:14:16</Time>
+    <Location>(31980,32062,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Nexteg</Player>
     <LostExp>51197</LostExp>
     <KilledBy>Skeleton</KilledBy>
