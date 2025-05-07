@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746617137594</GeneratedAt>
+  <GeneratedAt>1746617437607</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer </Player>
@@ -132,13 +132,29 @@
   <DeathEvent>
     <Rank>17</Rank>
     <Player>Belzebugod</Player>
+    <LostExp>676634</LostExp>
+    <KilledBy>Horrornet</KilledBy>
+    <Time>2025-05-07 13:27:18</Time>
+    <Location>(32825,32002,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
+    <Player>Belzebugod</Player>
     <LostExp>663065</LostExp>
     <KilledBy>Redeath</KilledBy>
     <Time>2025-05-07 03:32:15</Time>
     <Location>(32875,31991,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
+    <Player>Giovani</Player>
+    <LostExp>292492</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-05-07 13:26:10</Time>
+    <Location>(31999,31950,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
     <Player>Xiuuking</Player>
     <LostExp>95079</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -146,7 +162,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>21</Rank>
     <Player>Xiuuking</Player>
     <LostExp>85571</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -154,7 +170,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>22</Rank>
     <Player>Nexteg</Player>
     <LostExp>69592</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -162,7 +178,7 @@
     <Location>(31980,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>23</Rank>
     <Player>Nexteg</Player>
     <LostExp>51197</LostExp>
     <KilledBy>Skeleton</KilledBy>
