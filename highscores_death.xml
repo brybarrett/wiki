@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746705041151</GeneratedAt>
+  <GeneratedAt>1746705341144</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -99,6 +99,30 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Giovani</Player>
+    <LostExp>370031</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-08 13:52:15</Time>
+    <Location>(31950,31876,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Giovani</Player>
+    <LostExp>370031</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-08 13:52:15</Time>
+    <Location>(31950,31876,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Giovani</Player>
+    <LostExp>370031</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-08 13:52:15</Time>
+    <Location>(31950,31876,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Salva</Player>
     <LostExp>0</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -106,7 +130,7 @@
     <Location>(32006,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>17</Rank>
     <Player>Salva</Player>
     <LostExp>0</LostExp>
     <KilledBy>Mummy</KilledBy>
@@ -114,7 +138,7 @@
     <Location>(32082,31896,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>18</Rank>
     <Player>Salva</Player>
     <LostExp>0</LostExp>
     <KilledBy>Mummy</KilledBy>
