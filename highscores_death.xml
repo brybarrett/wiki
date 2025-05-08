@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746681940923</GeneratedAt>
+  <GeneratedAt>1746682240934</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Urekmazino</Player>
+    <LostExp>55202370</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-05-08 07:28:04</Time>
+    <Location>(31809,31944,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Shizuka</Player>
     <LostExp>43427527</LostExp>
     <KilledBy>Tyrannix</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31791,31947,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Kirito</Player>
     <LostExp>19412823</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31934,31981,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Dark</Player>
     <LostExp>6424468</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31984,32067,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Jembuff</Player>
     <LostExp>571862</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31996,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Giovani</Player>
     <LostExp>515720</LostExp>
     <KilledBy>Mummy</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32075,31910,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Salva</Player>
     <LostExp>0</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32006,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Salva</Player>
     <LostExp>0</LostExp>
     <KilledBy>Mummy</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32082,31896,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Salva</Player>
     <LostExp>0</LostExp>
     <KilledBy>Mummy</KilledBy>
