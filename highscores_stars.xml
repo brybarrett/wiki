@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1746735641443</GeneratedAt>
+  <GeneratedAt>1746735941448</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -163,22 +163,22 @@
   </Player>
   <Player>
     <Rank>33</Rank>
-    <Name>Vulion</Name>
-    <StarsCollected>169</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>34</Rank>
     <Name>Kuro</Name>
     <StarsCollected>169</StarsCollected>
   </Player>
   <Player>
+    <Rank>34</Rank>
+    <Name>Vulion</Name>
+    <StarsCollected>169</StarsCollected>
+  </Player>
+  <Player>
     <Rank>35</Rank>
-    <Name>Digdin</Name>
+    <Name>Fearlock</Name>
     <StarsCollected>168</StarsCollected>
   </Player>
   <Player>
     <Rank>36</Rank>
-    <Name>Fearlock</Name>
+    <Name>Digdin</Name>
     <StarsCollected>168</StarsCollected>
   </Player>
   <Player>
@@ -233,12 +233,12 @@
   </Player>
   <Player>
     <Rank>47</Rank>
-    <Name>Hawkeyez</Name>
+    <Name>Kannisword</Name>
     <StarsCollected>153</StarsCollected>
   </Player>
   <Player>
     <Rank>48</Rank>
-    <Name>Kannisword</Name>
+    <Name>Hawkeyez</Name>
     <StarsCollected>153</StarsCollected>
   </Player>
   <Player>
@@ -368,17 +368,17 @@
   </Player>
   <Player>
     <Rank>74</Rank>
-    <Name>Jcl</Name>
-    <StarsCollected>125</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>75</Rank>
     <Name>Mineira</Name>
     <StarsCollected>125</StarsCollected>
   </Player>
   <Player>
-    <Rank>76</Rank>
+    <Rank>75</Rank>
     <Name>Khorhigee</Name>
+    <StarsCollected>125</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>76</Rank>
+    <Name>Jcl</Name>
     <StarsCollected>125</StarsCollected>
   </Player>
   <Player>
@@ -488,12 +488,12 @@
   </Player>
   <Player>
     <Rank>98</Rank>
-    <Name>Grimmie</Name>
+    <Name>Raven</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
     <Rank>99</Rank>
-    <Name>Raven</Name>
+    <Name>Grimmie</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
@@ -518,12 +518,12 @@
   </Player>
   <Player>
     <Rank>104</Rank>
-    <Name>Agentgalon</Name>
+    <Name>Blindao</Name>
     <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
     <Rank>105</Rank>
-    <Name>Blindao</Name>
+    <Name>Agentgalon</Name>
     <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
@@ -533,22 +533,22 @@
   </Player>
   <Player>
     <Rank>107</Rank>
-    <Name>Yukira</Name>
-    <StarsCollected>93</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>108</Rank>
     <Name>Moon</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
-    <Rank>109</Rank>
+    <Rank>108</Rank>
     <Name>Lordwolf</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
-    <Rank>110</Rank>
+    <Rank>109</Rank>
     <Name>Mires</Name>
+    <StarsCollected>93</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>110</Rank>
+    <Name>Yukira</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
@@ -573,12 +573,12 @@
   </Player>
   <Player>
     <Rank>115</Rank>
-    <Name>Yakoebom</Name>
+    <Name>Himmel</Name>
     <StarsCollected>89</StarsCollected>
   </Player>
   <Player>
     <Rank>116</Rank>
-    <Name>Himmel</Name>
+    <Name>Yakoebom</Name>
     <StarsCollected>89</StarsCollected>
   </Player>
   <Player>
@@ -608,22 +608,22 @@
   </Player>
   <Player>
     <Rank>122</Rank>
-    <Name>Durin</Name>
-    <StarsCollected>86</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>123</Rank>
     <Name>Mineiro</Name>
     <StarsCollected>86</StarsCollected>
   </Player>
   <Player>
-    <Rank>124</Rank>
+    <Rank>123</Rank>
     <Name>Bsmercy</Name>
     <StarsCollected>86</StarsCollected>
   </Player>
   <Player>
-    <Rank>125</Rank>
+    <Rank>124</Rank>
     <Name>Luskovis</Name>
+    <StarsCollected>86</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>125</Rank>
+    <Name>Durin</Name>
     <StarsCollected>86</StarsCollected>
   </Player>
   <Player>
@@ -638,7 +638,7 @@
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Sakura</Name>
+    <Name>Johnnywiz </Name>
     <StarsCollected>83</StarsCollected>
   </Player>
 </StarsHighscores>
