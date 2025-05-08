@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746663640746</GeneratedAt>
+  <GeneratedAt>1746663940743</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Dark</Player>
+    <LostExp>6424468</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-05-08 02:21:11</Time>
+    <Location>(31984,32067,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Jembuff</Player>
     <LostExp>571862</LostExp>
     <KilledBy>Skeleton</KilledBy>
