@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746679540894</GeneratedAt>
+  <GeneratedAt>1746679840900</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -56,5 +56,21 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-05-08 06:45:20</Time>
     <Location>(32006,31881,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Salva</Player>
+    <LostExp>0</LostExp>
+    <KilledBy>Mummy</KilledBy>
+    <Time>2025-05-08 06:46:49</Time>
+    <Location>(32082,31896,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Salva</Player>
+    <LostExp>0</LostExp>
+    <KilledBy>Mummy</KilledBy>
+    <Time>2025-05-08 06:48:00</Time>
+    <Location>(32083,31910,7)</Location>
   </DeathEvent>
 </DeathHighscores>
