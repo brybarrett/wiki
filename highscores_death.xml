@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746747336359</GeneratedAt>
+  <GeneratedAt>1746747636360</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panda</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Piraswiz</Player>
+    <LostExp>39905517</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-05-09 01:38:31</Time>
+    <Location>(31961,32254,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Dark</Player>
     <LostExp>6479546</LostExp>
     <KilledBy>Crystally</KilledBy>
