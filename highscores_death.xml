@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746745236375</GeneratedAt>
+  <GeneratedAt>1746745536333</GeneratedAt>
+  <DeathEvent>
+    <Rank>1</Rank>
+    <Player>Panda</Player>
+    <LostExp>55483096</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-05-09 01:01:15</Time>
+    <Location>(31798,31937,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Panda</Player>
+    <LostExp>55483096</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-05-09 01:01:15</Time>
+    <Location>(31798,31937,7)</Location>
+  </DeathEvent>
 </DeathHighscores>
