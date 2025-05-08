@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746708041186</GeneratedAt>
+  <GeneratedAt>1746708341189</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Magrela</Player>
+    <LostExp>4255556</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-05-08 14:41:38</Time>
+    <Location>(32872,31969,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Jembuff</Player>
     <LostExp>571862</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31996,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Gaspazinho</Player>
     <LostExp>542650</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31908,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Giovani</Player>
     <LostExp>529060</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32789,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Giovani</Player>
     <LostExp>515720</LostExp>
     <KilledBy>Mummy</KilledBy>
@@ -106,20 +114,12 @@
     <Location>(32075,31910,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Giovani</Player>
     <LostExp>476359</LostExp>
     <KilledBy>Wisper</KilledBy>
     <Time>2025-05-08 13:10:19</Time>
     <Location>(31897,31934,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>15</Rank>
-    <Player>Giovani</Player>
-    <LostExp>370031</LostExp>
-    <KilledBy>Orc Leader</KilledBy>
-    <Time>2025-05-08 13:52:15</Time>
-    <Location>(31950,31876,9)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
@@ -140,13 +140,21 @@
   <DeathEvent>
     <Rank>18</Rank>
     <Player>Giovani</Player>
+    <LostExp>370031</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-08 13:52:15</Time>
+    <Location>(31950,31876,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Giovani</Player>
     <LostExp>166514</LostExp>
     <KilledBy>Wisper</KilledBy>
     <Time>2025-05-08 14:04:32</Time>
     <Location>(31871,31939,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Salva</Player>
     <LostExp>0</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32006,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Salva</Player>
     <LostExp>0</LostExp>
     <KilledBy>Mummy</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32082,31896,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Salva</Player>
     <LostExp>0</LostExp>
     <KilledBy>Mummy</KilledBy>
