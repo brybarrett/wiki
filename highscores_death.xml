@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746763536515</GeneratedAt>
+  <GeneratedAt>1746763836518</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Vathar</Player>
@@ -104,5 +104,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-05-09 03:06:46</Time>
     <Location>(31994,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Manyfaces</Player>
+    <LostExp>897</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2025-05-09 06:07:35</Time>
+    <Location>(31863,32046,9)</Location>
   </DeathEvent>
 </DeathHighscores>
