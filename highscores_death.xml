@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746753336414</GeneratedAt>
+  <GeneratedAt>1746753636416</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Vathar</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Hero</Player>
+    <LostExp>18292266</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-05-09 03:18:14</Time>
+    <Location>(32042,31798,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Dark</Player>
     <LostExp>6479546</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32025,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Joewiz</Player>
     <LostExp>423908</LostExp>
     <KilledBy>Skeleton</KilledBy>
