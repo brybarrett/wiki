@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746795636838</GeneratedAt>
+  <GeneratedAt>1746795936834</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mineira</Player>
@@ -171,6 +171,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>22</Rank>
+    <Player>Joe</Player>
+    <LostExp>934263</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-05-09 15:05:34</Time>
+    <Location>(32024,32294,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
     <Player>Punipun</Player>
     <LostExp>710040</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32870,31969,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Joewiz</Player>
     <LostExp>423908</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31994,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Ghoul</Player>
     <LostExp>375072</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32007,31872,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Giovani</Player>
     <LostExp>365327</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32016,31938,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Manyfaces</Player>
     <LostExp>25866</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31984,31909,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Manyfaces</Player>
     <LostExp>17401</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31995,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Manyfaces</Player>
     <LostExp>897</LostExp>
     <KilledBy>Scorpiant</KilledBy>
