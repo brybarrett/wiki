@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746764736515</GeneratedAt>
+  <GeneratedAt>1746765036527</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Vathar</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Ghoul</Player>
+    <LostExp>375072</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-09 06:28:02</Time>
+    <Location>(32007,31872,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Manyfaces</Player>
     <LostExp>897</LostExp>
     <KilledBy>Scorpiant</KilledBy>
