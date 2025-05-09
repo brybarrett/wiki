@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746834640072</GeneratedAt>
+  <GeneratedAt>1746834940081</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yakoeruim</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Minorrior</KilledBy>
     <Time>2025-05-10 01:01:47</Time>
     <Location>(31921,31975,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Manyfaces</Player>
+    <LostExp>24154</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2025-05-10 01:51:29</Time>
+    <Location>(31869,32052,9)</Location>
   </DeathEvent>
 </DeathHighscores>
