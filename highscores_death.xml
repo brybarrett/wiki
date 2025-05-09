@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746752736406</GeneratedAt>
+  <GeneratedAt>1746753036407</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Vathar</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Crystally</KilledBy>
     <Time>2025-05-09 01:20:13</Time>
     <Location>(32025,31814,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Joewiz</Player>
+    <LostExp>423908</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-05-09 03:06:46</Time>
+    <Location>(31994,32046,8)</Location>
   </DeathEvent>
 </DeathHighscores>
