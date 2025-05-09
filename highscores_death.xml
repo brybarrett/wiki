@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746748836360</GeneratedAt>
+  <GeneratedAt>1746749136366</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
-    <Player>Panda</Player>
-    <LostExp>55483096</LostExp>
-    <KilledBy>Ninjana</KilledBy>
-    <Time>2025-05-09 01:01:15</Time>
-    <Location>(31798,31937,7)</Location>
+    <Player>Vathar</Player>
+    <LostExp>76649556</LostExp>
+    <KilledBy>Omadara</KilledBy>
+    <Time>2025-05-09 02:05:21</Time>
+    <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Panda</Player>
+    <LostExp>55483096</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-05-09 01:01:15</Time>
+    <Location>(31798,31937,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Piraswiz</Player>
     <LostExp>39905517</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31961,32254,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Dark</Player>
     <LostExp>6479546</LostExp>
     <KilledBy>Crystally</KilledBy>
