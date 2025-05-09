@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746753936413</GeneratedAt>
+  <GeneratedAt>1746754236415</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Vathar</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Magrela</Player>
+    <LostExp>3861042</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-05-09 03:29:57</Time>
+    <Location>(32873,31989,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Joewiz</Player>
     <LostExp>423908</LostExp>
     <KilledBy>Skeleton</KilledBy>
