@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746759336467</GeneratedAt>
+  <GeneratedAt>1746759636475</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Vathar</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Zin</Player>
+    <LostExp>1873387</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-09 05:00:19</Time>
+    <Location>(31898,31989,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Joewiz</Player>
     <LostExp>423908</LostExp>
     <KilledBy>Skeleton</KilledBy>
