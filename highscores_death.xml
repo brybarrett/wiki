@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746755136439</GeneratedAt>
+  <GeneratedAt>1746755436433</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Vathar</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Dressrossa</Player>
+    <LostExp>24542811</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-05-09 03:45:43</Time>
+    <Location>(31792,31956,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Hero</Player>
     <LostExp>18292266</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32042,31798,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Dark</Player>
     <LostExp>6479546</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32025,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Manis</Player>
     <LostExp>5740766</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32020,32193,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Magrela</Player>
     <LostExp>3861042</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32873,31989,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Joewiz</Player>
     <LostExp>423908</LostExp>
     <KilledBy>Skeleton</KilledBy>
