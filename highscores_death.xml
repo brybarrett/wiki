@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746848140204</GeneratedAt>
+  <GeneratedAt>1746848440206</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Punipun</Player>
+    <LostExp>1298003</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-10 05:39:11</Time>
+    <Location>(31898,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Yakoeruim</Player>
     <LostExp>506483</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31921,31975,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Manyfaces</Player>
     <LostExp>35469</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32009,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Manyfaces</Player>
     <LostExp>35032</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32006,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Manyfaces</Player>
     <LostExp>25894</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31869,32052,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Manyfaces</Player>
     <LostExp>24154</LostExp>
     <KilledBy>Scorpiant</KilledBy>
