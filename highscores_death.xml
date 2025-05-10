@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746911606742</GeneratedAt>
+  <GeneratedAt>1746911906729</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -100,13 +100,21 @@
   <DeathEvent>
     <Rank>13</Rank>
     <Player>Rainy</Player>
+    <LostExp>62202</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-05-10 23:17:31</Time>
+    <Location>(32000,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Rainy</Player>
     <LostExp>59790</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-05-10 22:15:09</Time>
     <Location>(31876,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Rainy</Player>
     <LostExp>41185</LostExp>
     <KilledBy>Bragnak</KilledBy>
