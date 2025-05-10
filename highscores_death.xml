@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746908306699</GeneratedAt>
+  <GeneratedAt>1746908606696</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Yakoeruim</Player>
+    <LostExp>789825</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-05-10 22:21:42</Time>
+    <Location>(32063,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Rafinha</Player>
     <LostExp>519463</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32003,32038,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Jesian</Player>
     <LostExp>276263</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32015,31865,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Rainy</Player>
     <LostExp>59790</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31876,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Rainy</Player>
     <LostExp>41185</LostExp>
     <KilledBy>Bragnak</KilledBy>
