@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746902606639</GeneratedAt>
+  <GeneratedAt>1746902906639</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Giovani</Player>
+    <LostExp>875322</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-10 20:46:02</Time>
+    <Location>(31896,31989,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Rafinha</Player>
     <LostExp>519463</LostExp>
     <KilledBy>Skeleguard</KilledBy>
