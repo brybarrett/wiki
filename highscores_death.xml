@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746905606667</GeneratedAt>
+  <GeneratedAt>1746905906668</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -56,5 +56,21 @@
     <KilledBy>Skeleguard</KilledBy>
     <Time>2025-05-10 18:18:07</Time>
     <Location>(32003,32038,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Jesian</Player>
+    <LostExp>276263</LostExp>
+    <KilledBy>Bragnak</KilledBy>
+    <Time>2025-05-10 21:37:42</Time>
+    <Location>(32015,31865,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Rainy</Player>
+    <LostExp>41185</LostExp>
+    <KilledBy>Bragnak</KilledBy>
+    <Time>2025-05-10 21:37:51</Time>
+    <Location>(32016,31866,11)</Location>
   </DeathEvent>
 </DeathHighscores>
