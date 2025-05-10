@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746901106632</GeneratedAt>
+  <GeneratedAt>1746901406634</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Srlira</Player>
+    <LostExp>115748194</LostExp>
+    <KilledBy>Hamura</KilledBy>
+    <Time>2025-05-10 20:23:12</Time>
+    <Location>(31893,31933,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Mtzera</Player>
     <LostExp>2529610</LostExp>
     <KilledBy>Horrornet</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32783,31981,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Rafinha</Player>
     <LostExp>519463</LostExp>
     <KilledBy>Skeleguard</KilledBy>
