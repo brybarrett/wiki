@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746839140120</GeneratedAt>
+  <GeneratedAt>1746839440120</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yakoeruim</Player>
@@ -12,13 +12,21 @@
   <DeathEvent>
     <Rank>2</Rank>
     <Player>Manyfaces</Player>
+    <LostExp>35469</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-10 03:07:07</Time>
+    <Location>(32009,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Manyfaces</Player>
     <LostExp>35032</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-05-10 02:55:06</Time>
     <Location>(32006,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Manyfaces</Player>
     <LostExp>25894</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31869,32052,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Manyfaces</Player>
     <LostExp>24154</LostExp>
     <KilledBy>Scorpiant</KilledBy>
