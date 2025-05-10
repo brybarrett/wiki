@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746908906698</GeneratedAt>
+  <GeneratedAt>1746909206710</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Madara</Player>
+    <LostExp>283890368</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-05-10 22:31:36</Time>
+    <Location>(31999,32236,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Hellwilzz</Player>
     <LostExp>243484149</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31999,32255,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Killerwiz</Player>
     <LostExp>179886960</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32013,32234,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Srlira</Player>
     <LostExp>115748194</LostExp>
     <KilledBy>Hamura</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31893,31933,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Khersek</Player>
     <LostExp>23236251</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32000,32205,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Mtzera</Player>
     <LostExp>2529610</LostExp>
     <KilledBy>Horrornet</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32783,31981,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Zin</Player>
     <LostExp>2152529</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32829,32037,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Giovani</Player>
     <LostExp>875322</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31896,31989,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Yakoeruim</Player>
     <LostExp>789825</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32063,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Rafinha</Player>
     <LostExp>519463</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32003,32038,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Jesian</Player>
     <LostExp>276263</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32015,31865,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Rainy</Player>
     <LostExp>59790</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31876,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Rainy</Player>
     <LostExp>41185</LostExp>
     <KilledBy>Bragnak</KilledBy>
