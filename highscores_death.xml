@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746920147141</GeneratedAt>
+  <GeneratedAt>1746920447148</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Rafinha</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-05-11 01:32:58</Time>
     <Location>(31879,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Rainy</Player>
+    <LostExp>55722</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-05-11 01:39:37</Time>
+    <Location>(31989,32046,8)</Location>
   </DeathEvent>
 </DeathHighscores>
