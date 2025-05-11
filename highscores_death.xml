@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746922547174</GeneratedAt>
+  <GeneratedAt>1746922847178</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Willmk</Player>
+    <LostExp>134436996</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-05-11 02:19:34</Time>
+    <Location>(32008,32214,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Bsmercy</Player>
     <LostExp>77712921</LostExp>
     <KilledBy>Pancernik</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31779,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Masterwiz</Player>
     <LostExp>27472376</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31784,31958,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Pierre</Player>
     <LostExp>9912568</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31784,31954,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Giovani</Player>
     <LostExp>1021682</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31971,32271,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Rafinha</Player>
     <LostExp>646205</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31970,32261,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Rainy</Player>
     <LostExp>76863</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32001,32030,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Rainy</Player>
     <LostExp>74861</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31884,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Rainy</Player>
     <LostExp>67514</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31880,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Rainy</Player>
     <LostExp>61450</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32035,31973,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Rainy</Player>
     <LostExp>61424</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31879,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Rainy</Player>
     <LostExp>55722</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31989,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Zedris</Player>
     <LostExp>28954</LostExp>
     <KilledBy>Treant</KilledBy>
