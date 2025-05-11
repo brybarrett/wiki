@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747006237484</GeneratedAt>
+  <GeneratedAt>1747006537478</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Chaombie</KilledBy>
     <Time>2025-05-12 01:30:02</Time>
     <Location>(31948,32233,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Punipun</Player>
+    <LostExp>2643081</LostExp>
+    <KilledBy>Gigantula</KilledBy>
+    <Time>2025-05-12 01:31:10</Time>
+    <Location>(32922,32045,8)</Location>
   </DeathEvent>
 </DeathHighscores>
