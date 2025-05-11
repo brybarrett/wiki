@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746985532723</GeneratedAt>
+  <GeneratedAt>1746985832742</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sunrako</Player>
@@ -64,5 +64,13 @@
     <KilledBy>Orc Raider</KilledBy>
     <Time>2025-05-11 18:16:24</Time>
     <Location>(31944,31857,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Arturzin</Player>
+    <LostExp>530</LostExp>
+    <KilledBy>Spider</KilledBy>
+    <Time>2025-05-11 19:48:05</Time>
+    <Location>(31939,31935,9)</Location>
   </DeathEvent>
 </DeathHighscores>
