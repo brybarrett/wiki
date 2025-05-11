@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746968654029</GeneratedAt>
+  <GeneratedAt>1746968954043</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Hellwizz</Player>
+    <LostExp>741948676</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-05-11 15:07:18</Time>
+    <Location>(31951,32265,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Rafinha</Player>
     <LostExp>607313</LostExp>
     <KilledBy>Assasin</KilledBy>
