@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746975554098</GeneratedAt>
+  <GeneratedAt>1746975854098</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwizz</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Srlira</Player>
+    <LostExp>220767172</LostExp>
+    <KilledBy>Abominatio</KilledBy>
+    <Time>2025-05-11 17:00:07</Time>
+    <Location>(32501,32457,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Vulion</Player>
     <LostExp>113450575</LostExp>
     <KilledBy>Tazmania</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32529,32442,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Zahard</Player>
     <LostExp>81257966</LostExp>
     <KilledBy>Pancernik</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31909,31848,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Punipun</Player>
     <LostExp>2418203</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32866,31967,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Yakoeruim</Player>
     <LostExp>1092971</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -50,7 +58,15 @@
     <Location>(31944,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
+    <Player>Joewiz</Player>
+    <LostExp>829248</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2025-05-11 17:00:23</Time>
+    <Location>(31929,32021,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Rafinha</Player>
     <LostExp>607313</LostExp>
     <KilledBy>Assasin</KilledBy>
