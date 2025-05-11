@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746979232661</GeneratedAt>
+  <GeneratedAt>1746979532666</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killermgic</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Ekzim</Player>
+    <LostExp>8678589</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-11 18:03:19</Time>
+    <Location>(32032,32266,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Kelavan</Player>
     <LostExp>3217859</LostExp>
     <KilledBy>Frostily</KilledBy>
