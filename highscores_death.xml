@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747001132884</GeneratedAt>
+  <GeneratedAt>1747001432887</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Dinho </Player>
+    <LostExp>30853439</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-05-12 00:07:45</Time>
+    <Location>(31973,32225,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Sunrako</Player>
     <LostExp>27976825</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31944,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Killermgic</Player>
     <LostExp>20293354</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31900,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Rei</Player>
     <LostExp>16487040</LostExp>
     <KilledBy>Blindada</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Brokazee</Player>
     <LostExp>10581831</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31866,32060,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Ekzim</Player>
     <LostExp>8678589</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32032,32266,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Kelavan</Player>
     <LostExp>3217859</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32020,31805,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Zin</Player>
     <LostExp>2578856</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32861,31983,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Bonilha</Player>
     <LostExp>1162698</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31981,32066,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Yakoeruim</Player>
     <LostExp>1128254</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31944,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Rainy</Player>
     <LostExp>221501</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31913,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Rainy</Player>
     <LostExp>74235</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32015,31865,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Arturzin</Player>
     <LostExp>17559</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32029,31971,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Arturzin</Player>
     <LostExp>16401</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31993,31857,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Arturzin</Player>
     <LostExp>14761</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31982,31900,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Cascadeba</Player>
     <LostExp>11293</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31940,32073,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Arturzin</Player>
     <LostExp>530</LostExp>
     <KilledBy>Spider</KilledBy>
