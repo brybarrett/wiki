@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746980132670</GeneratedAt>
+  <GeneratedAt>1746980432686</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killermgic</Player>
@@ -32,5 +32,21 @@
     <KilledBy>Frostily</KilledBy>
     <Time>2025-05-11 17:43:05</Time>
     <Location>(32020,31805,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Zin</Player>
+    <LostExp>2578856</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-05-11 18:20:23</Time>
+    <Location>(32861,31983,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Yakoeruim</Player>
+    <LostExp>1128254</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-05-11 18:16:24</Time>
+    <Location>(31944,31857,10)</Location>
   </DeathEvent>
 </DeathHighscores>
