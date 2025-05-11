@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746982832704</GeneratedAt>
+  <GeneratedAt>1746983132700</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sunrako</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Bonilha</Player>
+    <LostExp>1162698</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-05-11 19:00:43</Time>
+    <Location>(31981,32066,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Yakoeruim</Player>
     <LostExp>1128254</LostExp>
     <KilledBy>Orc Raider</KilledBy>
