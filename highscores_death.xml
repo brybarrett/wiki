@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746969554032</GeneratedAt>
+  <GeneratedAt>1746969854039</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwizz</Player>
@@ -11,6 +11,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Killer </Player>
+    <LostExp>481648033</LostExp>
+    <KilledBy>Pancernik</KilledBy>
+    <Time>2025-05-11 15:22:50</Time>
+    <Location>(31909,31851,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Vulion</Player>
+    <LostExp>113450575</LostExp>
+    <KilledBy>Tazmania</KilledBy>
+    <Time>2025-05-11 15:20:57</Time>
+    <Location>(32529,32442,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Zahard</Player>
     <LostExp>81257966</LostExp>
     <KilledBy>Pancernik</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(31909,31848,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Rafinha</Player>
     <LostExp>607313</LostExp>
     <KilledBy>Assasin</KilledBy>
