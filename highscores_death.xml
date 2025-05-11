@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746975254092</GeneratedAt>
+  <GeneratedAt>1746975554098</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwizz</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Yakoeruim</Player>
+    <LostExp>1092971</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-05-11 16:58:20</Time>
+    <Location>(31944,31857,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Rafinha</Player>
     <LostExp>607313</LostExp>
     <KilledBy>Assasin</KilledBy>
