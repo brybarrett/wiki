@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1746971954062</GeneratedAt>
+  <GeneratedAt>1746972254074</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwizz</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Punipun</Player>
+    <LostExp>2418203</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-05-11 16:03:06</Time>
+    <Location>(32866,31967,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Rafinha</Player>
     <LostExp>607313</LostExp>
     <KilledBy>Assasin</KilledBy>
