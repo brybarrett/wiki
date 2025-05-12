@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747020637617</GeneratedAt>
+  <GeneratedAt>1747020937618</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -44,13 +44,21 @@
   <DeathEvent>
     <Rank>6</Rank>
     <Player>Punipun</Player>
+    <LostExp>2872266</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2025-05-12 05:30:58</Time>
+    <Location>(31949,32013,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Punipun</Player>
     <LostExp>2643081</LostExp>
     <KilledBy>Gigantula</KilledBy>
     <Time>2025-05-12 01:31:10</Time>
     <Location>(32922,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Rafinha</Player>
     <LostExp>646766</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Rafinha</Player>
     <LostExp>582912</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31968,32261,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Renansz</Player>
     <LostExp>22505</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Renansz</Player>
     <LostExp>863</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31979,31871,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Renansz</Player>
     <LostExp>695</LostExp>
     <KilledBy>Apprentice</KilledBy>
