@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747071038108</GeneratedAt>
+  <GeneratedAt>1747071338116</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -228,13 +228,21 @@
   <DeathEvent>
     <Rank>29</Rank>
     <Player>Stopa</Player>
+    <LostExp>176101</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-05-12 19:35:01</Time>
+    <Location>(32038,31960,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
+    <Player>Stopa</Player>
     <LostExp>167973</LostExp>
     <KilledBy>Bloodfly</KilledBy>
     <Time>2025-05-12 05:43:56</Time>
     <Location>(31953,31960,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Renansz</Player>
     <LostExp>22505</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Saciizeiro</Player>
     <LostExp>2818</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(31982,31904,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Renansz</Player>
     <LostExp>863</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31979,31871,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Renansz</Player>
     <LostExp>695</LostExp>
     <KilledBy>Apprentice</KilledBy>
