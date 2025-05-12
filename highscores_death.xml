@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747068338081</GeneratedAt>
+  <GeneratedAt>1747068638094</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Dark</Player>
+    <LostExp>16998075</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-05-12 18:48:48</Time>
+    <Location>(32044,31799,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Nenawiz</Player>
     <LostExp>14042732</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32024,31882,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Ket</Player>
     <LostExp>12835904</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31785,31943,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Yakoeruim</Player>
     <LostExp>3669225</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31945,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Zin</Player>
     <LostExp>3187886</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31876,32017,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Punipun</Player>
     <LostExp>2872266</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31949,32013,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Punipun</Player>
     <LostExp>2801591</LostExp>
     <KilledBy>Leechacle</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32778,31985,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Punipun</Player>
     <LostExp>2721148</LostExp>
     <KilledBy>Crysmantis</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32841,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Punipun</Player>
     <LostExp>2643081</LostExp>
     <KilledBy>Gigantula</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32922,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Punipun</Player>
     <LostExp>2555314</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31949,32013,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Punipun</Player>
     <LostExp>2451260</LostExp>
     <KilledBy>Crysmantis</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32813,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Punipun</Player>
     <LostExp>2242821</LostExp>
     <KilledBy>Leechacle</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32813,31988,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Giovani</Player>
     <LostExp>1864518</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31889,32025,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Sxgabrielx</Player>
     <LostExp>1845995</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31880,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Bonilha</Player>
     <LostExp>1258078</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32026,32277,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Bonilha</Player>
     <LostExp>1134727</LostExp>
     <KilledBy>Long</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32019,32287,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Joe</Player>
     <LostExp>1077300</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31960,32019,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Rafinha</Player>
     <LostExp>646766</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Rafinha</Player>
     <LostExp>582912</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31968,32261,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Stopa</Player>
     <LostExp>167973</LostExp>
     <KilledBy>Bloodfly</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31953,31960,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Renansz</Player>
     <LostExp>22505</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Renansz</Player>
     <LostExp>863</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31979,31871,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Renansz</Player>
     <LostExp>695</LostExp>
     <KilledBy>Apprentice</KilledBy>
