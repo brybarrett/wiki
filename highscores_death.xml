@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747008337502</GeneratedAt>
+  <GeneratedAt>1747008637503</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -24,5 +24,13 @@
     <KilledBy>Gigantula</KilledBy>
     <Time>2025-05-12 01:31:10</Time>
     <Location>(32922,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Renansz</Player>
+    <LostExp>695</LostExp>
+    <KilledBy>Apprentice</KilledBy>
+    <Time>2025-05-12 02:08:11</Time>
+    <Location>(31992,31993,9)</Location>
   </DeathEvent>
 </DeathHighscores>
