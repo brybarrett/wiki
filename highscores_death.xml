@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747013737559</GeneratedAt>
+  <GeneratedAt>1747014037546</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -68,13 +68,21 @@
   <DeathEvent>
     <Rank>9</Rank>
     <Player>Renansz</Player>
+    <LostExp>22505</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-05-12 03:37:49</Time>
+    <Location>(31990,32013,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Renansz</Player>
     <LostExp>863</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-05-12 02:15:44</Time>
     <Location>(31979,31871,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Renansz</Player>
     <LostExp>695</LostExp>
     <KilledBy>Apprentice</KilledBy>
