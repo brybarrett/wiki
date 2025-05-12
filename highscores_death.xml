@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747008637503</GeneratedAt>
+  <GeneratedAt>1747008937507</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Kannizinha</Player>
+    <LostExp>65959442</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-05-12 02:14:51</Time>
+    <Location>(31948,32286,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Nenawiz</Player>
     <LostExp>14042732</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32024,31882,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Punipun</Player>
     <LostExp>2643081</LostExp>
     <KilledBy>Gigantula</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32922,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Renansz</Player>
     <LostExp>695</LostExp>
     <KilledBy>Apprentice</KilledBy>
