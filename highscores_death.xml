@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747084538188</GeneratedAt>
+  <GeneratedAt>1747084838200</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -268,13 +268,21 @@
   <DeathEvent>
     <Rank>34</Rank>
     <Player>Stopa</Player>
+    <LostExp>233889</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-05-12 23:18:30</Time>
+    <Location>(31995,31909,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
+    <Player>Stopa</Player>
     <LostExp>176101</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
     <Time>2025-05-12 19:35:01</Time>
     <Location>(32038,31960,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Stopa</Player>
     <LostExp>167973</LostExp>
     <KilledBy>Bloodfly</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31953,31960,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Arturzin</Player>
     <LostExp>104992</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(31954,31851,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Renansz</Player>
     <LostExp>22505</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Saciizeiro</Player>
     <LostExp>4266</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31982,31919,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Saciizeiro</Player>
     <LostExp>2818</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31982,31904,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Renansz</Player>
     <LostExp>863</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31979,31871,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Renansz</Player>
     <LostExp>695</LostExp>
     <KilledBy>Apprentice</KilledBy>
