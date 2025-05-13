@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747104639485</GeneratedAt>
+  <GeneratedAt>1747104939489</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brisadeira</Player>
@@ -116,13 +116,21 @@
   <DeathEvent>
     <Rank>15</Rank>
     <Player>Renansz</Player>
+    <LostExp>265860</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-13 04:51:41</Time>
+    <Location>(31884,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Renansz</Player>
     <LostExp>38590</LostExp>
     <KilledBy>The Bug</KilledBy>
     <Time>2025-05-13 01:11:05</Time>
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Cascadeba</Player>
     <LostExp>30746</LostExp>
     <KilledBy>Scorpion</KilledBy>
