@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747095939410</GeneratedAt>
+  <GeneratedAt>1747096239403</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dark</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Punipun</Player>
+    <LostExp>2657879</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2025-05-13 02:28:51</Time>
+    <Location>(31948,32012,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Renansz</Player>
     <LostExp>38590</LostExp>
     <KilledBy>The Bug</KilledBy>
