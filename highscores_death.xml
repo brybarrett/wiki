@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747134939805</GeneratedAt>
+  <GeneratedAt>1747135239803</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nule</Player>
@@ -163,6 +163,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>21</Rank>
+    <Player>Joewiz</Player>
+    <LostExp>1074074</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-05-13 13:20:14</Time>
+    <Location>(32025,32274,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
     <Player>Joe</Player>
     <LostExp>970232</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31955,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Joe</Player>
     <LostExp>875021</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31959,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Nandimbr</Player>
     <LostExp>609471</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32021,31864,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Mikazee</Player>
     <LostExp>289644</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31864,32050,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Renansz</Player>
     <LostExp>265860</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31884,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Renansz</Player>
     <LostExp>38590</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Cascadeba</Player>
     <LostExp>30746</LostExp>
     <KilledBy>Scorpion</KilledBy>
