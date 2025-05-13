@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747112139580</GeneratedAt>
+  <GeneratedAt>1747112439573</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nule</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Manis</Player>
+    <LostExp>4618831</LostExp>
+    <KilledBy>Dreadtide</KilledBy>
+    <Time>2025-05-13 06:57:33</Time>
+    <Location>(31842,32112,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Magrela </Player>
     <LostExp>3669053</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32876,31995,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Punipun</Player>
     <LostExp>2657879</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31948,32012,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Bonilha</Player>
     <LostExp>1561134</LostExp>
     <KilledBy>Ghostsin</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32045,31796,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Bonilha</Player>
     <LostExp>1440764</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -114,20 +122,12 @@
     <Location>(32008,31882,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Bonilha</Player>
     <LostExp>1309373</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-05-13 04:49:31</Time>
     <Location>(32003,31871,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>16</Rank>
-    <Player>Joewiz</Player>
-    <LostExp>1172675</LostExp>
-    <KilledBy>Bantinel</KilledBy>
-    <Time>2025-05-13 05:19:47</Time>
-    <Location>(31929,32021,11)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
@@ -140,13 +140,21 @@
   <DeathEvent>
     <Rank>18</Rank>
     <Player>Joewiz</Player>
+    <LostExp>1172675</LostExp>
+    <KilledBy>Bantinel</KilledBy>
+    <Time>2025-05-13 05:19:47</Time>
+    <Location>(31929,32021,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Joewiz</Player>
     <LostExp>1098618</LostExp>
     <KilledBy>Terrorbird</KilledBy>
     <Time>2025-05-13 03:17:56</Time>
     <Location>(31949,32013,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Joe</Player>
     <LostExp>970232</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31955,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Joe</Player>
     <LostExp>875021</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31959,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Mikazee</Player>
     <LostExp>289644</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31864,32050,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Renansz</Player>
     <LostExp>265860</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31884,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Renansz</Player>
     <LostExp>38590</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Cascadeba</Player>
     <LostExp>30746</LostExp>
     <KilledBy>Scorpion</KilledBy>
