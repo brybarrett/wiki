@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747170340159</GeneratedAt>
+  <GeneratedAt>1747170640162</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Victorwiz</Player>
@@ -292,13 +292,21 @@
   <DeathEvent>
     <Rank>37</Rank>
     <Player>Yakoefeio</Player>
+    <LostExp>447109</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-13 23:09:22</Time>
+    <Location>(32014,31881,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>38</Rank>
+    <Player>Yakoefeio</Player>
     <LostExp>441185</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
     <Time>2025-05-13 22:09:24</Time>
     <Location>(32042,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Mikazee</Player>
     <LostExp>289644</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31864,32050,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Yakoefeio</Player>
     <LostExp>270429</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(32007,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Renansz</Player>
     <LostExp>265860</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31884,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Renansz</Player>
     <LostExp>38590</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Cascadeba</Player>
     <LostExp>30746</LostExp>
     <KilledBy>Scorpion</KilledBy>
