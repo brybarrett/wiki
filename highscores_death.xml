@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747179942378</GeneratedAt>
+  <GeneratedAt>1747180242386</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Pierre</Player>
+    <LostExp>18834572</LostExp>
+    <KilledBy>(Others)</KilledBy>
+    <Time>2025-05-14 01:46:05</Time>
+    <Location>(31793,31909,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Bonilha</Player>
     <LostExp>1527855</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32043,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Rafinha</Player>
     <LostExp>605490</LostExp>
     <KilledBy>Dragon</KilledBy>
