@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747095339400</GeneratedAt>
+  <GeneratedAt>1747095639402</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
-    <Player>Yakoeruim</Player>
-    <LostExp>5075512</LostExp>
-    <KilledBy>Orc Raider</KilledBy>
-    <Time>2025-05-13 02:12:11</Time>
-    <Location>(31943,31857,10)</Location>
+    <Player>Dark</Player>
+    <LostExp>16790664</LostExp>
+    <KilledBy>Alzeta</KilledBy>
+    <Time>2025-05-13 02:16:21</Time>
+    <Location>(31787,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Yakoeruim</Player>
+    <LostExp>5075512</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-05-13 02:12:11</Time>
+    <Location>(31943,31857,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Renansz</Player>
     <LostExp>38590</LostExp>
     <KilledBy>The Bug</KilledBy>
