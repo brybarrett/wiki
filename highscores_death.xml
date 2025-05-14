@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747242943013</GeneratedAt>
+  <GeneratedAt>1747243243024</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Willmk</Player>
@@ -235,6 +235,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>30</Rank>
+    <Player>Cochiloafk</Player>
+    <LostExp>108475</LostExp>
+    <KilledBy>Archvampir</KilledBy>
+    <Time>2025-05-14 19:17:33</Time>
+    <Location>(32727,32276,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>31</Rank>
     <Player>Itachii</Player>
     <LostExp>105341</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31917,32009,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Itachii</Player>
     <LostExp>68320</LostExp>
     <KilledBy>Tarantula</KilledBy>
