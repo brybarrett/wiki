@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747202742627</GeneratedAt>
+  <GeneratedAt>1747203042627</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -96,5 +96,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-05-14 02:11:25</Time>
     <Location>(32008,31883,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>Itachii</Player>
+    <LostExp>68320</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-05-14 08:08:08</Time>
+    <Location>(31879,31910,8)</Location>
   </DeathEvent>
 </DeathHighscores>
