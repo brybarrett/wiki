@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747241442999</GeneratedAt>
+  <GeneratedAt>1747241743007</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Willmk</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Ket</Player>
+    <LostExp>13634074</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-05-14 18:50:43</Time>
+    <Location>(32008,32189,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Manis</Player>
     <LostExp>8054230</LostExp>
     <KilledBy>Dreadtide</KilledBy>
@@ -122,20 +130,12 @@
     <Location>(31842,32112,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Manis</Player>
     <LostExp>7651522</LostExp>
     <KilledBy>Ghostnon</KilledBy>
     <Time>2025-05-14 10:01:20</Time>
     <Location>(32043,31803,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>17</Rank>
-    <Player>Blueice</Player>
-    <LostExp>2738884</LostExp>
-    <KilledBy>Warden</KilledBy>
-    <Time>2025-05-14 16:50:27</Time>
-    <Location>(32051,31913,9)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
@@ -147,6 +147,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>19</Rank>
+    <Player>Blueice</Player>
+    <LostExp>2738884</LostExp>
+    <KilledBy>Warden</KilledBy>
+    <Time>2025-05-14 16:50:27</Time>
+    <Location>(32051,31913,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
     <Player>Bonilha</Player>
     <LostExp>1527855</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32043,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Joe</Player>
     <LostExp>890910</LostExp>
     <KilledBy>Long</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32023,32278,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Yakoefeio</Player>
     <LostExp>857918</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32008,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Rafinha</Player>
     <LostExp>605490</LostExp>
     <KilledBy>Dragon</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31906,31954,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Yakoelindo</Player>
     <LostExp>507049</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Psychowar</Player>
     <LostExp>268298</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31989,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Arturzin</Player>
     <LostExp>226896</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31881,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Arturzin</Player>
     <LostExp>207934</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31881,31906,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Itachii</Player>
     <LostExp>117357</LostExp>
     <KilledBy>The Fanatic</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31917,32011,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Itachii</Player>
     <LostExp>116808</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31920,32011,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Itachii</Player>
     <LostExp>105341</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31917,32009,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Itachii</Player>
     <LostExp>68320</LostExp>
     <KilledBy>Tarantula</KilledBy>
