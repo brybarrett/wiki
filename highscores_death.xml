@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747265738771</GeneratedAt>
+  <GeneratedAt>1747266038778</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Destino</Player>
@@ -24,5 +24,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-05-15 01:28:55</Time>
     <Location>(32012,31880,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Magrinpjl</Player>
+    <LostExp>46521</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-15 01:39:16</Time>
+    <Location>(32009,31877,8)</Location>
   </DeathEvent>
 </DeathHighscores>
