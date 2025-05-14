@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747233042921</GeneratedAt>
+  <GeneratedAt>1747233342940</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Willmk</Player>
@@ -171,6 +171,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>22</Rank>
+    <Player>Psychowar</Player>
+    <LostExp>268298</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-05-14 16:31:25</Time>
+    <Location>(31989,32059,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
     <Player>Itachii</Player>
     <LostExp>117357</LostExp>
     <KilledBy>The Fanatic</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31917,32011,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Itachii</Player>
     <LostExp>116808</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31920,32011,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Itachii</Player>
     <LostExp>105341</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31917,32009,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Itachii</Player>
     <LostExp>68320</LostExp>
     <KilledBy>Tarantula</KilledBy>
