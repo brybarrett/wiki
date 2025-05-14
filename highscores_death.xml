@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747239042996</GeneratedAt>
+  <GeneratedAt>1747239342993</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Willmk</Player>
@@ -203,6 +203,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>26</Rank>
+    <Player>Arturzin</Player>
+    <LostExp>207934</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-05-14 18:15:39</Time>
+    <Location>(31881,31906,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>27</Rank>
     <Player>Itachii</Player>
     <LostExp>117357</LostExp>
     <KilledBy>The Fanatic</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31917,32011,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Itachii</Player>
     <LostExp>116808</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31920,32011,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Itachii</Player>
     <LostExp>105341</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31917,32009,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Itachii</Player>
     <LostExp>68320</LostExp>
     <KilledBy>Tarantula</KilledBy>
