@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747245343048</GeneratedAt>
+  <GeneratedAt>1747245643057</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Willmk</Player>
@@ -267,6 +267,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>34</Rank>
+    <Player>Lessaka</Player>
+    <LostExp>74980</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-14 19:56:48</Time>
+    <Location>(32005,31876,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Itachii</Player>
     <LostExp>68320</LostExp>
     <KilledBy>Tarantula</KilledBy>
