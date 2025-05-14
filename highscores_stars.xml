@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1747200942599</GeneratedAt>
+  <GeneratedAt>1747201242600</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -218,12 +218,12 @@
   </Player>
   <Player>
     <Rank>44</Rank>
-    <Name>Karin</Name>
+    <Name>Lumelia</Name>
     <StarsCollected>160</StarsCollected>
   </Player>
   <Player>
     <Rank>45</Rank>
-    <Name>Lumelia</Name>
+    <Name>Karin</Name>
     <StarsCollected>160</StarsCollected>
   </Player>
   <Player>
@@ -383,17 +383,17 @@
   </Player>
   <Player>
     <Rank>77</Rank>
-    <Name>Khorhigee</Name>
-    <StarsCollected>126</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>78</Rank>
     <Name>Mosqitoz</Name>
     <StarsCollected>126</StarsCollected>
   </Player>
   <Player>
-    <Rank>79</Rank>
+    <Rank>78</Rank>
     <Name>Boruto</Name>
+    <StarsCollected>126</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>79</Rank>
+    <Name>Khorhigee</Name>
     <StarsCollected>126</StarsCollected>
   </Player>
   <Player>
@@ -503,17 +503,17 @@
   </Player>
   <Player>
     <Rank>101</Rank>
-    <Name>Grimmie</Name>
-    <StarsCollected>101</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>102</Rank>
     <Name>Raven</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
-    <Rank>103</Rank>
+    <Rank>102</Rank>
     <Name>Vinion</Name>
+    <StarsCollected>101</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>103</Rank>
+    <Name>Grimmie</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
@@ -628,17 +628,17 @@
   </Player>
   <Player>
     <Rank>126</Rank>
-    <Name>Dearsemily</Name>
-    <StarsCollected>88</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>127</Rank>
     <Name>Xforce</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Yaza</Name>
+    <StarsCollected>88</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Dearsemily</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
 </StarsHighscores>
