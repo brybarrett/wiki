@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747191042497</GeneratedAt>
+  <GeneratedAt>1747191342505</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Layse</Player>
+    <LostExp>41252342</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-05-14 04:50:58</Time>
+    <Location>(31948,32277,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Pierre</Player>
     <LostExp>18834572</LostExp>
     <KilledBy>(Others)</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31793,31909,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Pierre</Player>
     <LostExp>16951254</LostExp>
     <KilledBy>Krakomin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31790,31935,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Dark</Player>
     <LostExp>16250854</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Ket</Player>
     <LostExp>13858395</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32018,32204,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Bonilha</Player>
     <LostExp>1527855</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32043,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Rafinha</Player>
     <LostExp>605490</LostExp>
     <KilledBy>Dragon</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31906,31954,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Yakoelindo</Player>
     <LostExp>507049</LostExp>
     <KilledBy>Orc Leader</KilledBy>
