@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747214142730</GeneratedAt>
+  <GeneratedAt>1747214442738</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Joe</Player>
+    <LostExp>890910</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-05-14 11:18:59</Time>
+    <Location>(32023,32278,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Yakoefeio</Player>
     <LostExp>857918</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32008,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Rafinha</Player>
     <LostExp>605490</LostExp>
     <KilledBy>Dragon</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31906,31954,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Yakoelindo</Player>
     <LostExp>507049</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Itachii</Player>
     <LostExp>68320</LostExp>
     <KilledBy>Tarantula</KilledBy>
