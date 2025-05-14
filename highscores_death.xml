@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747258243173</GeneratedAt>
+  <GeneratedAt>1747258543176</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Willmk</Player>
@@ -171,6 +171,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>22</Rank>
+    <Player>Feiticeira</Player>
+    <LostExp>1718922</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-05-14 23:31:03</Time>
+    <Location>(32065,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
     <Player>Bonilha</Player>
     <LostExp>1527855</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32043,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Joe</Player>
     <LostExp>890910</LostExp>
     <KilledBy>Long</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32023,32278,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Yakoefeio</Player>
     <LostExp>857918</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32008,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Yakoefeio</Player>
     <LostExp>817218</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31943,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Yakoefeio</Player>
     <LostExp>769115</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32008,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Rafinha</Player>
     <LostExp>605490</LostExp>
     <KilledBy>Dragon</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31906,31954,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Yakoelindo</Player>
     <LostExp>515376</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31944,31856,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Yakoelindo</Player>
     <LostExp>507049</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Psychowar</Player>
     <LostExp>268298</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31989,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Arturzin</Player>
     <LostExp>226896</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(31881,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Arturzin</Player>
     <LostExp>207934</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31881,31906,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Itachii</Player>
     <LostExp>117357</LostExp>
     <KilledBy>The Fanatic</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(31917,32011,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Itachii</Player>
     <LostExp>116808</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31920,32011,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Cochiloafk</Player>
     <LostExp>108475</LostExp>
     <KilledBy>Archvampir</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(32727,32276,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Itachii</Player>
     <LostExp>105341</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(31917,32009,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Lessaka</Player>
     <LostExp>82075</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(32014,31879,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Lessaka</Player>
     <LostExp>74980</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(32005,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Lessaka</Player>
     <LostExp>72076</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(32011,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Itachii</Player>
     <LostExp>68320</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31879,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Cascadeba</Player>
     <LostExp>41082</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(32009,31872,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Cascadeba</Player>
     <LostExp>41082</LostExp>
     <KilledBy>Orc Leader</KilledBy>
