@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747209642699</GeneratedAt>
+  <GeneratedAt>1747209942695</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -99,6 +99,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Manis</Player>
+    <LostExp>7651522</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-05-14 10:01:20</Time>
+    <Location>(32043,31803,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Bonilha</Player>
     <LostExp>1527855</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -106,7 +114,15 @@
     <Location>(32043,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
+    <Player>Yakoefeio</Player>
+    <LostExp>857918</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-14 10:04:54</Time>
+    <Location>(32008,31885,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Rafinha</Player>
     <LostExp>605490</LostExp>
     <KilledBy>Dragon</KilledBy>
@@ -114,7 +130,7 @@
     <Location>(31906,31954,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>17</Rank>
     <Player>Yakoelindo</Player>
     <LostExp>507049</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -122,7 +138,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>18</Rank>
     <Player>Itachii</Player>
     <LostExp>68320</LostExp>
     <KilledBy>Tarantula</KilledBy>
