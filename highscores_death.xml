@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747327851459</GeneratedAt>
+  <GeneratedAt>1747328151464</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Cochilo</Player>
+    <LostExp>16458533</LostExp>
+    <KilledBy>(Others)</KilledBy>
+    <Time>2025-05-15 18:53:44</Time>
+    <Location>(31798,31906,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Demonio</Player>
     <LostExp>192096</LostExp>
     <KilledBy>Skeleton</KilledBy>
