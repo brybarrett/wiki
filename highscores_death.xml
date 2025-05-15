@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747341951622</GeneratedAt>
+  <GeneratedAt>1747342251621</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gandalf</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Stopa</Player>
+    <LostExp>1446099</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-05-15 22:48:41</Time>
+    <Location>(32039,31802,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Cochiloafk</Player>
     <LostExp>583854</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31976,32036,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>541893</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +58,15 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
+    <Player>Verock</Player>
+    <LostExp>393425</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-15 22:50:45</Time>
+    <Location>(32010,31873,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Demonio</Player>
     <LostExp>192096</LostExp>
     <KilledBy>Skeleton</KilledBy>
