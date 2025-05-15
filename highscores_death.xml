@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747311939221</GeneratedAt>
+  <GeneratedAt>1747312239216</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer</Player>
@@ -296,5 +296,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-05-15 01:39:16</Time>
     <Location>(32009,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>38</Rank>
+    <Player>Cascadeba</Player>
+    <LostExp>37289</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-05-15 14:27:32</Time>
+    <Location>(31981,31884,10)</Location>
   </DeathEvent>
 </DeathHighscores>
