@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747345251641</GeneratedAt>
+  <GeneratedAt>1747345551636</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gandalf</Player>
@@ -88,5 +88,13 @@
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-05-15 23:37:02</Time>
     <Location>(32018,31950,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Kascz</Player>
+    <LostExp>9685</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-05-15 23:41:18</Time>
+    <Location>(31982,31899,9)</Location>
   </DeathEvent>
 </DeathHighscores>
