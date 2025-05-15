@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747353033706</GeneratedAt>
+  <GeneratedAt>1747353333706</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Abaddon</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Leviatacle</KilledBy>
     <Time>2025-05-16 01:39:59</Time>
     <Location>(31863,32071,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Candongo</Player>
+    <LostExp>204553</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-05-16 01:51:06</Time>
+    <Location>(31872,31917,8)</Location>
   </DeathEvent>
 </DeathHighscores>
