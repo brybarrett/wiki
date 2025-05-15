@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1747341051594</GeneratedAt>
+  <GeneratedAt>1747341351600</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -148,12 +148,12 @@
   </Player>
   <Player>
     <Rank>30</Rank>
-    <Name>Hiroshi</Name>
+    <Name>Lendario</Name>
     <StarsCollected>176</StarsCollected>
   </Player>
   <Player>
     <Rank>31</Rank>
-    <Name>Lendario</Name>
+    <Name>Hiroshi</Name>
     <StarsCollected>176</StarsCollected>
   </Player>
   <Player>
@@ -268,12 +268,12 @@
   </Player>
   <Player>
     <Rank>54</Rank>
-    <Name>Vamplod</Name>
+    <Name>Redeon</Name>
     <StarsCollected>146</StarsCollected>
   </Player>
   <Player>
     <Rank>55</Rank>
-    <Name>Redeon</Name>
+    <Name>Vamplod</Name>
     <StarsCollected>146</StarsCollected>
   </Player>
   <Player>
@@ -323,17 +323,17 @@
   </Player>
   <Player>
     <Rank>65</Rank>
-    <Name>Godcarver</Name>
-    <StarsCollected>137</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>66</Rank>
     <Name>Goldtanker</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
-    <Rank>67</Rank>
+    <Rank>66</Rank>
     <Name>Fay</Name>
+    <StarsCollected>137</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>67</Rank>
+    <Name>Godcarver</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -343,17 +343,17 @@
   </Player>
   <Player>
     <Rank>69</Rank>
-    <Name>Mochi</Name>
-    <StarsCollected>134</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>70</Rank>
     <Name>Aivk </Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
-    <Rank>71</Rank>
+    <Rank>70</Rank>
     <Name>Hero</Name>
+    <StarsCollected>134</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>71</Rank>
+    <Name>Mochi</Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
@@ -368,22 +368,22 @@
   </Player>
   <Player>
     <Rank>74</Rank>
-    <Name>Connor</Name>
-    <StarsCollected>127</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>75</Rank>
     <Name>Carver</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
-    <Rank>76</Rank>
+    <Rank>75</Rank>
     <Name>Khorhigee</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
-    <Rank>77</Rank>
+    <Rank>76</Rank>
     <Name>Superstar</Name>
+    <StarsCollected>127</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>77</Rank>
+    <Name>Connor</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
@@ -438,17 +438,17 @@
   </Player>
   <Player>
     <Rank>88</Rank>
-    <Name>Exist</Name>
-    <StarsCollected>119</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>89</Rank>
     <Name>Blindadu</Name>
     <StarsCollected>119</StarsCollected>
   </Player>
   <Player>
-    <Rank>90</Rank>
+    <Rank>89</Rank>
     <Name>Durin</Name>
+    <StarsCollected>119</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>90</Rank>
+    <Name>Exist</Name>
     <StarsCollected>119</StarsCollected>
   </Player>
   <Player>
@@ -543,12 +543,12 @@
   </Player>
   <Player>
     <Rank>109</Rank>
-    <Name>Piras</Name>
+    <Name>Bandits</Name>
     <StarsCollected>97</StarsCollected>
   </Player>
   <Player>
     <Rank>110</Rank>
-    <Name>Bandits</Name>
+    <Name>Piras</Name>
     <StarsCollected>97</StarsCollected>
   </Player>
   <Player>
@@ -618,27 +618,27 @@
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Himmel</Name>
-    <StarsCollected>89</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>125</Rank>
     <Name>Mineiro</Name>
     <StarsCollected>89</StarsCollected>
   </Player>
   <Player>
+    <Rank>125</Rank>
+    <Name>Himmel</Name>
+    <StarsCollected>89</StarsCollected>
+  </Player>
+  <Player>
     <Rank>126</Rank>
-    <Name>Xforce</Name>
+    <Name>Dearsemily</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
     <Rank>127</Rank>
-    <Name>Yaza</Name>
+    <Name>Xforce</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Dearsemily</Name>
+    <Name>Yaza</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
 </StarsHighscores>
