@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747337751573</GeneratedAt>
+  <GeneratedAt>1747338051570</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Gandalf</Player>
+    <LostExp>253690503</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-05-15 21:36:33</Time>
+    <Location>(31910,32220,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Gandalf</Player>
+    <LostExp>228321453</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-05-15 21:36:33</Time>
+    <Location>(31910,32220,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Cochilo</Player>
     <LostExp>16458533</LostExp>
     <KilledBy>(Others)</KilledBy>
@@ -10,7 +26,7 @@
     <Location>(31798,31906,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Ket</Player>
     <LostExp>13405915</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(32020,32200,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Demonio</Player>
     <LostExp>192096</LostExp>
     <KilledBy>Skeleton</KilledBy>
