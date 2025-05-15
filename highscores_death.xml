@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747268438800</GeneratedAt>
+  <GeneratedAt>1747268738800</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ainz</Player>
@@ -43,6 +43,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Verock</Player>
+    <LostExp>260221</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-05-15 02:25:00</Time>
+    <Location>(32049,31907,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Lessaka</Player>
+    <LostExp>111195</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-05-15 02:22:47</Time>
+    <Location>(32060,31902,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>51027</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(32012,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>46521</LostExp>
     <KilledBy>Orc Leader</KilledBy>
