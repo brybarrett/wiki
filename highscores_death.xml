@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747279238906</GeneratedAt>
+  <GeneratedAt>1747279538925</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer</Player>
@@ -147,6 +147,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>19</Rank>
+    <Player>Itachii</Player>
+    <LostExp>151522</LostExp>
+    <KilledBy>Hell Guard</KilledBy>
+    <Time>2025-05-15 05:20:55</Time>
+    <Location>(32790,32251,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
     <Player>Lessaka</Player>
     <LostExp>115172</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31993,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Lessaka</Player>
     <LostExp>111195</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32060,31902,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>100115</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31958,31865,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>90103</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31993,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>51027</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32012,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>46521</LostExp>
     <KilledBy>Orc Leader</KilledBy>
