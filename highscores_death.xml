@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747301739099</GeneratedAt>
+  <GeneratedAt>1747302039103</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Panda</Player>
+    <LostExp>51238279</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-05-15 11:35:55</Time>
+    <Location>(31948,32270,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Eunha</Player>
     <LostExp>37406436</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31941,31998,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Killermgic</Player>
     <LostExp>24115594</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32006,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Dressrossa</Player>
     <LostExp>22100492</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31786,31941,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Shiroe</Player>
     <LostExp>3161572</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Xmichaelx</Player>
     <LostExp>2605588</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Bonilha</Player>
     <LostExp>2097678</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32006,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Belzebugod</Player>
     <LostExp>1131915</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31877,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Belzebugod</Player>
     <LostExp>1025796</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31945,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Joe</Player>
     <LostExp>999143</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31865,32057,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Stopa</Player>
     <LostExp>982848</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32852,31999,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Jembuff</Player>
     <LostExp>652446</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31983,32058,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>279729</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32007,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Verock</Player>
     <LostExp>260221</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32049,31907,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Verock</Player>
     <LostExp>247965</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31994,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Itachii</Player>
     <LostExp>178543</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32042,31960,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Itachii</Player>
     <LostExp>168203</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31917,32010,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Itachii</Player>
     <LostExp>151522</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32790,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Itachii</Player>
     <LostExp>136384</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31992,31997,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Lessaka</Player>
     <LostExp>115172</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31993,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Lessaka</Player>
     <LostExp>111195</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32060,31902,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>100115</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31958,31865,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>90103</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31993,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>51027</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32012,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>46521</LostExp>
     <KilledBy>Orc Leader</KilledBy>
