@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747270238828</GeneratedAt>
+  <GeneratedAt>1747270538830</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ainz</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Stopa</Player>
+    <LostExp>982848</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-05-15 02:52:39</Time>
+    <Location>(32852,31999,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Jembuff</Player>
     <LostExp>652446</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31983,32058,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Verock</Player>
     <LostExp>260221</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32049,31907,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Verock</Player>
     <LostExp>247965</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -74,7 +82,15 @@
     <Location>(31994,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
+    <Player>Itachii</Player>
+    <LostExp>178543</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-05-15 02:53:28</Time>
+    <Location>(32042,31960,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Lessaka</Player>
     <LostExp>115172</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(31993,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Lessaka</Player>
     <LostExp>111195</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(32060,31902,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>100115</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -98,7 +114,7 @@
     <Location>(31958,31865,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>15</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>90103</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -106,7 +122,7 @@
     <Location>(31993,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>51027</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -114,7 +130,7 @@
     <Location>(32012,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>17</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>46521</LostExp>
     <KilledBy>Orc Leader</KilledBy>
