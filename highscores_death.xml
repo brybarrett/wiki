@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747343751623</GeneratedAt>
+  <GeneratedAt>1747344051634</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gandalf</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Verock</Player>
+    <LostExp>366458</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-15 23:19:34</Time>
+    <Location>(32010,31873,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Demonio</Player>
     <LostExp>192096</LostExp>
     <KilledBy>Skeleton</KilledBy>
