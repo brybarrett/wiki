@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747351533690</GeneratedAt>
+  <GeneratedAt>1747351833680</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Abaddon</Player>
+    <LostExp>368241206</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-05-16 01:26:44</Time>
+    <Location>(31932,32218,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Kannizinha</Player>
     <LostExp>92658338</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31963,32270,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Bucca</Player>
     <LostExp>45839195</LostExp>
     <KilledBy>Dreadtide</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31847,32112,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Bucca</Player>
     <LostExp>45839195</LostExp>
     <KilledBy>Dreadtide</KilledBy>
