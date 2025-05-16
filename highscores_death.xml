@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747426234429</GeneratedAt>
+  <GeneratedAt>1747426534433</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Abaddon</Player>
@@ -267,6 +267,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>34</Rank>
+    <Player>Lindinha</Player>
+    <LostExp>291866</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-16 22:12:56</Time>
+    <Location>(31910,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Candongo</Player>
     <LostExp>204553</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31872,31917,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Kascz</Player>
     <LostExp>8720</LostExp>
     <KilledBy>Fire Drake</KilledBy>
