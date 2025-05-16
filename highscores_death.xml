@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747398934159</GeneratedAt>
+  <GeneratedAt>1747399234172</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Abaddon</Player>
@@ -123,6 +123,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
+    <Player>Cloudy</Player>
+    <LostExp>4262362</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-05-16 14:39:30</Time>
+    <Location>(31863,32081,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
     <Player>Joewiz</Player>
     <LostExp>4199095</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31873,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Magrela </Player>
     <LostExp>3831074</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31859,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Punipun</Player>
     <LostExp>3762363</LostExp>
     <KilledBy>Gigantula</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32926,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Punipun</Player>
     <LostExp>3723746</LostExp>
     <KilledBy>Leechacle</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32823,31990,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Yakoefeio</Player>
     <LostExp>3027314</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31979,32042,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Rafinha</Player>
     <LostExp>1062701</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32035,31899,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Verock</Player>
     <LostExp>1028250</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31946,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Magrinn</Player>
     <LostExp>727599</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32822,32013,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Panqueca</Player>
     <LostExp>711062</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31980,32036,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Panqueca</Player>
     <LostExp>645039</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32830,32042,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Candongo</Player>
     <LostExp>204553</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31872,31917,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Kascz</Player>
     <LostExp>8720</LostExp>
     <KilledBy>Fire Drake</KilledBy>
