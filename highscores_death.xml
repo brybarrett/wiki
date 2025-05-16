@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747399534174</GeneratedAt>
+  <GeneratedAt>1747399834181</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Abaddon</Player>
@@ -171,6 +171,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>22</Rank>
+    <Player>Psychowar</Player>
+    <LostExp>1805790</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-16 14:49:17</Time>
+    <Location>(32007,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
     <Player>Rafinha</Player>
     <LostExp>1062701</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32035,31899,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Verock</Player>
     <LostExp>1028250</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31946,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Magrinn</Player>
     <LostExp>727599</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32822,32013,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Panqueca</Player>
     <LostExp>711062</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31980,32036,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Panqueca</Player>
     <LostExp>645039</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32830,32042,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Candongo</Player>
     <LostExp>204553</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31872,31917,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Kascz</Player>
     <LostExp>8720</LostExp>
     <KilledBy>Fire Drake</KilledBy>
