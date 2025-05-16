@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747362933799</GeneratedAt>
+  <GeneratedAt>1747363233812</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Abaddon</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Sonk</Player>
+    <LostExp>18560270</LostExp>
+    <KilledBy>(Others)</KilledBy>
+    <Time>2025-05-16 04:39:10</Time>
+    <Location>(31791,31913,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Dark</Player>
     <LostExp>18467329</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31983,32265,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Vizkal</Player>
     <LostExp>18190735</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31863,32071,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Dark</Player>
     <LostExp>16717221</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31896,32005,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Joewiz</Player>
     <LostExp>4199095</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31873,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Magrela </Player>
     <LostExp>3831074</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31859,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Magrinn</Player>
     <LostExp>727599</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32822,32013,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Panqueca</Player>
     <LostExp>645039</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32830,32042,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Candongo</Player>
     <LostExp>204553</LostExp>
     <KilledBy>Tarantula</KilledBy>
