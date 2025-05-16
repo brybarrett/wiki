@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747353633712</GeneratedAt>
+  <GeneratedAt>1747353933715</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Abaddon</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Dark</Player>
+    <LostExp>18467329</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-05-16 02:00:54</Time>
+    <Location>(31983,32265,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Vizkal</Player>
     <LostExp>18190735</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31863,32071,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Panqueca</Player>
     <LostExp>645039</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32830,32042,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Candongo</Player>
     <LostExp>204553</LostExp>
     <KilledBy>Tarantula</KilledBy>
