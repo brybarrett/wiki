@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747473346886</GeneratedAt>
+  <GeneratedAt>1747473646885</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ainz</Player>
@@ -139,6 +139,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Nandimbr</Player>
+    <LostExp>667173</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-05-17 11:17:44</Time>
+    <Location>(32865,31999,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Nandimbr</Player>
+    <LostExp>667173</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-05-17 11:17:44</Time>
+    <Location>(32865,31999,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
     <Player>Emilia</Player>
     <LostExp>664966</LostExp>
     <KilledBy>Foresdrake</KilledBy>
