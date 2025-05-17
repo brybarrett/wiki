@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747448746631</GeneratedAt>
+  <GeneratedAt>1747449046643</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ekzim</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-05-17 02:52:13</Time>
     <Location>(31878,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Emilia</Player>
+    <LostExp>672884</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-05-17 04:27:26</Time>
+    <Location>(32868,31967,7)</Location>
   </DeathEvent>
 </DeathHighscores>
