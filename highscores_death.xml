@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747442746575</GeneratedAt>
+  <GeneratedAt>1747443046575</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Ekzim</Player>
+    <LostExp>12587099</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-05-17 02:49:43</Time>
+    <Location>(31954,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Giovani</Player>
     <LostExp>4135970</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32060,31826,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Skyice</Player>
     <LostExp>2184161</LostExp>
     <KilledBy>Chaleton</KilledBy>
