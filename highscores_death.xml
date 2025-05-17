@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747446046613</GeneratedAt>
+  <GeneratedAt>1747446346609</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ekzim</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Malekosala</Player>
+    <LostExp>6215246</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-05-17 03:42:03</Time>
+    <Location>(32066,31822,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Giovani</Player>
     <LostExp>4135970</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32060,31826,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Skyice</Player>
     <LostExp>2184161</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32141,32277,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Magrinn</Player>
     <LostExp>1902956</LostExp>
     <KilledBy>Werewolf</KilledBy>
