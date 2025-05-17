@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1747470046855</GeneratedAt>
+  <GeneratedAt>1747470346857</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -248,12 +248,12 @@
   </Player>
   <Player>
     <Rank>50</Rank>
-    <Name>Hawkeyez</Name>
+    <Name>Kannisword</Name>
     <StarsCollected>153</StarsCollected>
   </Player>
   <Player>
     <Rank>51</Rank>
-    <Name>Kannisword</Name>
+    <Name>Hawkeyez</Name>
     <StarsCollected>153</StarsCollected>
   </Player>
   <Player>
@@ -273,12 +273,12 @@
   </Player>
   <Player>
     <Rank>55</Rank>
-    <Name>Sugar</Name>
+    <Name>Vamplod</Name>
     <StarsCollected>146</StarsCollected>
   </Player>
   <Player>
     <Rank>56</Rank>
-    <Name>Vamplod</Name>
+    <Name>Sugar</Name>
     <StarsCollected>146</StarsCollected>
   </Player>
   <Player>
@@ -433,12 +433,12 @@
   </Player>
   <Player>
     <Rank>87</Rank>
-    <Name>Rigger</Name>
+    <Name>Targaryen</Name>
     <StarsCollected>120</StarsCollected>
   </Player>
   <Player>
     <Rank>88</Rank>
-    <Name>Targaryen</Name>
+    <Name>Rigger</Name>
     <StarsCollected>120</StarsCollected>
   </Player>
   <Player>
@@ -543,12 +543,12 @@
   </Player>
   <Player>
     <Rank>109</Rank>
-    <Name>Piras</Name>
+    <Name>Bandits</Name>
     <StarsCollected>97</StarsCollected>
   </Player>
   <Player>
     <Rank>110</Rank>
-    <Name>Bandits</Name>
+    <Name>Piras</Name>
     <StarsCollected>97</StarsCollected>
   </Player>
   <Player>
@@ -618,27 +618,27 @@
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Mineiro</Name>
-    <StarsCollected>89</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>125</Rank>
     <Name>Himmel</Name>
     <StarsCollected>89</StarsCollected>
   </Player>
   <Player>
-    <Rank>126</Rank>
-    <Name>Yaza</Name>
-    <StarsCollected>88</StarsCollected>
+    <Rank>125</Rank>
+    <Name>Mineiro</Name>
+    <StarsCollected>89</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
+    <Rank>126</Rank>
     <Name>Dearsemily</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Xforce</Name>
+    <StarsCollected>88</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Yaza</Name>
     <StarsCollected>88</StarsCollected>
   </Player>
 </StarsHighscores>
