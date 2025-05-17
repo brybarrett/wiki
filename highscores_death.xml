@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747450546656</GeneratedAt>
+  <GeneratedAt>1747450846651</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Ainz</Player>
+    <LostExp>153375053</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-05-17 04:59:13</Time>
+    <Location>(31954,32219,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Reidelas</Player>
+    <LostExp>20173529</LostExp>
+    <KilledBy>Mii</KilledBy>
+    <Time>2025-05-17 04:57:52</Time>
+    <Location>(31779,31937,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Ekzim</Player>
     <LostExp>12587099</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -10,7 +26,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Malekosala</Player>
     <LostExp>6215246</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(32066,31822,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Giovani</Player>
     <LostExp>4135970</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(32060,31826,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Skyice</Player>
     <LostExp>2184161</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(32141,32277,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Magrinn</Player>
     <LostExp>1902956</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31878,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Emilia</Player>
     <LostExp>672884</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
