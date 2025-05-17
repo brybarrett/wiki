@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747456246698</GeneratedAt>
+  <GeneratedAt>1747456546702</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ainz</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Jke</Player>
+    <LostExp>20797797</LostExp>
+    <KilledBy>Kapami</KilledBy>
+    <Time>2025-05-17 06:35:17</Time>
+    <Location>(32845,32006,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Reidelas</Player>
     <LostExp>20173529</LostExp>
     <KilledBy>Mii</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31779,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Ekzim</Player>
     <LostExp>12587099</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Malekosala</Player>
     <LostExp>6215246</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32066,31822,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Giovani</Player>
     <LostExp>4135970</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32060,31826,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Skyice</Player>
     <LostExp>2184161</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32141,32277,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Magrinn</Player>
     <LostExp>1902956</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31878,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Emilia</Player>
     <LostExp>672884</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32868,31967,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Emilia</Player>
     <LostExp>664966</LostExp>
     <KilledBy>Foresdrake</KilledBy>
