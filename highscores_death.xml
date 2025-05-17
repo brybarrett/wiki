@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747498784790</GeneratedAt>
+  <GeneratedAt>1747499084806</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Barba</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Xiuuking</Player>
+    <LostExp>77014</LostExp>
+    <KilledBy>Wk</KilledBy>
+    <Time>2025-05-17 18:20:29</Time>
+    <Location>(32023,31903,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Uranus</Player>
     <LostExp>1040</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31978,31895,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Uranus</Player>
     <LostExp>875</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31982,31900,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Uranus</Player>
     <LostExp>693</LostExp>
     <KilledBy>Scorpion</KilledBy>
