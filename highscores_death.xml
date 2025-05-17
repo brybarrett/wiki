@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747440946553</GeneratedAt>
+  <GeneratedAt>1747441246563</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Giovani</Player>
+    <LostExp>4135970</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-05-17 02:19:26</Time>
+    <Location>(32060,31826,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Skyice</Player>
     <LostExp>2184161</LostExp>
     <KilledBy>Chaleton</KilledBy>
