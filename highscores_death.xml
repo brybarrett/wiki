@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747492127965</GeneratedAt>
+  <GeneratedAt>1747492427971</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kibo</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Pierre</Player>
+    <LostExp>15446128</LostExp>
+    <KilledBy>Dreadtide</KilledBy>
+    <Time>2025-05-17 16:30:19</Time>
+    <Location>(31847,32112,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Yakoelindo</Player>
     <LostExp>4428541</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -18,7 +26,23 @@
     <Location>(32062,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
+    <Player>Yesim</Player>
+    <LostExp>846001</LostExp>
+    <KilledBy>Wk</KilledBy>
+    <Time>2025-05-17 16:31:04</Time>
+    <Location>(32023,31903,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Yesim</Player>
+    <LostExp>761400</LostExp>
+    <KilledBy>Wk</KilledBy>
+    <Time>2025-05-17 16:33:21</Time>
+    <Location>(32023,31903,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Kacwz</Player>
     <LostExp>107154</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -26,7 +50,7 @@
     <Location>(32004,31958,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>7</Rank>
     <Player>Hi</Player>
     <LostExp>8899</LostExp>
     <KilledBy>Werewolf</KilledBy>
