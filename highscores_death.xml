@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747510484928</GeneratedAt>
+  <GeneratedAt>1747510784928</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Barba</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Buccca</Player>
+    <LostExp>11147687</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-05-17 21:39:31</Time>
+    <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Ceifadora</Player>
     <LostExp>8286099</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31876,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Reheli</Player>
     <LostExp>3482566</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31924,32031,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Yesim</Player>
     <LostExp>664096</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32023,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Yesim</Player>
     <LostExp>598949</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32024,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Yesim</Player>
     <LostExp>539092</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32025,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Yesim</Player>
     <LostExp>485183</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32023,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Yesim</Player>
     <LostExp>436664</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32024,31905,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Yesim</Player>
     <LostExp>392998</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32024,31905,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Yesim</Player>
     <LostExp>353698</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Yesim</Player>
     <LostExp>318328</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32023,31908,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Yesim</Player>
     <LostExp>286496</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32023,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Yesim</Player>
     <LostExp>257846</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Yesim</Player>
     <LostExp>232061</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31974,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Yesim</Player>
     <LostExp>208855</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31974,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Yesim</Player>
     <LostExp>187970</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31974,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Yesim</Player>
     <LostExp>169173</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31974,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Yesim</Player>
     <LostExp>152256</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31974,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Yesim</Player>
     <LostExp>137030</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31974,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Yesim</Player>
     <LostExp>123327</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31974,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Yesim</Player>
     <LostExp>110994</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31974,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Yesim</Player>
     <LostExp>99895</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31974,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Yesim</Player>
     <LostExp>89905</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31974,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Xiuuking</Player>
     <LostExp>77014</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Uranus</Player>
     <LostExp>1040</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(31978,31895,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Uranus</Player>
     <LostExp>875</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31982,31900,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Uranus</Player>
     <LostExp>693</LostExp>
     <KilledBy>Scorpion</KilledBy>
