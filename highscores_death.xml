@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747496684782</GeneratedAt>
+  <GeneratedAt>1747496984777</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ceifadora</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Uranus</Player>
+    <LostExp>875</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-05-17 17:46:34</Time>
+    <Location>(31982,31900,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Uranus</Player>
     <LostExp>693</LostExp>
     <KilledBy>Scorpion</KilledBy>
