@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747477246920</GeneratedAt>
+  <GeneratedAt>1747477546919</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ainz</Player>
@@ -168,5 +168,13 @@
     <KilledBy>Apprentice</KilledBy>
     <Time>2025-05-17 11:48:56</Time>
     <Location>(31992,31996,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Miliary</Player>
+    <LostExp>3112</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-05-17 12:23:43</Time>
+    <Location>(31990,32016,8)</Location>
   </DeathEvent>
 </DeathHighscores>
