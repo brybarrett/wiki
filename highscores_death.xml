@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747491227958</GeneratedAt>
+  <GeneratedAt>1747491527966</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kibo</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Yakoelindo</Player>
+    <LostExp>4428541</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-05-17 16:17:05</Time>
+    <Location>(32062,31814,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Kacwz</Player>
     <LostExp>107154</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32004,31958,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Hi</Player>
     <LostExp>8899</LostExp>
     <KilledBy>Werewolf</KilledBy>
