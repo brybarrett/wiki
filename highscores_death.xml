@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747475146893</GeneratedAt>
+  <GeneratedAt>1747475446906</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ainz</Player>
@@ -160,5 +160,13 @@
     <KilledBy>Foresdrake</KilledBy>
     <Time>2025-05-17 06:22:52</Time>
     <Location>(32869,32028,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
+    <Player>Miliary</Player>
+    <LostExp>3438</LostExp>
+    <KilledBy>Apprentice</KilledBy>
+    <Time>2025-05-17 11:48:56</Time>
+    <Location>(31992,31996,9)</Location>
   </DeathEvent>
 </DeathHighscores>
