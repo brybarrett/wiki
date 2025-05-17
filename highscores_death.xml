@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747524346007</GeneratedAt>
+  <GeneratedAt>1747524646010</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Dinastia</Player>
+    <LostExp>3909938</LostExp>
+    <KilledBy>Bantinel</KilledBy>
+    <Time>2025-05-18 01:28:01</Time>
+    <Location>(31944,31996,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Reheli</Player>
+    <LostExp>3086473</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2025-05-18 01:30:45</Time>
+    <Location>(31946,32001,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Belzebugod</Player>
     <LostExp>1952283</LostExp>
     <KilledBy>Orc Raider</KilledBy>
