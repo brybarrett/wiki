@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747587436464</GeneratedAt>
+  <GeneratedAt>1747587736471</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Verock</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Soft</Player>
+    <LostExp>370635</LostExp>
+    <KilledBy>Skelenary</KilledBy>
+    <Time>2025-05-18 18:58:42</Time>
+    <Location>(32012,32023,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Yesim </Player>
     <LostExp>80941</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32023,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Mimisan</Player>
     <LostExp>14399</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31975,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Mimisan</Player>
     <LostExp>8280</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32036,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Mimisan</Player>
     <LostExp>2100</LostExp>
     <KilledBy>Scorpion</KilledBy>
