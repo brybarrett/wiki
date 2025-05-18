@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747526146027</GeneratedAt>
+  <GeneratedAt>1747526446023</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Killerwiz</Player>
+    <LostExp>228063303</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-05-18 01:59:25</Time>
+    <Location>(31939,32219,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Blindado</Player>
     <LostExp>40422162</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32018,32204,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Dinastia</Player>
     <LostExp>3909938</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31944,31996,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Reheli</Player>
     <LostExp>3086473</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31946,32001,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Belzebugod</Player>
     <LostExp>1952283</LostExp>
     <KilledBy>Orc Raider</KilledBy>
