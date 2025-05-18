@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747528546041</GeneratedAt>
+  <GeneratedAt>1747528846047</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Reheli</Player>
+    <LostExp>2888675</LostExp>
+    <KilledBy>Bantinel</KilledBy>
+    <Time>2025-05-18 02:39:47</Time>
+    <Location>(31931,32003,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Belzebugod</Player>
     <LostExp>1952283</LostExp>
     <KilledBy>Orc Raider</KilledBy>
