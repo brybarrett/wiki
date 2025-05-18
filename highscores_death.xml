@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747535446120</GeneratedAt>
+  <GeneratedAt>1747535746125</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Drink</Player>
+    <LostExp>2786909</LostExp>
+    <KilledBy>Bokk</KilledBy>
+    <Time>2025-05-18 04:30:51</Time>
+    <Location>(31986,32074,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Belzebugod</Player>
     <LostExp>1952283</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31946,31857,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Pablinhu</Player>
     <LostExp>1163780</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31939,32018,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Lindinha</Player>
     <LostExp>684374</LostExp>
     <KilledBy>Terrorbird</KilledBy>
