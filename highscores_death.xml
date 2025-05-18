@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747528846047</GeneratedAt>
+  <GeneratedAt>1747529146052</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Loki</Player>
+    <LostExp>488773302</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-05-18 02:44:11</Time>
+    <Location>(31917,32215,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Killerwiz</Player>
     <LostExp>228063303</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31939,32219,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Masterwiz</Player>
     <LostExp>50937465</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32841,31971,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Blindado</Player>
     <LostExp>40422162</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32018,32204,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Dinastia</Player>
     <LostExp>3909938</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -34,7 +42,15 @@
     <Location>(31944,31996,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
+    <Player>Dinastia</Player>
+    <LostExp>3614355</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2025-05-18 02:44:46</Time>
+    <Location>(31941,31993,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Reheli</Player>
     <LostExp>3086473</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31946,32001,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Reheli</Player>
     <LostExp>2888675</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(31931,32003,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Belzebugod</Player>
     <LostExp>1952283</LostExp>
     <KilledBy>Orc Raider</KilledBy>
