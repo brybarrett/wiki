@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747575770745</GeneratedAt>
+  <GeneratedAt>1747576070745</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Soft</Player>
+    <LostExp>405642</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-05-18 15:46:03</Time>
+    <Location>(31978,31859,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Soft</Player>
     <LostExp>350971</LostExp>
     <KilledBy>Bragnak</KilledBy>
