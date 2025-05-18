@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747579336402</GeneratedAt>
+  <GeneratedAt>1747579636394</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Verock</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-05-18 16:27:09</Time>
     <Location>(32010,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Mimisan</Player>
+    <LostExp>2100</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-05-18 16:45:22</Time>
+    <Location>(31985,31906,9)</Location>
   </DeathEvent>
 </DeathHighscores>
