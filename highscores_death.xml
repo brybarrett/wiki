@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747580536409</GeneratedAt>
+  <GeneratedAt>1747580836424</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Verock</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Mimisan</Player>
+    <LostExp>8280</LostExp>
+    <KilledBy>GM-Doro</KilledBy>
+    <Time>2025-05-18 17:05:25</Time>
+    <Location>(32036,32038,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Mimisan</Player>
     <LostExp>2100</LostExp>
     <KilledBy>Scorpion</KilledBy>
