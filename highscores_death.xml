@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747530346058</GeneratedAt>
+  <GeneratedAt>1747530646062</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -72,5 +72,13 @@
     <KilledBy>Orc Raider</KilledBy>
     <Time>2025-05-18 01:20:09</Time>
     <Location>(31946,31857,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Pablinhu</Player>
+    <LostExp>1163780</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2025-05-18 03:07:58</Time>
+    <Location>(31939,32018,11)</Location>
   </DeathEvent>
 </DeathHighscores>
