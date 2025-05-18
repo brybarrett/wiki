@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747604536631</GeneratedAt>
+  <GeneratedAt>1747604836640</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Menson</Player>
@@ -171,6 +171,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>22</Rank>
+    <Player>Juliana</Player>
+    <LostExp>3052</LostExp>
+    <KilledBy>Goblin</KilledBy>
+    <Time>2025-05-18 23:45:57</Time>
+    <Location>(32267,32374,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
     <Player>Mimisan</Player>
     <LostExp>2100</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31985,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Juliana</Player>
     <LostExp>238</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31984,31870,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Juliana</Player>
     <LostExp>140</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
