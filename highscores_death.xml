@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747607836681</GeneratedAt>
+  <GeneratedAt>1747608136677</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Menson</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Rafinha</Player>
+    <LostExp>3399579</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-05-19 00:41:50</Time>
+    <Location>(32011,32249,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Ken</Player>
     <LostExp>2045017</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32850,31977,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Ken</Player>
     <LostExp>1918449</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32841,32060,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Kaparzo</Player>
     <LostExp>1215497</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31876,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Lindinha</Player>
     <LostExp>652363</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32010,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Soft</Player>
     <LostExp>370635</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32012,32023,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Juliana</Player>
     <LostExp>155242</LostExp>
     <KilledBy>Cultist</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32018,31866,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Kacwz</Player>
     <LostExp>102375</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31880,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Yesim </Player>
     <LostExp>80941</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32023,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Mimisan</Player>
     <LostExp>14399</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31975,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Mimisan</Player>
     <LostExp>8280</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32036,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Juliana</Player>
     <LostExp>3052</LostExp>
     <KilledBy>Goblin</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32267,32374,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Juliana</Player>
     <LostExp>2757</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32008,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Juliana</Player>
     <LostExp>2525</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32006,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Mimisan</Player>
     <LostExp>2100</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31985,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Juliana</Player>
     <LostExp>238</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31984,31870,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Juliana</Player>
     <LostExp>140</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
