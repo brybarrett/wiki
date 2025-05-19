@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747672246279</GeneratedAt>
+  <GeneratedAt>1747672546277</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -232,5 +232,13 @@
     <KilledBy>Treant</KilledBy>
     <Time>2025-05-19 03:49:41</Time>
     <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
+    <Player>Uranus</Player>
+    <LostExp>98959</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-05-19 18:32:22</Time>
+    <Location>(31871,31917,8)</Location>
   </DeathEvent>
 </DeathHighscores>
