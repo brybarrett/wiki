@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747672846283</GeneratedAt>
+  <GeneratedAt>1747673146289</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Brisadeiro</Player>
+    <LostExp>83423615</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-05-19 18:43:10</Time>
+    <Location>(31981,32234,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Foreskin</Player>
     <LostExp>35007098</LostExp>
     <KilledBy>Brokazee</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Aa</Player>
     <LostExp>29353212</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32180,32241,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Abal</Player>
     <LostExp>16910730</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31863,32045,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Jke</Player>
     <LostExp>12658251</LostExp>
     <KilledBy>Ifrit</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32843,32021,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Jke</Player>
     <LostExp>11276444</LostExp>
     <KilledBy>Horrornet</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32855,31998,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Supy</Player>
     <LostExp>10479829</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32870,32028,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Movio</Player>
     <LostExp>8299494</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32063,31819,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Kelavan</Player>
     <LostExp>7197559</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31990,31913,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Dinastia</Player>
     <LostExp>6271434</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31988,31921,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Drink</Player>
     <LostExp>4131984</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31999,31925,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Magrela </Player>
     <LostExp>3599120</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31949,32234,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Lessaka</Player>
     <LostExp>3157359</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Emilia</Player>
     <LostExp>2776321</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Hi</Player>
     <LostExp>1409312</LostExp>
     <KilledBy>Archvampir</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32737,32266,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Kaparzo</Player>
     <LostExp>1376467</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31864,32031,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Kaparzo</Player>
     <LostExp>1245351</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31897,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Kaparzo</Player>
     <LostExp>1152568</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31899,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Jensen</Player>
     <LostExp>1062590</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32007,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Jensen</Player>
     <LostExp>960552</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31913,31860,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Nandimbr</Player>
     <LostExp>800156</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32858,31999,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Soft</Player>
     <LostExp>592350</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31856,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Juliana</Player>
     <LostExp>195899</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -234,7 +242,15 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
+    <Player>Uranus</Player>
+    <LostExp>100303</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-19 18:44:49</Time>
+    <Location>(31863,32058,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>32</Rank>
     <Player>Uranus</Player>
     <LostExp>98959</LostExp>
     <KilledBy>Tarantula</KilledBy>
