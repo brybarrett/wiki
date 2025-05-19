@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747677946330</GeneratedAt>
+  <GeneratedAt>1747678246324</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -211,6 +211,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>27</Rank>
+    <Player>Soft</Player>
+    <LostExp>1010612</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-05-19 20:09:46</Time>
+    <Location>(32023,31856,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
     <Player>Jensen</Player>
     <LostExp>960552</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31913,31860,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Nandimbr</Player>
     <LostExp>800156</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32858,31999,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Soft</Player>
     <LostExp>592350</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31856,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Juliana</Player>
     <LostExp>195899</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Doctor</Player>
     <LostExp>103419</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32189,32272,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Uranus</Player>
     <LostExp>100303</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31863,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Uranus</Player>
     <LostExp>98959</LostExp>
     <KilledBy>Tarantula</KilledBy>
