@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747621845765</GeneratedAt>
+  <GeneratedAt>1747622145765</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ainz</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Jensen</Player>
+    <LostExp>1062590</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-19 04:31:04</Time>
+    <Location>(32007,31876,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Soft</Player>
     <LostExp>592350</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31856,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Juliana</Player>
     <LostExp>195899</LostExp>
     <KilledBy>Treant</KilledBy>
