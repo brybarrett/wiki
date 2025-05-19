@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747627845825</GeneratedAt>
+  <GeneratedAt>1747628145808</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Heineken</Player>
+    <LostExp>90261713</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-05-19 06:13:30</Time>
+    <Location>(31790,31956,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Aa</Player>
     <LostExp>29353212</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32180,32241,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Abal</Player>
     <LostExp>16910730</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31863,32045,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Jke</Player>
     <LostExp>11276444</LostExp>
     <KilledBy>Horrornet</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32855,31998,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Emilia</Player>
     <LostExp>2776321</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Kaparzo</Player>
     <LostExp>1245351</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31897,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Kaparzo</Player>
     <LostExp>1152568</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31899,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Jensen</Player>
     <LostExp>1062590</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32007,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Soft</Player>
     <LostExp>592350</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31856,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Juliana</Player>
     <LostExp>195899</LostExp>
     <KilledBy>Treant</KilledBy>
