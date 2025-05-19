@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747621545760</GeneratedAt>
+  <GeneratedAt>1747621845765</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Ainz</Player>
+    <LostExp>177913647</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-05-19 04:28:04</Time>
+    <Location>(31953,32220,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Aa</Player>
     <LostExp>29353212</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32180,32241,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Abal</Player>
     <LostExp>16910730</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31863,32045,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Jke</Player>
     <LostExp>11276444</LostExp>
     <KilledBy>Horrornet</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32855,31998,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Emilia</Player>
     <LostExp>2776321</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Kaparzo</Player>
     <LostExp>1245351</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31897,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Kaparzo</Player>
     <LostExp>1152568</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31899,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Soft</Player>
     <LostExp>592350</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31856,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Juliana</Player>
     <LostExp>195899</LostExp>
     <KilledBy>Treant</KilledBy>
