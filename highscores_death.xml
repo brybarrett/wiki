@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747676146316</GeneratedAt>
+  <GeneratedAt>1747676446323</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -243,6 +243,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>31</Rank>
+    <Player>Doctor</Player>
+    <LostExp>103419</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-05-19 19:40:15</Time>
+    <Location>(32189,32272,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>32</Rank>
     <Player>Uranus</Player>
     <LostExp>100303</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(31863,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Uranus</Player>
     <LostExp>98959</LostExp>
     <KilledBy>Tarantula</KilledBy>
