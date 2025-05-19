@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747613145686</GeneratedAt>
+  <GeneratedAt>1747613445685</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Aa</Player>
+    <LostExp>29353212</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-05-19 02:07:47</Time>
+    <Location>(32180,32241,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Emilia</Player>
     <LostExp>2776321</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -10,11 +18,19 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Kaparzo</Player>
     <LostExp>1245351</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-05-19 01:36:06</Time>
     <Location>(31897,32043,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Kaparzo</Player>
+    <LostExp>1152568</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-19 02:07:03</Time>
+    <Location>(31899,32043,8)</Location>
   </DeathEvent>
 </DeathHighscores>
