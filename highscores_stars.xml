@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1747759247324</GeneratedAt>
+  <GeneratedAt>1747759547319</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -358,17 +358,17 @@
   </Player>
   <Player>
     <Rank>72</Rank>
-    <Name>Aivk </Name>
+    <Name>Mochi</Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
     <Rank>73</Rank>
-    <Name>Hero</Name>
+    <Name>Aivk </Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
     <Rank>74</Rank>
-    <Name>Mochi</Name>
+    <Name>Hero</Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
@@ -398,17 +398,17 @@
   </Player>
   <Player>
     <Rank>80</Rank>
-    <Name>Mosqitoz</Name>
-    <StarsCollected>126</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>81</Rank>
     <Name>Boruto</Name>
     <StarsCollected>126</StarsCollected>
   </Player>
   <Player>
-    <Rank>82</Rank>
+    <Rank>81</Rank>
     <Name>Killer</Name>
+    <StarsCollected>126</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>82</Rank>
+    <Name>Mosqitoz</Name>
     <StarsCollected>126</StarsCollected>
   </Player>
   <Player>
@@ -543,12 +543,12 @@
   </Player>
   <Player>
     <Rank>109</Rank>
-    <Name>Zin</Name>
+    <Name>Castiel</Name>
     <StarsCollected>99</StarsCollected>
   </Player>
   <Player>
     <Rank>110</Rank>
-    <Name>Castiel</Name>
+    <Name>Zin</Name>
     <StarsCollected>99</StarsCollected>
   </Player>
   <Player>
@@ -618,17 +618,17 @@
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Omadara</Name>
-    <StarsCollected>90</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>125</Rank>
     <Name>Alfisyeh</Name>
     <StarsCollected>90</StarsCollected>
   </Player>
   <Player>
-    <Rank>126</Rank>
+    <Rank>125</Rank>
     <Name>Cupy</Name>
+    <StarsCollected>90</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>126</Rank>
+    <Name>Omadara</Name>
     <StarsCollected>90</StarsCollected>
   </Player>
   <Player>
@@ -638,7 +638,7 @@
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Niggawiz</Name>
+    <Name>Himmel</Name>
     <StarsCollected>89</StarsCollected>
   </Player>
 </StarsHighscores>
