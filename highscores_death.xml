@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747752347242</GeneratedAt>
+  <GeneratedAt>1747752647244</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindao</Player>
@@ -219,6 +219,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>28</Rank>
+    <Player>Zeruela</Player>
+    <LostExp>1550763</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-05-20 16:49:08</Time>
+    <Location>(32043,31802,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>29</Rank>
     <Player>Cochiloafk</Player>
     <LostExp>1015732</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32012,31873,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Cochilobr</Player>
     <LostExp>834864</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32010,31872,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Arturzin</Player>
     <LostExp>418890</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(32053,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Arturzin</Player>
     <LostExp>383205</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32053,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Zepolvinho</Player>
     <LostExp>1080</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(32040,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Zepolvinho</Player>
     <LostExp>1026</LostExp>
     <KilledBy>The Bug</KilledBy>
