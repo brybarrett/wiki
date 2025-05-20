@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747727746998</GeneratedAt>
+  <GeneratedAt>1747728047004</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindao</Player>
@@ -155,6 +155,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>20</Rank>
+    <Player>Brunei</Player>
+    <LostExp>3657965</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-05-20 09:59:53</Time>
+    <Location>(32821,32043,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
     <Player>Magrinn</Player>
     <LostExp>3003239</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31903,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Stopa</Player>
     <LostExp>2224917</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32036,32238,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Cochilobr</Player>
     <LostExp>834864</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32010,31872,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Arturzin</Player>
     <LostExp>418890</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32053,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Arturzin</Player>
     <LostExp>383205</LostExp>
     <KilledBy>Shogun</KilledBy>
