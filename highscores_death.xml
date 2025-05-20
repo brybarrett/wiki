@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747703446764</GeneratedAt>
+  <GeneratedAt>1747703746754</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Urekmazino</Player>
@@ -19,6 +19,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Killermgic</Player>
+    <LostExp>25373285</LostExp>
+    <KilledBy>Mii</KilledBy>
+    <Time>2025-05-20 03:12:03</Time>
+    <Location>(31787,31939,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Cochilo</Player>
+    <LostExp>18538302</LostExp>
+    <KilledBy>Jeeje</KilledBy>
+    <Time>2025-05-20 03:12:14</Time>
+    <Location>(31788,31934,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Caleb</Player>
     <LostExp>16807237</LostExp>
     <KilledBy>Mii</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(31789,31935,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Arturzin</Player>
     <LostExp>383205</LostExp>
     <KilledBy>Shogun</KilledBy>
