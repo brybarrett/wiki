@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747702546754</GeneratedAt>
+  <GeneratedAt>1747702846751</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Urekmazino</Player>
+    <LostExp>81112267</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-05-20 02:57:49</Time>
+    <Location>(31800,31925,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Killermgic</Player>
     <LostExp>28030431</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32001,32224,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Arturzin</Player>
     <LostExp>383205</LostExp>
     <KilledBy>Shogun</KilledBy>
