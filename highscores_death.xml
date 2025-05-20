@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747699846713</GeneratedAt>
+  <GeneratedAt>1747700146724</GeneratedAt>
+  <DeathEvent>
+    <Rank>1</Rank>
+    <Player>Killermgic</Player>
+    <LostExp>28030431</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-05-20 02:14:08</Time>
+    <Location>(32001,32224,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Arturzin</Player>
+    <LostExp>383205</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-05-20 02:11:45</Time>
+    <Location>(32053,31909,8)</Location>
+  </DeathEvent>
 </DeathHighscores>
