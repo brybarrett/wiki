@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747746047195</GeneratedAt>
+  <GeneratedAt>1747746347192</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindao</Player>
@@ -216,5 +216,13 @@
     <KilledBy>Shogun</KilledBy>
     <Time>2025-05-20 02:11:45</Time>
     <Location>(32053,31909,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
+    <Player>Zepolvinho</Player>
+    <LostExp>1080</LostExp>
+    <KilledBy>GM-Jhonnis</KilledBy>
+    <Time>2025-05-20 15:01:33</Time>
+    <Location>(32040,32041,8)</Location>
   </DeathEvent>
 </DeathHighscores>
