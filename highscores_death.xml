@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747708546805</GeneratedAt>
+  <GeneratedAt>1747708846807</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindao</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Magrinn</Player>
+    <LostExp>3003239</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-20 04:35:59</Time>
+    <Location>(31903,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Stopa</Player>
     <LostExp>2224917</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32036,32238,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Arturzin</Player>
     <LostExp>418890</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32053,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Arturzin</Player>
     <LostExp>383205</LostExp>
     <KilledBy>Shogun</KilledBy>
