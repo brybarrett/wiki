@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747753547263</GeneratedAt>
+  <GeneratedAt>1747753847272</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindao</Player>
@@ -147,6 +147,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>19</Rank>
+    <Player>Kalea</Player>
+    <LostExp>5930336</LostExp>
+    <KilledBy>Dreadtide</KilledBy>
+    <Time>2025-05-20 17:09:14</Time>
+    <Location>(31843,32110,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
     <Player>Emilia</Player>
     <LostExp>5295045</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31860,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Reheli</Player>
     <LostExp>5127372</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32010,31926,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Emilia</Player>
     <LostExp>4626170</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31869,32031,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Bonilha</Player>
     <LostExp>4201513</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31969,31990,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Brunei</Player>
     <LostExp>3657965</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32821,32043,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Magrela </Player>
     <LostExp>3492948</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32828,32027,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Magrinn</Player>
     <LostExp>3003239</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31903,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Stopa</Player>
     <LostExp>2224917</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32036,32238,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Adosinger</Player>
     <LostExp>1926203</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32062,31820,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Zeruela</Player>
     <LostExp>1550763</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32043,31802,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Cochiloafk</Player>
     <LostExp>1015732</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32012,31873,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Cochilobr</Player>
     <LostExp>834864</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(32010,31872,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Arturzin</Player>
     <LostExp>418890</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32053,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Arturzin</Player>
     <LostExp>383205</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(32053,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Zepolvinho</Player>
     <LostExp>1080</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(32040,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Zepolvinho</Player>
     <LostExp>1026</LostExp>
     <KilledBy>The Bug</KilledBy>
