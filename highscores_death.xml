@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747832141460</GeneratedAt>
+  <GeneratedAt>1747832441447</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ainz</Player>
@@ -163,6 +163,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>21</Rank>
+    <Player>Soft</Player>
+    <LostExp>2806808</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-21 14:59:25</Time>
+    <Location>(32014,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
     <Player>Brunei</Player>
     <LostExp>2662566</LostExp>
     <KilledBy>Gigantula</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32924,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Ken</Player>
     <LostExp>2109956</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32856,31980,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Ken</Player>
     <LostExp>1927184</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32819,32013,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Verockx</Player>
     <LostExp>1641311</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Zeruela</Player>
     <LostExp>1399871</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31998,32255,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Doctor</Player>
     <LostExp>1259388</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32055,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Filindo</Player>
     <LostExp>1224550</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32017,31857,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Kratos</Player>
     <LostExp>338773</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32005,31883,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Padock</Player>
     <LostExp>278287</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32034,32225,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Zepolvinho</Player>
     <LostExp>187473</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31992,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Eloa</Player>
     <LostExp>135339</LostExp>
     <KilledBy>Bear</KilledBy>
