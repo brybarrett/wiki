@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747792541045</GeneratedAt>
+  <GeneratedAt>1747792841045</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Rin</Player>
+    <LostExp>21406556</LostExp>
+    <KilledBy>Ghoranus</KilledBy>
+    <Time>2025-05-21 03:59:24</Time>
+    <Location>(32037,31830,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Dark</Player>
     <LostExp>14906785</LostExp>
     <KilledBy>GM-Doro</KilledBy>
     <Time>2025-05-21 02:23:19</Time>
     <Location>(32036,32038,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Giovani</Player>
+    <LostExp>6565322</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-05-21 03:59:37</Time>
+    <Location>(31971,32222,9)</Location>
   </DeathEvent>
 </DeathHighscores>
