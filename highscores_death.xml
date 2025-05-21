@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747814441272</GeneratedAt>
+  <GeneratedAt>1747814741279</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindao</Player>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Filindo</Player>
+    <LostExp>1224550</LostExp>
+    <KilledBy>Bragnak</KilledBy>
+    <Time>2025-05-21 10:03:33</Time>
+    <Location>(32017,31857,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Kratos</Player>
     <LostExp>338773</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32005,31883,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Padock</Player>
     <LostExp>278287</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32034,32225,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Zepolvinho</Player>
     <LostExp>187473</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31992,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Eloa</Player>
     <LostExp>135339</LostExp>
     <KilledBy>Bear</KilledBy>
