@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747794341065</GeneratedAt>
+  <GeneratedAt>1747794641066</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Rin</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Gigantula</KilledBy>
     <Time>2025-05-21 04:01:28</Time>
     <Location>(32924,32047,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Padock</Player>
+    <LostExp>278287</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-05-21 04:26:28</Time>
+    <Location>(32034,32225,7)</Location>
   </DeathEvent>
 </DeathHighscores>
