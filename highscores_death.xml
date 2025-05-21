@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747804541165</GeneratedAt>
+  <GeneratedAt>1747804841169</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Urekmazino</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Zepolvinho</Player>
+    <LostExp>187473</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-05-21 07:19:56</Time>
+    <Location>(31992,31863,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Eloa</Player>
     <LostExp>135339</LostExp>
     <KilledBy>Bear</KilledBy>
