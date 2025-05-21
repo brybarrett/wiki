@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747845941590</GeneratedAt>
+  <GeneratedAt>1747846241603</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ainz</Player>
@@ -339,6 +339,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>43</Rank>
+    <Player>Borutos</Player>
+    <LostExp>120973</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-05-21 18:46:08</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>44</Rank>
     <Player>Deniallvz</Player>
     <LostExp>19582</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(32026,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Borutos</Player>
     <LostExp>7704</LostExp>
     <KilledBy>Hell Guard</KilledBy>
