@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747792841045</GeneratedAt>
+  <GeneratedAt>1747793141044</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Rin</Player>
@@ -19,10 +19,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Emilia</Player>
+    <LostExp>6760846</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-21 04:03:58</Time>
+    <Location>(31869,32031,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Giovani</Player>
     <LostExp>6565322</LostExp>
     <KilledBy>Wardy</KilledBy>
     <Time>2025-05-21 03:59:37</Time>
     <Location>(31971,32222,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Brunei</Player>
+    <LostExp>2662566</LostExp>
+    <KilledBy>Gigantula</KilledBy>
+    <Time>2025-05-21 04:01:28</Time>
+    <Location>(32924,32047,8)</Location>
   </DeathEvent>
 </DeathHighscores>
