@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747807241224</GeneratedAt>
+  <GeneratedAt>1747807541200</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Blindao</Player>
+    <LostExp>118581772</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-05-21 08:00:52</Time>
+    <Location>(32018,32204,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Urekmazino</Player>
     <LostExp>76094329</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31802,31939,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Baxt</Player>
     <LostExp>57515999</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32065,32298,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Heineken</Player>
     <LostExp>36009275</LostExp>
     <KilledBy>Demon Lord</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31838,31889,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Ket</Player>
     <LostExp>23123550</LostExp>
     <KilledBy>Mii</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31776,31939,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Rin</Player>
     <LostExp>21406556</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32037,31830,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Kannivrau</Player>
     <LostExp>21001046</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31947,32270,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Rin</Player>
     <LostExp>20564685</LostExp>
     <KilledBy>(Others)</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31792,31905,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Dark</Player>
     <LostExp>14906785</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32036,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Dark</Player>
     <LostExp>14037737</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Emilia</Player>
     <LostExp>6760846</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31869,32031,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Giovani</Player>
     <LostExp>6565322</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31971,32222,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Brunei</Player>
     <LostExp>2662566</LostExp>
     <KilledBy>Gigantula</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32924,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Kratos</Player>
     <LostExp>338773</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32005,31883,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Padock</Player>
     <LostExp>278287</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32034,32225,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Zepolvinho</Player>
     <LostExp>187473</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31992,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Eloa</Player>
     <LostExp>135339</LostExp>
     <KilledBy>Bear</KilledBy>
