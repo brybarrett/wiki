@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1747950948451</GeneratedAt>
+  <GeneratedAt>1747951248453</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -153,12 +153,12 @@
   </Player>
   <Player>
     <Rank>31</Rank>
-    <Name>Giovani</Name>
+    <Name>Ainz</Name>
     <StarsCollected>179</StarsCollected>
   </Player>
   <Player>
     <Rank>32</Rank>
-    <Name>Ainz</Name>
+    <Name>Giovani</Name>
     <StarsCollected>179</StarsCollected>
   </Player>
   <Player>
@@ -203,17 +203,17 @@
   </Player>
   <Player>
     <Rank>41</Rank>
-    <Name>Michael</Name>
-    <StarsCollected>165</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>42</Rank>
     <Name>Kinghorr</Name>
     <StarsCollected>165</StarsCollected>
   </Player>
   <Player>
-    <Rank>43</Rank>
+    <Rank>42</Rank>
     <Name>Guinny</Name>
+    <StarsCollected>165</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>43</Rank>
+    <Name>Michael</Name>
     <StarsCollected>165</StarsCollected>
   </Player>
   <Player>
@@ -338,22 +338,22 @@
   </Player>
   <Player>
     <Rank>68</Rank>
-    <Name>Superstar</Name>
-    <StarsCollected>137</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>69</Rank>
     <Name>Goldtanker</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
-    <Rank>70</Rank>
+    <Rank>69</Rank>
     <Name>Godcarver</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
-    <Rank>71</Rank>
+    <Rank>70</Rank>
     <Name>Fay</Name>
+    <StarsCollected>137</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>71</Rank>
+    <Name>Superstar</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -398,12 +398,12 @@
   </Player>
   <Player>
     <Rank>80</Rank>
-    <Name>Mosqitoz</Name>
+    <Name>Killer</Name>
     <StarsCollected>126</StarsCollected>
   </Player>
   <Player>
     <Rank>81</Rank>
-    <Name>Killer</Name>
+    <Name>Mosqitoz</Name>
     <StarsCollected>126</StarsCollected>
   </Player>
   <Player>
@@ -623,22 +623,22 @@
   </Player>
   <Player>
     <Rank>125</Rank>
-    <Name>Templarr</Name>
-    <StarsCollected>90</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>126</Rank>
     <Name>Alfisyeh</Name>
     <StarsCollected>90</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
+    <Rank>126</Rank>
     <Name>Maxx</Name>
     <StarsCollected>90</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Omadara</Name>
+    <StarsCollected>90</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Templarr</Name>
     <StarsCollected>90</StarsCollected>
   </Player>
 </StarsHighscores>
