@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747942548369</GeneratedAt>
+  <GeneratedAt>1747942848376</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mineira</Player>
@@ -355,6 +355,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>45</Rank>
+    <Player>Padock</Player>
+    <LostExp>337052</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2025-05-22 21:37:07</Time>
+    <Location>(31854,31968,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>46</Rank>
     <Player>Louu</Player>
     <LostExp>317979</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(31897,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Louu</Player>
     <LostExp>286191</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(31894,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Wolfmanz</Player>
     <LostExp>262622</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31921,32001,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Louu</Player>
     <LostExp>257572</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Louu</Player>
     <LostExp>231815</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Xdxdxdx</Player>
     <LostExp>220619</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31877,31918,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Louu</Player>
     <LostExp>208634</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Louu</Player>
     <LostExp>187770</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Rado</Player>
     <LostExp>178183</LostExp>
     <KilledBy>Kappa</KilledBy>
@@ -426,7 +434,7 @@
     <Location>(31926,32000,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
     <Player>Louu</Player>
     <LostExp>168993</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -434,7 +442,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>56</Rank>
     <Player>Louu</Player>
     <LostExp>152094</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -442,7 +450,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Louu</Player>
     <LostExp>136884</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Louu</Player>
     <LostExp>123200</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -458,7 +466,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Louu</Player>
     <LostExp>110880</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -466,7 +474,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>59</Rank>
+    <Rank>60</Rank>
     <Player>Louu</Player>
     <LostExp>99792</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -474,7 +482,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>60</Rank>
+    <Rank>61</Rank>
     <Player>Louu</Player>
     <LostExp>89816</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -482,7 +490,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>61</Rank>
+    <Rank>62</Rank>
     <Player>Louu</Player>
     <LostExp>80838</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -490,7 +498,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>62</Rank>
+    <Rank>63</Rank>
     <Player>Louu</Player>
     <LostExp>72754</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -498,7 +506,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>63</Rank>
+    <Rank>64</Rank>
     <Player>Louu</Player>
     <LostExp>65700</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -506,7 +514,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>64</Rank>
+    <Rank>65</Rank>
     <Player>Louu</Player>
     <LostExp>59138</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -514,7 +522,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>65</Rank>
+    <Rank>66</Rank>
     <Player>Ana</Player>
     <LostExp>46727</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -522,7 +530,7 @@
     <Location>(32044,31965,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>66</Rank>
+    <Rank>67</Rank>
     <Player>Ana</Player>
     <LostExp>42780</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -530,7 +538,7 @@
     <Location>(31878,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>67</Rank>
+    <Rank>68</Rank>
     <Player>Wolfmanz</Player>
     <LostExp>30769</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -538,7 +546,7 @@
     <Location>(31905,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>68</Rank>
+    <Rank>69</Rank>
     <Player>Fakii</Player>
     <LostExp>3057</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -546,7 +554,7 @@
     <Location>(31978,31895,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>69</Rank>
+    <Rank>70</Rank>
     <Player>Fakii</Player>
     <LostExp>2347</LostExp>
     <KilledBy>Scorpion</KilledBy>
