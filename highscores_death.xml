@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747929948248</GeneratedAt>
+  <GeneratedAt>1747930248243</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jcl</Player>
@@ -331,6 +331,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>42</Rank>
+    <Player>Louu</Player>
+    <LostExp>286191</LostExp>
+    <KilledBy>Khex</KilledBy>
+    <Time>2025-05-22 18:06:46</Time>
+    <Location>(31894,31934,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>43</Rank>
     <Player>Wolfmanz</Player>
     <LostExp>262622</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -338,7 +346,15 @@
     <Location>(31921,32001,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
+    <Player>Louu</Player>
+    <LostExp>257572</LostExp>
+    <KilledBy>Khex</KilledBy>
+    <Time>2025-05-22 18:08:18</Time>
+    <Location>(31895,31934,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>45</Rank>
     <Player>Xdxdxdx</Player>
     <LostExp>220619</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -346,7 +362,7 @@
     <Location>(31877,31918,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>46</Rank>
     <Player>Rado</Player>
     <LostExp>178183</LostExp>
     <KilledBy>Kappa</KilledBy>
@@ -354,7 +370,7 @@
     <Location>(31926,32000,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>47</Rank>
     <Player>Ana</Player>
     <LostExp>46727</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -362,7 +378,7 @@
     <Location>(32044,31965,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>48</Rank>
     <Player>Ana</Player>
     <LostExp>42780</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -370,7 +386,7 @@
     <Location>(31878,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>49</Rank>
     <Player>Wolfmanz</Player>
     <LostExp>30769</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -378,7 +394,7 @@
     <Location>(31905,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>50</Rank>
     <Player>Fakii</Player>
     <LostExp>3057</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -386,7 +402,7 @@
     <Location>(31978,31895,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>51</Rank>
     <Player>Fakii</Player>
     <LostExp>2347</LostExp>
     <KilledBy>Scorpion</KilledBy>
