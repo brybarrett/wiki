@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747932048272</GeneratedAt>
+  <GeneratedAt>1747932348270</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jcl</Player>
@@ -475,6 +475,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>60</Rank>
+    <Player>Louu</Player>
+    <LostExp>59138</LostExp>
+    <KilledBy>Khex</KilledBy>
+    <Time>2025-05-22 18:41:57</Time>
+    <Location>(31895,31934,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>61</Rank>
     <Player>Ana</Player>
     <LostExp>46727</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -482,7 +490,7 @@
     <Location>(32044,31965,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>61</Rank>
+    <Rank>62</Rank>
     <Player>Ana</Player>
     <LostExp>42780</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -490,7 +498,7 @@
     <Location>(31878,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>62</Rank>
+    <Rank>63</Rank>
     <Player>Wolfmanz</Player>
     <LostExp>30769</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -498,7 +506,7 @@
     <Location>(31905,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>63</Rank>
+    <Rank>64</Rank>
     <Player>Fakii</Player>
     <LostExp>3057</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -506,7 +514,7 @@
     <Location>(31978,31895,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>64</Rank>
+    <Rank>65</Rank>
     <Player>Fakii</Player>
     <LostExp>2347</LostExp>
     <KilledBy>Scorpion</KilledBy>
