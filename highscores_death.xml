@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747909848039</GeneratedAt>
+  <GeneratedAt>1747910148040</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brokazee</Player>
@@ -251,6 +251,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>32</Rank>
+    <Player>Wolfmanz</Player>
+    <LostExp>30769</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-22 12:30:56</Time>
+    <Location>(31905,32047,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>33</Rank>
     <Player>Fakii</Player>
     <LostExp>3057</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31978,31895,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Fakii</Player>
     <LostExp>2347</LostExp>
     <KilledBy>Scorpion</KilledBy>
