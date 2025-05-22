@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747945848402</GeneratedAt>
+  <GeneratedAt>1747946148412</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mineira</Player>
@@ -548,13 +548,21 @@
   <DeathEvent>
     <Rank>69</Rank>
     <Player>Fakii</Player>
+    <LostExp>5460</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-05-22 22:33:13</Time>
+    <Location>(31959,31920,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>70</Rank>
+    <Player>Fakii</Player>
     <LostExp>4641</LostExp>
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-05-22 22:00:47</Time>
     <Location>(32007,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>70</Rank>
+    <Rank>71</Rank>
     <Player>Fakii</Player>
     <LostExp>4177</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -562,7 +570,7 @@
     <Location>(32041,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>71</Rank>
+    <Rank>72</Rank>
     <Player>Fakii</Player>
     <LostExp>3057</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -570,7 +578,7 @@
     <Location>(31978,31895,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>72</Rank>
+    <Rank>73</Rank>
     <Player>Fakii</Player>
     <LostExp>2347</LostExp>
     <KilledBy>Scorpion</KilledBy>
