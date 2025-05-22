@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747918848131</GeneratedAt>
+  <GeneratedAt>1747919148145</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brokazee</Player>
@@ -251,6 +251,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>32</Rank>
+    <Player>Wolfmanz</Player>
+    <LostExp>262622</LostExp>
+    <KilledBy>Kreppan</KilledBy>
+    <Time>2025-05-22 15:03:18</Time>
+    <Location>(31921,32001,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>33</Rank>
     <Player>Xdxdxdx</Player>
     <LostExp>220619</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -258,7 +266,15 @@
     <Location>(31877,31918,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
+    <Player>Rado</Player>
+    <LostExp>178183</LostExp>
+    <KilledBy>Kappa</KilledBy>
+    <Time>2025-05-22 15:03:51</Time>
+    <Location>(31926,32000,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Wolfmanz</Player>
     <LostExp>30769</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -266,7 +282,7 @@
     <Location>(31905,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>36</Rank>
     <Player>Fakii</Player>
     <LostExp>3057</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -274,7 +290,7 @@
     <Location>(31978,31895,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>37</Rank>
     <Player>Fakii</Player>
     <LostExp>2347</LostExp>
     <KilledBy>Scorpion</KilledBy>
