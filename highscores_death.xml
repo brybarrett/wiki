@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747950348451</GeneratedAt>
+  <GeneratedAt>1747950648455</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mineira</Player>
@@ -451,6 +451,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>57</Rank>
+    <Player>Psychotic</Player>
+    <LostExp>157985</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-05-22 23:50:07</Time>
+    <Location>(31998,31858,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>58</Rank>
     <Player>Louu</Player>
     <LostExp>152094</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -458,7 +466,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Louu</Player>
     <LostExp>136884</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -466,7 +474,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>59</Rank>
+    <Rank>60</Rank>
     <Player>Louu</Player>
     <LostExp>123200</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -474,7 +482,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>60</Rank>
+    <Rank>61</Rank>
     <Player>Louu</Player>
     <LostExp>110880</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -482,7 +490,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>61</Rank>
+    <Rank>62</Rank>
     <Player>Louu</Player>
     <LostExp>99792</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -490,7 +498,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>62</Rank>
+    <Rank>63</Rank>
     <Player>Louu</Player>
     <LostExp>89816</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -498,7 +506,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>63</Rank>
+    <Rank>64</Rank>
     <Player>Louu</Player>
     <LostExp>80838</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -506,7 +514,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>64</Rank>
+    <Rank>65</Rank>
     <Player>Louu</Player>
     <LostExp>72754</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -514,7 +522,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>65</Rank>
+    <Rank>66</Rank>
     <Player>Louu</Player>
     <LostExp>65700</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -522,7 +530,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>66</Rank>
+    <Rank>67</Rank>
     <Player>Louu</Player>
     <LostExp>59138</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -530,7 +538,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>67</Rank>
+    <Rank>68</Rank>
     <Player>Ana</Player>
     <LostExp>46727</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -538,7 +546,7 @@
     <Location>(32044,31965,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>68</Rank>
+    <Rank>69</Rank>
     <Player>Ana</Player>
     <LostExp>42780</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -546,7 +554,7 @@
     <Location>(31878,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>69</Rank>
+    <Rank>70</Rank>
     <Player>Wolfmanz</Player>
     <LostExp>30769</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -554,7 +562,7 @@
     <Location>(31905,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>70</Rank>
+    <Rank>71</Rank>
     <Player>Fakii</Player>
     <LostExp>5460</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -562,7 +570,7 @@
     <Location>(31959,31920,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>71</Rank>
+    <Rank>72</Rank>
     <Player>Fakii</Player>
     <LostExp>4641</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -570,7 +578,7 @@
     <Location>(32007,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>72</Rank>
+    <Rank>73</Rank>
     <Player>Fakii</Player>
     <LostExp>4177</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -578,7 +586,7 @@
     <Location>(32041,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>73</Rank>
+    <Rank>74</Rank>
     <Player>Fakii</Player>
     <LostExp>3057</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -586,7 +594,7 @@
     <Location>(31978,31895,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>74</Rank>
+    <Rank>75</Rank>
     <Player>Fakii</Player>
     <LostExp>2347</LostExp>
     <KilledBy>Scorpion</KilledBy>
