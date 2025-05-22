@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747873847656</GeneratedAt>
+  <GeneratedAt>1747874147674</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Urekmazino</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Bonilha</Player>
+    <LostExp>4052739</LostExp>
+    <KilledBy>GM-Doro</KilledBy>
+    <Time>2025-05-22 02:31:05</Time>
+    <Location>(32042,32037,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Sheman</Player>
     <LostExp>1545471</LostExp>
     <KilledBy>Chilong</KilledBy>
