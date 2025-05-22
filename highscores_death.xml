@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747872947657</GeneratedAt>
+  <GeneratedAt>1747873247670</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Urekmazino</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Ninjana</KilledBy>
     <Time>2025-05-22 01:32:53</Time>
     <Location>(31802,31939,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Minatox</Player>
+    <LostExp>4605912</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-05-22 02:20:44</Time>
+    <Location>(32065,31823,8)</Location>
   </DeathEvent>
 </DeathHighscores>
