@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747874447682</GeneratedAt>
+  <GeneratedAt>1747874747669</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Urekmazino</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Chilong</KilledBy>
     <Time>2025-05-22 02:21:07</Time>
     <Location>(32069,31826,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Kratos</Player>
+    <LostExp>450831</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-22 02:41:13</Time>
+    <Location>(32006,31879,8)</Location>
   </DeathEvent>
 </DeathHighscores>
