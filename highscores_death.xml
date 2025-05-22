@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747889447834</GeneratedAt>
+  <GeneratedAt>1747889747825</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brokazee</Player>
@@ -99,6 +99,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Louu</Player>
+    <LostExp>598315</LostExp>
+    <KilledBy>Khex</KilledBy>
+    <Time>2025-05-22 06:52:55</Time>
+    <Location>(31895,31934,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Louu</Player>
+    <LostExp>538490</LostExp>
+    <KilledBy>Khex</KilledBy>
+    <Time>2025-05-22 06:54:47</Time>
+    <Location>(31895,31934,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Kratos</Player>
     <LostExp>450831</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -106,7 +122,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <Player>Fakii</Player>
     <LostExp>3057</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -114,7 +130,7 @@
     <Location>(31978,31895,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>17</Rank>
     <Player>Fakii</Player>
     <LostExp>2347</LostExp>
     <KilledBy>Scorpion</KilledBy>
