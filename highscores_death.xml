@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747875047680</GeneratedAt>
+  <GeneratedAt>1747875347675</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Urekmazino</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-05-22 02:41:13</Time>
     <Location>(32006,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Fakii</Player>
+    <LostExp>2347</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-05-22 02:51:22</Time>
+    <Location>(31984,31901,9)</Location>
   </DeathEvent>
 </DeathHighscores>
