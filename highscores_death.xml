@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748037346190</GeneratedAt>
+  <GeneratedAt>1748037646198</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Goldtanker</Player>
@@ -347,6 +347,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>44</Rank>
+    <Player>Demonio</Player>
+    <LostExp>168833</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-05-24 00:00:29</Time>
+    <Location>(31978,31909,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>45</Rank>
     <Player>Deniallvz</Player>
     <LostExp>125301</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(31983,31927,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Fakii</Player>
     <LostExp>78291</LostExp>
     <KilledBy>Minotaur</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(31899,32056,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Arzhel</Player>
     <LostExp>22269</LostExp>
     <KilledBy>Exist</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(31909,31942,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Arzhel</Player>
     <LostExp>20042</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31904,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Pazaoalado</Player>
     <LostExp>12437</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(32016,31880,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Pazaoalado</Player>
     <LostExp>4990</LostExp>
     <KilledBy>Orc Leader</KilledBy>
