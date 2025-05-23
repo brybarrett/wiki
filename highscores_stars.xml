@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1748019646028</GeneratedAt>
+  <GeneratedAt>1748019946033</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -78,13 +78,13 @@
   </Player>
   <Player>
     <Rank>16</Rank>
-    <Name>Frieren</Name>
+    <Name>Blindada</Name>
     <StarsCollected>213</StarsCollected>
   </Player>
   <Player>
     <Rank>17</Rank>
-    <Name>Blindada</Name>
-    <StarsCollected>212</StarsCollected>
+    <Name>Frieren</Name>
+    <StarsCollected>213</StarsCollected>
   </Player>
   <Player>
     <Rank>18</Rank>
@@ -149,16 +149,16 @@
   <Player>
     <Rank>30</Rank>
     <Name>Lendario</Name>
-    <StarsCollected>180</StarsCollected>
+    <StarsCollected>181</StarsCollected>
   </Player>
   <Player>
     <Rank>31</Rank>
-    <Name>Giovani</Name>
+    <Name>Ainz</Name>
     <StarsCollected>179</StarsCollected>
   </Player>
   <Player>
     <Rank>32</Rank>
-    <Name>Ainz</Name>
+    <Name>Giovani</Name>
     <StarsCollected>179</StarsCollected>
   </Player>
   <Player>
@@ -208,17 +208,17 @@
   </Player>
   <Player>
     <Rank>42</Rank>
-    <Name>Michael</Name>
-    <StarsCollected>165</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>43</Rank>
     <Name>Guinny</Name>
     <StarsCollected>165</StarsCollected>
   </Player>
   <Player>
-    <Rank>44</Rank>
+    <Rank>43</Rank>
     <Name>Kinghorr</Name>
+    <StarsCollected>165</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>44</Rank>
+    <Name>Michael</Name>
     <StarsCollected>165</StarsCollected>
   </Player>
   <Player>
@@ -233,12 +233,12 @@
   </Player>
   <Player>
     <Rank>47</Rank>
-    <Name>Karin</Name>
+    <Name>Lumelia</Name>
     <StarsCollected>160</StarsCollected>
   </Player>
   <Player>
     <Rank>48</Rank>
-    <Name>Lumelia</Name>
+    <Name>Karin</Name>
     <StarsCollected>160</StarsCollected>
   </Player>
   <Player>
@@ -288,12 +288,12 @@
   </Player>
   <Player>
     <Rank>58</Rank>
-    <Name>Moondeath</Name>
+    <Name>Sugar</Name>
     <StarsCollected>146</StarsCollected>
   </Player>
   <Player>
     <Rank>59</Rank>
-    <Name>Sugar</Name>
+    <Name>Moondeath</Name>
     <StarsCollected>146</StarsCollected>
   </Player>
   <Player>
@@ -548,28 +548,28 @@
   </Player>
   <Player>
     <Rank>110</Rank>
-    <Name>Agenmarini</Name>
+    <Name>Cupy</Name>
     <StarsCollected>99</StarsCollected>
   </Player>
   <Player>
     <Rank>111</Rank>
+    <Name>Agenmarini</Name>
+    <StarsCollected>99</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>112</Rank>
     <Name>Yakoebom</Name>
     <StarsCollected>98</StarsCollected>
   </Player>
   <Player>
-    <Rank>112</Rank>
+    <Rank>113</Rank>
     <Name>Piras</Name>
     <StarsCollected>97</StarsCollected>
   </Player>
   <Player>
-    <Rank>113</Rank>
+    <Rank>114</Rank>
     <Name>Bandits</Name>
     <StarsCollected>97</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>114</Rank>
-    <Name>Cupy</Name>
-    <StarsCollected>96</StarsCollected>
   </Player>
   <Player>
     <Rank>115</Rank>
@@ -603,12 +603,12 @@
   </Player>
   <Player>
     <Rank>121</Rank>
-    <Name>Moon</Name>
+    <Name>Salamaleko</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
     <Rank>122</Rank>
-    <Name>Salamaleko</Name>
+    <Name>Moon</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
@@ -623,22 +623,22 @@
   </Player>
   <Player>
     <Rank>125</Rank>
-    <Name>Alfisyeh</Name>
-    <StarsCollected>90</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>126</Rank>
     <Name>Maxx</Name>
     <StarsCollected>90</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
+    <Rank>126</Rank>
     <Name>Omadara</Name>
     <StarsCollected>90</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Templarr</Name>
+    <StarsCollected>90</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Alfisyeh</Name>
     <StarsCollected>90</StarsCollected>
   </Player>
 </StarsHighscores>
