@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747958445397</GeneratedAt>
+  <GeneratedAt>1747958745397</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindao</Player>
@@ -19,6 +19,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Panqueca</Player>
+    <LostExp>3395729</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-05-23 02:01:14</Time>
+    <Location>(32046,31802,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Eduardo</Player>
+    <LostExp>519089</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-23 02:04:20</Time>
+    <Location>(31877,32059,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Kratos</Player>
     <LostExp>440698</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(32008,31882,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Kratos</Player>
     <LostExp>436877</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(32005,31883,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Kratos</Player>
     <LostExp>407011</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(32004,31884,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Arzhel</Player>
     <LostExp>22269</LostExp>
     <KilledBy>Exist</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(31909,31942,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Arzhel</Player>
     <LostExp>20042</LostExp>
     <KilledBy>Wisper</KilledBy>
