@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1747965345467</GeneratedAt>
+  <GeneratedAt>1747965645484</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindao</Player>
@@ -100,13 +100,21 @@
   <DeathEvent>
     <Rank>13</Rank>
     <Player>Kratos</Player>
+    <LostExp>385119</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-05-23 03:55:49</Time>
+    <Location>(31979,32068,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Kratos</Player>
     <LostExp>374716</LostExp>
     <KilledBy>Ninjaman</KilledBy>
     <Time>2025-05-23 03:09:06</Time>
     <Location>(31984,32073,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Kratos</Player>
     <LostExp>346747</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31984,32059,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Arzhel</Player>
     <LostExp>22269</LostExp>
     <KilledBy>Exist</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31909,31942,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Arzhel</Player>
     <LostExp>20042</LostExp>
     <KilledBy>Wisper</KilledBy>
