@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748061041469</GeneratedAt>
+  <GeneratedAt>1748061341474</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panda</Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Yesim</Player>
+    <LostExp>89003</LostExp>
+    <KilledBy>Wk</KilledBy>
+    <Time>2025-05-24 06:35:16</Time>
+    <Location>(32023,31903,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Pazaoalado</Player>
     <LostExp>22815</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31990,31902,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Pazaoalado</Player>
     <LostExp>22423</LostExp>
     <KilledBy>Scorpion</KilledBy>
