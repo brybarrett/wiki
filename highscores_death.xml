@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748051741381</GeneratedAt>
+  <GeneratedAt>1748052041392</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Panda</Player>
+    <LostExp>56285410</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-05-24 03:59:59</Time>
+    <Location>(31983,32270,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Dark</Player>
     <LostExp>15745824</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32039,31800,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Emilia</Player>
     <LostExp>10222099</LostExp>
     <KilledBy>Gigantula</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32890,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Bonilha</Player>
     <LostExp>4440212</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Matrix</Player>
     <LostExp>2552052</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31852,31969,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Pazaoalado</Player>
     <LostExp>22815</LostExp>
     <KilledBy>Scorpion</KilledBy>
