@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748048141340</GeneratedAt>
+  <GeneratedAt>1748048441342</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dark</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Emilia</Player>
+    <LostExp>10222099</LostExp>
+    <KilledBy>Gigantula</KilledBy>
+    <Time>2025-05-24 02:59:00</Time>
+    <Location>(32890,32013,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Bonilha</Player>
     <LostExp>4440212</LostExp>
     <KilledBy>Assasin</KilledBy>
