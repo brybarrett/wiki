@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748065541513</GeneratedAt>
+  <GeneratedAt>1748065841517</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Movie</Player>
+    <LostExp>76622568</LostExp>
+    <KilledBy>Sakura</KilledBy>
+    <Time>2025-05-24 07:46:57</Time>
+    <Location>(32024,31903,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Panda</Player>
     <LostExp>56285410</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31983,32270,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Skyice</Player>
     <LostExp>19492716</LostExp>
     <KilledBy>Iceguard</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31932,31923,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Dark</Player>
     <LostExp>15745824</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32039,31800,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Emilia</Player>
     <LostExp>10222099</LostExp>
     <KilledBy>Gigantula</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32890,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Verock</Player>
     <LostExp>8891151</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32858,31992,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Giovani</Player>
     <LostExp>8442664</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31941,32210,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Bonilha</Player>
     <LostExp>4440212</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Matrix</Player>
     <LostExp>2552052</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31852,31969,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Verockx</Player>
     <LostExp>2199728</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32010,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Verockx</Player>
     <LostExp>1989943</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32010,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Cochiloafk</Player>
     <LostExp>1907950</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32008,31872,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Zepolvinho</Player>
     <LostExp>1697830</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32855,31994,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Yesim</Player>
     <LostExp>89003</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Yesim</Player>
     <LostExp>80102</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Pazaoalado</Player>
     <LostExp>22815</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31990,31902,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Pazaoalado</Player>
     <LostExp>22423</LostExp>
     <KilledBy>Scorpion</KilledBy>
