@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748057741444</GeneratedAt>
+  <GeneratedAt>1748058041438</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panda</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Verock</Player>
+    <LostExp>8891151</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-05-24 05:39:35</Time>
+    <Location>(32858,31992,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Giovani</Player>
     <LostExp>8442664</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31941,32210,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Bonilha</Player>
     <LostExp>4440212</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Matrix</Player>
     <LostExp>2552052</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -50,7 +58,15 @@
     <Location>(31852,31969,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
+    <Player>Verockx</Player>
+    <LostExp>2199728</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-24 05:39:38</Time>
+    <Location>(32010,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Cochiloafk</Player>
     <LostExp>1907950</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(32008,31872,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Zepolvinho</Player>
     <LostExp>1697830</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(32855,31994,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Pazaoalado</Player>
     <LostExp>22815</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(31990,31902,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Pazaoalado</Player>
     <LostExp>22423</LostExp>
     <KilledBy>Scorpion</KilledBy>
