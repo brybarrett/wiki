@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748084741704</GeneratedAt>
+  <GeneratedAt>1748085041705</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Movie</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Cloudyy</Player>
+    <LostExp>343572</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-05-24 13:08:07</Time>
+    <Location>(31979,32060,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Yesim</Player>
     <LostExp>89003</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Yesim</Player>
     <LostExp>80102</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Pazaoalado</Player>
     <LostExp>22815</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31990,31902,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Pazaoalado</Player>
     <LostExp>22423</LostExp>
     <KilledBy>Scorpion</KilledBy>
