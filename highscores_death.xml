@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748117405921</GeneratedAt>
+  <GeneratedAt>1748117705921</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Rei</Player>
+    <LostExp>30370162</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-05-24 22:11:37</Time>
+    <Location>(31947,32203,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Verock</Player>
     <LostExp>9691290</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32825,32041,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Soft</Player>
     <LostExp>6746918</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32825,32014,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Soft</Player>
     <LostExp>6648245</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32863,31998,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Bonilha</Player>
     <LostExp>4395484</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31915,31991,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Magrela </Player>
     <LostExp>3322423</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32862,31994,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Zepolvinho</Player>
     <LostExp>2049685</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32027,31892,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Zepolvinho</Player>
     <LostExp>1839492</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31958,31865,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Cloudyy</Player>
     <LostExp>359763</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32025,31975,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Deniallvz</Player>
     <LostExp>204414</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31991,31921,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Cascadeba</Player>
     <LostExp>176253</LostExp>
     <KilledBy>Skeleton</KilledBy>
