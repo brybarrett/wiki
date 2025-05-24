@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748102405933</GeneratedAt>
+  <GeneratedAt>1748102705943</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nenawiz</Player>
@@ -8,5 +8,29 @@
     <KilledBy>Wardy</KilledBy>
     <Time>2025-05-24 17:57:26</Time>
     <Location>(32021,32213,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Verock</Player>
+    <LostExp>9691290</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-05-24 18:04:47</Time>
+    <Location>(32825,32041,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Soft</Player>
+    <LostExp>6746918</LostExp>
+    <KilledBy>Bloodbeak</KilledBy>
+    <Time>2025-05-24 18:01:44</Time>
+    <Location>(32825,32014,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Cloudyy</Player>
+    <LostExp>359763</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-05-24 18:03:21</Time>
+    <Location>(32025,31975,9)</Location>
   </DeathEvent>
 </DeathHighscores>
