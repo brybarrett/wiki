@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748184907286</GeneratedAt>
+  <GeneratedAt>1748185207293</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer</Player>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Ken</Player>
+    <LostExp>1915424</LostExp>
+    <KilledBy>Mystinx</KilledBy>
+    <Time>2025-05-25 16:59:02</Time>
+    <Location>(31945,32117,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Jembuff</Player>
     <LostExp>818320</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31924,31999,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Matadordpk</Player>
     <LostExp>397182</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32005,31883,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Matadordpk</Player>
     <LostExp>362805</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32005,31883,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Matadordpk</Player>
     <LostExp>361145</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32007,31884,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Cloudyy</Player>
     <LostExp>355103</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32042,32040,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Deniallvz</Player>
     <LostExp>238267</LostExp>
     <KilledBy>Baby Drake</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31990,31938,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Phrese</Player>
     <LostExp>212741</LostExp>
     <KilledBy>Cultist</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32017,31863,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Phrese</Player>
     <LostExp>172632</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31983,31926,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Lelia</Player>
     <LostExp>45019</LostExp>
     <KilledBy>Werewolf</KilledBy>
