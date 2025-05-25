@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748165407277</GeneratedAt>
+  <GeneratedAt>1748165707283</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Matadordpk</Player>
+    <LostExp>362805</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-25 11:34:57</Time>
+    <Location>(32005,31883,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Cloudyy</Player>
     <LostExp>355103</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32042,32040,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Phrese</Player>
     <LostExp>172632</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31983,31926,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Lelia</Player>
     <LostExp>45019</LostExp>
     <KilledBy>Werewolf</KilledBy>
