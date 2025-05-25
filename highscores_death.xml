@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748140507288</GeneratedAt>
+  <GeneratedAt>1748140807279</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Killer</Player>
+    <LostExp>472140722</LostExp>
+    <KilledBy>Dom</KilledBy>
+    <Time>2025-05-25 04:38:08</Time>
+    <Location>(31926,32130,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Mrhafiz</Player>
     <LostExp>38336448</LostExp>
     <KilledBy>Horrornet</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32814,31988,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Qr</Player>
     <LostExp>14209870</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31779,31959,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Jembuff</Player>
     <LostExp>818320</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31924,31999,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Lelia</Player>
     <LostExp>45019</LostExp>
     <KilledBy>Werewolf</KilledBy>
