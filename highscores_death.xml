@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748213190838</GeneratedAt>
+  <GeneratedAt>1748213490830</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Khun</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Bonilha</Player>
+    <LostExp>5611402</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-05-26 00:50:06</Time>
+    <Location>(31954,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Lessako</Player>
     <LostExp>814114</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31953,31989,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Starzik</Player>
     <LostExp>10133</LostExp>
     <KilledBy>Fire Drake</KilledBy>
