@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748208690829</GeneratedAt>
+  <GeneratedAt>1748208990835</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Khun</Player>
+    <LostExp>91518043</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-05-25 23:34:58</Time>
+    <Location>(31805,31927,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Brisadeiro</Player>
     <LostExp>90157211</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31811,31944,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Noia</Player>
     <LostExp>24334030</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -18,7 +26,15 @@
     <Location>(31786,31956,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
+    <Player>Kelavan</Player>
+    <LostExp>22394087</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-05-25 23:31:37</Time>
+    <Location>(31787,31954,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Lessako</Player>
     <LostExp>814114</LostExp>
     <KilledBy>Assasin</KilledBy>
