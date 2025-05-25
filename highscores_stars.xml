@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1748155207273</GeneratedAt>
+  <GeneratedAt>1748155507287</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Pablo</Name>
@@ -78,12 +78,12 @@
   </Player>
   <Player>
     <Rank>16</Rank>
-    <Name>Blindada</Name>
+    <Name>Frieren</Name>
     <StarsCollected>213</StarsCollected>
   </Player>
   <Player>
     <Rank>17</Rank>
-    <Name>Frieren</Name>
+    <Name>Blindada</Name>
     <StarsCollected>213</StarsCollected>
   </Player>
   <Player>
@@ -188,12 +188,12 @@
   </Player>
   <Player>
     <Rank>38</Rank>
-    <Name>Wizav</Name>
+    <Name>Kuro</Name>
     <StarsCollected>169</StarsCollected>
   </Player>
   <Player>
     <Rank>39</Rank>
-    <Name>Kuro</Name>
+    <Name>Wizav</Name>
     <StarsCollected>169</StarsCollected>
   </Player>
   <Player>
@@ -268,22 +268,22 @@
   </Player>
   <Player>
     <Rank>54</Rank>
-    <Name>Dom</Name>
+    <Name>Wizzard</Name>
     <StarsCollected>155</StarsCollected>
   </Player>
   <Player>
     <Rank>55</Rank>
-    <Name>Eztoymjr</Name>
+    <Name>Dom</Name>
     <StarsCollected>155</StarsCollected>
   </Player>
   <Player>
     <Rank>56</Rank>
-    <Name>Buca</Name>
+    <Name>Eztoymjr</Name>
     <StarsCollected>155</StarsCollected>
   </Player>
   <Player>
     <Rank>57</Rank>
-    <Name>Wizzard</Name>
+    <Name>Buca</Name>
     <StarsCollected>155</StarsCollected>
   </Player>
   <Player>
@@ -308,12 +308,12 @@
   </Player>
   <Player>
     <Rank>62</Rank>
-    <Name>Sugar</Name>
+    <Name>Vamplod</Name>
     <StarsCollected>146</StarsCollected>
   </Player>
   <Player>
     <Rank>63</Rank>
-    <Name>Vamplod</Name>
+    <Name>Sugar</Name>
     <StarsCollected>146</StarsCollected>
   </Player>
   <Player>
@@ -348,12 +348,12 @@
   </Player>
   <Player>
     <Rank>70</Rank>
-    <Name>Superstar</Name>
+    <Name>Goldtanker</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
     <Rank>71</Rank>
-    <Name>Goldtanker</Name>
+    <Name>Superstar</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -498,27 +498,27 @@
   </Player>
   <Player>
     <Rank>100</Rank>
-    <Name>Cupy</Name>
-    <StarsCollected>104</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>101</Rank>
-    <Name>Barba</Name>
-    <StarsCollected>104</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>102</Rank>
     <Name>Biawak</Name>
     <StarsCollected>104</StarsCollected>
   </Player>
   <Player>
+    <Rank>101</Rank>
+    <Name>Cupy</Name>
+    <StarsCollected>104</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>102</Rank>
+    <Name>Barba</Name>
+    <StarsCollected>104</StarsCollected>
+  </Player>
+  <Player>
     <Rank>103</Rank>
-    <Name>Victorbr</Name>
+    <Name>Kiyahatzu</Name>
     <StarsCollected>103</StarsCollected>
   </Player>
   <Player>
     <Rank>104</Rank>
-    <Name>Kiyahatzu</Name>
+    <Name>Victorbr</Name>
     <StarsCollected>103</StarsCollected>
   </Player>
   <Player>
@@ -538,17 +538,17 @@
   </Player>
   <Player>
     <Rank>108</Rank>
-    <Name>Vinion</Name>
-    <StarsCollected>101</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>109</Rank>
     <Name>Castiel</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
-    <Rank>110</Rank>
+    <Rank>109</Rank>
     <Name>Grimmie</Name>
+    <StarsCollected>101</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>110</Rank>
+    <Name>Vinion</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
@@ -618,12 +618,12 @@
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Yukira</Name>
+    <Name>Salamaleko</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
     <Rank>125</Rank>
-    <Name>Salamaleko</Name>
+    <Name>Yukira</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
@@ -633,12 +633,12 @@
   </Player>
   <Player>
     <Rank>127</Rank>
-    <Name>Templarr</Name>
+    <Name>Bsmercy</Name>
     <StarsCollected>92</StarsCollected>
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Bsmercy</Name>
+    <Name>Templarr</Name>
     <StarsCollected>92</StarsCollected>
   </Player>
 </StarsHighscores>
