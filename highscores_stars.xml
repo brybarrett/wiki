@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1748155507287</GeneratedAt>
+  <GeneratedAt>1748155807278</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Pablo</Name>
@@ -78,12 +78,12 @@
   </Player>
   <Player>
     <Rank>16</Rank>
-    <Name>Frieren</Name>
+    <Name>Blindada</Name>
     <StarsCollected>213</StarsCollected>
   </Player>
   <Player>
     <Rank>17</Rank>
-    <Name>Blindada</Name>
+    <Name>Frieren</Name>
     <StarsCollected>213</StarsCollected>
   </Player>
   <Player>
@@ -308,12 +308,12 @@
   </Player>
   <Player>
     <Rank>62</Rank>
-    <Name>Vamplod</Name>
+    <Name>Sugar</Name>
     <StarsCollected>146</StarsCollected>
   </Player>
   <Player>
     <Rank>63</Rank>
-    <Name>Sugar</Name>
+    <Name>Vamplod</Name>
     <StarsCollected>146</StarsCollected>
   </Player>
   <Player>
@@ -498,17 +498,17 @@
   </Player>
   <Player>
     <Rank>100</Rank>
-    <Name>Biawak</Name>
-    <StarsCollected>104</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>101</Rank>
     <Name>Cupy</Name>
     <StarsCollected>104</StarsCollected>
   </Player>
   <Player>
-    <Rank>102</Rank>
+    <Rank>101</Rank>
     <Name>Barba</Name>
+    <StarsCollected>104</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>102</Rank>
+    <Name>Biawak</Name>
     <StarsCollected>104</StarsCollected>
   </Player>
   <Player>
