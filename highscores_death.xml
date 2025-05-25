@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748208390833</GeneratedAt>
+  <GeneratedAt>1748208690829</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brisadeiro</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Noia</Player>
+    <LostExp>24334030</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-05-25 23:27:50</Time>
+    <Location>(31786,31956,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Lessako</Player>
     <LostExp>814114</LostExp>
     <KilledBy>Assasin</KilledBy>
