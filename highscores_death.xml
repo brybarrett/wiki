@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748169907273</GeneratedAt>
+  <GeneratedAt>1748170207293</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Zahard</Player>
+    <LostExp>101705927</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-05-25 12:46:05</Time>
+    <Location>(31814,31957,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Urekmazino</Player>
     <LostExp>69963476</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31800,31925,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Mrhafiz</Player>
     <LostExp>38336448</LostExp>
     <KilledBy>Horrornet</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32814,31988,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Qr</Player>
     <LostExp>14209870</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31779,31959,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Matrix </Player>
     <LostExp>3148397</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32864,31994,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Fuva</Player>
     <LostExp>2856240</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32040,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Jembuff</Player>
     <LostExp>818320</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31924,31999,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Matadordpk</Player>
     <LostExp>362805</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32005,31883,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Cloudyy</Player>
     <LostExp>355103</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32042,32040,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Phrese</Player>
     <LostExp>172632</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31983,31926,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Lelia</Player>
     <LostExp>45019</LostExp>
     <KilledBy>Werewolf</KilledBy>
