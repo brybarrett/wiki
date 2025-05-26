@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748294410400</GeneratedAt>
+  <GeneratedAt>1748294710386</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -339,6 +339,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>43</Rank>
+    <Player>Bomnaja</Player>
+    <LostExp>119994</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-05-26 23:22:11</Time>
+    <Location>(32010,31876,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>44</Rank>
     <Player>Protons</Player>
     <LostExp>26964</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(31982,31898,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Protons</Player>
     <LostExp>88</LostExp>
     <KilledBy>Spider</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(31943,31915,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Protons</Player>
     <LostExp>0</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
