@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748219410390</GeneratedAt>
+  <GeneratedAt>1748219710390</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Magrela </Player>
@@ -16,5 +16,13 @@
     <KilledBy>Terrorbird</KilledBy>
     <Time>2025-05-26 01:17:30</Time>
     <Location>(31922,32010,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Sexi</Player>
+    <LostExp>131715</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-05-26 02:30:13</Time>
+    <Location>(31983,31897,9)</Location>
   </DeathEvent>
 </DeathHighscores>
