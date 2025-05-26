@@ -1,334 +1,389 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DailyXpHighscores>
-  <GeneratedAt>1748299121776</GeneratedAt>
+  <GeneratedAt>1748299421781</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Mi</Name>
-    <XpEarned>1066695</XpEarned>
+    <XpEarned>1956059</XpEarned>
   </Player>
   <Player>
     <Rank>2</Rank>
-    <Name>Bruxo</Name>
-    <XpEarned>782854</XpEarned>
+    <Name>Guinny</Name>
+    <XpEarned>1336742</XpEarned>
   </Player>
   <Player>
     <Rank>3</Rank>
+    <Name>Digdin</Name>
+    <XpEarned>1131900</XpEarned>
+  </Player>
+  <Player>
+    <Rank>4</Rank>
+    <Name>Lordwolf</Name>
+    <XpEarned>1100575</XpEarned>
+  </Player>
+  <Player>
+    <Rank>5</Rank>
+    <Name>Blindadu</Name>
+    <XpEarned>1089740</XpEarned>
+  </Player>
+  <Player>
+    <Rank>6</Rank>
+    <Name>Bruxo</Name>
+    <XpEarned>1053164</XpEarned>
+  </Player>
+  <Player>
+    <Rank>7</Rank>
+    <Name>Niggawiz</Name>
+    <XpEarned>1028633</XpEarned>
+  </Player>
+  <Player>
+    <Rank>8</Rank>
+    <Name>Wizzard</Name>
+    <XpEarned>1024626</XpEarned>
+  </Player>
+  <Player>
+    <Rank>9</Rank>
+    <Name>Pandatank</Name>
+    <XpEarned>994333</XpEarned>
+  </Player>
+  <Player>
+    <Rank>10</Rank>
+    <Name>Brokazee</Name>
+    <XpEarned>992739</XpEarned>
+  </Player>
+  <Player>
+    <Rank>11</Rank>
+    <Name>Madara</Name>
+    <XpEarned>990753</XpEarned>
+  </Player>
+  <Player>
+    <Rank>12</Rank>
+    <Name>Rigger</Name>
+    <XpEarned>978808</XpEarned>
+  </Player>
+  <Player>
+    <Rank>13</Rank>
+    <Name>Mitt</Name>
+    <XpEarned>950349</XpEarned>
+  </Player>
+  <Player>
+    <Rank>14</Rank>
+    <Name>Ganny</Name>
+    <XpEarned>845770</XpEarned>
+  </Player>
+  <Player>
+    <Rank>15</Rank>
+    <Name>Pageone</Name>
+    <XpEarned>840737</XpEarned>
+  </Player>
+  <Player>
+    <Rank>16</Rank>
+    <Name>Hawkeyez</Name>
+    <XpEarned>805869</XpEarned>
+  </Player>
+  <Player>
+    <Rank>17</Rank>
+    <Name>Sunrako</Name>
+    <XpEarned>797541</XpEarned>
+  </Player>
+  <Player>
+    <Rank>18</Rank>
+    <Name>Sunraku</Name>
+    <XpEarned>777508</XpEarned>
+  </Player>
+  <Player>
+    <Rank>19</Rank>
+    <Name>Cupy</Name>
+    <XpEarned>776160</XpEarned>
+  </Player>
+  <Player>
+    <Rank>20</Rank>
     <Name>Kibo</Name>
     <XpEarned>772586</XpEarned>
   </Player>
   <Player>
-    <Rank>4</Rank>
-    <Name>Niggawiz</Name>
-    <XpEarned>764400</XpEarned>
-  </Player>
-  <Player>
-    <Rank>5</Rank>
-    <Name>Digdin</Name>
-    <XpEarned>711480</XpEarned>
-  </Player>
-  <Player>
-    <Rank>6</Rank>
-    <Name>Blindadu</Name>
-    <XpEarned>676609</XpEarned>
-  </Player>
-  <Player>
-    <Rank>7</Rank>
-    <Name>Brokazee</Name>
-    <XpEarned>675927</XpEarned>
-  </Player>
-  <Player>
-    <Rank>8</Rank>
-    <Name>Lordwolf</Name>
-    <XpEarned>654745</XpEarned>
-  </Player>
-  <Player>
-    <Rank>9</Rank>
-    <Name>Guinny</Name>
-    <XpEarned>639555</XpEarned>
-  </Player>
-  <Player>
-    <Rank>10</Rank>
-    <Name>Rigger</Name>
-    <XpEarned>617959</XpEarned>
-  </Player>
-  <Player>
-    <Rank>11</Rank>
-    <Name>Hawkeyez</Name>
-    <XpEarned>605547</XpEarned>
-  </Player>
-  <Player>
-    <Rank>12</Rank>
-    <Name>Pandatank</Name>
-    <XpEarned>599575</XpEarned>
-  </Player>
-  <Player>
-    <Rank>13</Rank>
-    <Name>Wizzard</Name>
-    <XpEarned>596885</XpEarned>
-  </Player>
-  <Player>
-    <Rank>14</Rank>
-    <Name>Madara</Name>
-    <XpEarned>590719</XpEarned>
-  </Player>
-  <Player>
-    <Rank>15</Rank>
-    <Name>Sunraku</Name>
-    <XpEarned>521808</XpEarned>
-  </Player>
-  <Player>
-    <Rank>16</Rank>
-    <Name>Mitt</Name>
-    <XpEarned>508208</XpEarned>
-  </Player>
-  <Player>
-    <Rank>17</Rank>
-    <Name>Ghost</Name>
-    <XpEarned>503883</XpEarned>
-  </Player>
-  <Player>
-    <Rank>18</Rank>
-    <Name>Megume</Name>
-    <XpEarned>493933</XpEarned>
-  </Player>
-  <Player>
-    <Rank>19</Rank>
-    <Name>Pageone</Name>
-    <XpEarned>486566</XpEarned>
-  </Player>
-  <Player>
-    <Rank>20</Rank>
-    <Name>Cupy</Name>
-    <XpEarned>485100</XpEarned>
-  </Player>
-  <Player>
     <Rank>21</Rank>
-    <Name>Nenawiz</Name>
-    <XpEarned>469950</XpEarned>
+    <Name>Laubisomi </Name>
+    <XpEarned>698702</XpEarned>
   </Player>
   <Player>
     <Rank>22</Rank>
-    <Name>Ganny</Name>
-    <XpEarned>468394</XpEarned>
+    <Name>Megume</Name>
+    <XpEarned>698160</XpEarned>
   </Player>
   <Player>
     <Rank>23</Rank>
-    <Name>Laubisomi </Name>
-    <XpEarned>428860</XpEarned>
+    <Name>Nenawiz</Name>
+    <XpEarned>676728</XpEarned>
   </Player>
   <Player>
     <Rank>24</Rank>
-    <Name>Aifa</Name>
-    <XpEarned>383180</XpEarned>
+    <Name>Ainz</Name>
+    <XpEarned>665115</XpEarned>
   </Player>
   <Player>
     <Rank>25</Rank>
-    <Name>Eunha</Name>
-    <XpEarned>375399</XpEarned>
+    <Name>Aifa</Name>
+    <XpEarned>631120</XpEarned>
   </Player>
   <Player>
     <Rank>26</Rank>
-    <Name>Sunrako</Name>
-    <XpEarned>354084</XpEarned>
+    <Name>Eunha</Name>
+    <XpEarned>625113</XpEarned>
   </Player>
   <Player>
     <Rank>27</Rank>
     <Name>Xxfuxx</Name>
-    <XpEarned>354084</XpEarned>
+    <XpEarned>585243</XpEarned>
   </Player>
   <Player>
     <Rank>28</Rank>
-    <Name>Lessako</Name>
-    <XpEarned>277304</XpEarned>
+    <Name>Ghost</Name>
+    <XpEarned>508587</XpEarned>
   </Player>
   <Player>
     <Rank>29</Rank>
     <Name>Michael</Name>
-    <XpEarned>276280</XpEarned>
+    <XpEarned>484880</XpEarned>
   </Player>
   <Player>
     <Rank>30</Rank>
-    <Name>Buca</Name>
-    <XpEarned>258720</XpEarned>
+    <Name>Pintoral</Name>
+    <XpEarned>414414</XpEarned>
   </Player>
   <Player>
     <Rank>31</Rank>
-    <Name>Marketeiro</Name>
-    <XpEarned>236306</XpEarned>
+    <Name>Tuyull</Name>
+    <XpEarned>407837</XpEarned>
   </Player>
   <Player>
     <Rank>32</Rank>
     <Name>Blindado</Name>
-    <XpEarned>225808</XpEarned>
+    <XpEarned>369504</XpEarned>
   </Player>
   <Player>
     <Rank>33</Rank>
-    <Name>Tuyull</Name>
-    <XpEarned>222341</XpEarned>
+    <Name>Pancernik</Name>
+    <XpEarned>317961</XpEarned>
   </Player>
   <Player>
     <Rank>34</Rank>
-    <Name>Mii</Name>
-    <XpEarned>220275</XpEarned>
+    <Name>Panda</Name>
+    <XpEarned>310364</XpEarned>
   </Player>
   <Player>
     <Rank>35</Rank>
-    <Name>Sunrakul</Name>
-    <XpEarned>197966</XpEarned>
+    <Name>Hakina</Name>
+    <XpEarned>290877</XpEarned>
   </Player>
   <Player>
     <Rank>36</Rank>
     <Name>Mit</Name>
-    <XpEarned>192192</XpEarned>
+    <XpEarned>282282</XpEarned>
   </Player>
   <Player>
     <Rank>37</Rank>
-    <Name>Blindada</Name>
-    <XpEarned>172051</XpEarned>
+    <Name>Lessako</Name>
+    <XpEarned>277304</XpEarned>
   </Player>
   <Player>
     <Rank>38</Rank>
-    <Name>Panda</Name>
-    <XpEarned>171183</XpEarned>
+    <Name>Blindao</Name>
+    <XpEarned>274225</XpEarned>
   </Player>
   <Player>
     <Rank>39</Rank>
-    <Name>Blindao</Name>
-    <XpEarned>149870</XpEarned>
+    <Name>Buca</Name>
+    <XpEarned>258720</XpEarned>
   </Player>
   <Player>
     <Rank>40</Rank>
-    <Name>Hakina</Name>
-    <XpEarned>146791</XpEarned>
+    <Name>Lendaria</Name>
+    <XpEarned>245619</XpEarned>
   </Player>
   <Player>
     <Rank>41</Rank>
-    <Name>Lendaria</Name>
-    <XpEarned>145552</XpEarned>
+    <Name>Alzeta</Name>
+    <XpEarned>241079</XpEarned>
   </Player>
   <Player>
     <Rank>42</Rank>
-    <Name>Destino</Name>
-    <XpEarned>130145</XpEarned>
+    <Name>Marketeiro</Name>
+    <XpEarned>236306</XpEarned>
   </Player>
   <Player>
     <Rank>43</Rank>
-    <Name>Ainz</Name>
-    <XpEarned>127052</XpEarned>
+    <Name>Blindada</Name>
+    <XpEarned>221873</XpEarned>
   </Player>
   <Player>
     <Rank>44</Rank>
-    <Name>Afk</Name>
-    <XpEarned>118261</XpEarned>
+    <Name>Mii</Name>
+    <XpEarned>220275</XpEarned>
   </Player>
   <Player>
     <Rank>45</Rank>
+    <Name>Destino</Name>
+    <XpEarned>206659</XpEarned>
+  </Player>
+  <Player>
+    <Rank>46</Rank>
+    <Name>Sunrakul</Name>
+    <XpEarned>197966</XpEarned>
+  </Player>
+  <Player>
+    <Rank>47</Rank>
+    <Name>Willmk</Name>
+    <XpEarned>192493</XpEarned>
+  </Player>
+  <Player>
+    <Rank>48</Rank>
+    <Name>Afk</Name>
+    <XpEarned>191037</XpEarned>
+  </Player>
+  <Player>
+    <Rank>49</Rank>
+    <Name>Lordblack</Name>
+    <XpEarned>124542</XpEarned>
+  </Player>
+  <Player>
+    <Rank>50</Rank>
+    <Name>Kingsblack</Name>
+    <XpEarned>117812</XpEarned>
+  </Player>
+  <Player>
+    <Rank>51</Rank>
+    <Name>Xdxdxdx</Name>
+    <XpEarned>111725</XpEarned>
+  </Player>
+  <Player>
+    <Rank>52</Rank>
     <Name>Borala</Name>
     <XpEarned>110752</XpEarned>
   </Player>
   <Player>
-    <Rank>46</Rank>
+    <Rank>53</Rank>
+    <Name>Valkiria</Name>
+    <XpEarned>101920</XpEarned>
+  </Player>
+  <Player>
+    <Rank>54</Rank>
+    <Name>Heineken</Name>
+    <XpEarned>100679</XpEarned>
+  </Player>
+  <Player>
+    <Rank>55</Rank>
     <Name>Dinho</Name>
     <XpEarned>89250</XpEarned>
   </Player>
   <Player>
-    <Rank>47</Rank>
-    <Name>Lordblack</Name>
-    <XpEarned>80026</XpEarned>
+    <Rank>56</Rank>
+    <Name>Dom</Name>
+    <XpEarned>80850</XpEarned>
   </Player>
   <Player>
-    <Rank>48</Rank>
-    <Name>Pancernik</Name>
-    <XpEarned>79828</XpEarned>
+    <Rank>57</Rank>
+    <Name>Oftheking</Name>
+    <XpEarned>79993</XpEarned>
   </Player>
   <Player>
-    <Rank>49</Rank>
+    <Rank>58</Rank>
     <Name>Willinha </Name>
     <XpEarned>74253</XpEarned>
   </Player>
   <Player>
-    <Rank>50</Rank>
-    <Name>Valkiria</Name>
-    <XpEarned>72800</XpEarned>
-  </Player>
-  <Player>
-    <Rank>51</Rank>
+    <Rank>59</Rank>
     <Name>Knight</Name>
-    <XpEarned>70275</XpEarned>
+    <XpEarned>71965</XpEarned>
   </Player>
   <Player>
-    <Rank>52</Rank>
+    <Rank>60</Rank>
     <Name>Rei</Name>
-    <XpEarned>58464</XpEarned>
+    <XpEarned>68005</XpEarned>
   </Player>
   <Player>
-    <Rank>53</Rank>
+    <Rank>61</Rank>
+    <Name>Julioking</Name>
+    <XpEarned>65808</XpEarned>
+  </Player>
+  <Player>
+    <Rank>62</Rank>
+    <Name>Panqueca</Name>
+    <XpEarned>64806</XpEarned>
+  </Player>
+  <Player>
+    <Rank>63</Rank>
+    <Name>Magicol</Name>
+    <XpEarned>62790</XpEarned>
+  </Player>
+  <Player>
+    <Rank>64</Rank>
     <Name>Maxx</Name>
     <XpEarned>53096</XpEarned>
   </Player>
   <Player>
-    <Rank>54</Rank>
-    <Name>Oftheking</Name>
-    <XpEarned>46535</XpEarned>
+    <Rank>65</Rank>
+    <Name>Sxgabrielx</Name>
+    <XpEarned>39816</XpEarned>
   </Player>
   <Player>
-    <Rank>55</Rank>
-    <Name>Xdxdxdx</Name>
-    <XpEarned>44690</XpEarned>
+    <Rank>66</Rank>
+    <Name>Kakashi</Name>
+    <XpEarned>37683</XpEarned>
   </Player>
   <Player>
-    <Rank>56</Rank>
-    <Name>Julioking</Name>
-    <XpEarned>37017</XpEarned>
-  </Player>
-  <Player>
-    <Rank>57</Rank>
-    <Name>Magicol</Name>
-    <XpEarned>33488</XpEarned>
-  </Player>
-  <Player>
-    <Rank>58</Rank>
+    <Rank>67</Rank>
     <Name>Castiel</Name>
     <XpEarned>24751</XpEarned>
   </Player>
   <Player>
-    <Rank>59</Rank>
+    <Rank>68</Rank>
     <Name>Warr</Name>
     <XpEarned>16273</XpEarned>
   </Player>
   <Player>
-    <Rank>60</Rank>
+    <Rank>69</Rank>
+    <Name>Poppay</Name>
+    <XpEarned>15470</XpEarned>
+  </Player>
+  <Player>
+    <Rank>70</Rank>
+    <Name>Redzin</Name>
+    <XpEarned>14238</XpEarned>
+  </Player>
+  <Player>
+    <Rank>71</Rank>
     <Name>Soft</Name>
     <XpEarned>13891</XpEarned>
   </Player>
   <Player>
-    <Rank>61</Rank>
+    <Rank>72</Rank>
     <Name>Astreus</Name>
     <XpEarned>13891</XpEarned>
   </Player>
   <Player>
-    <Rank>62</Rank>
-    <Name>Kakashi</Name>
-    <XpEarned>5747</XpEarned>
+    <Rank>73</Rank>
+    <Name>Verock</Name>
+    <XpEarned>13891</XpEarned>
   </Player>
   <Player>
-    <Rank>63</Rank>
+    <Rank>74</Rank>
     <Name>Skyice</Name>
     <XpEarned>693</XpEarned>
   </Player>
   <Player>
-    <Rank>64</Rank>
+    <Rank>75</Rank>
+    <Name>Lendario</Name>
+    <XpEarned>232</XpEarned>
+  </Player>
+  <Player>
+    <Rank>76</Rank>
     <Name>Joker</Name>
     <XpEarned>0</XpEarned>
   </Player>
   <Player>
-    <Rank>65</Rank>
+    <Rank>77</Rank>
     <Name>Srlira</Name>
-    <XpEarned>0</XpEarned>
-  </Player>
-  <Player>
-    <Rank>66</Rank>
-    <Name>Alzeta</Name>
     <XpEarned>0</XpEarned>
   </Player>
 </DailyXpHighscores>
