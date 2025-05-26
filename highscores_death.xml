@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748251810402</GeneratedAt>
+  <GeneratedAt>1748252110413</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Buca</Player>
@@ -131,11 +131,11 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
-    <Player>Ladykait</Player>
-    <LostExp>337501</LostExp>
-    <KilledBy>Rabid Bear</KilledBy>
-    <Time>2025-05-26 03:27:50</Time>
-    <Location>(32028,31976,9)</Location>
+    <Player>Wolfmanz</Player>
+    <LostExp>488196</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-05-26 11:33:03</Time>
+    <Location>(32043,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
@@ -147,6 +147,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>19</Rank>
+    <Player>Ladykait</Player>
+    <LostExp>337501</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-05-26 03:27:50</Time>
+    <Location>(32028,31976,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
     <Player>Cinco</Player>
     <LostExp>132350</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31861,31907,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Sexi</Player>
     <LostExp>131715</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31983,31897,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Protons</Player>
     <LostExp>26964</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31982,31898,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Protons</Player>
     <LostExp>88</LostExp>
     <KilledBy>Spider</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31943,31915,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Protons</Player>
     <LostExp>0</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
