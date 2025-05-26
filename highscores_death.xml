@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748234110388</GeneratedAt>
+  <GeneratedAt>1748234410391</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brisadeira</Player>
@@ -76,13 +76,21 @@
   <DeathEvent>
     <Rank>10</Rank>
     <Player>Xdxdxdx</Player>
+    <LostExp>1150087</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2025-05-26 06:36:09</Time>
+    <Location>(31948,32014,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Xdxdxdx</Player>
     <LostExp>847033</LostExp>
     <KilledBy>Bantinel</KilledBy>
     <Time>2025-05-26 03:48:02</Time>
     <Location>(31955,32014,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Xdxdxdx</Player>
     <LostExp>698382</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -90,20 +98,12 @@
     <Location>(31922,32010,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Matadordpk</Player>
     <LostExp>539630</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-05-26 03:58:50</Time>
     <Location>(32005,31883,9)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>13</Rank>
-    <Player>Ladykait</Player>
-    <LostExp>337501</LostExp>
-    <KilledBy>Rabid Bear</KilledBy>
-    <Time>2025-05-26 03:27:50</Time>
-    <Location>(32028,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Ladykait</Player>
+    <LostExp>337501</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-05-26 03:27:50</Time>
+    <Location>(32028,31976,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Cinco</Player>
     <LostExp>132350</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31861,31907,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Sexi</Player>
     <LostExp>131715</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31983,31897,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Protons</Player>
     <LostExp>88</LostExp>
     <KilledBy>Spider</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31943,31915,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Protons</Player>
     <LostExp>0</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
