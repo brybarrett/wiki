@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748231410389</GeneratedAt>
+  <GeneratedAt>1748231710389</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brisadeira</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Protons</Player>
+    <LostExp>88</LostExp>
+    <KilledBy>Spider</KilledBy>
+    <Time>2025-05-26 05:51:10</Time>
+    <Location>(31943,31915,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Protons</Player>
     <LostExp>0</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
