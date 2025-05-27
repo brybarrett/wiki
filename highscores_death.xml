@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748364821775</GeneratedAt>
+  <GeneratedAt>1748365121781</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -187,6 +187,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>24</Rank>
+    <Player>Cpk</Player>
+    <LostExp>245468</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-05-27 18:58:37</Time>
+    <Location>(31863,31916,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
     <Player>Nund</Player>
     <LostExp>224517</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31992,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Cpk</Player>
     <LostExp>194299</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32052,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Cpk</Player>
     <LostExp>187343</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32059,31899,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Cpk</Player>
     <LostExp>159164</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31866,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Nex</Player>
     <LostExp>108369</LostExp>
     <KilledBy>The Bug</KilledBy>
