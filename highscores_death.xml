@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748311721782</GeneratedAt>
+  <GeneratedAt>1748312021780</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Xdxdxdx</Player>
+    <LostExp>3724027</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2025-05-27 04:13:15</Time>
+    <Location>(31948,32014,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Matadordpk</Player>
     <LostExp>605203</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32009,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Poppay</Player>
     <LostExp>436862</LostExp>
     <KilledBy>Troll</KilledBy>
