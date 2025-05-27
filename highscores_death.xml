@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748343221774</GeneratedAt>
+  <GeneratedAt>1748343521776</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -172,13 +172,21 @@
   <DeathEvent>
     <Rank>22</Rank>
     <Player>Cpk</Player>
+    <LostExp>187343</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-05-27 12:54:43</Time>
+    <Location>(32059,31899,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Cpk</Player>
     <LostExp>159164</LostExp>
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-05-27 09:24:41</Time>
     <Location>(31866,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Nex</Player>
     <LostExp>108369</LostExp>
     <KilledBy>The Bug</KilledBy>
