@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748327621788</GeneratedAt>
+  <GeneratedAt>1748327921784</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Iorshine</Player>
+    <LostExp>11761328</LostExp>
+    <KilledBy>Horrornet</KilledBy>
+    <Time>2025-05-27 08:34:32</Time>
+    <Location>(32816,31988,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Bonilha</Player>
     <LostExp>4769565</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Xdxdxdx</Player>
     <LostExp>3724027</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31948,32014,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Xdxdxdx</Player>
     <LostExp>3545829</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31941,31980,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Matadordpk</Player>
     <LostExp>605203</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32009,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Poppay</Player>
     <LostExp>436862</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31855,32022,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Nund</Player>
     <LostExp>224517</LostExp>
     <KilledBy>Orc</KilledBy>
