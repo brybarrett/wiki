@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748334521779</GeneratedAt>
+  <GeneratedAt>1748334821784</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -123,6 +123,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
+    <Player>Jokhex</Player>
+    <LostExp>3005343</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-27 10:32:31</Time>
+    <Location>(31881,32056,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
     <Player>Matadordpk</Player>
     <LostExp>605203</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32009,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Poppay</Player>
     <LostExp>436862</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31855,32022,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Nund</Player>
     <LostExp>224517</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31992,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Cpk</Player>
     <LostExp>159164</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31866,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Nex</Player>
     <LostExp>108369</LostExp>
     <KilledBy>The Bug</KilledBy>
