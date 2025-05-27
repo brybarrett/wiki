@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748329121784</GeneratedAt>
+  <GeneratedAt>1748329421787</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -136,5 +136,13 @@
     <KilledBy>Orc</KilledBy>
     <Time>2025-05-27 06:53:06</Time>
     <Location>(31992,31864,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
+    <Player>Nex</Player>
+    <LostExp>108369</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-05-27 09:00:42</Time>
+    <Location>(31990,32013,8)</Location>
   </DeathEvent>
 </DeathHighscores>
