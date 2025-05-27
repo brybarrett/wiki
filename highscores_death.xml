@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748303921778</GeneratedAt>
+  <GeneratedAt>1748304221770</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Brokazee</Player>
+    <LostExp>137915677</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-05-27 01:59:11</Time>
+    <Location>(31963,32270,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Nenawiz</Player>
     <LostExp>61203192</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31960,32254,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Poppay</Player>
     <LostExp>436862</LostExp>
     <KilledBy>Troll</KilledBy>
