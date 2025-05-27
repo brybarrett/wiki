@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748382221792</GeneratedAt>
+  <GeneratedAt>1748382521787</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -171,6 +171,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>22</Rank>
+    <Player>Boos</Player>
+    <LostExp>8485259</LostExp>
+    <KilledBy>Pancernik</KilledBy>
+    <Time>2025-05-27 23:45:55</Time>
+    <Location>(31791,31934,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
     <Player>Neon</Player>
     <LostExp>4849737</LostExp>
     <KilledBy>Gigantula</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32928,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Bonilha</Player>
     <LostExp>4769565</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Xdxdxdx</Player>
     <LostExp>3724027</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31948,32014,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Xdxdxdx</Player>
     <LostExp>3545829</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31941,31980,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Jokhex</Player>
     <LostExp>3005343</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31881,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Ken</Player>
     <LostExp>2142152</LostExp>
     <KilledBy>Crysmantis</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32810,32032,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Matadordpk</Player>
     <LostExp>605203</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32009,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Poppay</Player>
     <LostExp>436862</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31855,32022,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Cpk</Player>
     <LostExp>245468</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31863,31916,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Nund</Player>
     <LostExp>224517</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(31992,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Cpk</Player>
     <LostExp>194299</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(32052,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Cpk</Player>
     <LostExp>187343</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(32059,31899,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Cpk</Player>
     <LostExp>159164</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31866,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Nex</Player>
     <LostExp>108369</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Hengjz</Player>
     <LostExp>25390</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
