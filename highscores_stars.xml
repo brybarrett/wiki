@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1748364221792</GeneratedAt>
+  <GeneratedAt>1748364521777</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -64,7 +64,7 @@
   <Player>
     <Rank>13</Rank>
     <Name>Snob</Name>
-    <StarsCollected>235</StarsCollected>
+    <StarsCollected>236</StarsCollected>
   </Player>
   <Player>
     <Rank>14</Rank>
@@ -263,12 +263,12 @@
   </Player>
   <Player>
     <Rank>53</Rank>
-    <Name>Karin</Name>
+    <Name>Lumelia</Name>
     <StarsCollected>160</StarsCollected>
   </Player>
   <Player>
     <Rank>54</Rank>
-    <Name>Lumelia</Name>
+    <Name>Karin</Name>
     <StarsCollected>160</StarsCollected>
   </Player>
   <Player>
@@ -513,12 +513,12 @@
   </Player>
   <Player>
     <Rank>103</Rank>
-    <Name>Barba</Name>
+    <Name>Sakura</Name>
     <StarsCollected>106</StarsCollected>
   </Player>
   <Player>
     <Rank>104</Rank>
-    <Name>Sakura</Name>
+    <Name>Barba</Name>
     <StarsCollected>106</StarsCollected>
   </Player>
   <Player>
@@ -573,12 +573,12 @@
   </Player>
   <Player>
     <Rank>115</Rank>
-    <Name>Agenmarini</Name>
+    <Name>Salamaleko</Name>
     <StarsCollected>99</StarsCollected>
   </Player>
   <Player>
     <Rank>116</Rank>
-    <Name>Salamaleko</Name>
+    <Name>Agenmarini</Name>
     <StarsCollected>99</StarsCollected>
   </Player>
   <Player>
@@ -618,27 +618,27 @@
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Lordwolf</Name>
-    <StarsCollected>93</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>125</Rank>
     <Name>Mires</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
-    <Rank>126</Rank>
+    <Rank>125</Rank>
     <Name>Yukira</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
+    <Rank>126</Rank>
     <Name>Moon</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Templarr</Name>
+    <StarsCollected>93</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Lordwolf</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
 </StarsHighscores>
