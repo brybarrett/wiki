@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748403620557</GeneratedAt>
+  <GeneratedAt>1748403920562</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kibo</Player>
@@ -152,5 +152,13 @@
     <KilledBy>Wisper</KilledBy>
     <Time>2025-05-28 05:36:13</Time>
     <Location>(31898,31934,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Louu</Player>
+    <LostExp>47923</LostExp>
+    <KilledBy>Khex</KilledBy>
+    <Time>2025-05-28 05:41:16</Time>
+    <Location>(31897,31934,8)</Location>
   </DeathEvent>
 </DeathHighscores>
