@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1748449520584</GeneratedAt>
+  <GeneratedAt>1748449820556</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -618,27 +618,27 @@
   </Player>
   <Player>
     <Rank>124</Rank>
+    <Name>Templarr</Name>
+    <StarsCollected>94</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>125</Rank>
     <Name>Lordwolf</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
-    <Rank>125</Rank>
+    <Rank>126</Rank>
     <Name>Moon</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
-    <Rank>126</Rank>
+    <Rank>127</Rank>
     <Name>Yukira</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
-    <Name>Mires</Name>
-    <StarsCollected>93</StarsCollected>
-  </Player>
-  <Player>
     <Rank>128</Rank>
-    <Name>Templarr</Name>
+    <Name>Mires</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
 </StarsHighscores>
