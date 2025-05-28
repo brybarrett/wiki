@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1748394320550</GeneratedAt>
+  <GeneratedAt>1748394620560</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -308,12 +308,12 @@
   </Player>
   <Player>
     <Rank>62</Rank>
-    <Name>Srlira</Name>
+    <Name>Lordblack</Name>
     <StarsCollected>151</StarsCollected>
   </Player>
   <Player>
     <Rank>63</Rank>
-    <Name>Lordblack</Name>
+    <Name>Srlira</Name>
     <StarsCollected>151</StarsCollected>
   </Player>
   <Player>
@@ -343,22 +343,22 @@
   </Player>
   <Player>
     <Rank>69</Rank>
-    <Name>Godcarver</Name>
-    <StarsCollected>137</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>70</Rank>
     <Name>Superstar</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
-    <Rank>71</Rank>
+    <Rank>70</Rank>
     <Name>Goldtanker</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
-    <Rank>72</Rank>
+    <Rank>71</Rank>
     <Name>Fay</Name>
+    <StarsCollected>137</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>72</Rank>
+    <Name>Godcarver</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -393,12 +393,12 @@
   </Player>
   <Player>
     <Rank>79</Rank>
-    <Name>Rigger</Name>
+    <Name>Khorhigee</Name>
     <StarsCollected>131</StarsCollected>
   </Player>
   <Player>
     <Rank>80</Rank>
-    <Name>Khorhigee</Name>
+    <Name>Rigger</Name>
     <StarsCollected>131</StarsCollected>
   </Player>
   <Player>
@@ -543,12 +543,12 @@
   </Player>
   <Player>
     <Rank>109</Rank>
-    <Name>Itachi</Name>
+    <Name>Natoriu</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
     <Rank>110</Rank>
-    <Name>Natoriu</Name>
+    <Name>Itachi</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
@@ -618,27 +618,27 @@
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Lordwolf</Name>
-    <StarsCollected>93</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>125</Rank>
     <Name>Moon</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
-    <Rank>126</Rank>
+    <Rank>125</Rank>
     <Name>Yukira</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
+    <Rank>126</Rank>
     <Name>Mires</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Templarr</Name>
+    <StarsCollected>93</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Lordwolf</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
 </StarsHighscores>
