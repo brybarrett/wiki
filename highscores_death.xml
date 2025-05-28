@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748463020559</GeneratedAt>
+  <GeneratedAt>1748463320555</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer</Player>
@@ -347,6 +347,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>44</Rank>
+    <Player>Nassar</Player>
+    <LostExp>58348</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2025-05-28 22:12:29</Time>
+    <Location>(31855,31970,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>45</Rank>
     <Player>Hengjz</Player>
     <LostExp>57188</LostExp>
     <KilledBy>Little Drake</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(32012,31942,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Louu</Player>
     <LostExp>53248</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(31898,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Louu</Player>
     <LostExp>47923</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(31897,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Arzhel</Player>
     <LostExp>14611</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31906,31940,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Nassar</Player>
     <LostExp>424</LostExp>
     <KilledBy>Scorpion</KilledBy>
