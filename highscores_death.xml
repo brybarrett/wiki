@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748395520559</GeneratedAt>
+  <GeneratedAt>1748395820543</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kibo</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Magicol</Player>
+    <LostExp>13777480</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-05-28 03:28:51</Time>
+    <Location>(31880,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Xdxdxdx</Player>
     <LostExp>5994292</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32841,31971,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Kratos</Player>
     <LostExp>2875365</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31983,32067,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Knight</Player>
     <LostExp>2625912</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32849,31974,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Quebeck</Player>
     <LostExp>1559452</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31907,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Cinco</Player>
     <LostExp>1529002</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31895,31898,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Gasparwiz</Player>
     <LostExp>672398</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32847,31976,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Matadordpk</Player>
     <LostExp>643348</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32038,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Gasparwiz</Player>
     <LostExp>612766</LostExp>
     <KilledBy>Redeath</KilledBy>
