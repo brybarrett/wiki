@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748463320555</GeneratedAt>
+  <GeneratedAt>1748463620566</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer</Player>
@@ -371,6 +371,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>47</Rank>
+    <Player>Nassar</Player>
+    <LostExp>52513</LostExp>
+    <KilledBy>Minorrior</KilledBy>
+    <Time>2025-05-28 22:16:48</Time>
+    <Location>(31851,31970,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>48</Rank>
     <Player>Louu</Player>
     <LostExp>47923</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31897,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Arzhel</Player>
     <LostExp>14611</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(31906,31940,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Nassar</Player>
     <LostExp>424</LostExp>
     <KilledBy>Scorpion</KilledBy>
