@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748451920555</GeneratedAt>
+  <GeneratedAt>1748452220578</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer</Player>
@@ -267,6 +267,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>34</Rank>
+    <Player>Cpk</Player>
+    <LostExp>366671</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-05-28 19:09:09</Time>
+    <Location>(32052,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Nex</Player>
     <LostExp>355704</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31994,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Mikazee</Player>
     <LostExp>311015</LostExp>
     <KilledBy>Pancernik</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31973,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Eloa</Player>
     <LostExp>224335</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(32038,31884,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Hengjz</Player>
     <LostExp>57188</LostExp>
     <KilledBy>Little Drake</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(32012,31942,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Louu</Player>
     <LostExp>53248</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31898,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Louu</Player>
     <LostExp>47923</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31897,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Arzhel</Player>
     <LostExp>14611</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31906,31940,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Nassar</Player>
     <LostExp>424</LostExp>
     <KilledBy>Scorpion</KilledBy>
