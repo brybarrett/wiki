@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748409620561</GeneratedAt>
+  <GeneratedAt>1748409920557</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kibo</Player>
@@ -171,6 +171,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>22</Rank>
+    <Player>Phrese</Player>
+    <LostExp>422643</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2025-05-28 07:22:37</Time>
+    <Location>(31857,31972,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
     <Player>Hengjz</Player>
     <LostExp>57188</LostExp>
     <KilledBy>Little Drake</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32012,31942,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Louu</Player>
     <LostExp>53248</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31898,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Louu</Player>
     <LostExp>47923</LostExp>
     <KilledBy>Khex</KilledBy>
