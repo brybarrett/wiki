@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748476911704</GeneratedAt>
+  <GeneratedAt>1748477211712</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Deniallvz</Player>
+    <LostExp>1027785</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-05-29 02:04:41</Time>
+    <Location>(32854,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Riquekmila</Player>
     <LostExp>62321</LostExp>
     <KilledBy>Crocodile</KilledBy>
