@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748560519289</GeneratedAt>
+  <GeneratedAt>1748560819288</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Valkiria</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Flutty</KilledBy>
     <Time>2025-05-30 01:00:45</Time>
     <Location>(32064,31826,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Knight</Player>
+    <LostExp>3914760</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-05-30 01:18:59</Time>
+    <Location>(32064,31820,8)</Location>
   </DeathEvent>
 </DeathHighscores>
