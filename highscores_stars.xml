@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1748534211725</GeneratedAt>
+  <GeneratedAt>1748534511711</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -133,12 +133,12 @@
   </Player>
   <Player>
     <Rank>27</Rank>
-    <Name>Ace</Name>
+    <Name>Giovani</Name>
     <StarsCollected>191</StarsCollected>
   </Player>
   <Player>
     <Rank>28</Rank>
-    <Name>Giovani</Name>
+    <Name>Ace</Name>
     <StarsCollected>191</StarsCollected>
   </Player>
   <Player>
@@ -253,12 +253,12 @@
   </Player>
   <Player>
     <Rank>51</Rank>
-    <Name>Ashura</Name>
+    <Name>Offtank</Name>
     <StarsCollected>161</StarsCollected>
   </Player>
   <Player>
     <Rank>52</Rank>
-    <Name>Offtank</Name>
+    <Name>Ashura</Name>
     <StarsCollected>161</StarsCollected>
   </Player>
   <Player>
@@ -448,12 +448,12 @@
   </Player>
   <Player>
     <Rank>90</Rank>
-    <Name>Blindadu</Name>
+    <Name>Cloudy</Name>
     <StarsCollected>122</StarsCollected>
   </Player>
   <Player>
     <Rank>91</Rank>
-    <Name>Cloudy</Name>
+    <Name>Blindadu</Name>
     <StarsCollected>122</StarsCollected>
   </Player>
   <Player>
@@ -488,12 +488,12 @@
   </Player>
   <Player>
     <Rank>98</Rank>
-    <Name>Templar</Name>
+    <Name>Zin</Name>
     <StarsCollected>114</StarsCollected>
   </Player>
   <Player>
     <Rank>99</Rank>
-    <Name>Zin</Name>
+    <Name>Templar</Name>
     <StarsCollected>114</StarsCollected>
   </Player>
   <Player>
@@ -628,17 +628,17 @@
   </Player>
   <Player>
     <Rank>126</Rank>
-    <Name>Yukira</Name>
-    <StarsCollected>93</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>127</Rank>
     <Name>Lordwolf</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Moon</Name>
+    <StarsCollected>93</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Mires</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
 </StarsHighscores>
