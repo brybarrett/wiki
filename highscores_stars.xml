@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1748533611717</GeneratedAt>
+  <GeneratedAt>1748533911717</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -133,12 +133,12 @@
   </Player>
   <Player>
     <Rank>27</Rank>
-    <Name>Giovani</Name>
+    <Name>Ace</Name>
     <StarsCollected>191</StarsCollected>
   </Player>
   <Player>
     <Rank>28</Rank>
-    <Name>Ace</Name>
+    <Name>Giovani</Name>
     <StarsCollected>191</StarsCollected>
   </Player>
   <Player>
@@ -303,12 +303,12 @@
   </Player>
   <Player>
     <Rank>61</Rank>
-    <Name>Moondeath</Name>
+    <Name>Srlira</Name>
     <StarsCollected>152</StarsCollected>
   </Player>
   <Player>
     <Rank>62</Rank>
-    <Name>Srlira</Name>
+    <Name>Moondeath</Name>
     <StarsCollected>152</StarsCollected>
   </Player>
   <Player>
@@ -503,17 +503,17 @@
   </Player>
   <Player>
     <Rank>101</Rank>
+    <Name>Cupy</Name>
+    <StarsCollected>111</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>102</Rank>
     <Name>Victorbr</Name>
     <StarsCollected>110</StarsCollected>
   </Player>
   <Player>
-    <Rank>102</Rank>
-    <Name>Castiel</Name>
-    <StarsCollected>110</StarsCollected>
-  </Player>
-  <Player>
     <Rank>103</Rank>
-    <Name>Cupy</Name>
+    <Name>Castiel</Name>
     <StarsCollected>110</StarsCollected>
   </Player>
   <Player>
@@ -558,12 +558,12 @@
   </Player>
   <Player>
     <Rank>112</Rank>
-    <Name>Grimmie</Name>
+    <Name>Raven</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
     <Rank>113</Rank>
-    <Name>Raven</Name>
+    <Name>Grimmie</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
@@ -618,27 +618,27 @@
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Pandatank</Name>
-    <StarsCollected>94</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>125</Rank>
     <Name>Templarr</Name>
     <StarsCollected>94</StarsCollected>
   </Player>
   <Player>
-    <Rank>126</Rank>
-    <Name>Mires</Name>
-    <StarsCollected>93</StarsCollected>
+    <Rank>125</Rank>
+    <Name>Pandatank</Name>
+    <StarsCollected>94</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
+    <Rank>126</Rank>
     <Name>Yukira</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Lordwolf</Name>
+    <StarsCollected>93</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Moon</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
 </StarsHighscores>
