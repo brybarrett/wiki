@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748498511755</GeneratedAt>
+  <GeneratedAt>1748498811726</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Jcl</Player>
+    <LostExp>152869129</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-05-29 08:05:41</Time>
+    <Location>(31906,32214,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Lith</Player>
     <LostExp>58308782</LostExp>
     <KilledBy>Shellborn</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31847,32108,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Dinastia</Player>
     <LostExp>23939433</LostExp>
     <KilledBy>Kul'Krak'u</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31794,31908,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Noia</Player>
     <LostExp>23514898</LostExp>
     <KilledBy>Kul'Krak'u</KilledBy>
@@ -34,20 +42,12 @@
     <Location>(31794,31915,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Valkiria</Player>
     <LostExp>11891379</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-05-29 05:14:07</Time>
     <Location>(32010,31874,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>6</Rank>
-    <Player>Iorshine</Player>
-    <LostExp>9785443</LostExp>
-    <KilledBy>Crustea</KilledBy>
-    <Time>2025-05-29 03:54:00</Time>
-    <Location>(32846,32000,9)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Iorshine</Player>
+    <LostExp>9785443</LostExp>
+    <KilledBy>Crustea</KilledBy>
+    <Time>2025-05-29 03:54:00</Time>
+    <Location>(32846,32000,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Neon</Player>
     <LostExp>6473863</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32817,32038,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Panqueca</Player>
     <LostExp>5902588</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31930,31985,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Neon</Player>
     <LostExp>5841409</LostExp>
     <KilledBy>Gigantula</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32929,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Bonilha</Player>
     <LostExp>4816706</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Deniallvz</Player>
     <LostExp>1027785</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -98,20 +106,12 @@
     <Location>(32854,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Abgkumis</Player>
     <LostExp>739061</LostExp>
     <KilledBy>The Bug</KilledBy>
     <Time>2025-05-29 04:16:25</Time>
     <Location>(31990,32013,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>14</Rank>
-    <Player>Riquekmila</Player>
-    <LostExp>261768</LostExp>
-    <KilledBy>Minotaur</KilledBy>
-    <Time>2025-05-29 07:07:21</Time>
-    <Location>(31878,31996,11)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
@@ -123,6 +123,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
+    <Player>Riquekmila</Player>
+    <LostExp>261768</LostExp>
+    <KilledBy>Minotaur</KilledBy>
+    <Time>2025-05-29 07:07:21</Time>
+    <Location>(31878,31996,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
     <Player>Lezatman</Player>
     <LostExp>75911</LostExp>
     <KilledBy>Alfisyeh</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31976,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Lezatman</Player>
     <LostExp>68319</LostExp>
     <KilledBy>Alfisyeh</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Riquekmila</Player>
     <LostExp>62321</LostExp>
     <KilledBy>Crocodile</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32019,31917,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Lezatman</Player>
     <LostExp>61488</LostExp>
     <KilledBy>Alfisyeh</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31973,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Lezatman</Player>
     <LostExp>55339</LostExp>
     <KilledBy>Alfisyeh</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Rureda</Player>
     <LostExp>502</LostExp>
     <KilledBy>Chaleton</KilledBy>
