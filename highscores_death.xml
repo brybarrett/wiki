@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748561719286</GeneratedAt>
+  <GeneratedAt>1748562019295</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Killerwiz</Player>
+    <LostExp>218671334</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-05-30 01:39:58</Time>
+    <Location>(31983,32268,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Dinho</Player>
     <LostExp>24905668</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31968,32218,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Valkiria</Player>
     <LostExp>11128117</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32064,31826,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Knight</Player>
     <LostExp>3914760</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32064,31820,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Mcn</Player>
     <LostExp>22500</LostExp>
     <KilledBy>Maciano</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31974,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Mcn</Player>
     <LostExp>0</LostExp>
     <KilledBy>Bug</KilledBy>
