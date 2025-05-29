@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748492211717</GeneratedAt>
+  <GeneratedAt>1748492511726</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -144,5 +144,13 @@
     <KilledBy>Alfisyeh</KilledBy>
     <Time>2025-05-29 02:47:35</Time>
     <Location>(31973,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Rureda</Player>
+    <LostExp>502</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-05-29 06:21:23</Time>
+    <Location>(32189,32272,9)</Location>
   </DeathEvent>
 </DeathHighscores>
