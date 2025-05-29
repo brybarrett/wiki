@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748479311722</GeneratedAt>
+  <GeneratedAt>1748479611725</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Panqueca</Player>
+    <LostExp>5902588</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-05-29 02:45:31</Time>
+    <Location>(31930,31985,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Neon</Player>
     <LostExp>5841409</LostExp>
     <KilledBy>Gigantula</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32929,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Bonilha</Player>
     <LostExp>4816706</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Deniallvz</Player>
     <LostExp>1027785</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -50,11 +58,35 @@
     <Location>(32854,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
+    <Player>Lezatman</Player>
+    <LostExp>75911</LostExp>
+    <KilledBy>Alfisyeh</KilledBy>
+    <Time>2025-05-29 02:44:56</Time>
+    <Location>(31976,31985,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Lezatman</Player>
+    <LostExp>68319</LostExp>
+    <KilledBy>Alfisyeh</KilledBy>
+    <Time>2025-05-29 02:45:45</Time>
+    <Location>(31973,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Riquekmila</Player>
     <LostExp>62321</LostExp>
     <KilledBy>Crocodile</KilledBy>
     <Time>2025-05-29 01:58:50</Time>
     <Location>(32019,31917,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Lezatman</Player>
+    <LostExp>61488</LostExp>
+    <KilledBy>Alfisyeh</KilledBy>
+    <Time>2025-05-29 02:46:37</Time>
+    <Location>(31973,31985,7)</Location>
   </DeathEvent>
 </DeathHighscores>
