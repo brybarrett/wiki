@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748560819288</GeneratedAt>
+  <GeneratedAt>1748561119303</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Dinho</Player>
+    <LostExp>24905668</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-05-30 01:23:31</Time>
+    <Location>(31968,32218,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Valkiria</Player>
     <LostExp>11128117</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -10,11 +18,19 @@
     <Location>(32064,31826,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Knight</Player>
     <LostExp>3914760</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2025-05-30 01:18:59</Time>
     <Location>(32064,31820,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Mcn</Player>
+    <LostExp>0</LostExp>
+    <KilledBy>Bug</KilledBy>
+    <Time>2025-05-30 01:25:02</Time>
+    <Location>(31988,32013,8)</Location>
   </DeathEvent>
 </DeathHighscores>
