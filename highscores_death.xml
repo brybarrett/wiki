@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748637319303</GeneratedAt>
+  <GeneratedAt>1748637619304</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -212,13 +212,21 @@
   <DeathEvent>
     <Rank>27</Rank>
     <Player>Warloock</Player>
+    <LostExp>3539</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-05-30 22:39:18</Time>
+    <Location>(31983,31897,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
+    <Player>Warloock</Player>
     <LostExp>3475</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-05-30 22:31:07</Time>
     <Location>(31890,32007,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Warloock</Player>
     <LostExp>3442</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31989,31914,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Mcn</Player>
     <LostExp>0</LostExp>
     <KilledBy>Bug</KilledBy>
