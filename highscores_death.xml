@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748569819292</GeneratedAt>
+  <GeneratedAt>1748570119293</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Mitt</Player>
+    <LostExp>121323563</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-05-30 03:51:16</Time>
+    <Location>(32142,32273,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Dinho</Player>
     <LostExp>24905668</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31968,32218,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Valkiria</Player>
     <LostExp>11128117</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32064,31826,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Magrela</Player>
     <LostExp>4153954</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32827,32022,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Knight</Player>
     <LostExp>3914760</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32064,31820,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Kratos</Player>
     <LostExp>3168715</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31969,31985,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Kratos</Player>
     <LostExp>2878408</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31969,31985,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Mcn</Player>
     <LostExp>22500</LostExp>
     <KilledBy>Maciano</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31974,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Mcn</Player>
     <LostExp>0</LostExp>
     <KilledBy>Bug</KilledBy>
