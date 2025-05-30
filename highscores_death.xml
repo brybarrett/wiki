@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748573119299</GeneratedAt>
+  <GeneratedAt>1748573419292</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Verockx</Player>
+    <LostExp>3394630</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-05-30 04:45:30</Time>
+    <Location>(32855,31970,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Kratos</Player>
     <LostExp>3168715</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31969,31985,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Kratos</Player>
     <LostExp>2878408</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31969,31985,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Sheman</Player>
     <LostExp>2073001</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32025,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Mcn</Player>
     <LostExp>22500</LostExp>
     <KilledBy>Maciano</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31974,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Mcn</Player>
     <LostExp>0</LostExp>
     <KilledBy>Bug</KilledBy>
