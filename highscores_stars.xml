@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1748571619302</GeneratedAt>
+  <GeneratedAt>1748571919290</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -303,12 +303,12 @@
   </Player>
   <Player>
     <Rank>61</Rank>
-    <Name>Srlira</Name>
+    <Name>Moondeath</Name>
     <StarsCollected>152</StarsCollected>
   </Player>
   <Player>
     <Rank>62</Rank>
-    <Name>Moondeath</Name>
+    <Name>Srlira</Name>
     <StarsCollected>152</StarsCollected>
   </Player>
   <Player>
@@ -508,12 +508,12 @@
   </Player>
   <Player>
     <Rank>102</Rank>
-    <Name>Castiel</Name>
+    <Name>Victorbr</Name>
     <StarsCollected>110</StarsCollected>
   </Player>
   <Player>
     <Rank>103</Rank>
-    <Name>Victorbr</Name>
+    <Name>Castiel</Name>
     <StarsCollected>110</StarsCollected>
   </Player>
   <Player>
@@ -618,27 +618,27 @@
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Pandatank</Name>
-    <StarsCollected>94</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>125</Rank>
     <Name>Templarr</Name>
     <StarsCollected>94</StarsCollected>
   </Player>
   <Player>
+    <Rank>125</Rank>
+    <Name>Pandatank</Name>
+    <StarsCollected>94</StarsCollected>
+  </Player>
+  <Player>
     <Rank>126</Rank>
-    <Name>Lordwolf </Name>
+    <Name>Yukira</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
     <Rank>127</Rank>
-    <Name>Moon</Name>
+    <Name>Lordwolf </Name>
     <StarsCollected>93</StarsCollected>
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Mires</Name>
+    <Name>Moon</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
 </StarsHighscores>
