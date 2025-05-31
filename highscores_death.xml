@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748690701119</GeneratedAt>
+  <GeneratedAt>1748691001113</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Neon</Player>
+    <LostExp>5118083</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-05-31 13:25:37</Time>
+    <Location>(32855,31967,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Zeruela</Player>
     <LostExp>3349490</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32060,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Kratos</Player>
     <LostExp>2646875</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31970,31989,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Nex</Player>
     <LostExp>2638762</LostExp>
     <KilledBy>Vampmaster</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31949,31914,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Salva</Player>
     <LostExp>0</LostExp>
     <KilledBy>Djinn</KilledBy>
