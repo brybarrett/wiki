@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748687701105</GeneratedAt>
+  <GeneratedAt>1748688001110</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Hero</Player>
+    <LostExp>18278994</LostExp>
+    <KilledBy>(Others)</KilledBy>
+    <Time>2025-05-31 12:35:29</Time>
+    <Location>(31791,31913,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Neaver</Player>
     <LostExp>16737484</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32007,32212,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Mtzera</Player>
     <LostExp>9749734</LostExp>
     <KilledBy>Dreadtide</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31847,32112,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Panqueca</Player>
     <LostExp>8574992</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31934,31981,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Bonilha</Player>
     <LostExp>5457329</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31890,32012,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Neon</Player>
     <LostExp>5332515</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32008,31882,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Zeruela</Player>
     <LostExp>3349490</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32060,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Kratos</Player>
     <LostExp>2646875</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31970,31989,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Nex</Player>
     <LostExp>2638762</LostExp>
     <KilledBy>Vampmaster</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31949,31914,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Salva</Player>
     <LostExp>0</LostExp>
     <KilledBy>Djinn</KilledBy>
