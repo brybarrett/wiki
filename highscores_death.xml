@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748743512800</GeneratedAt>
+  <GeneratedAt>1748743812773</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Fiolu</Player>
@@ -68,13 +68,21 @@
   <DeathEvent>
     <Rank>9</Rank>
     <Player>Oses</Player>
+    <LostExp>16420</LostExp>
+    <KilledBy>Lessako</KilledBy>
+    <Time>2025-06-01 04:05:29</Time>
+    <Location>(31975,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Oses</Player>
     <LostExp>0</LostExp>
     <KilledBy>Lessako</KilledBy>
     <Time>2025-06-01 03:58:40</Time>
     <Location>(31976,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Oses</Player>
     <LostExp>0</LostExp>
     <KilledBy>Lessako</KilledBy>
