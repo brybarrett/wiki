@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748818809767</GeneratedAt>
+  <GeneratedAt>1748819109754</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gandalf</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Chaombie</KilledBy>
     <Time>2025-06-02 00:33:49</Time>
     <Location>(31911,32221,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Ayder</Player>
+    <LostExp>5588354</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-02 01:04:42</Time>
+    <Location>(32032,32266,8)</Location>
   </DeathEvent>
 </DeathHighscores>
