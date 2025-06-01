@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748802382559</GeneratedAt>
+  <GeneratedAt>1748802682557</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Sheman</Player>
+    <LostExp>8222500</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-01 20:26:33</Time>
+    <Location>(31880,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Deniallvz</Player>
     <LostExp>4226152</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31948,32014,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Dashloth</Player>
     <LostExp>616942</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31904,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Candongo</Player>
     <LostExp>167713</LostExp>
     <KilledBy>Small Eye</KilledBy>
