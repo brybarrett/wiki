@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748806582567</GeneratedAt>
+  <GeneratedAt>1748806882567</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -99,6 +99,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Shaog</Player>
+    <LostExp>710222</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-06-01 21:36:45</Time>
+    <Location>(32851,31972,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Dashloth</Player>
     <LostExp>616942</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31904,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Candongo</Player>
     <LostExp>167713</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31933,32071,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Rini</Player>
     <LostExp>50558</LostExp>
     <KilledBy>Skeleton</KilledBy>
