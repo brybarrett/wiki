@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748809882551</GeneratedAt>
+  <GeneratedAt>1748810182564</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kannizinha</Player>
@@ -99,6 +99,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Bonilha</Player>
+    <LostExp>6607950</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-01 22:32:46</Time>
+    <Location>(31948,31994,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Deniallvz</Player>
     <LostExp>4226152</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31948,32014,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Shaog</Player>
     <LostExp>710222</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32851,31972,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Dashloth</Player>
     <LostExp>616942</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -122,7 +130,15 @@
     <Location>(31904,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
+    <Player>Dashloth</Player>
+    <LostExp>594041</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-06-01 22:35:54</Time>
+    <Location>(31942,32209,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Candongo</Player>
     <LostExp>167713</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -130,7 +146,7 @@
     <Location>(31933,32071,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>19</Rank>
     <Player>Rini</Player>
     <LostExp>50558</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -138,7 +154,7 @@
     <Location>(31995,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>20</Rank>
     <Player>Sar</Player>
     <LostExp>37823</LostExp>
     <KilledBy>Tarantula</KilledBy>
