@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748808382554</GeneratedAt>
+  <GeneratedAt>1748808682554</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kannizinha</Player>
+    <LostExp>335484613</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-01 22:11:00</Time>
+    <Location>(31963,32270,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Heineken</Player>
     <LostExp>151989105</LostExp>
     <KilledBy>Goldtanker</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32822,31925,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Baam</Player>
     <LostExp>101852473</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31788,31956,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Brisadeiro</Player>
     <LostExp>97386086</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31791,31947,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Nauk</Player>
     <LostExp>63206229</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31797,31907,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Nauk</Player>
     <LostExp>56890303</LostExp>
     <KilledBy>Krakomin</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Somnus</Player>
     <LostExp>23220118</LostExp>
     <KilledBy>Templarr</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31920,32096,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Dark</Player>
     <LostExp>22722566</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Lorded</Player>
     <LostExp>17823234</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32069,32300,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Reeh</Player>
     <LostExp>12560218</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31937,32213,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Belzebugod</Player>
     <LostExp>9456578</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31865,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Sheman</Player>
     <LostExp>8222500</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31880,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Deniallvz</Player>
     <LostExp>4226152</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31948,32014,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Shaog</Player>
     <LostExp>710222</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32851,31972,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Dashloth</Player>
     <LostExp>616942</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31904,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Candongo</Player>
     <LostExp>167713</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31933,32071,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Rini</Player>
     <LostExp>50558</LostExp>
     <KilledBy>Skeleton</KilledBy>
