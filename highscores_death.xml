@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748742012780</GeneratedAt>
+  <GeneratedAt>1748742312780</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Fiolu</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Nunaquatch</KilledBy>
     <Time>2025-06-01 02:14:31</Time>
     <Location>(32818,32012,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Nex</Player>
+    <LostExp>2532996</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-06-01 03:43:28</Time>
+    <Location>(32007,32211,8)</Location>
   </DeathEvent>
 </DeathHighscores>
