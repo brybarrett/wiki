@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1748784912788</GeneratedAt>
+  <GeneratedAt>1748785212777</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -188,12 +188,12 @@
   </Player>
   <Player>
     <Rank>38</Rank>
-    <Name>Vulion</Name>
+    <Name>Buca</Name>
     <StarsCollected>175</StarsCollected>
   </Player>
   <Player>
     <Rank>39</Rank>
-    <Name>Buca</Name>
+    <Name>Vulion</Name>
     <StarsCollected>175</StarsCollected>
   </Player>
   <Player>
@@ -203,12 +203,12 @@
   </Player>
   <Player>
     <Rank>41</Rank>
-    <Name>Kuro</Name>
+    <Name>Wizav</Name>
     <StarsCollected>169</StarsCollected>
   </Player>
   <Player>
     <Rank>42</Rank>
-    <Name>Wizav</Name>
+    <Name>Kuro</Name>
     <StarsCollected>169</StarsCollected>
   </Player>
   <Player>
@@ -228,12 +228,12 @@
   </Player>
   <Player>
     <Rank>46</Rank>
-    <Name>Warmagedom</Name>
+    <Name>Devorz</Name>
     <StarsCollected>166</StarsCollected>
   </Player>
   <Player>
     <Rank>47</Rank>
-    <Name>Devorz</Name>
+    <Name>Warmagedom</Name>
     <StarsCollected>166</StarsCollected>
   </Player>
   <Player>
@@ -393,17 +393,17 @@
   </Player>
   <Player>
     <Rank>79</Rank>
-    <Name>Nudin</Name>
-    <StarsCollected>132</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>80</Rank>
     <Name>Khorhigee</Name>
     <StarsCollected>132</StarsCollected>
   </Player>
   <Player>
-    <Rank>81</Rank>
+    <Rank>80</Rank>
     <Name>Rigger</Name>
+    <StarsCollected>132</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>81</Rank>
+    <Name>Nudin</Name>
     <StarsCollected>132</StarsCollected>
   </Player>
   <Player>
@@ -493,22 +493,22 @@
   </Player>
   <Player>
     <Rank>99</Rank>
-    <Name>Templar</Name>
-    <StarsCollected>114</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>100</Rank>
     <Name>Zin</Name>
     <StarsCollected>114</StarsCollected>
   </Player>
   <Player>
+    <Rank>100</Rank>
+    <Name>Templar</Name>
+    <StarsCollected>114</StarsCollected>
+  </Player>
+  <Player>
     <Rank>101</Rank>
-    <Name>Castiel</Name>
-    <StarsCollected>112</StarsCollected>
+    <Name>Cochilo</Name>
+    <StarsCollected>113</StarsCollected>
   </Player>
   <Player>
     <Rank>102</Rank>
-    <Name>Cochilo</Name>
+    <Name>Castiel</Name>
     <StarsCollected>112</StarsCollected>
   </Player>
   <Player>
@@ -638,7 +638,7 @@
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Powerofgod</Name>
+    <Name>Yukira</Name>
     <StarsCollected>93</StarsCollected>
   </Player>
 </StarsHighscores>
