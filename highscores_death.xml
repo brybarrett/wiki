@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748742912777</GeneratedAt>
+  <GeneratedAt>1748743212783</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Fiolu</Player>
@@ -40,5 +40,21 @@
     <KilledBy>Wardy</KilledBy>
     <Time>2025-06-01 03:43:28</Time>
     <Location>(32007,32211,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Oses</Player>
+    <LostExp>0</LostExp>
+    <KilledBy>Lessako</KilledBy>
+    <Time>2025-06-01 03:58:40</Time>
+    <Location>(31976,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Oses</Player>
+    <LostExp>0</LostExp>
+    <KilledBy>Lessako</KilledBy>
+    <Time>2025-06-01 03:59:33</Time>
+    <Location>(31976,31987,7)</Location>
   </DeathEvent>
 </DeathHighscores>
