@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748778012778</GeneratedAt>
+  <GeneratedAt>1748778312778</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Moondeath</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Jensen</Player>
+    <LostExp>1095486</LostExp>
+    <KilledBy>Troll</KilledBy>
+    <Time>2025-06-01 13:43:03</Time>
+    <Location>(31894,32024,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Poppay</Player>
     <LostExp>683425</LostExp>
     <KilledBy>Cultist</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32016,31863,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Oses</Player>
     <LostExp>22524</LostExp>
     <KilledBy>Lessako</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31975,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Oses</Player>
     <LostExp>20272</LostExp>
     <KilledBy>Lessako</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31975,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Oses</Player>
     <LostExp>18244</LostExp>
     <KilledBy>Lessako</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31975,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Oses</Player>
     <LostExp>16420</LostExp>
     <KilledBy>Lessako</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31975,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Oses</Player>
     <LostExp>0</LostExp>
     <KilledBy>Lessako</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31976,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Oses</Player>
     <LostExp>0</LostExp>
     <KilledBy>Lessako</KilledBy>
