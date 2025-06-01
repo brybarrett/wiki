@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748789482555</GeneratedAt>
+  <GeneratedAt>1748789782557</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lorded</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Werewolf Master</KilledBy>
     <Time>2025-06-01 16:12:53</Time>
     <Location>(32069,32300,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Dashloth</Player>
+    <LostExp>616942</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-01 16:54:23</Time>
+    <Location>(31904,32047,8)</Location>
   </DeathEvent>
 </DeathHighscores>
