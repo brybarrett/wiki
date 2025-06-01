@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748793382557</GeneratedAt>
+  <GeneratedAt>1748793682566</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brisadeiro</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Dark</Player>
+    <LostExp>22722566</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-01 17:57:27</Time>
+    <Location>(31954,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Lorded</Player>
     <LostExp>17823234</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32069,32300,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Reeh</Player>
     <LostExp>12560218</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31937,32213,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Deniallvz</Player>
     <LostExp>4226152</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31948,32014,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Dashloth</Player>
     <LostExp>616942</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31904,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Candongo</Player>
     <LostExp>167713</LostExp>
     <KilledBy>Small Eye</KilledBy>
