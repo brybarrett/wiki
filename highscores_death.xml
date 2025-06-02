@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748846409761</GeneratedAt>
+  <GeneratedAt>1748846709759</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingdeus</Player>
@@ -68,13 +68,21 @@
   <DeathEvent>
     <Rank>9</Rank>
     <Player>Dulokz</Player>
+    <LostExp>10640</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-06-02 08:41:20</Time>
+    <Location>(32026,31944,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Dulokz</Player>
     <LostExp>8178</LostExp>
     <KilledBy>Treant</KilledBy>
     <Time>2025-06-02 08:14:50</Time>
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Dulokz</Player>
     <LostExp>4511</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32013,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Dulokz</Player>
     <LostExp>4071</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32010,31875,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Dulokz</Player>
     <LostExp>3429</LostExp>
     <KilledBy>Orc Leader</KilledBy>
