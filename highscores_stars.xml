@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1748831409750</GeneratedAt>
+  <GeneratedAt>1748831709758</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -253,32 +253,32 @@
   </Player>
   <Player>
     <Rank>51</Rank>
-    <Name>Jcl</Name>
-    <StarsCollected>163</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>52</Rank>
     <Name>Durin</Name>
     <StarsCollected>163</StarsCollected>
   </Player>
   <Player>
-    <Rank>53</Rank>
-    <Name>Ashura</Name>
-    <StarsCollected>161</StarsCollected>
+    <Rank>52</Rank>
+    <Name>Jcl</Name>
+    <StarsCollected>163</StarsCollected>
   </Player>
   <Player>
-    <Rank>54</Rank>
+    <Rank>53</Rank>
     <Name>Offtank </Name>
     <StarsCollected>161</StarsCollected>
   </Player>
   <Player>
+    <Rank>54</Rank>
+    <Name>Ashura</Name>
+    <StarsCollected>161</StarsCollected>
+  </Player>
+  <Player>
     <Rank>55</Rank>
-    <Name>Lumelia</Name>
+    <Name>Karin</Name>
     <StarsCollected>160</StarsCollected>
   </Player>
   <Player>
     <Rank>56</Rank>
-    <Name>Karin</Name>
+    <Name>Lumelia</Name>
     <StarsCollected>160</StarsCollected>
   </Player>
   <Player>
@@ -333,12 +333,12 @@
   </Player>
   <Player>
     <Rank>67</Rank>
-    <Name>Drakee</Name>
+    <Name>Biel</Name>
     <StarsCollected>145</StarsCollected>
   </Player>
   <Player>
     <Rank>68</Rank>
-    <Name>Biel</Name>
+    <Name>Drakee</Name>
     <StarsCollected>145</StarsCollected>
   </Player>
   <Player>
@@ -463,12 +463,12 @@
   </Player>
   <Player>
     <Rank>93</Rank>
-    <Name>Exist</Name>
+    <Name>Cupy</Name>
     <StarsCollected>121</StarsCollected>
   </Player>
   <Player>
     <Rank>94</Rank>
-    <Name>Cupy</Name>
+    <Name>Exist</Name>
     <StarsCollected>121</StarsCollected>
   </Player>
   <Player>
@@ -483,12 +483,12 @@
   </Player>
   <Player>
     <Rank>97</Rank>
-    <Name>Cochilo</Name>
+    <Name>Humbalang</Name>
     <StarsCollected>116</StarsCollected>
   </Player>
   <Player>
     <Rank>98</Rank>
-    <Name>Humbalang</Name>
+    <Name>Cochilo</Name>
     <StarsCollected>116</StarsCollected>
   </Player>
   <Player>
@@ -543,27 +543,27 @@
   </Player>
   <Player>
     <Rank>109</Rank>
-    <Name>Salamaleko</Name>
-    <StarsCollected>103</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>110</Rank>
     <Name>Kiyahatzu</Name>
     <StarsCollected>103</StarsCollected>
   </Player>
   <Player>
-    <Rank>111</Rank>
-    <Name>Bscastilo</Name>
-    <StarsCollected>102</StarsCollected>
+    <Rank>110</Rank>
+    <Name>Salamaleko</Name>
+    <StarsCollected>103</StarsCollected>
   </Player>
   <Player>
-    <Rank>112</Rank>
+    <Rank>111</Rank>
     <Name>Itachi</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
-    <Rank>113</Rank>
+    <Rank>112</Rank>
     <Name>Natoriu</Name>
+    <StarsCollected>102</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>113</Rank>
+    <Name>Bscastilo</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
@@ -628,17 +628,17 @@
   </Player>
   <Player>
     <Rank>126</Rank>
-    <Name>Pandatank</Name>
-    <StarsCollected>94</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>127</Rank>
     <Name>Zed</Name>
     <StarsCollected>94</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Lordwolf</Name>
+    <StarsCollected>94</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Pandatank</Name>
     <StarsCollected>94</StarsCollected>
   </Player>
 </StarsHighscores>
