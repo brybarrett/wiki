@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748961011459</GeneratedAt>
+  <GeneratedAt>1748961311462</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -91,19 +91,19 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Dblack</Player>
+    <LostExp>2258708</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-06-03 16:31:48</Time>
+    <Location>(32062,31814,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Protons</Player>
     <LostExp>1507889</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-06-03 10:04:13</Time>
     <Location>(31881,32045,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>13</Rank>
-    <Player>Protons</Player>
-    <LostExp>1228236</LostExp>
-    <KilledBy>Werewolf</KilledBy>
-    <Time>2025-06-03 05:04:43</Time>
-    <Location>(31896,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
@@ -116,13 +116,21 @@
   <DeathEvent>
     <Rank>15</Rank>
     <Player>Protons</Player>
+    <LostExp>1228236</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-03 05:04:43</Time>
+    <Location>(31896,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Protons</Player>
     <LostExp>1185911</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-06-03 05:29:47</Time>
     <Location>(31894,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Riquekmila</Player>
     <LostExp>768573</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31997,32057,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Sar</Player>
     <LostExp>129137</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31997,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Darkan</Player>
     <LostExp>85049</LostExp>
     <KilledBy>Crocodile</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32031,31928,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Darkan</Player>
     <LostExp>78189</LostExp>
     <KilledBy>Crocodile</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32033,31927,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Darkan</Player>
     <LostExp>70444</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32002,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Darkan</Player>
     <LostExp>65282</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31994,31949,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Elwin</Player>
     <LostExp>10330</LostExp>
     <KilledBy>Mantis</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31907,31980,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Elwin</Player>
     <LostExp>5996</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Elwin</Player>
     <LostExp>5708</LostExp>
     <KilledBy>Skeleton</KilledBy>
