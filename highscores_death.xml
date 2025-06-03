@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748923511457</GeneratedAt>
+  <GeneratedAt>1748923811469</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Killerwiz</Player>
+    <LostExp>236394756</LostExp>
+    <KilledBy>Chaomby</KilledBy>
+    <Time>2025-06-03 06:08:22</Time>
+    <Location>(31962,32229,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Urekmazino</Player>
     <LostExp>86895748</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31793,31944,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Soft</Player>
     <LostExp>25988773</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -34,20 +42,12 @@
     <Location>(31865,32067,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Noia</Player>
     <LostExp>24484041</LostExp>
     <KilledBy>Dreadtide</KilledBy>
     <Time>2025-06-03 00:32:23</Time>
     <Location>(31842,32112,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>6</Rank>
-    <Player>Protons</Player>
-    <LostExp>1228236</LostExp>
-    <KilledBy>Werewolf</KilledBy>
-    <Time>2025-06-03 05:04:43</Time>
-    <Location>(31896,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
@@ -60,13 +60,21 @@
   <DeathEvent>
     <Rank>8</Rank>
     <Player>Protons</Player>
+    <LostExp>1228236</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-03 05:04:43</Time>
+    <Location>(31896,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Protons</Player>
     <LostExp>1185911</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-06-03 05:29:47</Time>
     <Location>(31894,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Riquekmila</Player>
     <LostExp>768573</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31997,32057,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Sar</Player>
     <LostExp>129137</LostExp>
     <KilledBy>Fire Drake</KilledBy>
