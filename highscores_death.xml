@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748934011482</GeneratedAt>
+  <GeneratedAt>1748934311458</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -132,13 +132,21 @@
   <DeathEvent>
     <Rank>17</Rank>
     <Player>Elwin</Player>
+    <LostExp>10330</LostExp>
+    <KilledBy>Mantis</KilledBy>
+    <Time>2025-06-03 09:00:18</Time>
+    <Location>(31907,31980,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
+    <Player>Elwin</Player>
     <LostExp>5996</LostExp>
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-06-03 08:34:50</Time>
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Elwin</Player>
     <LostExp>5708</LostExp>
     <KilledBy>Skeleton</KilledBy>
