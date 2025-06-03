@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748910611469</GeneratedAt>
+  <GeneratedAt>1748910911468</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kingkiller</Player>
+    <LostExp>498497302</LostExp>
+    <KilledBy>Goldtanker</KilledBy>
+    <Time>2025-06-03 02:33:53</Time>
+    <Location>(31789,31904,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Soft</Player>
     <LostExp>25988773</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31865,32067,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Noia</Player>
     <LostExp>24484041</LostExp>
     <KilledBy>Dreadtide</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31842,32112,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Sar</Player>
     <LostExp>129137</LostExp>
     <KilledBy>Fire Drake</KilledBy>
