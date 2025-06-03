@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748920511457</GeneratedAt>
+  <GeneratedAt>1748920811459</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Urekmazino</Player>
+    <LostExp>86895748</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-06-03 05:18:19</Time>
+    <Location>(31793,31944,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Soft</Player>
     <LostExp>25988773</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -26,20 +34,12 @@
     <Location>(31865,32067,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Noia</Player>
     <LostExp>24484041</LostExp>
     <KilledBy>Dreadtide</KilledBy>
     <Time>2025-06-03 00:32:23</Time>
     <Location>(31842,32112,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>5</Rank>
-    <Player>Protons</Player>
-    <LostExp>1228236</LostExp>
-    <KilledBy>Werewolf</KilledBy>
-    <Time>2025-06-03 05:04:43</Time>
-    <Location>(31896,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Protons</Player>
+    <LostExp>1228236</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-03 05:04:43</Time>
+    <Location>(31896,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Riquekmila</Player>
     <LostExp>768573</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31997,32057,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Sar</Player>
     <LostExp>129137</LostExp>
     <KilledBy>Fire Drake</KilledBy>
