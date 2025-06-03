@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748927411465</GeneratedAt>
+  <GeneratedAt>1748927711461</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -96,5 +96,21 @@
     <KilledBy>Crocodile</KilledBy>
     <Time>2025-06-03 06:54:36</Time>
     <Location>(32031,31928,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>Darkan</Player>
+    <LostExp>78189</LostExp>
+    <KilledBy>Crocodile</KilledBy>
+    <Time>2025-06-03 07:10:44</Time>
+    <Location>(32033,31927,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Darkan</Player>
+    <LostExp>70444</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-06-03 07:14:26</Time>
+    <Location>(32002,32044,8)</Location>
   </DeathEvent>
 </DeathHighscores>
