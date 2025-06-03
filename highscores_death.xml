@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748994305038</GeneratedAt>
+  <GeneratedAt>1748994605038</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Eunha</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Bonilha</Player>
+    <LostExp>6108964</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-06-04 01:45:23</Time>
+    <Location>(32039,31798,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Punipun</Player>
     <LostExp>3978737</LostExp>
     <KilledBy>Ghostsin</KilledBy>
