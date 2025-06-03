@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748919611459</GeneratedAt>
+  <GeneratedAt>1748919911463</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -35,6 +35,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Protons</Player>
+    <LostExp>1228236</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-03 05:04:43</Time>
+    <Location>(31896,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Protons</Player>
+    <LostExp>1228236</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-03 05:04:43</Time>
+    <Location>(31896,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Riquekmila</Player>
     <LostExp>768573</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31997,32057,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Sar</Player>
     <LostExp>129137</LostExp>
     <KilledBy>Fire Drake</KilledBy>
