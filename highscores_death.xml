@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749007205060</GeneratedAt>
+  <GeneratedAt>1749007505044</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zahard</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Elwin</Player>
+    <LostExp>121277</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-06-04 05:21:46</Time>
+    <Location>(32014,31937,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Elwin</Player>
     <LostExp>13297</LostExp>
     <KilledBy>Fire Drake</KilledBy>
