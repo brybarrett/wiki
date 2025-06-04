@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749044705048</GeneratedAt>
+  <GeneratedAt>1749045005042</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -296,5 +296,13 @@
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-06-04 02:44:48</Time>
     <Location>(32023,31944,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>38</Rank>
+    <Player>Rila</Player>
+    <LostExp>1547</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-06-04 15:45:50</Time>
+    <Location>(31942,31908,9)</Location>
   </DeathEvent>
 </DeathHighscores>
