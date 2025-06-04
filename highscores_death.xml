@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749068876503</GeneratedAt>
+  <GeneratedAt>1749069176433</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Talrok</Player>
+    <LostExp>648750438</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-06-04 22:32:53</Time>
+    <Location>(31976,32255,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Verockx</Player>
+    <LostExp>5255639</LostExp>
+    <KilledBy>Fouldraky</KilledBy>
+    <Time>2025-06-04 22:28:01</Time>
+    <Location>(32280,32348,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Shaog</Player>
     <LostExp>1735568</LostExp>
     <KilledBy>The Fouldrake</KilledBy>
