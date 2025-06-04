@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1748997605043</GeneratedAt>
+  <GeneratedAt>1748997905058</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Eunha</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Ghostsin</KilledBy>
     <Time>2025-06-04 01:37:47</Time>
     <Location>(32045,31799,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Elwin</Player>
+    <LostExp>13297</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-06-04 02:44:48</Time>
+    <Location>(32023,31944,8)</Location>
   </DeathEvent>
 </DeathHighscores>
