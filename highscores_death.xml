@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749076503476</GeneratedAt>
+  <GeneratedAt>1749076803483</GeneratedAt>
+  <DeathEvent>
+    <Rank>1</Rank>
+    <Player>Yakoeruim</Player>
+    <LostExp>29851256</LostExp>
+    <KilledBy>Rigger</KilledBy>
+    <Time>2025-06-05 00:38:10</Time>
+    <Location>(31777,31937,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Yakoeruim</Player>
+    <LostExp>15710159</LostExp>
+    <KilledBy>Krakomin</KilledBy>
+    <Time>2025-06-05 00:36:39</Time>
+    <Location>(31776,31937,10)</Location>
+  </DeathEvent>
 </DeathHighscores>
