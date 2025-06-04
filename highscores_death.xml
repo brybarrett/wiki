@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749054605047</GeneratedAt>
+  <GeneratedAt>1749054905045</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Frieren</Player>
@@ -243,6 +243,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>31</Rank>
+    <Player>Lize</Player>
+    <LostExp>567714</LostExp>
+    <KilledBy>Cultist</KilledBy>
+    <Time>2025-06-04 18:34:35</Time>
+    <Location>(32018,31864,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>32</Rank>
     <Player>Rureda</Player>
     <LostExp>401742</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(31968,32260,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Elwin</Player>
     <LostExp>121277</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(32014,31937,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Elwin</Player>
     <LostExp>113957</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(32005,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Elwin</Player>
     <LostExp>109149</LostExp>
     <KilledBy>Long</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(32032,32287,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Elwin</Player>
     <LostExp>106868</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(32017,31937,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Elwin</Player>
     <LostExp>99460</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(32010,31873,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Elwin</Player>
     <LostExp>96429</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(32017,31959,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Elwin</Player>
     <LostExp>90831</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31970,32049,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Elwin</Player>
     <LostExp>82140</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31990,32255,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Darkan</Player>
     <LostExp>62917</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(32042,31887,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Elwin</Player>
     <LostExp>13297</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(32023,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Rila</Player>
     <LostExp>1547</LostExp>
     <KilledBy>Scorpion</KilledBy>
