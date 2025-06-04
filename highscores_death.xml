@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749008405054</GeneratedAt>
+  <GeneratedAt>1749008705054</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zahard</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Rureda</Player>
+    <LostExp>401742</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-06-04 05:45:00</Time>
+    <Location>(31968,32260,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Elwin</Player>
     <LostExp>121277</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32014,31937,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Elwin</Player>
     <LostExp>109149</LostExp>
     <KilledBy>Long</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32032,32287,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Elwin</Player>
     <LostExp>13297</LostExp>
     <KilledBy>Fire Drake</KilledBy>
