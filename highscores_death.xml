@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749079803470</GeneratedAt>
+  <GeneratedAt>1749080103474</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Brisadeira</Player>
+    <LostExp>138600780</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-06-05 01:33:07</Time>
+    <Location>(31811,31944,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Vendendo</Player>
     <LostExp>35859320</LostExp>
     <KilledBy>Kibo</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31787,31935,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Yakoeruim</Player>
     <LostExp>29851256</LostExp>
     <KilledBy>Rigger</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31777,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Yakoeruim</Player>
     <LostExp>15710159</LostExp>
     <KilledBy>Krakomin</KilledBy>
@@ -26,11 +34,19 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Deniallvz</Player>
     <LostExp>9419115</LostExp>
     <KilledBy>Terrorbird</KilledBy>
     <Time>2025-06-05 01:10:54</Time>
     <Location>(31948,32014,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Elwin</Player>
+    <LostExp>103108</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-06-05 01:30:08</Time>
+    <Location>(32038,31897,8)</Location>
   </DeathEvent>
 </DeathHighscores>
