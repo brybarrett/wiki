@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749021605042</GeneratedAt>
+  <GeneratedAt>1749021905054</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -188,13 +188,21 @@
   <DeathEvent>
     <Rank>24</Rank>
     <Player>Elwin</Player>
+    <LostExp>96429</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-06-04 09:24:05</Time>
+    <Location>(32017,31959,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
+    <Player>Elwin</Player>
     <LostExp>90831</LostExp>
     <KilledBy>Ninjaman</KilledBy>
     <Time>2025-06-04 06:51:25</Time>
     <Location>(31970,32049,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Elwin</Player>
     <LostExp>82140</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31990,32255,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Darkan</Player>
     <LostExp>62917</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32042,31887,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Elwin</Player>
     <LostExp>13297</LostExp>
     <KilledBy>Fire Drake</KilledBy>
