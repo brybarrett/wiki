@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PvpHighscores>
-  <GeneratedAt>1749078603471</GeneratedAt>
+  <GeneratedAt>1749078903474</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Papito</Name>
@@ -38,7 +38,7 @@
   </Player>
   <Player>
     <Rank>8</Rank>
-    <Name>Pancernik</Name>
+    <Name>Indra</Name>
     <PvpRank>5 - Wanderer</PvpRank>
   </Player>
   <Player>
@@ -53,57 +53,57 @@
   </Player>
   <Player>
     <Rank>11</Rank>
-    <Name>Indra</Name>
+    <Name>Pancernik</Name>
     <PvpRank>5 - Wanderer</PvpRank>
   </Player>
   <Player>
     <Rank>12</Rank>
-    <Name>Goldtanker</Name>
-    <PvpRank>4 - Wanderer</PvpRank>
-  </Player>
-  <Player>
-    <Rank>13</Rank>
     <Name>Ashura</Name>
     <PvpRank>4 - Wanderer</PvpRank>
   </Player>
   <Player>
-    <Rank>14</Rank>
+    <Rank>13</Rank>
     <Name>Ainz</Name>
     <PvpRank>4 - Wanderer</PvpRank>
   </Player>
   <Player>
+    <Rank>14</Rank>
+    <Name>Goldtanker</Name>
+    <PvpRank>4 - Wanderer</PvpRank>
+  </Player>
+  <Player>
     <Rank>15</Rank>
-    <Name>Templarr</Name>
-    <PvpRank>3 - Wanderer</PvpRank>
-  </Player>
-  <Player>
-    <Rank>16</Rank>
-    <Name>Joker</Name>
-    <PvpRank>3 - Wanderer</PvpRank>
-  </Player>
-  <Player>
-    <Rank>17</Rank>
-    <Name>Hamura</Name>
-    <PvpRank>3 - Wanderer</PvpRank>
-  </Player>
-  <Player>
-    <Rank>18</Rank>
     <Name>Sakura</Name>
     <PvpRank>3 - Wanderer</PvpRank>
   </Player>
   <Player>
-    <Rank>19</Rank>
-    <Name>Buca</Name>
+    <Rank>16</Rank>
+    <Name>Maciano</Name>
     <PvpRank>3 - Wanderer</PvpRank>
   </Player>
   <Player>
-    <Rank>20</Rank>
+    <Rank>17</Rank>
     <Name>Gandalf</Name>
     <PvpRank>3 - Wanderer</PvpRank>
   </Player>
   <Player>
+    <Rank>18</Rank>
+    <Name>Joker</Name>
+    <PvpRank>3 - Wanderer</PvpRank>
+  </Player>
+  <Player>
+    <Rank>19</Rank>
+    <Name>Dexorz</Name>
+    <PvpRank>3 - Wanderer</PvpRank>
+  </Player>
+  <Player>
+    <Rank>20</Rank>
+    <Name>Buca</Name>
+    <PvpRank>3 - Wanderer</PvpRank>
+  </Player>
+  <Player>
     <Rank>21</Rank>
-    <Name>Maciano</Name>
+    <Name>Hamura</Name>
     <PvpRank>3 - Wanderer</PvpRank>
   </Player>
   <Player>
@@ -113,7 +113,7 @@
   </Player>
   <Player>
     <Rank>23</Rank>
-    <Name>Dexorz</Name>
+    <Name>Templarr</Name>
     <PvpRank>3 - Wanderer</PvpRank>
   </Player>
   <Player>
@@ -123,107 +123,107 @@
   </Player>
   <Player>
     <Rank>25</Rank>
-    <Name>Dom</Name>
-    <PvpRank>2 - Wanderer</PvpRank>
-  </Player>
-  <Player>
-    <Rank>26</Rank>
-    <Name>Gaspar</Name>
-    <PvpRank>2 - Wanderer</PvpRank>
-  </Player>
-  <Player>
-    <Rank>27</Rank>
-    <Name>Binance</Name>
-    <PvpRank>2 - Wanderer</PvpRank>
-  </Player>
-  <Player>
-    <Rank>28</Rank>
-    <Name>Bucca</Name>
-    <PvpRank>2 - Wanderer</PvpRank>
-  </Player>
-  <Player>
-    <Rank>29</Rank>
-    <Name>Templar</Name>
-    <PvpRank>2 - Wanderer</PvpRank>
-  </Player>
-  <Player>
-    <Rank>30</Rank>
-    <Name>Biawak</Name>
-    <PvpRank>2 - Wanderer</PvpRank>
-  </Player>
-  <Player>
-    <Rank>31</Rank>
-    <Name>Over</Name>
-    <PvpRank>2 - Wanderer</PvpRank>
-  </Player>
-  <Player>
-    <Rank>32</Rank>
-    <Name>Techno</Name>
-    <PvpRank>2 - Wanderer</PvpRank>
-  </Player>
-  <Player>
-    <Rank>33</Rank>
-    <Name>Blindadu</Name>
-    <PvpRank>2 - Wanderer</PvpRank>
-  </Player>
-  <Player>
-    <Rank>34</Rank>
     <Name>Maxx</Name>
     <PvpRank>2 - Wanderer</PvpRank>
   </Player>
   <Player>
-    <Rank>35</Rank>
+    <Rank>26</Rank>
+    <Name>Blindadu</Name>
+    <PvpRank>2 - Wanderer</PvpRank>
+  </Player>
+  <Player>
+    <Rank>27</Rank>
+    <Name>Gaspar</Name>
+    <PvpRank>2 - Wanderer</PvpRank>
+  </Player>
+  <Player>
+    <Rank>28</Rank>
+    <Name>Dom</Name>
+    <PvpRank>2 - Wanderer</PvpRank>
+  </Player>
+  <Player>
+    <Rank>29</Rank>
+    <Name>Biawak</Name>
+    <PvpRank>2 - Wanderer</PvpRank>
+  </Player>
+  <Player>
+    <Rank>30</Rank>
+    <Name>Binance</Name>
+    <PvpRank>2 - Wanderer</PvpRank>
+  </Player>
+  <Player>
+    <Rank>31</Rank>
     <Name>Blindada</Name>
     <PvpRank>2 - Wanderer</PvpRank>
   </Player>
   <Player>
+    <Rank>32</Rank>
+    <Name>Bucca</Name>
+    <PvpRank>2 - Wanderer</PvpRank>
+  </Player>
+  <Player>
+    <Rank>33</Rank>
+    <Name>Techno</Name>
+    <PvpRank>2 - Wanderer</PvpRank>
+  </Player>
+  <Player>
+    <Rank>34</Rank>
+    <Name>Templar</Name>
+    <PvpRank>2 - Wanderer</PvpRank>
+  </Player>
+  <Player>
+    <Rank>35</Rank>
+    <Name>Kibo</Name>
+    <PvpRank>2 - Wanderer</PvpRank>
+  </Player>
+  <Player>
     <Rank>36</Rank>
+    <Name>Over</Name>
+    <PvpRank>2 - Wanderer</PvpRank>
+  </Player>
+  <Player>
+    <Rank>37</Rank>
     <Name>Shanks</Name>
     <PvpRank>1 - Wanderer</PvpRank>
   </Player>
   <Player>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Name>Bsdeadpool</Name>
     <PvpRank>1 - Wanderer</PvpRank>
   </Player>
   <Player>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Name>Frieren</Name>
     <PvpRank>1 - Wanderer</PvpRank>
   </Player>
   <Player>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Name>Brokazee</Name>
     <PvpRank>1 - Wanderer</PvpRank>
   </Player>
   <Player>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Name>Willmk</Name>
     <PvpRank>1 - Wanderer</PvpRank>
   </Player>
   <Player>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Name>Verstappen</Name>
     <PvpRank>1 - Wanderer</PvpRank>
   </Player>
   <Player>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Name>Sunrakul</Name>
     <PvpRank>1 - Wanderer</PvpRank>
   </Player>
   <Player>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Name>Noniboywar</Name>
     <PvpRank>1 - Wanderer</PvpRank>
   </Player>
   <Player>
-    <Rank>44</Rank>
-    <Name>Kimchii</Name>
-    <PvpRank>1 - Wanderer</PvpRank>
-  </Player>
-  <Player>
     <Rank>45</Rank>
-    <Name>Kibo</Name>
+    <Name>Kimchii</Name>
     <PvpRank>1 - Wanderer</PvpRank>
   </Player>
   <Player>
