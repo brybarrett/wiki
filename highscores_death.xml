@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749004505050</GeneratedAt>
+  <GeneratedAt>1749004805051</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zahard</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Spellwiz</Player>
+    <LostExp>10581651</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-06-04 04:35:58</Time>
+    <Location>(32062,31820,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Bonilha</Player>
     <LostExp>6108964</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32039,31798,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Bonilha</Player>
     <LostExp>5688890</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31890,32013,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Matadordpk</Player>
     <LostExp>5596850</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32059,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Bonilha</Player>
     <LostExp>5131811</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31890,32011,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Punipun</Player>
     <LostExp>3978737</LostExp>
     <KilledBy>Ghostsin</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32045,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Goldwizz</Player>
     <LostExp>3838549</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -82,7 +90,15 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
+    <Player>Alyo</Player>
+    <LostExp>2448132</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-04 04:37:12</Time>
+    <Location>(31887,32000,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Protons</Player>
     <LostExp>2139757</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(31900,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Elwin</Player>
     <LostExp>13297</LostExp>
     <KilledBy>Fire Drake</KilledBy>
