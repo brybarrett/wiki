@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749098883375</GeneratedAt>
+  <GeneratedAt>1749099183369</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -11,10 +11,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Killerwiz</Player>
+    <LostExp>175571947</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-05 06:51:42</Time>
+    <Location>(31983,32265,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Karver</Player>
     <LostExp>25941949</LostExp>
     <KilledBy>Chaomby</KilledBy>
     <Time>2025-06-05 06:28:43</Time>
     <Location>(31932,32232,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Elwin</Player>
+    <LostExp>152718</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-06-05 06:48:31</Time>
+    <Location>(32026,31875,8)</Location>
   </DeathEvent>
 </DeathHighscores>
