@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749126483378</GeneratedAt>
+  <GeneratedAt>1749126783391</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Yuumi</Player>
+    <LostExp>9238818</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-06-05 14:31:18</Time>
+    <Location>(31986,32201,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Elwin</Player>
     <LostExp>152718</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32026,31875,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Elwin</Player>
     <LostExp>146989</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31886,32053,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Sakamotoo</Player>
     <LostExp>866</LostExp>
     <KilledBy>Scorpion</KilledBy>
