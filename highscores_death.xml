@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749160683381</GeneratedAt>
+  <GeneratedAt>1749160983369</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Magrinn</Player>
+    <LostExp>34265759</LostExp>
+    <KilledBy>Rishombie</KilledBy>
+    <Time>2025-06-05 23:59:14</Time>
+    <Location>(31912,31993,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Karver</Player>
     <LostExp>25941949</LostExp>
     <KilledBy>Chaomby</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31932,32232,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Dinho</Player>
     <LostExp>24238162</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31967,32221,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Emilia</Player>
     <LostExp>14544074</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31854,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Rafinha</Player>
     <LostExp>14078015</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32067,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Iorshine</Player>
     <LostExp>13393007</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31863,32078,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Pikachu</Player>
     <LostExp>12503014</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31869,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Yuumi</Player>
     <LostExp>9238818</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31986,32201,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Rayne</Player>
     <LostExp>5234774</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31879,32024,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Dblack</Player>
     <LostExp>5161432</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31879,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Inosuke</Player>
     <LostExp>384407</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31975,31952,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Elwin</Player>
     <LostExp>152718</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32026,31875,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Sakamotoo</Player>
     <LostExp>148841</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31874,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Elwin</Player>
     <LostExp>146989</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31886,32053,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Sakamotoo</Player>
     <LostExp>128500</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31888,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Sakamotoo</Player>
     <LostExp>866</LostExp>
     <KilledBy>Scorpion</KilledBy>
