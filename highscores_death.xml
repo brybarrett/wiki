@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749099783373</GeneratedAt>
+  <GeneratedAt>1749100083372</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-06-05 06:48:31</Time>
     <Location>(32026,31875,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Elwin</Player>
+    <LostExp>146989</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-05 07:06:12</Time>
+    <Location>(31886,32053,8)</Location>
   </DeathEvent>
 </DeathHighscores>
