@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749101283376</GeneratedAt>
+  <GeneratedAt>1749101583383</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Urekmazino</Player>
+    <LostExp>78180139</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-06-05 07:28:59</Time>
+    <Location>(31791,31947,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Karver</Player>
     <LostExp>25941949</LostExp>
     <KilledBy>Chaomby</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31932,32232,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Elwin</Player>
     <LostExp>152718</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32026,31875,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Elwin</Player>
     <LostExp>146989</LostExp>
     <KilledBy>Werewolf</KilledBy>
