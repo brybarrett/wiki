@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749108183368</GeneratedAt>
+  <GeneratedAt>1749108483369</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Killer</Player>
+    <LostExp>487453218</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-05 09:23:40</Time>
+    <Location>(31962,32254,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Killerwiz</Player>
     <LostExp>195014924</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31983,32265,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Killerwiz</Player>
     <LostExp>175571947</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31983,32265,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Ganny</Player>
     <LostExp>161236163</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31983,32271,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Urekmazino</Player>
     <LostExp>78180139</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31791,31947,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Karver</Player>
     <LostExp>25941949</LostExp>
     <KilledBy>Chaomby</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31932,32232,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Iorshine</Player>
     <LostExp>13393007</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31863,32078,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Elwin</Player>
     <LostExp>152718</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32026,31875,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Elwin</Player>
     <LostExp>146989</LostExp>
     <KilledBy>Werewolf</KilledBy>
