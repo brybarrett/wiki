@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749128583374</GeneratedAt>
+  <GeneratedAt>1749128883380</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killer</Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Sakamotoo</Player>
+    <LostExp>128500</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-05 15:05:09</Time>
+    <Location>(31888,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Sakamotoo</Player>
     <LostExp>866</LostExp>
     <KilledBy>Scorpion</KilledBy>
