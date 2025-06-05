@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749098283372</GeneratedAt>
+  <GeneratedAt>1749098583371</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Killerwiz</Player>
+    <LostExp>195014924</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-05 06:41:36</Time>
+    <Location>(31983,32265,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Karver</Player>
     <LostExp>25941949</LostExp>
     <KilledBy>Chaomby</KilledBy>
