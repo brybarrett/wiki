@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749103383376</GeneratedAt>
+  <GeneratedAt>1749103683387</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Iorshine</Player>
+    <LostExp>13393007</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-06-05 08:06:11</Time>
+    <Location>(31863,32078,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Elwin</Player>
     <LostExp>152718</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32026,31875,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Elwin</Player>
     <LostExp>146989</LostExp>
     <KilledBy>Werewolf</KilledBy>
