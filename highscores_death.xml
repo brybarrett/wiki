@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749195309486</GeneratedAt>
+  <GeneratedAt>1749195609485</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Neon</Player>
+    <LostExp>5964064</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-06 09:38:44</Time>
+    <Location>(31954,31990,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Bonilha</Player>
     <LostExp>4656252</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31944,31982,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Nare</Player>
     <LostExp>524685</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Nare</Player>
     <LostExp>472217</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Nare</Player>
     <LostExp>424998</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Nare</Player>
     <LostExp>382861</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Nare</Player>
     <LostExp>344575</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Nare</Player>
     <LostExp>310125</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Nare</Player>
     <LostExp>279116</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Nare</Player>
     <LostExp>251659</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Nare</Player>
     <LostExp>242952</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31897,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Nare</Player>
     <LostExp>226493</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Nare</Player>
     <LostExp>218656</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Nare</Player>
     <LostExp>203847</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Nare</Player>
     <LostExp>196791</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Nare</Player>
     <LostExp>183696</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31897,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Nare</Player>
     <LostExp>177112</LostExp>
     <KilledBy>Khex</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31895,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Elwin</Player>
     <LostExp>147038</LostExp>
     <KilledBy>Scorpion</KilledBy>
