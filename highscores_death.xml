@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749188709496</GeneratedAt>
+  <GeneratedAt>1749189009497</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Madara</Player>
+    <LostExp>341548704</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-06 07:46:53</Time>
+    <Location>(31951,32264,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Piraswiz</Player>
     <LostExp>172479707</LostExp>
     <KilledBy>Gold Stone</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31931,32231,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Killerwiz</Player>
     <LostExp>159947201</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32020,32223,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Khun</Player>
     <LostExp>139728416</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31800,31925,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Urekmazino</Player>
     <LostExp>75627168</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31791,31945,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Wizze</Player>
     <LostExp>31492402</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32060,31820,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Dark</Player>
     <LostExp>25549243</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Bonilha</Player>
     <LostExp>4656252</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31944,31982,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Elwin</Player>
     <LostExp>147038</LostExp>
     <KilledBy>Scorpion</KilledBy>
