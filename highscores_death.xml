@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749234987246</GeneratedAt>
+  <GeneratedAt>1749235287247</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Noia</Player>
+    <LostExp>22986926</LostExp>
+    <KilledBy>(Others)</KilledBy>
+    <Time>2025-06-06 20:36:51</Time>
+    <Location>(31791,31906,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Ken</Player>
     <LostExp>2726585</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32823,32042,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Bomnaja</Player>
     <LostExp>644470</LostExp>
     <KilledBy>GM-Doro</KilledBy>
