@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749245787245</GeneratedAt>
+  <GeneratedAt>1749246087242</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kelavan</Player>
@@ -64,5 +64,13 @@
     <KilledBy>GM-Doro</KilledBy>
     <Time>2025-06-06 23:23:35</Time>
     <Location>(32039,32035,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Candongo</Player>
+    <LostExp>135848</LostExp>
+    <KilledBy>Apprentice</KilledBy>
+    <Time>2025-06-06 23:38:22</Time>
+    <Location>(31993,31995,9)</Location>
   </DeathEvent>
 </DeathHighscores>
