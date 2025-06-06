@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749168009495</GeneratedAt>
+  <GeneratedAt>1749168309487</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Madara</Player>
+    <LostExp>376229748</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-06 02:01:38</Time>
+    <Location>(31951,32264,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Khun</Player>
+    <LostExp>139728416</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-06-06 02:04:03</Time>
+    <Location>(31800,31925,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Urekmazino</Player>
     <LostExp>75627168</LostExp>
     <KilledBy>Ninjana</KilledBy>
