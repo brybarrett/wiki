@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749168309487</GeneratedAt>
+  <GeneratedAt>1749168609487</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Piraswiz</Player>
+    <LostExp>172479707</LostExp>
+    <KilledBy>Gold Stone</KilledBy>
+    <Time>2025-06-06 02:05:53</Time>
+    <Location>(31931,32231,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Khun</Player>
     <LostExp>139728416</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -18,11 +26,19 @@
     <Location>(31800,31925,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Urekmazino</Player>
     <LostExp>75627168</LostExp>
     <KilledBy>Ninjana</KilledBy>
     <Time>2025-06-06 01:56:58</Time>
     <Location>(31791,31945,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Dark</Player>
+    <LostExp>25549243</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-06 02:07:27</Time>
+    <Location>(31954,31993,9)</Location>
   </DeathEvent>
 </DeathHighscores>
