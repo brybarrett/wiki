@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749183309485</GeneratedAt>
+  <GeneratedAt>1749183609493</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Bonilha</Player>
+    <LostExp>4656252</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-06 06:20:00</Time>
+    <Location>(31944,31982,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Elwin</Player>
     <LostExp>147038</LostExp>
     <KilledBy>Scorpion</KilledBy>
