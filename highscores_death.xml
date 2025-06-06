@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749191709487</GeneratedAt>
+  <GeneratedAt>1749192009494</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -172,13 +172,29 @@
   <DeathEvent>
     <Rank>22</Rank>
     <Player>Nare</Player>
+    <LostExp>196791</LostExp>
+    <KilledBy>Khex</KilledBy>
+    <Time>2025-06-06 08:35:28</Time>
+    <Location>(31895,31934,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Nare</Player>
     <LostExp>183696</LostExp>
     <KilledBy>Khex</KilledBy>
     <Time>2025-06-06 08:15:26</Time>
     <Location>(31897,31934,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
+    <Player>Nare</Player>
+    <LostExp>177112</LostExp>
+    <KilledBy>Khex</KilledBy>
+    <Time>2025-06-06 08:36:59</Time>
+    <Location>(31895,31934,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
     <Player>Elwin</Player>
     <LostExp>147038</LostExp>
     <KilledBy>Scorpion</KilledBy>
