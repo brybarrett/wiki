@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749238287250</GeneratedAt>
+  <GeneratedAt>1749238587257</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kelavan</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Noia</Player>
+    <LostExp>20688233</LostExp>
+    <KilledBy>(Others)</KilledBy>
+    <Time>2025-06-06 21:36:13</Time>
+    <Location>(31795,31906,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Joe</Player>
     <LostExp>9735884</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31880,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Ken</Player>
     <LostExp>2726585</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32823,32042,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Raphaooo</Player>
     <LostExp>968410</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31858,31973,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Bomnaja</Player>
     <LostExp>644470</LostExp>
     <KilledBy>GM-Doro</KilledBy>
