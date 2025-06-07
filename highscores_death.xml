@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749337813378</GeneratedAt>
+  <GeneratedAt>1749338113380</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Malekosala</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Jembuff</Player>
+    <LostExp>859790</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-06-08 01:11:27</Time>
+    <Location>(31866,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Elwin</Player>
     <LostExp>553820</LostExp>
     <KilledBy>Bantinel</KilledBy>
