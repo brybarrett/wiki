@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749317108163</GeneratedAt>
+  <GeneratedAt>1749317408162</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Johnnywar</Player>
@@ -147,6 +147,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>19</Rank>
+    <Player>Protons</Player>
+    <LostExp>10122591</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-06-07 19:27:56</Time>
+    <Location>(31993,32228,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Protons</Player>
+    <LostExp>9110332</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-06-07 19:27:56</Time>
+    <Location>(31993,32228,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
     <Player>Iorshine</Player>
     <LostExp>7034884</LostExp>
     <KilledBy>Orc Master</KilledBy>
@@ -154,7 +170,7 @@
     <Location>(32003,31850,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>22</Rank>
     <Player>Dogs</Player>
     <LostExp>5396387</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -162,7 +178,7 @@
     <Location>(31853,31968,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>23</Rank>
     <Player>Bonilha</Player>
     <LostExp>4434485</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -170,7 +186,7 @@
     <Location>(31902,31995,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>24</Rank>
     <Player>Punipun</Player>
     <LostExp>4208758</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -178,7 +194,7 @@
     <Location>(32024,31813,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>25</Rank>
     <Player>Punipun</Player>
     <LostExp>3985195</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -186,7 +202,7 @@
     <Location>(32007,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>26</Rank>
     <Player>Mensonwiz</Player>
     <LostExp>1306521</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -194,7 +210,7 @@
     <Location>(32862,31988,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>27</Rank>
     <Player>Mensonwiz</Player>
     <LostExp>1054104</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -202,23 +218,23 @@
     <Location>(32845,31981,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
-    <Player>Game</Player>
-    <LostExp>928641</LostExp>
-    <KilledBy>Assasin</KilledBy>
-    <Time>2025-06-07 18:27:12</Time>
-    <Location>(31948,31995,9)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>27</Rank>
-    <Player>Game</Player>
-    <LostExp>928641</LostExp>
-    <KilledBy>Assasin</KilledBy>
-    <Time>2025-06-07 18:27:12</Time>
-    <Location>(31948,31995,9)</Location>
-  </DeathEvent>
-  <DeathEvent>
     <Rank>28</Rank>
+    <Player>Game</Player>
+    <LostExp>928641</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-07 18:27:12</Time>
+    <Location>(31948,31995,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>29</Rank>
+    <Player>Game</Player>
+    <LostExp>928641</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-07 18:27:12</Time>
+    <Location>(31948,31995,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
     <Player>Jembuff</Player>
     <LostExp>920755</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -226,7 +242,7 @@
     <Location>(31914,32001,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>31</Rank>
     <Player>Candongo</Player>
     <LostExp>122298</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -234,7 +250,7 @@
     <Location>(31988,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>32</Rank>
     <Player>Candongo</Player>
     <LostExp>110089</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -242,7 +258,7 @@
     <Location>(31989,32017,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>33</Rank>
     <Player>Noro</Player>
     <LostExp>49486</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -250,7 +266,7 @@
     <Location>(32007,31872,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>34</Rank>
     <Player>Noro</Player>
     <LostExp>32418</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -258,7 +274,7 @@
     <Location>(32008,32031,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>35</Rank>
     <Player>Noro</Player>
     <LostExp>24538</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -266,7 +282,7 @@
     <Location>(32031,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>36</Rank>
     <Player>Noro</Player>
     <LostExp>23362</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -274,7 +290,7 @@
     <Location>(31884,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>37</Rank>
     <Player>Noro</Player>
     <LostExp>11865</LostExp>
     <KilledBy>Fire Drake</KilledBy>
