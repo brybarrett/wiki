@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749337213385</GeneratedAt>
+  <GeneratedAt>1749337513386</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Malekosala</Player>
@@ -8,5 +8,21 @@
     <KilledBy>Leviatacle</KilledBy>
     <Time>2025-06-08 00:21:42</Time>
     <Location>(31860,32085,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Matadordpk</Player>
+    <LostExp>6638432</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-06-08 01:01:53</Time>
+    <Location>(31984,32067,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Elwin</Player>
+    <LostExp>553820</LostExp>
+    <KilledBy>Bantinel</KilledBy>
+    <Time>2025-06-08 01:03:00</Time>
+    <Location>(31931,32021,11)</Location>
   </DeathEvent>
 </DeathHighscores>
