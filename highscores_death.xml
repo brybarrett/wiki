@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749258008161</GeneratedAt>
+  <GeneratedAt>1749258308153</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jembuff</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Noro</Player>
+    <LostExp>23362</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-07 03:02:03</Time>
+    <Location>(31884,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Noro</Player>
     <LostExp>11865</LostExp>
     <KilledBy>Fire Drake</KilledBy>
