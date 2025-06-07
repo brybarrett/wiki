@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749310808153</GeneratedAt>
+  <GeneratedAt>1749311108154</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Johnnywar</Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Mensonwiz</Player>
+    <LostExp>1054104</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-06-07 17:42:02</Time>
+    <Location>(32845,31981,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Jembuff</Player>
     <LostExp>920755</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31914,32001,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Candongo</Player>
     <LostExp>122298</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31988,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Candongo</Player>
     <LostExp>110089</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31989,32017,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Noro</Player>
     <LostExp>49486</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32007,31872,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Noro</Player>
     <LostExp>32418</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32008,32031,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Noro</Player>
     <LostExp>24538</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32031,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Noro</Player>
     <LostExp>23362</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31884,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Noro</Player>
     <LostExp>11865</LostExp>
     <KilledBy>Fire Drake</KilledBy>
