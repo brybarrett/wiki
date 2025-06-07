@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749330308158</GeneratedAt>
+  <GeneratedAt>1749330608160</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Johnnywar</Player>
@@ -267,6 +267,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>34</Rank>
+    <Player>Elwin</Player>
+    <LostExp>289724</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-06-07 23:05:48</Time>
+    <Location>(32009,31941,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Candongo</Player>
     <LostExp>122298</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31988,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Candongo</Player>
     <LostExp>110089</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31989,32017,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Noro</Player>
     <LostExp>49486</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(32007,31872,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Noro</Player>
     <LostExp>32418</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(32008,32031,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Noro</Player>
     <LostExp>24538</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(32031,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Noro</Player>
     <LostExp>23362</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31884,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Noro</Player>
     <LostExp>11865</LostExp>
     <KilledBy>Fire Drake</KilledBy>
