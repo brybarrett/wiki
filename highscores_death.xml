@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749390613387</GeneratedAt>
+  <GeneratedAt>1749390913377</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ainz</Player>
@@ -176,5 +176,13 @@
     <KilledBy>Blaze Master</KilledBy>
     <Time>2025-06-08 06:41:03</Time>
     <Location>(31993,32256,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Candongo</Player>
+    <LostExp>103725</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-06-08 15:50:55</Time>
+    <Location>(31990,31892,9)</Location>
   </DeathEvent>
 </DeathHighscores>
