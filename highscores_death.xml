@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749342913361</GeneratedAt>
+  <GeneratedAt>1749343213386</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Malekosala</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Bantinel</KilledBy>
     <Time>2025-06-08 01:03:00</Time>
     <Location>(31931,32021,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Elwin</Player>
+    <LostExp>505920</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-06-08 02:39:27</Time>
+    <Location>(32025,31896,8)</Location>
   </DeathEvent>
 </DeathHighscores>
