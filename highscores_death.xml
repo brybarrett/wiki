@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749349513379</GeneratedAt>
+  <GeneratedAt>1749349813375</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Malekosala</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Skyline</Player>
+    <LostExp>6371607</LostExp>
+    <KilledBy>Gigantula</KilledBy>
+    <Time>2025-06-08 04:29:51</Time>
+    <Location>(32895,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Jembuff</Player>
     <LostExp>859790</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31866,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Elwin</Player>
     <LostExp>553820</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31931,32021,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Elwin</Player>
     <LostExp>505920</LostExp>
     <KilledBy>Orc Leader</KilledBy>
