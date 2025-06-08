@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749389113379</GeneratedAt>
+  <GeneratedAt>1749389413395</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ainz</Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Denideni</Player>
+    <LostExp>626094</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-06-08 15:29:59</Time>
+    <Location>(32030,32279,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Elwin</Player>
     <LostExp>553820</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31931,32021,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Elwin</Player>
     <LostExp>508380</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31972,32259,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Elwin</Player>
     <LostExp>505920</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32025,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Elwin</Player>
     <LostExp>458374</LostExp>
     <KilledBy>Blaze Master</KilledBy>
