@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749421512774</GeneratedAt>
+  <GeneratedAt>1749421812775</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindao</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Wardy</KilledBy>
     <Time>2025-06-09 00:23:13</Time>
     <Location>(32010,32201,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Matadordpk</Player>
+    <LostExp>6685946</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-06-09 00:25:31</Time>
+    <Location>(31984,32067,10)</Location>
   </DeathEvent>
 </DeathHighscores>
