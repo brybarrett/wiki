@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749365713376</GeneratedAt>
+  <GeneratedAt>1749366013383</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ainz</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Exor</Player>
+    <LostExp>1206298</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-08 08:56:03</Time>
+    <Location>(31881,32025,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Jembuff</Player>
     <LostExp>859790</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31866,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Elwin</Player>
     <LostExp>553820</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31931,32021,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Elwin</Player>
     <LostExp>508380</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31972,32259,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Elwin</Player>
     <LostExp>505920</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32025,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Elwin</Player>
     <LostExp>458374</LostExp>
     <KilledBy>Blaze Master</KilledBy>
