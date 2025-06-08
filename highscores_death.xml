@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749422412778</GeneratedAt>
+  <GeneratedAt>1749422712781</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindao</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Ninjaman</KilledBy>
     <Time>2025-06-09 00:25:31</Time>
     <Location>(31984,32067,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Neon</Player>
+    <LostExp>5280894</LostExp>
+    <KilledBy>Ifrit</KilledBy>
+    <Time>2025-06-09 00:42:09</Time>
+    <Location>(32838,32021,9)</Location>
   </DeathEvent>
 </DeathHighscores>
