@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749414013372</GeneratedAt>
+  <GeneratedAt>1749414313380</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -140,13 +140,21 @@
   <DeathEvent>
     <Rank>18</Rank>
     <Player>Ken</Player>
+    <LostExp>2607082</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-08 22:24:03</Time>
+    <Location>(31863,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Ken</Player>
     <LostExp>2586881</LostExp>
     <KilledBy>The Miner</KilledBy>
     <Time>2025-06-08 20:05:34</Time>
     <Location>(31858,31974,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Game</Player>
     <LostExp>1906972</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32041,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Game</Player>
     <LostExp>1859522</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32828,32036,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Magroso</Player>
     <LostExp>1387352</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32004,31874,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Exor</Player>
     <LostExp>1206298</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31881,32025,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Exor</Player>
     <LostExp>1158653</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31898,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Godmagro</Player>
     <LostExp>1070292</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32010,31874,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Jembuff</Player>
     <LostExp>859790</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31866,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Denideni</Player>
     <LostExp>626094</LostExp>
     <KilledBy>Long</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32030,32279,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Denideni</Player>
     <LostExp>603074</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31895,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Sar</Player>
     <LostExp>598664</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31859,31973,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Elwin</Player>
     <LostExp>553820</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31931,32021,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Elwin</Player>
     <LostExp>508380</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31972,32259,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Elwin</Player>
     <LostExp>505920</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32025,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Elwin</Player>
     <LostExp>458374</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31993,32256,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Candongo</Player>
     <LostExp>103725</LostExp>
     <KilledBy>Scorpion</KilledBy>
