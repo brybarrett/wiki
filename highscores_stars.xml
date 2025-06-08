@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1749343513373</GeneratedAt>
+  <GeneratedAt>1749343813379</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -218,12 +218,12 @@
   </Player>
   <Player>
     <Rank>44</Rank>
-    <Name>Danzou</Name>
+    <Name>Fearlock</Name>
     <StarsCollected>168</StarsCollected>
   </Player>
   <Player>
     <Rank>45</Rank>
-    <Name>Fearlock</Name>
+    <Name>Danzou</Name>
     <StarsCollected>168</StarsCollected>
   </Player>
   <Player>
@@ -233,17 +233,17 @@
   </Player>
   <Player>
     <Rank>47</Rank>
-    <Name>Devorz</Name>
-    <StarsCollected>166</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>48</Rank>
     <Name>Warmagedom</Name>
     <StarsCollected>166</StarsCollected>
   </Player>
   <Player>
-    <Rank>49</Rank>
+    <Rank>48</Rank>
     <Name>Hawkeyez</Name>
+    <StarsCollected>166</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>49</Rank>
+    <Name>Devorz</Name>
     <StarsCollected>166</StarsCollected>
   </Player>
   <Player>
