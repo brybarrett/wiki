@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749507317549</GeneratedAt>
+  <GeneratedAt>1749507611564</GeneratedAt>
+  <DeathEvent>
+    <Rank>1</Rank>
+    <Player>Panqueca</Player>
+    <LostExp>18861689</LostExp>
+    <KilledBy>Ifrit</KilledBy>
+    <Time>2025-06-10 00:19:48</Time>
+    <Location>(32853,32032,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Noro</Player>
+    <LostExp>1490430</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-06-10 00:17:54</Time>
+    <Location>(32829,31980,7)</Location>
+  </DeathEvent>
 </DeathHighscores>
