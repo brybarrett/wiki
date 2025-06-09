@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1749480912780</GeneratedAt>
+  <GeneratedAt>1749481212782</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -158,12 +158,12 @@
   </Player>
   <Player>
     <Rank>32</Rank>
-    <Name>Lendario</Name>
+    <Name>Joker</Name>
     <StarsCollected>187</StarsCollected>
   </Player>
   <Player>
     <Rank>33</Rank>
-    <Name>Joker</Name>
+    <Name>Lendario</Name>
     <StarsCollected>187</StarsCollected>
   </Player>
   <Player>
@@ -298,22 +298,22 @@
   </Player>
   <Player>
     <Rank>60</Rank>
-    <Name>Moondeath</Name>
-    <StarsCollected>154</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>61</Rank>
     <Name>Vamplod</Name>
     <StarsCollected>154</StarsCollected>
   </Player>
   <Player>
+    <Rank>61</Rank>
+    <Name>Moondeath</Name>
+    <StarsCollected>154</StarsCollected>
+  </Player>
+  <Player>
     <Rank>62</Rank>
-    <Name>Srlira</Name>
+    <Name>Kannisword</Name>
     <StarsCollected>153</StarsCollected>
   </Player>
   <Player>
     <Rank>63</Rank>
-    <Name>Kannisword</Name>
+    <Name>Srlira</Name>
     <StarsCollected>153</StarsCollected>
   </Player>
   <Player>
@@ -368,12 +368,12 @@
   </Player>
   <Player>
     <Rank>74</Rank>
-    <Name>Fay</Name>
+    <Name>Godcarver</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
     <Rank>75</Rank>
-    <Name>Godcarver</Name>
+    <Name>Fay</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -428,17 +428,17 @@
   </Player>
   <Player>
     <Rank>86</Rank>
-    <Name>Killer</Name>
-    <StarsCollected>127</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>87</Rank>
     <Name>Boruto</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
-    <Rank>88</Rank>
+    <Rank>87</Rank>
     <Name>Carver</Name>
+    <StarsCollected>127</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>88</Rank>
+    <Name>Killer</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
@@ -453,12 +453,12 @@
   </Player>
   <Player>
     <Rank>91</Rank>
-    <Name>Blindadu</Name>
+    <Name>Renegado</Name>
     <StarsCollected>124</StarsCollected>
   </Player>
   <Player>
     <Rank>92</Rank>
-    <Name>Renegado</Name>
+    <Name>Blindadu</Name>
     <StarsCollected>124</StarsCollected>
   </Player>
   <Player>
@@ -543,17 +543,17 @@
   </Player>
   <Player>
     <Rank>109</Rank>
-    <Name>Biawak</Name>
+    <Name>Templarr</Name>
     <StarsCollected>104</StarsCollected>
   </Player>
   <Player>
     <Rank>110</Rank>
-    <Name>Bscastilo</Name>
+    <Name>Biawak</Name>
     <StarsCollected>104</StarsCollected>
   </Player>
   <Player>
     <Rank>111</Rank>
-    <Name>Templarr</Name>
+    <Name>Bscastilo</Name>
     <StarsCollected>104</StarsCollected>
   </Player>
   <Player>
@@ -618,27 +618,27 @@
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Piras</Name>
-    <StarsCollected>98</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>125</Rank>
-    <Name>Yakoebom</Name>
-    <StarsCollected>98</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>126</Rank>
     <Name>Powerofgod</Name>
     <StarsCollected>98</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
+    <Rank>125</Rank>
     <Name>Pandatank</Name>
     <StarsCollected>98</StarsCollected>
   </Player>
   <Player>
+    <Rank>126</Rank>
+    <Name>Piras</Name>
+    <StarsCollected>98</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>127</Rank>
+    <Name>Yakoebom</Name>
+    <StarsCollected>98</StarsCollected>
+  </Player>
+  <Player>
     <Rank>128</Rank>
-    <Name>Omadara</Name>
+    <Name>Bandits</Name>
     <StarsCollected>97</StarsCollected>
   </Player>
 </StarsHighscores>
