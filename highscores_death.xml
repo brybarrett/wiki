@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749511811572</GeneratedAt>
+  <GeneratedAt>1749512111568</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ganny</Player>
@@ -43,6 +43,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Verock</Player>
+    <LostExp>15362830</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-06-10 01:32:07</Time>
+    <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Verockx</Player>
+    <LostExp>4930762</LostExp>
+    <KilledBy>Chilong</KilledBy>
+    <Time>2025-06-10 01:32:12</Time>
+    <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Noro</Player>
     <LostExp>1490430</LostExp>
     <KilledBy>Redeath</KilledBy>
