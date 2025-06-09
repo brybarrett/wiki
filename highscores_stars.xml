@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1749467712771</GeneratedAt>
+  <GeneratedAt>1749468012789</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -158,22 +158,22 @@
   </Player>
   <Player>
     <Rank>32</Rank>
-    <Name>Joker</Name>
-    <StarsCollected>187</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>33</Rank>
     <Name>Lendario</Name>
     <StarsCollected>187</StarsCollected>
   </Player>
   <Player>
+    <Rank>33</Rank>
+    <Name>Joker</Name>
+    <StarsCollected>187</StarsCollected>
+  </Player>
+  <Player>
     <Rank>34</Rank>
-    <Name>Ainz</Name>
+    <Name>Okomura</Name>
     <StarsCollected>179</StarsCollected>
   </Player>
   <Player>
     <Rank>35</Rank>
-    <Name>Okomura</Name>
+    <Name>Ainz</Name>
     <StarsCollected>179</StarsCollected>
   </Player>
   <Player>
@@ -263,12 +263,12 @@
   </Player>
   <Player>
     <Rank>53</Rank>
-    <Name>Offtank </Name>
+    <Name>Ashura</Name>
     <StarsCollected>161</StarsCollected>
   </Player>
   <Player>
     <Rank>54</Rank>
-    <Name>Ashura</Name>
+    <Name>Offtank </Name>
     <StarsCollected>161</StarsCollected>
   </Player>
   <Player>
@@ -368,12 +368,12 @@
   </Player>
   <Player>
     <Rank>74</Rank>
-    <Name>Godcarver</Name>
+    <Name>Fay</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
     <Rank>75</Rank>
-    <Name>Fay</Name>
+    <Name>Godcarver</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -403,12 +403,12 @@
   </Player>
   <Player>
     <Rank>81</Rank>
-    <Name>Khorhigee</Name>
+    <Name>Nudin</Name>
     <StarsCollected>132</StarsCollected>
   </Player>
   <Player>
     <Rank>82</Rank>
-    <Name>Nudin</Name>
+    <Name>Khorhigee</Name>
     <StarsCollected>132</StarsCollected>
   </Player>
   <Player>
@@ -428,17 +428,17 @@
   </Player>
   <Player>
     <Rank>86</Rank>
-    <Name>Boruto</Name>
+    <Name>Killer</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
     <Rank>87</Rank>
-    <Name>Carver</Name>
+    <Name>Boruto</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
     <Rank>88</Rank>
-    <Name>Killer</Name>
+    <Name>Carver</Name>
     <StarsCollected>127</StarsCollected>
   </Player>
   <Player>
@@ -543,17 +543,17 @@
   </Player>
   <Player>
     <Rank>109</Rank>
-    <Name>Templarr</Name>
-    <StarsCollected>104</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>110</Rank>
     <Name>Biawak</Name>
     <StarsCollected>104</StarsCollected>
   </Player>
   <Player>
-    <Rank>111</Rank>
+    <Rank>110</Rank>
     <Name>Bscastilo</Name>
+    <StarsCollected>104</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>111</Rank>
+    <Name>Templarr</Name>
     <StarsCollected>104</StarsCollected>
   </Player>
   <Player>
@@ -618,27 +618,27 @@
   </Player>
   <Player>
     <Rank>124</Rank>
-    <Name>Yakoebom</Name>
-    <StarsCollected>98</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>125</Rank>
-    <Name>Powerofgod</Name>
-    <StarsCollected>98</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>126</Rank>
-    <Name>Pandatank</Name>
-    <StarsCollected>98</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>127</Rank>
     <Name>Piras</Name>
     <StarsCollected>98</StarsCollected>
   </Player>
   <Player>
+    <Rank>125</Rank>
+    <Name>Yakoebom</Name>
+    <StarsCollected>98</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>126</Rank>
+    <Name>Powerofgod</Name>
+    <StarsCollected>98</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>127</Rank>
+    <Name>Pandatank</Name>
+    <StarsCollected>98</StarsCollected>
+  </Player>
+  <Player>
     <Rank>128</Rank>
-    <Name>Bandits</Name>
+    <Name>Omadara</Name>
     <StarsCollected>97</StarsCollected>
   </Player>
 </StarsHighscores>
