@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749510011568</GeneratedAt>
+  <GeneratedAt>1749510311567</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Ganny</Player>
+    <LostExp>176948105</LostExp>
+    <KilledBy>Killerwiz</KilledBy>
+    <Time>2025-06-10 01:02:50</Time>
+    <Location>(31777,31938,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Nenawiz</Player>
+    <LostExp>83573817</LostExp>
+    <KilledBy>Killerwiz</KilledBy>
+    <Time>2025-06-10 01:02:50</Time>
+    <Location>(31776,31937,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Panqueca</Player>
     <LostExp>18861689</LostExp>
     <KilledBy>Ifrit</KilledBy>
@@ -10,7 +26,7 @@
     <Location>(32853,32032,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Panqueca</Player>
     <LostExp>17006426</LostExp>
     <KilledBy>Kapami</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(32848,32027,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Noro</Player>
     <LostExp>1490430</LostExp>
     <KilledBy>Redeath</KilledBy>
