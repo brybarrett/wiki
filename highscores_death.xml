@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749435012784</GeneratedAt>
+  <GeneratedAt>1749435312772</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindao</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Mrdoman</Player>
+    <LostExp>150383</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-06-09 04:10:50</Time>
+    <Location>(32006,31959,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Pirataxd</Player>
     <LostExp>7740</LostExp>
     <KilledBy>Scorpion</KilledBy>
