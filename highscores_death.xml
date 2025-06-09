@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749442212768</GeneratedAt>
+  <GeneratedAt>1749442512789</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindao</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Punipun</Player>
+    <LostExp>5614349</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-06-09 06:14:06</Time>
+    <Location>(32013,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Neon</Player>
     <LostExp>5280894</LostExp>
     <KilledBy>Ifrit</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32838,32021,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Goldwiz</Player>
     <LostExp>3731792</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,15 @@
     <Location>(32036,32246,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
+    <Player>Raphaooo</Player>
+    <LostExp>943118</LostExp>
+    <KilledBy>Hell Guard</KilledBy>
+    <Time>2025-06-09 06:14:54</Time>
+    <Location>(32789,32251,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Mrdoman</Player>
     <LostExp>150383</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(32006,31959,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Pirataxd</Player>
     <LostExp>7740</LostExp>
     <KilledBy>Scorpion</KilledBy>
