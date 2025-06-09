@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749430212781</GeneratedAt>
+  <GeneratedAt>1749430512782</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindao</Player>
@@ -11,6 +11,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Seis</Player>
+    <LostExp>20122195</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-09 02:55:03</Time>
+    <Location>(31877,32018,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Cinco</Player>
+    <LostExp>20028730</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-09 02:54:31</Time>
+    <Location>(31880,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Matadordpk</Player>
     <LostExp>6685946</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(31984,32067,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Neon</Player>
     <LostExp>5280894</LostExp>
     <KilledBy>Ifrit</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(32838,32021,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Goldwiz</Player>
     <LostExp>3731792</LostExp>
     <KilledBy>Werewolf</KilledBy>
