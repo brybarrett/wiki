@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749510311567</GeneratedAt>
+  <GeneratedAt>1749510611570</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ganny</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Borutos</Player>
+    <LostExp>18517916</LostExp>
+    <KilledBy>Krakomin</KilledBy>
+    <Time>2025-06-10 01:06:48</Time>
+    <Location>(31781,31937,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Panqueca</Player>
     <LostExp>17006426</LostExp>
     <KilledBy>Kapami</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32848,32027,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Noro</Player>
     <LostExp>1490430</LostExp>
     <KilledBy>Redeath</KilledBy>
