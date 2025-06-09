@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749457812776</GeneratedAt>
+  <GeneratedAt>1749458112786</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ainz</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Borutos</Player>
+    <LostExp>14616960</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-06-09 10:31:34</Time>
+    <Location>(32001,32235,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Matadordpk</Player>
     <LostExp>6685946</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31984,32067,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Matadordpk</Player>
     <LostExp>6479443</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31983,32067,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Punipun</Player>
     <LostExp>5614349</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32013,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Neon</Player>
     <LostExp>5280894</LostExp>
     <KilledBy>Ifrit</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32838,32021,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Goldwiz</Player>
     <LostExp>3731792</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32036,32246,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Raphaooo</Player>
     <LostExp>943118</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32789,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Mrdoman</Player>
     <LostExp>150383</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32006,31959,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Pirataxd</Player>
     <LostExp>7740</LostExp>
     <KilledBy>Scorpion</KilledBy>
