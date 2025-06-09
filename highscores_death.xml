@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749486912785</GeneratedAt>
+  <GeneratedAt>1749487212796</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ainz</Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Goldwizzz</Player>
+    <LostExp>2765533</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-09 18:39:32</Time>
+    <Location>(31866,32058,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Poppay</Player>
     <LostExp>1747345</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32852,31977,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Raphaooo</Player>
     <LostExp>943118</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32789,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Mrdoman</Player>
     <LostExp>150383</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32006,31959,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Pirataxd</Player>
     <LostExp>7740</LostExp>
     <KilledBy>Scorpion</KilledBy>
