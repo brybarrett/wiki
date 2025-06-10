@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749554111574</GeneratedAt>
+  <GeneratedAt>1749554411564</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Renan</Player>
@@ -163,6 +163,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>21</Rank>
+    <Player>Kaparzo</Player>
+    <LostExp>6402832</LostExp>
+    <KilledBy>Chilong</KilledBy>
+    <Time>2025-06-10 13:17:30</Time>
+    <Location>(32063,31819,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
     <Player>Matadordpk</Player>
     <LostExp>5968566</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31984,32067,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Verockx</Player>
     <LostExp>4930762</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Baby</Player>
     <LostExp>3548609</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -186,20 +194,12 @@
     <Location>(32040,31831,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Mupy</Player>
     <LostExp>2969960</LostExp>
     <KilledBy>Ghostnon</KilledBy>
     <Time>2025-06-10 06:51:12</Time>
     <Location>(32044,31795,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>25</Rank>
-    <Player>Poppay</Player>
-    <LostExp>2617387</LostExp>
-    <KilledBy>GM-Viajant</KilledBy>
-    <Time>2025-06-10 01:48:14</Time>
-    <Location>(32042,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>26</Rank>
@@ -211,6 +211,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>27</Rank>
+    <Player>Poppay</Player>
+    <LostExp>2617387</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-06-10 01:48:14</Time>
+    <Location>(32042,32038,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
     <Player>Noro</Player>
     <LostExp>1490430</LostExp>
     <KilledBy>Redeath</KilledBy>
