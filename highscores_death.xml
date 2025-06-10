@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749576911571</GeneratedAt>
+  <GeneratedAt>1749577211564</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Renan</Player>
@@ -171,6 +171,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>22</Rank>
+    <Player>Lessako</Player>
+    <LostExp>8109293</LostExp>
+    <KilledBy>Vampmaster</KilledBy>
+    <Time>2025-06-10 19:39:52</Time>
+    <Location>(31930,31903,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
     <Player>Goldwiz</Player>
     <LostExp>6908417</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31889,32026,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Lupy</Player>
     <LostExp>6481175</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32044,31801,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Kaparzo</Player>
     <LostExp>6402832</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32063,31819,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Matadordpk</Player>
     <LostExp>5968566</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31984,32067,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Verockx</Player>
     <LostExp>4930762</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Neon</Player>
     <LostExp>4900001</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32858,31971,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Baby</Player>
     <LostExp>3548609</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -226,20 +234,12 @@
     <Location>(32040,31831,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Mupy</Player>
     <LostExp>2969960</LostExp>
     <KilledBy>Ghostnon</KilledBy>
     <Time>2025-06-10 06:51:12</Time>
     <Location>(32044,31795,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>30</Rank>
-    <Player>Poppay</Player>
-    <LostExp>2617387</LostExp>
-    <KilledBy>GM-Viajant</KilledBy>
-    <Time>2025-06-10 01:48:14</Time>
-    <Location>(32042,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>31</Rank>
@@ -251,6 +251,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>32</Rank>
+    <Player>Poppay</Player>
+    <LostExp>2617387</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-06-10 01:48:14</Time>
+    <Location>(32042,32038,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>33</Rank>
     <Player>Noro</Player>
     <LostExp>1490430</LostExp>
     <KilledBy>Redeath</KilledBy>
