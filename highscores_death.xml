@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749517511566</GeneratedAt>
+  <GeneratedAt>1749517811582</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ganny</Player>
@@ -67,19 +67,19 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Matadordpk</Player>
+    <LostExp>5968566</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-06-10 03:09:48</Time>
+    <Location>(31984,32067,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Verockx</Player>
     <LostExp>4930762</LostExp>
     <KilledBy>Chilong</KilledBy>
     <Time>2025-06-10 01:32:12</Time>
     <Location>(32064,31827,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>10</Rank>
-    <Player>Poppay</Player>
-    <LostExp>2617387</LostExp>
-    <KilledBy>GM-Viajant</KilledBy>
-    <Time>2025-06-10 01:48:14</Time>
-    <Location>(32042,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Poppay</Player>
+    <LostExp>2617387</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-06-10 01:48:14</Time>
+    <Location>(32042,32038,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Noro</Player>
     <LostExp>1490430</LostExp>
     <KilledBy>Redeath</KilledBy>
