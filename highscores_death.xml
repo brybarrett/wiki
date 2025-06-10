@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749531011567</GeneratedAt>
+  <GeneratedAt>1749531311570</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ganny</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Lupy</Player>
+    <LostExp>6481175</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-06-10 06:51:32</Time>
+    <Location>(32044,31801,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Matadordpk</Player>
     <LostExp>5968566</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31984,32067,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Verockx</Player>
     <LostExp>4930762</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -130,23 +138,31 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
-    <Player>Poppay</Player>
-    <LostExp>2617387</LostExp>
-    <KilledBy>GM-Viajant</KilledBy>
-    <Time>2025-06-10 01:48:14</Time>
-    <Location>(32042,32038,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
     <Rank>18</Rank>
-    <Player>Poppay</Player>
-    <LostExp>2617387</LostExp>
-    <KilledBy>GM-Viajant</KilledBy>
-    <Time>2025-06-10 01:48:14</Time>
-    <Location>(32042,32038,8)</Location>
+    <Player>Mupy</Player>
+    <LostExp>2969960</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-06-10 06:51:12</Time>
+    <Location>(32044,31795,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>19</Rank>
+    <Player>Poppay</Player>
+    <LostExp>2617387</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-06-10 01:48:14</Time>
+    <Location>(32042,32038,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Poppay</Player>
+    <LostExp>2617387</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-06-10 01:48:14</Time>
+    <Location>(32042,32038,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
     <Player>Noro</Player>
     <LostExp>1490430</LostExp>
     <KilledBy>Redeath</KilledBy>
