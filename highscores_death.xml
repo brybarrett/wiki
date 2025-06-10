@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749546911562</GeneratedAt>
+  <GeneratedAt>1749547211564</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -163,19 +163,19 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>21</Rank>
+    <Player>Baby</Player>
+    <LostExp>3548609</LostExp>
+    <KilledBy>Ghoranus</KilledBy>
+    <Time>2025-06-10 11:18:48</Time>
+    <Location>(32040,31831,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
     <Player>Mupy</Player>
     <LostExp>2969960</LostExp>
     <KilledBy>Ghostnon</KilledBy>
     <Time>2025-06-10 06:51:12</Time>
     <Location>(32044,31795,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>22</Rank>
-    <Player>Poppay</Player>
-    <LostExp>2617387</LostExp>
-    <KilledBy>GM-Viajant</KilledBy>
-    <Time>2025-06-10 01:48:14</Time>
-    <Location>(32042,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>23</Rank>
@@ -187,6 +187,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>24</Rank>
+    <Player>Poppay</Player>
+    <LostExp>2617387</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-06-10 01:48:14</Time>
+    <Location>(32042,32038,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
     <Player>Noro</Player>
     <LostExp>1490430</LostExp>
     <KilledBy>Redeath</KilledBy>
