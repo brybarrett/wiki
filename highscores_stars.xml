@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1749652507929</GeneratedAt>
+  <GeneratedAt>1749652807937</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -129,7 +129,7 @@
   <Player>
     <Rank>26</Rank>
     <Name>Michael </Name>
-    <StarsCollected>197</StarsCollected>
+    <StarsCollected>198</StarsCollected>
   </Player>
   <Player>
     <Rank>27</Rank>
@@ -218,12 +218,12 @@
   </Player>
   <Player>
     <Rank>44</Rank>
-    <Name>Kuro</Name>
+    <Name>Wizav</Name>
     <StarsCollected>169</StarsCollected>
   </Player>
   <Player>
     <Rank>45</Rank>
-    <Name>Wizav</Name>
+    <Name>Kuro</Name>
     <StarsCollected>169</StarsCollected>
   </Player>
   <Player>
@@ -478,12 +478,12 @@
   </Player>
   <Player>
     <Rank>96</Rank>
-    <Name>Gaspar</Name>
+    <Name>Niggawar</Name>
     <StarsCollected>119</StarsCollected>
   </Player>
   <Player>
     <Rank>97</Rank>
-    <Name>Niggawar</Name>
+    <Name>Gaspar</Name>
     <StarsCollected>119</StarsCollected>
   </Player>
   <Player>
@@ -593,22 +593,22 @@
   </Player>
   <Player>
     <Rank>119</Rank>
-    <Name>Grimmie</Name>
-    <StarsCollected>101</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>120</Rank>
     <Name>Raven</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
-    <Rank>121</Rank>
+    <Rank>120</Rank>
     <Name>Vinion</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
-    <Rank>122</Rank>
+    <Rank>121</Rank>
     <Name>Astreus</Name>
+    <StarsCollected>101</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>122</Rank>
+    <Name>Grimmie</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
@@ -628,17 +628,17 @@
   </Player>
   <Player>
     <Rank>126</Rank>
-    <Name>Powerofgod</Name>
-    <StarsCollected>98</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>127</Rank>
     <Name>Pandatank</Name>
     <StarsCollected>98</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Piras</Name>
+    <StarsCollected>98</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Powerofgod</Name>
     <StarsCollected>98</StarsCollected>
   </Player>
 </StarsHighscores>
