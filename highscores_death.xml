@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749604207941</GeneratedAt>
+  <GeneratedAt>1749604507942</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nenawiz</Player>
@@ -19,6 +19,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Noia</Player>
+    <LostExp>21474721</LostExp>
+    <KilledBy>Dreadtide</KilledBy>
+    <Time>2025-06-11 03:12:23</Time>
+    <Location>(31842,32111,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Valkiria</Player>
+    <LostExp>17194472</LostExp>
+    <KilledBy>Dreadtide</KilledBy>
+    <Time>2025-06-11 03:12:30</Time>
+    <Location>(31842,32112,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Kratos</Player>
     <LostExp>8162237</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(31944,31982,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Punipun</Player>
     <LostExp>7757866</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Ayres</Player>
     <LostExp>139568</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31954,31858,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Fraser</Player>
     <LostExp>11842</LostExp>
     <KilledBy>Orc Leader</KilledBy>
