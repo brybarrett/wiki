@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1749623107949</GeneratedAt>
+  <GeneratedAt>1749623407942</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -168,17 +168,17 @@
   </Player>
   <Player>
     <Rank>34</Rank>
-    <Name>Redeon</Name>
-    <StarsCollected>179</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>35</Rank>
     <Name>Okomura</Name>
     <StarsCollected>179</StarsCollected>
   </Player>
   <Player>
-    <Rank>36</Rank>
+    <Rank>35</Rank>
     <Name>Ainz</Name>
+    <StarsCollected>179</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>36</Rank>
+    <Name>Redeon</Name>
     <StarsCollected>179</StarsCollected>
   </Player>
   <Player>
@@ -313,12 +313,12 @@
   </Player>
   <Player>
     <Rank>63</Rank>
-    <Name>Kannisword</Name>
+    <Name>Srlira</Name>
     <StarsCollected>153</StarsCollected>
   </Player>
   <Player>
     <Rank>64</Rank>
-    <Name>Srlira</Name>
+    <Name>Kannisword</Name>
     <StarsCollected>153</StarsCollected>
   </Player>
   <Player>
@@ -493,12 +493,12 @@
   </Player>
   <Player>
     <Rank>99</Rank>
-    <Name>Cochilo</Name>
+    <Name>Narack</Name>
     <StarsCollected>117</StarsCollected>
   </Player>
   <Player>
     <Rank>100</Rank>
-    <Name>Narack</Name>
+    <Name>Cochilo</Name>
     <StarsCollected>117</StarsCollected>
   </Player>
   <Player>
@@ -593,22 +593,22 @@
   </Player>
   <Player>
     <Rank>119</Rank>
-    <Name>Raven</Name>
-    <StarsCollected>101</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>120</Rank>
     <Name>Astreus</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
-    <Rank>121</Rank>
+    <Rank>120</Rank>
     <Name>Vinion</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
-    <Rank>122</Rank>
+    <Rank>121</Rank>
     <Name>Grimmie</Name>
+    <StarsCollected>101</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>122</Rank>
+    <Name>Raven</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
@@ -623,22 +623,22 @@
   </Player>
   <Player>
     <Rank>125</Rank>
-    <Name>Pandatank</Name>
-    <StarsCollected>98</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>126</Rank>
     <Name>Yakoebom</Name>
     <StarsCollected>98</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
+    <Rank>126</Rank>
     <Name>Piras</Name>
     <StarsCollected>98</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Powerofgod</Name>
+    <StarsCollected>98</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Pandatank</Name>
     <StarsCollected>98</StarsCollected>
   </Player>
 </StarsHighscores>
