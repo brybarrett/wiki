@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749685808928</GeneratedAt>
+  <GeneratedAt>1749686108925</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zahard</Player>
@@ -15,6 +15,14 @@
     <LostExp>11579972</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2025-06-12 01:43:20</Time>
+    <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Verockx</Player>
+    <LostExp>4634777</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-06-12 01:51:31</Time>
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
 </DeathHighscores>
