@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749685208919</GeneratedAt>
+  <GeneratedAt>1749685508920</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zahard</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Chaomby</KilledBy>
     <Time>2025-06-12 01:01:30</Time>
     <Location>(31963,32232,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Shaog</Player>
+    <LostExp>11579972</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-06-12 01:43:20</Time>
+    <Location>(32064,31827,8)</Location>
   </DeathEvent>
 </DeathHighscores>
