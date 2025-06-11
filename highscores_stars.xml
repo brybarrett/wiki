@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1749602407946</GeneratedAt>
+  <GeneratedAt>1749602707938</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -223,17 +223,17 @@
   </Player>
   <Player>
     <Rank>45</Rank>
-    <Name>Lendario</Name>
+    <Name>Fearlock</Name>
     <StarsCollected>168</StarsCollected>
   </Player>
   <Player>
     <Rank>46</Rank>
-    <Name>Hawkeyez</Name>
+    <Name>Lendario</Name>
     <StarsCollected>168</StarsCollected>
   </Player>
   <Player>
     <Rank>47</Rank>
-    <Name>Fearlock</Name>
+    <Name>Hawkeyez</Name>
     <StarsCollected>168</StarsCollected>
   </Player>
   <Player>
@@ -313,12 +313,12 @@
   </Player>
   <Player>
     <Rank>63</Rank>
-    <Name>Srlira</Name>
+    <Name>Kannisword</Name>
     <StarsCollected>153</StarsCollected>
   </Player>
   <Player>
     <Rank>64</Rank>
-    <Name>Kannisword</Name>
+    <Name>Srlira</Name>
     <StarsCollected>153</StarsCollected>
   </Player>
   <Player>
@@ -403,22 +403,22 @@
   </Player>
   <Player>
     <Rank>81</Rank>
-    <Name>Nudin</Name>
-    <StarsCollected>132</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>82</Rank>
     <Name>Khorhigee</Name>
     <StarsCollected>132</StarsCollected>
   </Player>
   <Player>
+    <Rank>82</Rank>
+    <Name>Nudin</Name>
+    <StarsCollected>132</StarsCollected>
+  </Player>
+  <Player>
     <Rank>83</Rank>
-    <Name>Cupy</Name>
+    <Name>Eunha</Name>
     <StarsCollected>131</StarsCollected>
   </Player>
   <Player>
     <Rank>84</Rank>
-    <Name>Eunha</Name>
+    <Name>Cupy</Name>
     <StarsCollected>131</StarsCollected>
   </Player>
   <Player>
@@ -493,12 +493,12 @@
   </Player>
   <Player>
     <Rank>99</Rank>
-    <Name>Narack</Name>
+    <Name>Cochilo</Name>
     <StarsCollected>117</StarsCollected>
   </Player>
   <Player>
     <Rank>100</Rank>
-    <Name>Cochilo</Name>
+    <Name>Narack</Name>
     <StarsCollected>117</StarsCollected>
   </Player>
   <Player>
@@ -508,17 +508,17 @@
   </Player>
   <Player>
     <Rank>102</Rank>
-    <Name>Templar</Name>
+    <Name>Castiel</Name>
     <StarsCollected>114</StarsCollected>
   </Player>
   <Player>
     <Rank>103</Rank>
-    <Name>Zin</Name>
+    <Name>Templar</Name>
     <StarsCollected>114</StarsCollected>
   </Player>
   <Player>
     <Rank>104</Rank>
-    <Name>Castiel</Name>
+    <Name>Zin</Name>
     <StarsCollected>114</StarsCollected>
   </Player>
   <Player>
@@ -563,32 +563,32 @@
   </Player>
   <Player>
     <Rank>113</Rank>
-    <Name>Kiyahatzu</Name>
-    <StarsCollected>103</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>114</Rank>
     <Name>Salamaleko</Name>
     <StarsCollected>103</StarsCollected>
   </Player>
   <Player>
+    <Rank>114</Rank>
+    <Name>Kiyahatzu</Name>
+    <StarsCollected>103</StarsCollected>
+  </Player>
+  <Player>
     <Rank>115</Rank>
-    <Name>Itachi</Name>
+    <Name>Natoriu</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
     <Rank>116</Rank>
-    <Name>Tuyull</Name>
+    <Name>Itachi</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
     <Rank>117</Rank>
-    <Name>Rog</Name>
+    <Name>Tuyull</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
     <Rank>118</Rank>
-    <Name>Natoriu</Name>
+    <Name>Rog</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
   <Player>
@@ -623,22 +623,22 @@
   </Player>
   <Player>
     <Rank>125</Rank>
-    <Name>Piras</Name>
-    <StarsCollected>98</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>126</Rank>
-    <Name>Powerofgod</Name>
-    <StarsCollected>98</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>127</Rank>
     <Name>Pandatank</Name>
     <StarsCollected>98</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>126</Rank>
     <Name>Yakoebom</Name>
+    <StarsCollected>98</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>127</Rank>
+    <Name>Piras</Name>
+    <StarsCollected>98</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Powerofgod</Name>
     <StarsCollected>98</StarsCollected>
   </Player>
 </StarsHighscores>
