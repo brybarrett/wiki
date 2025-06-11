@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1749650107935</GeneratedAt>
+  <GeneratedAt>1749650407931</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -168,17 +168,17 @@
   </Player>
   <Player>
     <Rank>34</Rank>
-    <Name>Ainz</Name>
-    <StarsCollected>179</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>35</Rank>
     <Name>Redeon</Name>
     <StarsCollected>179</StarsCollected>
   </Player>
   <Player>
-    <Rank>36</Rank>
+    <Rank>35</Rank>
     <Name>Okomura</Name>
+    <StarsCollected>179</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>36</Rank>
+    <Name>Ainz</Name>
     <StarsCollected>179</StarsCollected>
   </Player>
   <Player>
@@ -228,12 +228,12 @@
   </Player>
   <Player>
     <Rank>46</Rank>
-    <Name>Lendario</Name>
+    <Name>Fearlock</Name>
     <StarsCollected>168</StarsCollected>
   </Player>
   <Player>
     <Rank>47</Rank>
-    <Name>Fearlock</Name>
+    <Name>Lendario</Name>
     <StarsCollected>168</StarsCollected>
   </Player>
   <Player>
@@ -338,17 +338,17 @@
   </Player>
   <Player>
     <Rank>68</Rank>
-    <Name>Biel</Name>
+    <Name>Drakee</Name>
     <StarsCollected>145</StarsCollected>
   </Player>
   <Player>
     <Rank>69</Rank>
-    <Name>Cloudy</Name>
+    <Name>Biel</Name>
     <StarsCollected>145</StarsCollected>
   </Player>
   <Player>
     <Rank>70</Rank>
-    <Name>Drakee</Name>
+    <Name>Cloudy</Name>
     <StarsCollected>145</StarsCollected>
   </Player>
   <Player>
@@ -368,12 +368,12 @@
   </Player>
   <Player>
     <Rank>74</Rank>
-    <Name>Godcarver</Name>
+    <Name>Fay</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
     <Rank>75</Rank>
-    <Name>Fay</Name>
+    <Name>Godcarver</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -483,12 +483,12 @@
   </Player>
   <Player>
     <Rank>97</Rank>
-    <Name>Zed</Name>
+    <Name>Gaspar</Name>
     <StarsCollected>118</StarsCollected>
   </Player>
   <Player>
     <Rank>98</Rank>
-    <Name>Gaspar</Name>
+    <Name>Zed</Name>
     <StarsCollected>118</StarsCollected>
   </Player>
   <Player>
@@ -598,12 +598,12 @@
   </Player>
   <Player>
     <Rank>120</Rank>
-    <Name>Vinion</Name>
+    <Name>Raven</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
     <Rank>121</Rank>
-    <Name>Raven</Name>
+    <Name>Vinion</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
@@ -623,22 +623,22 @@
   </Player>
   <Player>
     <Rank>125</Rank>
+    <Name>Yakoebom</Name>
+    <StarsCollected>99</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>126</Rank>
     <Name>Powerofgod</Name>
     <StarsCollected>98</StarsCollected>
   </Player>
   <Player>
-    <Rank>126</Rank>
+    <Rank>127</Rank>
     <Name>Pandatank</Name>
     <StarsCollected>98</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
-    <Name>Piras</Name>
-    <StarsCollected>98</StarsCollected>
-  </Player>
-  <Player>
     <Rank>128</Rank>
-    <Name>Yakoebom</Name>
+    <Name>Piras</Name>
     <StarsCollected>98</StarsCollected>
   </Player>
 </StarsHighscores>
