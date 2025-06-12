@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749702908925</GeneratedAt>
+  <GeneratedAt>1749703208932</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sunrakul</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Villain</Player>
+    <LostExp>11649166</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-06-12 06:40:00</Time>
+    <Location>(31869,32083,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Shaog</Player>
     <LostExp>11579972</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Verockx</Player>
     <LostExp>4634777</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Riquekmila</Player>
     <LostExp>4419613</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31992,32258,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Mrdoman</Player>
     <LostExp>339851</LostExp>
     <KilledBy>Blaze Master</KilledBy>
