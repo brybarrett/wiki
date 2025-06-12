@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749690908926</GeneratedAt>
+  <GeneratedAt>1749691208935</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zahard</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Dark</Player>
+    <LostExp>25302031</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-06-12 03:19:54</Time>
+    <Location>(31970,32211,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Iorshine</Player>
     <LostExp>14343472</LostExp>
     <KilledBy>Kapami</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32854,32028,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Shaog</Player>
     <LostExp>11579972</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Verockx</Player>
     <LostExp>4634777</LostExp>
     <KilledBy>Flutty</KilledBy>
