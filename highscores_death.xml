@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749697808928</GeneratedAt>
+  <GeneratedAt>1749698108929</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Sunrakul</Player>
+    <LostExp>616138721</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-12 05:11:13</Time>
+    <Location>(31951,32264,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Zahard</Player>
     <LostExp>136418084</LostExp>
     <KilledBy>Chaomby</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31963,32232,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Dark</Player>
     <LostExp>25302031</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31970,32211,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Iorshine</Player>
     <LostExp>14343472</LostExp>
     <KilledBy>Kapami</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32854,32028,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Eloa</Player>
     <LostExp>13551425</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31862,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Shaog</Player>
     <LostExp>11579972</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Verockx</Player>
     <LostExp>4634777</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Mrdoman</Player>
     <LostExp>339851</LostExp>
     <KilledBy>Blaze Master</KilledBy>
