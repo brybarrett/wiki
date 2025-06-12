@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749703508927</GeneratedAt>
+  <GeneratedAt>1749703808929</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sunrakul</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Riquekmila</Player>
+    <LostExp>4008549</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-12 06:47:19</Time>
+    <Location>(32001,32254,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Mrdoman</Player>
     <LostExp>339851</LostExp>
     <KilledBy>Blaze Master</KilledBy>
