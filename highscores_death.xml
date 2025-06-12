@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749719108926</GeneratedAt>
+  <GeneratedAt>1749719408931</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sunrakul</Player>
@@ -123,6 +123,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
+    <Player>Borala</Player>
+    <LostExp>8673335</LostExp>
+    <KilledBy>Bsm</KilledBy>
+    <Time>2025-06-12 11:05:23</Time>
+    <Location>(31791,31934,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
     <Player>Verockx</Player>
     <LostExp>4634777</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Riquekmila</Player>
     <LostExp>4419613</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31992,32258,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Riquekmila</Player>
     <LostExp>4008549</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32001,32254,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Mrdoman</Player>
     <LostExp>339851</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32004,32251,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Galadriel</Player>
     <LostExp>26437</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31983,31900,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Galadriel</Player>
     <LostExp>6668</LostExp>
     <KilledBy>Scorpion</KilledBy>
