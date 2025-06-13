@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749802209070</GeneratedAt>
+  <GeneratedAt>1749802509077</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sunrako</Player>
@@ -96,5 +96,13 @@
     <KilledBy>Nunaquatch</KilledBy>
     <Time>2025-06-13 03:49:32</Time>
     <Location>(32874,31988,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>Gabriell</Player>
+    <LostExp>118636</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-06-13 10:12:07</Time>
+    <Location>(31999,32045,8)</Location>
   </DeathEvent>
 </DeathHighscores>
