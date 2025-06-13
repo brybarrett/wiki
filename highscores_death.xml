@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749772809085</GeneratedAt>
+  <GeneratedAt>1749773109081</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tuyull</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Wardy</KilledBy>
     <Time>2025-06-13 01:42:07</Time>
     <Location>(31984,32238,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Dark</Player>
+    <LostExp>23488476</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-06-13 02:03:55</Time>
+    <Location>(31971,32214,9)</Location>
   </DeathEvent>
 </DeathHighscores>
