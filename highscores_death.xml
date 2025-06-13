@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749783309070</GeneratedAt>
+  <GeneratedAt>1749783609075</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tuyull</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Matadordpk</Player>
+    <LostExp>5533026</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-06-13 04:56:01</Time>
+    <Location>(32014,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Noro</Player>
     <LostExp>1500747</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
