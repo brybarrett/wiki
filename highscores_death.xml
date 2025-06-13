@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749825009075</GeneratedAt>
+  <GeneratedAt>1749825309081</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sunrako</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Karver</Player>
+    <LostExp>23382754</LostExp>
+    <KilledBy>(Others)</KilledBy>
+    <Time>2025-06-13 16:34:17</Time>
+    <Location>(31790,31907,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Punipun</Player>
     <LostExp>8911143</LostExp>
     <KilledBy>Shellborn</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31842,32112,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Punipun</Player>
     <LostExp>8325568</LostExp>
     <KilledBy>Fouldraky</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32281,32348,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Kratos</Player>
     <LostExp>8120090</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31947,31995,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Dragonbr</Player>
     <LostExp>6577748</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32820,32028,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Dragonbr</Player>
     <LostExp>6220692</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32872,32042,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Euvelia</Player>
     <LostExp>6114613</LostExp>
     <KilledBy>Fouldraky</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32280,32348,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Matadordpk</Player>
     <LostExp>5533026</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Noro</Player>
     <LostExp>1500747</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32874,31988,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Gabriell</Player>
     <LostExp>118636</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31999,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Aeri</Player>
     <LostExp>8766</LostExp>
     <KilledBy>Skeleton</KilledBy>
