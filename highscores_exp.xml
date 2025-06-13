@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Highscores>
-  <GeneratedAt>1749807309077</GeneratedAt>
+  <GeneratedAt>1749807609078</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Papito</Name>
     <Level>508</Level>
-    <Exp>54926979381</Exp>
+    <Exp>54927658521</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>2</Rank>
     <Name>Hiroshi</Name>
     <Level>468</Level>
-    <Exp>39514556045</Exp>
+    <Exp>39515185520</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -47,7 +47,7 @@
     <Rank>7</Rank>
     <Name>Pancernik</Name>
     <Level>441</Level>
-    <Exp>31128471838</Exp>
+    <Exp>31128831623</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -61,7 +61,7 @@
     <Rank>9</Rank>
     <Name>Dom</Name>
     <Level>425</Level>
-    <Exp>26879260412</Exp>
+    <Exp>26879773495</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -96,28 +96,28 @@
     <Rank>14</Rank>
     <Name>Kannisword</Name>
     <Level>401</Level>
-    <Exp>21416469670</Exp>
+    <Exp>21417427750</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>15</Rank>
     <Name>Mii</Name>
     <Level>400</Level>
-    <Exp>21089706671</Exp>
+    <Exp>21090246642</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>16</Rank>
     <Name>Maxx</Name>
     <Level>394</Level>
-    <Exp>19885373041</Exp>
+    <Exp>19885793461</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>17</Rank>
     <Name>Kannibalz</Name>
     <Level>383</Level>
-    <Exp>17768345603</Exp>
+    <Exp>17769048195</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -138,7 +138,7 @@
     <Rank>20</Rank>
     <Name>Maciano</Name>
     <Level>378</Level>
-    <Exp>16851890935</Exp>
+    <Exp>16852182631</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -166,7 +166,7 @@
     <Rank>24</Rank>
     <Name>Digdin</Name>
     <Level>370</Level>
-    <Exp>15424422289</Exp>
+    <Exp>15425392489</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -222,7 +222,7 @@
     <Rank>32</Rank>
     <Name>Over</Name>
     <Level>352</Level>
-    <Exp>12654085421</Exp>
+    <Exp>12654505841</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -313,7 +313,7 @@
     <Rank>45</Rank>
     <Name>Serizawa</Name>
     <Level>332</Level>
-    <Exp>9997473708</Exp>
+    <Exp>9997793068</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -341,7 +341,7 @@
     <Rank>49</Rank>
     <Name>Gaspar</Name>
     <Level>322</Level>
-    <Exp>8890666400</Exp>
+    <Exp>8891022140</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -397,7 +397,7 @@
     <Rank>57</Rank>
     <Name>Pablo</Name>
     <Level>308</Level>
-    <Exp>7408381491</Exp>
+    <Exp>7408542141</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -425,7 +425,7 @@
     <Rank>61</Rank>
     <Name>Mi</Name>
     <Level>304</Level>
-    <Exp>7021162801</Exp>
+    <Exp>7021289853</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -453,14 +453,14 @@
     <Rank>65</Rank>
     <Name>Dewezz</Name>
     <Level>296</Level>
-    <Exp>6332406723</Exp>
+    <Exp>6332653851</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>66</Rank>
     <Name>Willinha</Name>
     <Level>296</Level>
-    <Exp>6302904406</Exp>
+    <Exp>6303076671</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -495,7 +495,7 @@
     <Rank>71</Rank>
     <Name>Vamplod</Name>
     <Level>290</Level>
-    <Exp>5830955884</Exp>
+    <Exp>5831334782</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -556,17 +556,17 @@
   </Player>
   <Player>
     <Rank>80</Rank>
+    <Name>Blindada</Name>
+    <Level>277</Level>
+    <Exp>4860786753</Exp>
+    <Vocation>Wizard</Vocation>
+  </Player>
+  <Player>
+    <Rank>81</Rank>
     <Name>Shaz</Name>
     <Level>277</Level>
     <Exp>4860358096</Exp>
     <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
-    <Rank>81</Rank>
-    <Name>Blindada</Name>
-    <Level>277</Level>
-    <Exp>4860481612</Exp>
-    <Vocation>Wizard</Vocation>
   </Player>
   <Player>
     <Rank>82</Rank>
@@ -614,7 +614,7 @@
     <Rank>88</Rank>
     <Name>Wizzard</Name>
     <Level>272</Level>
-    <Exp>4526442247</Exp>
+    <Exp>4526705484</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -649,7 +649,7 @@
     <Rank>93</Rank>
     <Name>Mitt</Name>
     <Level>266</Level>
-    <Exp>4132469102</Exp>
+    <Exp>4132723206</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -803,7 +803,7 @@
     <Rank>115</Rank>
     <Name>Dewez</Name>
     <Level>245</Level>
-    <Exp>2956726899</Exp>
+    <Exp>2956931834</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -838,7 +838,7 @@
     <Rank>120</Rank>
     <Name>Zed</Name>
     <Level>244</Level>
-    <Exp>2892938917</Exp>
+    <Exp>2893213917</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
