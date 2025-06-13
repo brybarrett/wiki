@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749779109082</GeneratedAt>
+  <GeneratedAt>1749779409084</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tuyull</Player>
@@ -24,5 +24,13 @@
     <KilledBy>Nunaquatch</KilledBy>
     <Time>2025-06-13 03:39:35</Time>
     <Location>(32820,32028,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Noro</Player>
+    <LostExp>1500747</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-06-13 03:49:32</Time>
+    <Location>(32874,31988,7)</Location>
   </DeathEvent>
 </DeathHighscores>
