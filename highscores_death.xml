@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749796509073</GeneratedAt>
+  <GeneratedAt>1749796809075</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sunrako</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Euvelia</Player>
+    <LostExp>6114613</LostExp>
+    <KilledBy>Fouldraky</KilledBy>
+    <Time>2025-06-13 08:40:03</Time>
+    <Location>(32280,32348,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Matadordpk</Player>
     <LostExp>5533026</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Noro</Player>
     <LostExp>1500747</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
