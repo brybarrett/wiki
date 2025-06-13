@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749832509083</GeneratedAt>
+  <GeneratedAt>1749832809076</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Johnnywar</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Magrinn</Player>
+    <LostExp>46868674</LostExp>
+    <KilledBy>(Others)</KilledBy>
+    <Time>2025-06-13 18:39:01</Time>
+    <Location>(31796,31912,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Marihuana</Player>
     <LostExp>130442</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
