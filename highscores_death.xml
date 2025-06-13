@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749837009078</GeneratedAt>
+  <GeneratedAt>1749837309081</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Johnnywar</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Rabid Bear</KilledBy>
     <Time>2025-06-13 17:27:13</Time>
     <Location>(32036,31965,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Gabriell</Player>
+    <LostExp>110958</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-06-13 19:54:28</Time>
+    <Location>(31879,31903,8)</Location>
   </DeathEvent>
 </DeathHighscores>
