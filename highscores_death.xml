@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749830109100</GeneratedAt>
+  <GeneratedAt>1749830409107</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Johnnywar</Player>
+    <LostExp>640737384</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-13 17:56:13</Time>
+    <Location>(32000,32254,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Marihuana</Player>
     <LostExp>130442</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
