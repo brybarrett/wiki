@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749779709072</GeneratedAt>
+  <GeneratedAt>1749780009081</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tuyull</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Kratos</Player>
+    <LostExp>8120090</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-13 03:59:04</Time>
+    <Location>(31947,31995,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Dragonbr</Player>
     <LostExp>6577748</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32820,32028,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Noro</Player>
     <LostExp>1500747</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
