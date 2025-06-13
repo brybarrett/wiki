@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749784809075</GeneratedAt>
+  <GeneratedAt>1749785109073</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Sunrako</Player>
+    <LostExp>297964651</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-06-13 05:22:26</Time>
+    <Location>(32065,31822,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Tuyull</Player>
     <LostExp>160344984</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31984,32238,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Dark</Player>
     <LostExp>23488476</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31971,32214,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Punipun</Player>
     <LostExp>8911143</LostExp>
     <KilledBy>Shellborn</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31842,32112,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Kratos</Player>
     <LostExp>8120090</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31947,31995,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Dragonbr</Player>
     <LostExp>6577748</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32820,32028,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Dragonbr</Player>
     <LostExp>6220692</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32872,32042,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Matadordpk</Player>
     <LostExp>5533026</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Noro</Player>
     <LostExp>1500747</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
