@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750008562200</GeneratedAt>
+  <GeneratedAt>1750008682202</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -99,6 +99,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Sar</Player>
+    <LostExp>1194151</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-15 19:30:17</Time>
+    <Location>(31969,31982,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Gabriell</Player>
     <LostExp>524594</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32014,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Gengsz</Player>
     <LostExp>43866</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32023,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Gladiatorr</Player>
     <LostExp>37585</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31876,31903,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Focalors</Player>
     <LostExp>33211</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32027,31975,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Focalors</Player>
     <LostExp>2640</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31985,31902,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Focalors</Player>
     <LostExp>1163</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31975,31909,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Rollex</Player>
     <LostExp>170</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32789,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Rollex</Player>
     <LostExp>162</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
