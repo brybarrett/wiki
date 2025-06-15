@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1749992242053</GeneratedAt>
+  <GeneratedAt>1749992362067</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Chaomby</KilledBy>
     <Time>2025-06-15 14:54:01</Time>
     <Location>(31954,32217,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Heineken</Player>
+    <LostExp>332279717</LostExp>
+    <KilledBy>Chaomby</KilledBy>
+    <Time>2025-06-15 14:58:48</Time>
+    <Location>(31963,32227,9)</Location>
   </DeathEvent>
 </DeathHighscores>
