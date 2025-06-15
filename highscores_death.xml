@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750002802157</GeneratedAt>
+  <GeneratedAt>1750002922163</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Hellwilzz</Player>
+    <LostExp>279048370</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-06-15 17:53:28</Time>
+    <Location>(31918,32203,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Nenawiz</Player>
     <LostExp>66719014</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +34,15 @@
     <Location>(31884,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
+    <Player>Dark</Player>
+    <LostExp>23806563</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-06-15 17:54:30</Time>
+    <Location>(31995,32187,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Nena</Player>
     <LostExp>15425980</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(31867,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Bonilha</Player>
     <LostExp>10160647</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31895,32007,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Exor</Player>
     <LostExp>2368918</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(32024,31882,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Gladiatorr</Player>
     <LostExp>37585</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(31876,31903,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Focalors</Player>
     <LostExp>33211</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(32027,31975,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Focalors</Player>
     <LostExp>2640</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(31985,31902,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Focalors</Player>
     <LostExp>1163</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(31975,31909,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Rollex</Player>
     <LostExp>170</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(32789,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Rollex</Player>
     <LostExp>162</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
