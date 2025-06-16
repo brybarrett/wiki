@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750099898245</GeneratedAt>
+  <GeneratedAt>1750100198246</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Piraswiz</Player>
+    <LostExp>348068833</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-06-16 20:54:26</Time>
+    <Location>(31937,32205,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Brisadeira</Player>
     <LostExp>159484741</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31791,31947,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Habibi</Player>
     <LostExp>28441276</LostExp>
     <KilledBy>Saurial</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31916,31852,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Finorium</Player>
     <LostExp>2324977</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31948,32014,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Gabriell</Player>
     <LostExp>834279</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Vandamez</Player>
     <LostExp>548639</LostExp>
     <KilledBy>Scorpion</KilledBy>
