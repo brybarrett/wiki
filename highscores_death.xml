@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750057207251</GeneratedAt>
+  <GeneratedAt>1750057507250</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panqueca </Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Riquekmila</Player>
+    <LostExp>8272321</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-16 09:01:06</Time>
+    <Location>(32036,32235,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Punipun</Player>
     <LostExp>8128475</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32042,31802,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Neon</Player>
     <LostExp>5060411</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32042,31798,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Crydevilz</Player>
     <LostExp>385731</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32043,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Dhidy</Player>
     <LostExp>376473</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32043,32040,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Mihawk</Player>
     <LostExp>40565</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31882,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>And</Player>
     <LostExp>1185</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32043,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Kant</Player>
     <LostExp>405</LostExp>
     <KilledBy>The Bug</KilledBy>
