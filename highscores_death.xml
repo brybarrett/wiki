@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750076407385</GeneratedAt>
+  <GeneratedAt>1750076707391</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -123,6 +123,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
+    <Player>Gengsz</Player>
+    <LostExp>352573</LostExp>
+    <KilledBy>Gaspar</KilledBy>
+    <Time>2025-06-16 14:25:04</Time>
+    <Location>(31958,31868,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
+    <Player>Nalen</Player>
+    <LostExp>319882</LostExp>
+    <KilledBy>Bragnak</KilledBy>
+    <Time>2025-06-16 14:22:18</Time>
+    <Location>(32018,31857,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Dedi</Player>
     <LostExp>78669</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -130,7 +146,7 @@
     <Location>(31881,31913,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>19</Rank>
     <Player>Mihawk</Player>
     <LostExp>40565</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -138,7 +154,7 @@
     <Location>(31882,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>20</Rank>
     <Player>And</Player>
     <LostExp>14363</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -146,7 +162,7 @@
     <Location>(31979,31921,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>21</Rank>
     <Player>Doncorazon</Player>
     <LostExp>9037</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -154,7 +170,7 @@
     <Location>(31994,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>22</Rank>
     <Player>And</Player>
     <LostExp>1185</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -162,7 +178,7 @@
     <Location>(32043,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>23</Rank>
     <Player>Kant</Player>
     <LostExp>405</LostExp>
     <KilledBy>The Bug</KilledBy>
