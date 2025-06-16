@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750043107135</GeneratedAt>
+  <GeneratedAt>1750043407150</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dblack</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Crydevilz</Player>
+    <LostExp>385731</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-06-16 05:09:36</Time>
+    <Location>(32043,32039,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Mihawk</Player>
     <LostExp>40565</LostExp>
     <KilledBy>Tarantula</KilledBy>
