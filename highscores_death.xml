@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750063207275</GeneratedAt>
+  <GeneratedAt>1750063507264</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panqueca </Player>
@@ -92,13 +92,21 @@
   <DeathEvent>
     <Rank>12</Rank>
     <Player>And</Player>
+    <LostExp>14363</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-06-16 10:42:39</Time>
+    <Location>(31979,31921,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>And</Player>
     <LostExp>1185</LostExp>
     <KilledBy>GM-Doro</KilledBy>
     <Time>2025-06-16 05:10:43</Time>
     <Location>(32043,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Kant</Player>
     <LostExp>405</LostExp>
     <KilledBy>The Bug</KilledBy>
