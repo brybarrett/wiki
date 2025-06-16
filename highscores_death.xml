@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750034107072</GeneratedAt>
+  <GeneratedAt>1750034407069</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Zin</Player>
+    <LostExp>19308850</LostExp>
+    <KilledBy>Bullwar</KilledBy>
+    <Time>2025-06-16 02:36:19</Time>
+    <Location>(32023,31903,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Valkiria</Player>
     <LostExp>17612283</LostExp>
     <KilledBy>(Others)</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31794,31912,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Punipun</Player>
     <LostExp>8128475</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32042,31802,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Mihawk</Player>
     <LostExp>40565</LostExp>
     <KilledBy>Tarantula</KilledBy>
