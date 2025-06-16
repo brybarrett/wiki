@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750076107382</GeneratedAt>
+  <GeneratedAt>1750076407385</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Killerwiz</Player>
+    <LostExp>231262307</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2025-06-16 14:18:15</Time>
+    <Location>(31862,32049,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Movie</Player>
     <LostExp>230968875</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -10,7 +18,15 @@
     <Location>(31791,31946,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
+    <Player>Killerwiz</Player>
+    <LostExp>208136077</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2025-06-16 14:18:15</Time>
+    <Location>(31862,32049,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Brisadeira</Player>
     <LostExp>174125813</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(31802,31951,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Panqueca </Player>
     <LostExp>72583177</LostExp>
     <KilledBy>Kapami</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(32862,32052,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Dblack</Player>
     <LostExp>31515898</LostExp>
     <KilledBy>Leechacle</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(32813,31989,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Kelavan</Player>
     <LostExp>26638948</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31866,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Zin</Player>
     <LostExp>19308850</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Valkiria</Player>
     <LostExp>17612283</LostExp>
     <KilledBy>(Others)</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(31794,31912,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Riquekmila</Player>
     <LostExp>8272321</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(32036,32235,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Punipun</Player>
     <LostExp>8128475</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(32042,31802,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Neon</Player>
     <LostExp>5060411</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(32042,31798,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Crydevilz</Player>
     <LostExp>463820</LostExp>
     <KilledBy>Archvampir</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(32733,32267,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Crydevilz</Player>
     <LostExp>385731</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -98,7 +114,7 @@
     <Location>(32043,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>15</Rank>
     <Player>Dhidy</Player>
     <LostExp>376473</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -106,7 +122,7 @@
     <Location>(32043,32040,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <Player>Dedi</Player>
     <LostExp>78669</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -114,7 +130,7 @@
     <Location>(31881,31913,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>17</Rank>
     <Player>Mihawk</Player>
     <LostExp>40565</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -122,7 +138,7 @@
     <Location>(31882,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>18</Rank>
     <Player>And</Player>
     <LostExp>14363</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -130,7 +146,7 @@
     <Location>(31979,31921,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>19</Rank>
     <Player>Doncorazon</Player>
     <LostExp>9037</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -138,7 +154,7 @@
     <Location>(31994,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>20</Rank>
     <Player>And</Player>
     <LostExp>1185</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -146,7 +162,7 @@
     <Location>(32043,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>21</Rank>
     <Player>Kant</Player>
     <LostExp>405</LostExp>
     <KilledBy>The Bug</KilledBy>
