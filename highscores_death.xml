@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750065607293</GeneratedAt>
+  <GeneratedAt>1750065907309</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panqueca </Player>
@@ -68,13 +68,21 @@
   <DeathEvent>
     <Rank>9</Rank>
     <Player>Crydevilz</Player>
+    <LostExp>463820</LostExp>
+    <KilledBy>Archvampir</KilledBy>
+    <Time>2025-06-16 11:25:06</Time>
+    <Location>(32733,32267,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Crydevilz</Player>
     <LostExp>385731</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
     <Time>2025-06-16 05:09:36</Time>
     <Location>(32043,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Dhidy</Player>
     <LostExp>376473</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32043,32040,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Mihawk</Player>
     <LostExp>40565</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31882,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>And</Player>
     <LostExp>14363</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31979,31921,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>And</Player>
     <LostExp>1185</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32043,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Kant</Player>
     <LostExp>405</LostExp>
     <KilledBy>The Bug</KilledBy>
