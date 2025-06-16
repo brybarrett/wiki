@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750040707130</GeneratedAt>
+  <GeneratedAt>1750041007121</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zin</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Neon</Player>
+    <LostExp>5060411</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-06-16 04:29:10</Time>
+    <Location>(32042,31798,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Mihawk</Player>
     <LostExp>40565</LostExp>
     <KilledBy>Tarantula</KilledBy>
