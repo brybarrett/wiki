@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750114505417</GeneratedAt>
+  <GeneratedAt>1750114805423</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Goldwizzz</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-06-17 00:44:22</Time>
     <Location>(32036,32246,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Godmagro</Player>
+    <LostExp>4793521</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-06-17 00:58:01</Time>
+    <Location>(32063,31814,8)</Location>
   </DeathEvent>
 </DeathHighscores>
