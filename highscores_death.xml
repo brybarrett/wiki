@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750033507052</GeneratedAt>
+  <GeneratedAt>1750033807074</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Valkiria</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Punipun</Player>
+    <LostExp>8128475</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-06-16 02:29:42</Time>
+    <Location>(32042,31802,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Mihawk</Player>
     <LostExp>40565</LostExp>
     <KilledBy>Tarantula</KilledBy>
