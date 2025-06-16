@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750089998168</GeneratedAt>
+  <GeneratedAt>1750090298178</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brisadeira</Player>
@@ -8,5 +8,21 @@
     <KilledBy>Ninjana</KilledBy>
     <Time>2025-06-16 16:38:53</Time>
     <Location>(31791,31947,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Finorium</Player>
+    <LostExp>2324977</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2025-06-16 18:08:29</Time>
+    <Location>(31948,32014,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Gabriell</Player>
+    <LostExp>834279</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-06-16 18:10:50</Time>
+    <Location>(32014,31879,8)</Location>
   </DeathEvent>
 </DeathHighscores>
