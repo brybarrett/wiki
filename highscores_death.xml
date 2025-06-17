@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750119905468</GeneratedAt>
+  <GeneratedAt>1750120205457</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Eunha</Player>
+    <LostExp>54840134</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-17 02:26:23</Time>
+    <Location>(32021,32254,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Emilia</Player>
+    <LostExp>21315683</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-17 02:27:29</Time>
+    <Location>(32020,32255,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Goldwizzz</Player>
     <LostExp>10652222</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -10,7 +26,15 @@
     <Location>(32036,32246,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
+    <Player>Punipun</Player>
+    <LostExp>7319625</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-17 02:26:40</Time>
+    <Location>(32022,32255,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Godmagro</Player>
     <LostExp>4793521</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -18,7 +42,7 @@
     <Location>(32063,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>6</Rank>
     <Player>Bluebirds</Player>
     <LostExp>8986</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -26,7 +50,7 @@
     <Location>(32024,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>7</Rank>
     <Player>Bluebirds</Player>
     <LostExp>8529</LostExp>
     <KilledBy>Skeleton</KilledBy>
