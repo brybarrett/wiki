@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750151705734</GeneratedAt>
+  <GeneratedAt>1750152005737</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mi</Player>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Hardcore</Player>
+    <LostExp>31559</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-06-17 11:19:37</Time>
+    <Location>(32024,31944,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Artemis</Player>
     <LostExp>23135</LostExp>
     <KilledBy>Pablo</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31966,31995,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Hardcore</Player>
     <LostExp>17221</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31988,31865,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Hardcore</Player>
     <LostExp>13948</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Hardcore</Player>
     <LostExp>13729</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31984,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Hardcore</Player>
     <LostExp>12150</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32001,32030,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Bluebirds</Player>
     <LostExp>9221</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31980,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Bluebirds</Player>
     <LostExp>8986</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32024,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Bluebirds</Player>
     <LostExp>8529</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31996,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Iphone</Player>
     <LostExp>542</LostExp>
     <KilledBy>Rog</KilledBy>
