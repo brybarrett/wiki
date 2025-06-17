@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750128605521</GeneratedAt>
+  <GeneratedAt>1750128905534</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mi</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Villain</Player>
+    <LostExp>10649265</LostExp>
+    <KilledBy>Victorbr</KilledBy>
+    <Time>2025-06-17 04:54:12</Time>
+    <Location>(31964,31977,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Punipun</Player>
     <LostExp>7319625</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32022,32255,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Godmagro</Player>
     <LostExp>4793521</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32063,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Bluebirds</Player>
     <LostExp>8986</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32024,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Bluebirds</Player>
     <LostExp>8529</LostExp>
     <KilledBy>Skeleton</KilledBy>
