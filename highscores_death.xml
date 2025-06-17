@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750185513021</GeneratedAt>
+  <GeneratedAt>1750185813022</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Rayne</Player>
+    <LostExp>6511544</LostExp>
+    <KilledBy>Gigantula</KilledBy>
+    <Time>2025-06-17 20:42:01</Time>
+    <Location>(32825,31919,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Gengsz</Player>
     <LostExp>639827</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31992,31996,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Extrupicio</Player>
     <LostExp>572751</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31912,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Extrupicio</Player>
     <LostExp>516686</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31876,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Log</Player>
     <LostExp>126884</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
