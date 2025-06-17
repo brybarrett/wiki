@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750203003459</GeneratedAt>
+  <GeneratedAt>1750203303463</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Borutos</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Dearsemily</KilledBy>
     <Time>2025-06-18 01:15:56</Time>
     <Location>(31776,31937,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Drink</Player>
+    <LostExp>25412765</LostExp>
+    <KilledBy>Krakomin</KilledBy>
+    <Time>2025-06-18 01:31:01</Time>
+    <Location>(31779,31938,10)</Location>
   </DeathEvent>
 </DeathHighscores>
