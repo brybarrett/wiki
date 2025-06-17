@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750158605755</GeneratedAt>
+  <GeneratedAt>1750158905747</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mi</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Dyvnee</Player>
+    <LostExp>238532239</LostExp>
+    <KilledBy>Brinefiend</KilledBy>
+    <Time>2025-06-17 13:13:07</Time>
+    <Location>(31777,32119,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Baam</Player>
     <LostExp>146342660</LostExp>
     <KilledBy>Chaomby</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31966,32230,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Mit</Player>
     <LostExp>140152427</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32157,32270,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Urekmazino</Player>
     <LostExp>95560412</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31786,31941,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Nauk</Player>
     <LostExp>67503546</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31955,32277,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Eunha</Player>
     <LostExp>54840134</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32021,32254,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Belzebugod</Player>
     <LostExp>54242568</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31864,32045,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Emilia</Player>
     <LostExp>21315683</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32020,32255,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Goldwizzz</Player>
     <LostExp>10652222</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32036,32246,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Villain</Player>
     <LostExp>10649265</LostExp>
     <KilledBy>Victorbr</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31964,31977,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Punipun</Player>
     <LostExp>7319625</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32022,32255,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Punipun</Player>
     <LostExp>7053635</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32010,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Godmagro</Player>
     <LostExp>4793521</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32063,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Galadriel</Player>
     <LostExp>2712725</LostExp>
     <KilledBy>Orc Master</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32001,31852,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Crydevilz</Player>
     <LostExp>1169589</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31956,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Dhidy</Player>
     <LostExp>765898</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32789,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Doncorazon</Player>
     <LostExp>388964</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32851,32003,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Hardcore</Player>
     <LostExp>31559</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32024,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Artemis</Player>
     <LostExp>23135</LostExp>
     <KilledBy>Pablo</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31966,31995,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Hardcore</Player>
     <LostExp>17221</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31988,31865,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Hardcore</Player>
     <LostExp>13948</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Hardcore</Player>
     <LostExp>13729</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31984,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Hardcore</Player>
     <LostExp>12150</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32001,32030,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Bluebirds</Player>
     <LostExp>9221</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31980,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Bluebirds</Player>
     <LostExp>8986</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32024,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Bluebirds</Player>
     <LostExp>8529</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31996,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Iphone</Player>
     <LostExp>542</LostExp>
     <KilledBy>Rog</KilledBy>
