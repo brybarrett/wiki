@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750173212875</GeneratedAt>
+  <GeneratedAt>1750173512915</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Killerwiz</Player>
+    <LostExp>199189190</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-17 17:17:18</Time>
+    <Location>(31955,32291,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Liliks</Player>
     <LostExp>155932499</LostExp>
     <KilledBy>Blaze Master</KilledBy>
     <Time>2025-06-17 16:42:55</Time>
     <Location>(31950,32276,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Log</Player>
+    <LostExp>126884</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-06-17 17:13:49</Time>
+    <Location>(32022,31979,9)</Location>
   </DeathEvent>
 </DeathHighscores>
