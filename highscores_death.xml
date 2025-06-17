@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750195113135</GeneratedAt>
+  <GeneratedAt>1750195413115</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Astreus</Player>
+    <LostExp>144274638</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-17 23:18:37</Time>
+    <Location>(32010,32249,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Vendendo</Player>
     <LostExp>36844073</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31791,31915,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Magrinpjl</Player>
     <LostExp>23793633</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31791,31915,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Reidelas</Player>
     <LostExp>20191633</LostExp>
     <KilledBy>Kul'Krak'u</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31794,31908,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Iorshine</Player>
     <LostExp>14739829</LostExp>
     <KilledBy>Ifrit</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32859,32056,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Rayne</Player>
     <LostExp>6511544</LostExp>
     <KilledBy>Gigantula</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32825,31919,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Newege</Player>
     <LostExp>1229712</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31907,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Gengsz</Player>
     <LostExp>639827</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31992,31996,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Extrupicio</Player>
     <LostExp>572751</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31912,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Extrupicio</Player>
     <LostExp>516686</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31876,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Log</Player>
     <LostExp>126884</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
