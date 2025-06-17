@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750175912973</GeneratedAt>
+  <GeneratedAt>1750176212935</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Extrupicio</Player>
+    <LostExp>516686</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-06-17 17:58:47</Time>
+    <Location>(31876,31910,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Log</Player>
     <LostExp>126884</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
