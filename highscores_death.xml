@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750289403277</GeneratedAt>
+  <GeneratedAt>1750289703288</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zahard</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Assasin</KilledBy>
     <Time>2025-06-19 01:29:31</Time>
     <Location>(31947,31995,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Vandamez</Player>
+    <LostExp>1116994</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-06-19 01:33:51</Time>
+    <Location>(32009,31877,8)</Location>
   </DeathEvent>
 </DeathHighscores>
