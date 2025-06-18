@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750278904032</GeneratedAt>
+  <GeneratedAt>1750279204034</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -280,5 +280,13 @@
     <KilledBy>Shogun</KilledBy>
     <Time>2025-06-18 07:45:44</Time>
     <Location>(32058,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>36</Rank>
+    <Player>Godofdeatt</Player>
+    <LostExp>5313</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-06-18 22:39:13</Time>
+    <Location>(31959,31920,8)</Location>
   </DeathEvent>
 </DeathHighscores>
