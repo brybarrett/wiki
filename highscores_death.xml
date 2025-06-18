@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750225503624</GeneratedAt>
+  <GeneratedAt>1750225803617</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -120,5 +120,13 @@
     <KilledBy>Kreppan</KilledBy>
     <Time>2025-06-18 02:41:48</Time>
     <Location>(31914,32002,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Shaf</Player>
+    <LostExp>14281</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-06-18 07:45:44</Time>
+    <Location>(32058,31908,8)</Location>
   </DeathEvent>
 </DeathHighscores>
