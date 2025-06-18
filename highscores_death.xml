@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750220703581</GeneratedAt>
+  <GeneratedAt>1750221003599</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Powerofgod</Player>
+    <LostExp>207617557</LostExp>
+    <KilledBy>Chaomby</KilledBy>
+    <Time>2025-06-18 06:29:13</Time>
+    <Location>(31964,32233,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Borutos</Player>
     <LostExp>102962266</LostExp>
     <KilledBy>Dearsemily</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Abgkumis</Player>
     <LostExp>27313857</LostExp>
     <KilledBy>Kul'Krak'u</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31794,31908,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Drink</Player>
     <LostExp>25412765</LostExp>
     <KilledBy>Krakomin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31779,31938,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Abgkumis</Player>
     <LostExp>14373307</LostExp>
     <KilledBy>Supy</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31779,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Bonilha</Player>
     <LostExp>13025359</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Srluis</Player>
     <LostExp>12582280</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Bonilha</Player>
     <LostExp>11891383</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Magroso</Player>
     <LostExp>6327018</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Gabriell</Player>
     <LostExp>1021420</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Gabriell</Player>
     <LostExp>920120</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Kinght</Player>
     <LostExp>190970</LostExp>
     <KilledBy>Kreppan</KilledBy>
