@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750256403829</GeneratedAt>
+  <GeneratedAt>1750256703841</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Habibi</Player>
+    <LostExp>54784802</LostExp>
+    <KilledBy>Chaomby</KilledBy>
+    <Time>2025-06-18 16:24:44</Time>
+    <Location>(31955,32216,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Zeboostin</Player>
     <LostExp>50589903</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32018,32204,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Abgkumis</Player>
     <LostExp>27313857</LostExp>
     <KilledBy>Kul'Krak'u</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31794,31908,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Drink</Player>
     <LostExp>25412765</LostExp>
     <KilledBy>Krakomin</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31779,31938,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Kanki</Player>
     <LostExp>17129152</LostExp>
     <KilledBy>Brinefiend</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31793,32121,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Abgkumis</Player>
     <LostExp>14373307</LostExp>
     <KilledBy>Supy</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31779,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Bonilha</Player>
     <LostExp>13025359</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Srluis</Player>
     <LostExp>12582280</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Bonilha</Player>
     <LostExp>11891383</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Magroso</Player>
     <LostExp>6327018</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Silentkill</Player>
     <LostExp>6097614</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Gabriell</Player>
     <LostExp>1021420</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Gabriell</Player>
     <LostExp>920120</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Kinght</Player>
     <LostExp>190970</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31914,32002,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Shaf</Player>
     <LostExp>98483</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31954,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Shaf</Player>
     <LostExp>92345</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31861,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Shaf</Player>
     <LostExp>14281</LostExp>
     <KilledBy>Shogun</KilledBy>
