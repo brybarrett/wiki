@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750289103273</GeneratedAt>
+  <GeneratedAt>1750289403277</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zahard</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Chaomby</KilledBy>
     <Time>2025-06-19 00:18:33</Time>
     <Location>(31961,32229,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Matadordpk</Player>
+    <LostExp>12336815</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-19 01:29:31</Time>
+    <Location>(31947,31995,9)</Location>
   </DeathEvent>
 </DeathHighscores>
