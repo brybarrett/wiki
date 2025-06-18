@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750206003476</GeneratedAt>
+  <GeneratedAt>1750206303487</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Borutos</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Bonilha</Player>
+    <LostExp>13025359</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-18 02:22:39</Time>
+    <Location>(31954,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Gabriell</Player>
     <LostExp>920120</LostExp>
     <KilledBy>Orc Leader</KilledBy>
