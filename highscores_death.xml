@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750266003896</GeneratedAt>
+  <GeneratedAt>1750266303935</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -235,6 +235,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>30</Rank>
+    <Player>Lezatman</Player>
+    <LostExp>36339</LostExp>
+    <KilledBy>Datubiadap</KilledBy>
+    <Time>2025-06-18 19:01:36</Time>
+    <Location>(31893,31932,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>31</Rank>
+    <Player>Lezatman</Player>
+    <LostExp>32706</LostExp>
+    <KilledBy>Datubiadap</KilledBy>
+    <Time>2025-06-18 19:03:37</Time>
+    <Location>(31893,31932,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>32</Rank>
     <Player>Shaf</Player>
     <LostExp>14281</LostExp>
     <KilledBy>Shogun</KilledBy>
