@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750292403289</GeneratedAt>
+  <GeneratedAt>1750292703293</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zahard</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Zeus</Player>
+    <LostExp>24603459</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-06-19 02:23:33</Time>
+    <Location>(31772,31956,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Matadordpk</Player>
     <LostExp>12336815</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31947,31995,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Mar</Player>
     <LostExp>5973826</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31914,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Vandamez</Player>
     <LostExp>1116994</LostExp>
     <KilledBy>Orc Leader</KilledBy>
