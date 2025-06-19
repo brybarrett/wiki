@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750340703636</GeneratedAt>
+  <GeneratedAt>1750341003634</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Justen</Player>
+    <LostExp>271993252</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-19 15:47:02</Time>
+    <Location>(31964,32270,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Kannizinha</Player>
     <LostExp>198491079</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31960,32283,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Baam</Player>
     <LostExp>120998177</LostExp>
     <KilledBy>Chaomby</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31957,32224,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Zahard</Player>
     <LostExp>101095100</LostExp>
     <KilledBy>Chaomby</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31961,32229,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Zahard</Player>
     <LostExp>92438562</LostExp>
     <KilledBy>Chaomby</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31958,32225,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Belzebugod</Player>
     <LostExp>60794383</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31864,32045,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Dblack</Player>
     <LostExp>41467299</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31777,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Zeus</Player>
     <LostExp>24603459</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31772,31956,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Skywarrior</Player>
     <LostExp>19348973</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31795,31915,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Dragonbr</Player>
     <LostExp>14206825</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32867,32002,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Kratos</Player>
     <LostExp>13415794</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31944,31982,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Matadordpk</Player>
     <LostExp>12336815</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31947,31995,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Bonilha</Player>
     <LostExp>10898093</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31954,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Bonilha</Player>
     <LostExp>9866244</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31956,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Mar</Player>
     <LostExp>5973826</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31914,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Doncorazon</Player>
     <LostExp>2170655</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32011,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Melkor</Player>
     <LostExp>1640018</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32047,32035,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Vandamez</Player>
     <LostExp>1116994</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32009,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Extrupicio</Player>
     <LostExp>939345</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31991,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Extrupicio</Player>
     <LostExp>609155</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31917,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Dewii</Player>
     <LostExp>146365</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31867,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Hammers</Player>
     <LostExp>37347</LostExp>
     <KilledBy>Tarantula</KilledBy>
