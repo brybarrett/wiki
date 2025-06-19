@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750301703366</GeneratedAt>
+  <GeneratedAt>1750302003355</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Bonilha</Player>
+    <LostExp>9866244</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-19 04:58:55</Time>
+    <Location>(31956,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Mar</Player>
     <LostExp>5973826</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31914,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Vandamez</Player>
     <LostExp>1116994</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32009,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Dewii</Player>
     <LostExp>146365</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31867,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Hammers</Player>
     <LostExp>37347</LostExp>
     <KilledBy>Tarantula</KilledBy>
