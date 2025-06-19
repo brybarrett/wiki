@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750367398390</GeneratedAt>
+  <GeneratedAt>1750367698389</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Dyvnee</Player>
+    <LostExp>287908785</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-06-19 23:13:17</Time>
+    <Location>(31816,31953,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Belzebugod</Player>
     <LostExp>61589667</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31864,32045,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Nena</Player>
     <LostExp>32070269</LostExp>
     <KilledBy>Warden</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32024,31889,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Kratos</Player>
     <LostExp>13013503</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -26,7 +34,15 @@
     <Location>(31944,31981,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
+    <Player>Dragonbr</Player>
+    <LostExp>12459805</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-06-19 23:12:06</Time>
+    <Location>(32007,32212,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Airi </Player>
     <LostExp>2116801</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(31990,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Magrelo</Player>
     <LostExp>1618039</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(32064,31815,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Godofdeatt</Player>
     <LostExp>1442718</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(31995,32069,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Sar</Player>
     <LostExp>1229945</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
