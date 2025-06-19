@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750299903366</GeneratedAt>
+  <GeneratedAt>1750300203346</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Skywarrior</Player>
+    <LostExp>19348973</LostExp>
+    <KilledBy>Ninjany</KilledBy>
+    <Time>2025-06-19 04:29:06</Time>
+    <Location>(31795,31915,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Matadordpk</Player>
     <LostExp>12336815</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31947,31995,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Mar</Player>
     <LostExp>5973826</LostExp>
     <KilledBy>Papito</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31914,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Vandamez</Player>
     <LostExp>1116994</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32009,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Dewii</Player>
     <LostExp>146365</LostExp>
     <KilledBy>Werewolf</KilledBy>
