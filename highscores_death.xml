@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750355698299</GeneratedAt>
+  <GeneratedAt>1750355998306</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Belzebugod</Player>
+    <LostExp>61589667</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2025-06-19 19:58:47</Time>
+    <Location>(31864,32045,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Airi </Player>
+    <LostExp>2116801</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-06-19 19:59:43</Time>
+    <Location>(31990,32016,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Sar</Player>
     <LostExp>1229945</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
