@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750373706407</GeneratedAt>
+  <GeneratedAt>1750374006408</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Over</Player>
+    <LostExp>797782849</LostExp>
+    <KilledBy>Chaomby</KilledBy>
+    <Time>2025-06-20 00:55:56</Time>
+    <Location>(31933,32231,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Ganny </Player>
     <LostExp>218961407</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31936,32222,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Omadara</Player>
     <LostExp>75473509</LostExp>
     <KilledBy>Wispin</KilledBy>
