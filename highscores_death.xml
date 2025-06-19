@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750302003355</GeneratedAt>
+  <GeneratedAt>1750302303357</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Extrupicio</Player>
+    <LostExp>609155</LostExp>
+    <KilledBy>Small Eye</KilledBy>
+    <Time>2025-06-19 05:01:19</Time>
+    <Location>(31917,32054,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Dewii</Player>
     <LostExp>146365</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31867,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Hammers</Player>
     <LostExp>37347</LostExp>
     <KilledBy>Tarantula</KilledBy>
