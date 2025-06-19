@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750363498373</GeneratedAt>
+  <GeneratedAt>1750363798376</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Belzebugod</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Godofdeatt</Player>
+    <LostExp>1442718</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-06-19 22:05:17</Time>
+    <Location>(31995,32069,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Sar</Player>
     <LostExp>1229945</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
