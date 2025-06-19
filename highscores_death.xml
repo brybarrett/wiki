@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750300503361</GeneratedAt>
+  <GeneratedAt>1750300803356</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -80,5 +80,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-06-19 03:16:23</Time>
     <Location>(31867,32058,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Hammers</Player>
+    <LostExp>37347</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-06-19 04:37:16</Time>
+    <Location>(31881,31908,8)</Location>
   </DeathEvent>
 </DeathHighscores>
