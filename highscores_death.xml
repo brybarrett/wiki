@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750381806461</GeneratedAt>
+  <GeneratedAt>1750382106471</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Over</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Noia</Player>
+    <LostExp>24459181</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-20 03:11:31</Time>
+    <Location>(31898,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Emilia</Player>
     <LostExp>19971312</LostExp>
     <KilledBy>Krakomin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31791,31936,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Matadordpk</Player>
     <LostExp>13516011</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31946,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Dragonbrl</Player>
     <LostExp>1471116</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31947,32013,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Mihawk</Player>
     <LostExp>1066461</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31878,32057,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Magod</Player>
     <LostExp>10216</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Magod</Player>
     <LostExp>6305</LostExp>
     <KilledBy>Skeleton</KilledBy>
