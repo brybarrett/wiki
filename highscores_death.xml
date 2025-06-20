@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750438768989</GeneratedAt>
+  <GeneratedAt>1750439068986</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Laubisomi</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Escarlate</Player>
+    <LostExp>4839157</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-20 19:01:48</Time>
+    <Location>(32030,32239,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Soltafogo</Player>
     <LostExp>2505945</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31913,31990,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Sukitamg</Player>
     <LostExp>8612</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31969,31890,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Siouxing</Player>
     <LostExp>102</LostExp>
     <KilledBy>Orc Leader</KilledBy>
