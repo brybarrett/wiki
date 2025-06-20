@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750393806551</GeneratedAt>
+  <GeneratedAt>1750394106553</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Over</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Emilia</Player>
+    <LostExp>15042683</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-06-20 06:32:49</Time>
+    <Location>(32014,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Matadordpk</Player>
     <LostExp>13516011</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31946,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Sxgabrielx</Player>
     <LostExp>13506924</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32046,31800,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Matadordpk</Player>
     <LostExp>12361445</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31946,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Matadordpk</Player>
     <LostExp>11137376</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31946,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Gabriell</Player>
     <LostExp>3385532</LostExp>
     <KilledBy>Vampmaster</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31936,31896,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Dragonbrl</Player>
     <LostExp>1679268</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31949,32014,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Dragonbrl</Player>
     <LostExp>1471116</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31947,32013,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Mihawk</Player>
     <LostExp>1066461</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31878,32057,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Magod</Player>
     <LostExp>29575</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31879,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Magod</Player>
     <LostExp>27773</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32190,32270,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Magod</Player>
     <LostExp>20037</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32008,31882,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Magod</Player>
     <LostExp>10216</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Shitara</Player>
     <LostExp>9971</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31989,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Srviniz</Player>
     <LostExp>9908</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31990,31862,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Magod</Player>
     <LostExp>6305</LostExp>
     <KilledBy>Skeleton</KilledBy>
