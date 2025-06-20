@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750461003416</GeneratedAt>
+  <GeneratedAt>1750461303409</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Binance</Player>
+    <LostExp>927040869</LostExp>
+    <KilledBy>Bsm</KilledBy>
+    <Time>2025-06-21 01:11:09</Time>
+    <Location>(31955,32218,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Dark</Player>
     <LostExp>32319043</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31895,32007,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Matadordpk</Player>
     <LostExp>11496780</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31946,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Mar</Player>
     <LostExp>5376443</LostExp>
     <KilledBy>Chaomby</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31962,32225,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Gabriell</Player>
     <LostExp>4343100</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
