@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750455985012</GeneratedAt>
+  <GeneratedAt>1750456285011</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -24,5 +24,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-06-20 23:45:34</Time>
     <Location>(32026,31897,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Gabriell</Player>
+    <LostExp>4750222</LostExp>
+    <KilledBy>Werewolf Master</KilledBy>
+    <Time>2025-06-20 23:48:29</Time>
+    <Location>(32061,32313,8)</Location>
   </DeathEvent>
 </DeathHighscores>
