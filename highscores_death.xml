@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750386906487</GeneratedAt>
+  <GeneratedAt>1750387206500</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Over</Player>
@@ -172,13 +172,21 @@
   <DeathEvent>
     <Rank>22</Rank>
     <Player>Magod</Player>
+    <LostExp>27773</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-06-20 04:35:50</Time>
+    <Location>(32190,32270,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Magod</Player>
     <LostExp>20037</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-06-20 03:35:35</Time>
     <Location>(32008,31882,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Magod</Player>
     <LostExp>10216</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Magod</Player>
     <LostExp>6305</LostExp>
     <KilledBy>Skeleton</KilledBy>
