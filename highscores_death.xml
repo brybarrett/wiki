@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750383306471</GeneratedAt>
+  <GeneratedAt>1750383606473</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Over</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Sxgabrielx</Player>
+    <LostExp>13506924</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-06-20 03:36:47</Time>
+    <Location>(32046,31800,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Dragonbrl</Player>
     <LostExp>1471116</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31947,32013,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Mihawk</Player>
     <LostExp>1066461</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +98,15 @@
     <Location>(31878,32057,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
+    <Player>Magod</Player>
+    <LostExp>20037</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-06-20 03:35:35</Time>
+    <Location>(32008,31882,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Magod</Player>
     <LostExp>10216</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -98,7 +114,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>15</Rank>
     <Player>Magod</Player>
     <LostExp>6305</LostExp>
     <KilledBy>Skeleton</KilledBy>
