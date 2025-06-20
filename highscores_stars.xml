@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1750424068879</GeneratedAt>
+  <GeneratedAt>1750424368886</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -128,12 +128,12 @@
   </Player>
   <Player>
     <Rank>26</Rank>
-    <Name>Ynk</Name>
+    <Name>Abaddon</Name>
     <StarsCollected>198</StarsCollected>
   </Player>
   <Player>
     <Rank>27</Rank>
-    <Name>Abaddon</Name>
+    <Name>Ynk</Name>
     <StarsCollected>198</StarsCollected>
   </Player>
   <Player>
@@ -168,12 +168,12 @@
   </Player>
   <Player>
     <Rank>34</Rank>
-    <Name>Vegapunk</Name>
+    <Name>Joker</Name>
     <StarsCollected>188</StarsCollected>
   </Player>
   <Player>
     <Rank>35</Rank>
-    <Name>Joker</Name>
+    <Name>Vegapunk</Name>
     <StarsCollected>188</StarsCollected>
   </Player>
   <Player>
@@ -183,12 +183,12 @@
   </Player>
   <Player>
     <Rank>37</Rank>
-    <Name>Ainz</Name>
+    <Name>Okomura</Name>
     <StarsCollected>179</StarsCollected>
   </Player>
   <Player>
     <Rank>38</Rank>
-    <Name>Okomura</Name>
+    <Name>Ainz</Name>
     <StarsCollected>179</StarsCollected>
   </Player>
   <Player>
@@ -443,12 +443,12 @@
   </Player>
   <Player>
     <Rank>89</Rank>
-    <Name>Zed</Name>
+    <Name>Datubiadap</Name>
     <StarsCollected>130</StarsCollected>
   </Player>
   <Player>
     <Rank>90</Rank>
-    <Name>Datubiadap</Name>
+    <Name>Zed</Name>
     <StarsCollected>130</StarsCollected>
   </Player>
   <Player>
@@ -573,22 +573,22 @@
   </Player>
   <Player>
     <Rank>115</Rank>
-    <Name>Rog</Name>
-    <StarsCollected>104</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>116</Rank>
     <Name>Biawak</Name>
     <StarsCollected>104</StarsCollected>
   </Player>
   <Player>
+    <Rank>116</Rank>
+    <Name>Rog</Name>
+    <StarsCollected>104</StarsCollected>
+  </Player>
+  <Player>
     <Rank>117</Rank>
-    <Name>Kiyahatzu</Name>
+    <Name>Salamaleko</Name>
     <StarsCollected>103</StarsCollected>
   </Player>
   <Player>
     <Rank>118</Rank>
-    <Name>Salamaleko</Name>
+    <Name>Kiyahatzu</Name>
     <StarsCollected>103</StarsCollected>
   </Player>
   <Player>
@@ -613,32 +613,32 @@
   </Player>
   <Player>
     <Rank>123</Rank>
-    <Name>Raven</Name>
-    <StarsCollected>101</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>124</Rank>
-    <Name>Grimmie</Name>
-    <StarsCollected>101</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>125</Rank>
     <Name>Vinion</Name>
     <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
-    <Rank>126</Rank>
-    <Name>Indra</Name>
-    <StarsCollected>100</StarsCollected>
+    <Rank>124</Rank>
+    <Name>Raven</Name>
+    <StarsCollected>101</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
+    <Rank>125</Rank>
+    <Name>Grimmie</Name>
+    <StarsCollected>101</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>126</Rank>
     <Name>Omadara</Name>
     <StarsCollected>100</StarsCollected>
   </Player>
   <Player>
+    <Rank>127</Rank>
+    <Name>Indra</Name>
+    <StarsCollected>100</StarsCollected>
+  </Player>
+  <Player>
     <Rank>128</Rank>
-    <Name>Yakoebom</Name>
+    <Name>Agenmarini</Name>
     <StarsCollected>99</StarsCollected>
   </Player>
 </StarsHighscores>
