@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750463403435</GeneratedAt>
+  <GeneratedAt>1750463703429</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -35,6 +35,46 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Apollo</Player>
+    <LostExp>9990387</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 01:52:08</Time>
+    <Location>(31973,31984,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Apollo</Player>
+    <LostExp>8991348</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 01:52:44</Time>
+    <Location>(31974,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Apollo</Player>
+    <LostExp>8092213</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 01:53:22</Time>
+    <Location>(31976,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Apollo</Player>
+    <LostExp>7282992</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 01:54:09</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Apollo</Player>
+    <LostExp>6554693</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 01:54:47</Time>
+    <Location>(31976,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Mar</Player>
     <LostExp>5376443</LostExp>
     <KilledBy>Chaomby</KilledBy>
@@ -42,7 +82,7 @@
     <Location>(31962,32225,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>11</Rank>
     <Player>Gabriell</Player>
     <LostExp>4343100</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
