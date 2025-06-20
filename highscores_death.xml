@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750455084994</GeneratedAt>
+  <GeneratedAt>1750455385001</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Silver Stone</KilledBy>
     <Time>2025-06-20 22:43:53</Time>
     <Location>(31957,32281,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Gops</Player>
+    <LostExp>17483489</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-06-20 23:34:46</Time>
+    <Location>(31867,32083,7)</Location>
   </DeathEvent>
 </DeathHighscores>
