@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750437568973</GeneratedAt>
+  <GeneratedAt>1750437869020</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nena</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Borala</Player>
+    <LostExp>12506487</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-06-20 18:42:48</Time>
+    <Location>(31999,32234,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Punipun</Player>
     <LostExp>8893796</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32010,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Soltafogo</Player>
     <LostExp>2505945</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31913,31990,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Sukitamg</Player>
     <LostExp>8612</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31969,31890,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Siouxing</Player>
     <LostExp>102</LostExp>
     <KilledBy>Orc Leader</KilledBy>
