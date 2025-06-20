@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750459803417</GeneratedAt>
+  <GeneratedAt>1750460103409</GeneratedAt>
+  <DeathEvent>
+    <Rank>1</Rank>
+    <Player>Dark</Player>
+    <LostExp>32319043</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-21 00:53:38</Time>
+    <Location>(31895,32007,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Matadordpk</Player>
+    <LostExp>11496780</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-21 00:53:34</Time>
+    <Location>(31946,31994,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Gabriell</Player>
+    <LostExp>4343100</LostExp>
+    <KilledBy>Werewolf Master</KilledBy>
+    <Time>2025-06-21 00:52:55</Time>
+    <Location>(32060,32313,8)</Location>
+  </DeathEvent>
 </DeathHighscores>
