@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750455685004</GeneratedAt>
+  <GeneratedAt>1750455985012</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Leviatacle</KilledBy>
     <Time>2025-06-20 23:34:46</Time>
     <Location>(31867,32083,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Magroso</Player>
+    <LostExp>9278088</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-06-20 23:45:34</Time>
+    <Location>(32026,31897,8)</Location>
   </DeathEvent>
 </DeathHighscores>
