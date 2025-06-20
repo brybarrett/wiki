@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750379406451</GeneratedAt>
+  <GeneratedAt>1750379706448</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Over</Player>
@@ -72,5 +72,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-06-20 01:48:56</Time>
     <Location>(31878,32057,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Magod</Player>
+    <LostExp>6305</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-06-20 02:33:16</Time>
+    <Location>(32003,32044,8)</Location>
   </DeathEvent>
 </DeathHighscores>
