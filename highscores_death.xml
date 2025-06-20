@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750425868902</GeneratedAt>
+  <GeneratedAt>1750426168896</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Iorshine</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Soltafogo</Player>
+    <LostExp>2505945</LostExp>
+    <KilledBy>Rishombie</KilledBy>
+    <Time>2025-06-20 15:25:03</Time>
+    <Location>(31913,31990,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Sukitamg</Player>
     <LostExp>8612</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31969,31890,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Siouxing</Player>
     <LostExp>102</LostExp>
     <KilledBy>Orc Leader</KilledBy>
