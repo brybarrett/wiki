@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750460703413</GeneratedAt>
+  <GeneratedAt>1750461003416</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dark</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Mar</Player>
+    <LostExp>5376443</LostExp>
+    <KilledBy>Chaomby</KilledBy>
+    <Time>2025-06-21 01:07:22</Time>
+    <Location>(31962,32225,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Gabriell</Player>
     <LostExp>4343100</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
