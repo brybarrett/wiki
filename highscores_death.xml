@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750456885003</GeneratedAt>
+  <GeneratedAt>1750457185018</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Powerofgod</Player>
+    <LostExp>250768200</LostExp>
+    <KilledBy>Felipepl</KilledBy>
+    <Time>2025-06-21 00:03:42</Time>
+    <Location>(31964,32233,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Gacorrr</Player>
     <LostExp>231795332</LostExp>
     <KilledBy>Silver Stone</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31957,32281,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Gops</Player>
     <LostExp>17483489</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31867,32083,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Magroso</Player>
     <LostExp>9278088</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32026,31897,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Gabriell</Player>
     <LostExp>4750222</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
