@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750469403476</GeneratedAt>
+  <GeneratedAt>1750469703493</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -287,6 +287,14 @@
     <LostExp>17579</LostExp>
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-06-21 02:25:10</Time>
+    <Location>(32026,31944,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>37</Rank>
+    <Player>Elitolokko</Player>
+    <LostExp>10352</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-06-21 03:32:56</Time>
     <Location>(32026,31944,8)</Location>
   </DeathEvent>
 </DeathHighscores>
