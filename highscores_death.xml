@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750468503477</GeneratedAt>
+  <GeneratedAt>1750468803479</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -259,6 +259,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>33</Rank>
+    <Player>Mrdoman</Player>
+    <LostExp>773233</LostExp>
+    <KilledBy>GM-Doro</KilledBy>
+    <Time>2025-06-21 03:17:34</Time>
+    <Location>(32040,32034,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>34</Rank>
     <Player>Shitara</Player>
     <LostExp>18704</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Shitara</Player>
     <LostExp>17579</LostExp>
     <KilledBy>Fire Drake</KilledBy>
