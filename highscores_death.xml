@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750465503445</GeneratedAt>
+  <GeneratedAt>1750465803443</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -240,5 +240,13 @@
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-06-21 02:15:43</Time>
     <Location>(32025,31943,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>31</Rank>
+    <Player>Shitara</Player>
+    <LostExp>17579</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-06-21 02:25:10</Time>
+    <Location>(32026,31944,8)</Location>
   </DeathEvent>
 </DeathHighscores>
