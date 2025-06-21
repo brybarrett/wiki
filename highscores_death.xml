@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750463703429</GeneratedAt>
+  <GeneratedAt>1750464003456</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Pandatank</Player>
+    <LostExp>377278548</LostExp>
+    <KilledBy>Fouldrake</KilledBy>
+    <Time>2025-06-21 01:55:12</Time>
+    <Location>(32252,32345,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Eunha</Player>
     <LostExp>122833352</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -18,7 +26,31 @@
     <Location>(31932,32218,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
+    <Player>Ace</Player>
+    <LostExp>42209687</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 01:57:46</Time>
+    <Location>(31973,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Ace</Player>
+    <LostExp>37988718</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 01:58:34</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Ace</Player>
+    <LostExp>34189846</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 01:59:14</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Dark</Player>
     <LostExp>32319043</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -26,7 +58,7 @@
     <Location>(31895,32007,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>8</Rank>
     <Player>Matadordpk</Player>
     <LostExp>11496780</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -34,7 +66,7 @@
     <Location>(31946,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>9</Rank>
     <Player>Apollo</Player>
     <LostExp>9990387</LostExp>
     <KilledBy>Exist</KilledBy>
@@ -42,7 +74,7 @@
     <Location>(31973,31984,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>10</Rank>
     <Player>Apollo</Player>
     <LostExp>8991348</LostExp>
     <KilledBy>Exist</KilledBy>
@@ -50,7 +82,7 @@
     <Location>(31974,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>11</Rank>
     <Player>Apollo</Player>
     <LostExp>8092213</LostExp>
     <KilledBy>Exist</KilledBy>
@@ -58,7 +90,7 @@
     <Location>(31976,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>12</Rank>
     <Player>Apollo</Player>
     <LostExp>7282992</LostExp>
     <KilledBy>Exist</KilledBy>
@@ -66,7 +98,7 @@
     <Location>(31974,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>13</Rank>
     <Player>Apollo</Player>
     <LostExp>6554693</LostExp>
     <KilledBy>Exist</KilledBy>
@@ -74,7 +106,15 @@
     <Location>(31976,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>14</Rank>
+    <Player>Apollo</Player>
+    <LostExp>5899223</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 01:55:54</Time>
+    <Location>(31974,31985,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Mar</Player>
     <LostExp>5376443</LostExp>
     <KilledBy>Chaomby</KilledBy>
@@ -82,11 +122,51 @@
     <Location>(31962,32225,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>16</Rank>
+    <Player>Apollo</Player>
+    <LostExp>5309301</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 01:57:10</Time>
+    <Location>(31973,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
+    <Player>Apollo</Player>
+    <LostExp>4778371</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 01:57:51</Time>
+    <Location>(31973,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Gabriell</Player>
     <LostExp>4343100</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
     <Time>2025-06-21 00:52:55</Time>
     <Location>(32060,32313,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Apollo</Player>
+    <LostExp>4300534</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 01:58:30</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Apollo</Player>
+    <LostExp>3870481</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 01:59:11</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
+    <Player>Apollo</Player>
+    <LostExp>3483432</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 01:59:49</Time>
+    <Location>(31973,31987,7)</Location>
   </DeathEvent>
 </DeathHighscores>
