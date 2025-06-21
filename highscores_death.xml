@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750505403741</GeneratedAt>
+  <GeneratedAt>1750505703762</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -387,6 +387,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>49</Rank>
+    <Player>Mirley</Player>
+    <LostExp>20634</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-06-21 13:31:03</Time>
+    <Location>(31999,31952,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>50</Rank>
     <Player>Shitara</Player>
     <LostExp>18704</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Shitara</Player>
     <LostExp>17579</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(32026,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Elitolokko</Player>
     <LostExp>10352</LostExp>
     <KilledBy>Fire Drake</KilledBy>
