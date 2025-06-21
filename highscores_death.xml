@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750464003456</GeneratedAt>
+  <GeneratedAt>1750464303442</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -167,6 +167,62 @@
     <LostExp>3483432</LostExp>
     <KilledBy>Exist</KilledBy>
     <Time>2025-06-21 01:59:49</Time>
+    <Location>(31973,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Apollo</Player>
+    <LostExp>3135089</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 02:00:26</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Apollo</Player>
+    <LostExp>2821580</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 02:01:12</Time>
+    <Location>(31973,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>24</Rank>
+    <Player>Apollo</Player>
+    <LostExp>2539422</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 02:01:49</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
+    <Player>Apollo</Player>
+    <LostExp>2285480</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 02:02:28</Time>
+    <Location>(31973,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
+    <Player>Apollo</Player>
+    <LostExp>2056932</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 02:03:09</Time>
+    <Location>(31973,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>27</Rank>
+    <Player>Apollo</Player>
+    <LostExp>1851239</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 02:03:50</Time>
+    <Location>(31973,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
+    <Player>Apollo</Player>
+    <LostExp>1666115</LostExp>
+    <KilledBy>Exist</KilledBy>
+    <Time>2025-06-21 02:04:55</Time>
     <Location>(31973,31987,7)</Location>
   </DeathEvent>
 </DeathHighscores>
