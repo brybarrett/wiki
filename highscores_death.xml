@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750563605431</GeneratedAt>
+  <GeneratedAt>1750563905376</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Magicol</Player>
@@ -35,6 +35,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Minatox</Player>
+    <LostExp>4925917</LostExp>
+    <KilledBy>Rei</KilledBy>
+    <Time>2025-06-22 05:42:45</Time>
+    <Location>(31884,31956,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Minatox</Player>
+    <LostExp>4433326</LostExp>
+    <KilledBy>Rei</KilledBy>
+    <Time>2025-06-22 05:44:07</Time>
+    <Location>(31884,31956,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Croot</Player>
     <LostExp>156964</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31988,31912,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Croot</Player>
     <LostExp>68766</LostExp>
     <KilledBy>Treant</KilledBy>
