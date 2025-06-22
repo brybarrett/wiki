@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750564505375</GeneratedAt>
+  <GeneratedAt>1750564805437</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Magicol</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Neon</Player>
+    <LostExp>7782858</LostExp>
+    <KilledBy>Bloodbeak</KilledBy>
+    <Time>2025-06-22 05:56:04</Time>
+    <Location>(32849,32059,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Matadordpk</Player>
     <LostExp>7279177</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31946,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Matadordpk</Player>
     <LostExp>6878824</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Minatox</Player>
     <LostExp>4925917</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31884,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Minatox</Player>
     <LostExp>4433326</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31884,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Minatox</Player>
     <LostExp>3989993</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31884,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Minatox</Player>
     <LostExp>3590994</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31885,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Minatox</Player>
     <LostExp>3231894</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -74,7 +82,15 @@
     <Location>(31883,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
+    <Player>Minatox</Player>
+    <LostExp>2908705</LostExp>
+    <KilledBy>Rei</KilledBy>
+    <Time>2025-06-22 05:58:13</Time>
+    <Location>(31885,31956,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Croot</Player>
     <LostExp>156964</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(31988,31912,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Croot</Player>
     <LostExp>68766</LostExp>
     <KilledBy>Treant</KilledBy>
