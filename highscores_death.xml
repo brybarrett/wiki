@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750564805437</GeneratedAt>
+  <GeneratedAt>1750565105398</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Magicol</Player>
@@ -91,6 +91,46 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Minatox</Player>
+    <LostExp>2617834</LostExp>
+    <KilledBy>Rei</KilledBy>
+    <Time>2025-06-22 06:02:36</Time>
+    <Location>(31973,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>Minatox</Player>
+    <LostExp>2356051</LostExp>
+    <KilledBy>Rei</KilledBy>
+    <Time>2025-06-22 06:03:22</Time>
+    <Location>(31973,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Minatox</Player>
+    <LostExp>2120446</LostExp>
+    <KilledBy>Rei</KilledBy>
+    <Time>2025-06-22 06:04:11</Time>
+    <Location>(31973,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Minatox</Player>
+    <LostExp>1908401</LostExp>
+    <KilledBy>Rei</KilledBy>
+    <Time>2025-06-22 06:05:00</Time>
+    <Location>(31973,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Raroxt</Player>
+    <LostExp>167078</LostExp>
+    <KilledBy>Rei</KilledBy>
+    <Time>2025-06-22 06:02:33</Time>
+    <Location>(31973,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
     <Player>Croot</Player>
     <LostExp>156964</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -98,7 +138,31 @@
     <Location>(31988,31912,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>18</Rank>
+    <Player>Raroxt</Player>
+    <LostExp>150370</LostExp>
+    <KilledBy>Rei</KilledBy>
+    <Time>2025-06-22 06:03:19</Time>
+    <Location>(31973,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Raroxt</Player>
+    <LostExp>135333</LostExp>
+    <KilledBy>Rei</KilledBy>
+    <Time>2025-06-22 06:04:06</Time>
+    <Location>(31973,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Raroxt</Player>
+    <LostExp>121800</LostExp>
+    <KilledBy>Rei</KilledBy>
+    <Time>2025-06-22 06:04:53</Time>
+    <Location>(31973,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
     <Player>Croot</Player>
     <LostExp>68766</LostExp>
     <KilledBy>Treant</KilledBy>
