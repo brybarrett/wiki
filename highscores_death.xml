@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750561505366</GeneratedAt>
+  <GeneratedAt>1750561805426</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Magicol</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Croot</Player>
+    <LostExp>156964</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-06-22 05:09:49</Time>
+    <Location>(31988,31912,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Croot</Player>
     <LostExp>68766</LostExp>
     <KilledBy>Treant</KilledBy>
