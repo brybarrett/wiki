@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750599005743</GeneratedAt>
+  <GeneratedAt>1750599305756</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nauk</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Dark</Player>
+    <LostExp>33686616</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-06-22 15:30:12</Time>
+    <Location>(31967,32202,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Magicol</Player>
     <LostExp>27408721</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31907,31976,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Magicol</Player>
     <LostExp>24858340</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31794,31904,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Valkiria</Player>
     <LostExp>23941468</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31790,31913,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Kratos</Player>
     <LostExp>15092080</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31946,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Neon</Player>
     <LostExp>8288335</LostExp>
     <KilledBy>Leechacle</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32840,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Neon</Player>
     <LostExp>7782858</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32849,32059,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Galadriel</Player>
     <LostExp>7408080</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31884,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Matadordpk</Player>
     <LostExp>7279177</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31946,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Matadordpk</Player>
     <LostExp>6878824</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Crydevilz</Player>
     <LostExp>6650319</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32911,32012,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Teig</Player>
     <LostExp>5225446</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32827,32041,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Minatox</Player>
     <LostExp>4925917</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31884,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Minatox</Player>
     <LostExp>4433326</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31884,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Minatox</Player>
     <LostExp>3989993</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31884,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Minatox</Player>
     <LostExp>3590994</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31885,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Minatox</Player>
     <LostExp>3231894</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31883,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Minatox</Player>
     <LostExp>2908705</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31885,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Minatox</Player>
     <LostExp>2617834</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31973,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Minatox</Player>
     <LostExp>2356051</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Minatox</Player>
     <LostExp>2120446</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Minatox</Player>
     <LostExp>1908401</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Minatox</Player>
     <LostExp>1717561</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Minatox</Player>
     <LostExp>1545805</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Minatox</Player>
     <LostExp>1391225</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Minatox</Player>
     <LostExp>1252102</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Maddevilz</Player>
     <LostExp>1190772</LostExp>
     <KilledBy>Gigantula</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32822,31922,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Minatox</Player>
     <LostExp>1126892</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Minatox</Player>
     <LostExp>1014203</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Minatox</Player>
     <LostExp>912782</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Raroxt</Player>
     <LostExp>167078</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Croot</Player>
     <LostExp>156964</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(31988,31912,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Raroxt</Player>
     <LostExp>150370</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Raroxt</Player>
     <LostExp>135333</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Raroxt</Player>
     <LostExp>121800</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Raroxt</Player>
     <LostExp>109620</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Raroxt</Player>
     <LostExp>98658</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Raroxt</Player>
     <LostExp>88792</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Raroxt</Player>
     <LostExp>79913</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Raroxt</Player>
     <LostExp>71922</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Croot</Player>
     <LostExp>68766</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(32000,31923,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Raroxt</Player>
     <LostExp>64730</LostExp>
     <KilledBy>Rei</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Raroxt</Player>
     <LostExp>58257</LostExp>
     <KilledBy>Rei</KilledBy>
