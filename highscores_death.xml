@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750558805344</GeneratedAt>
+  <GeneratedAt>1750559105429</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Magicol</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Neon</Player>
+    <LostExp>8288335</LostExp>
+    <KilledBy>Leechacle</KilledBy>
+    <Time>2025-06-22 04:24:07</Time>
+    <Location>(32840,32054,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Matadordpk</Player>
     <LostExp>7279177</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31946,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Matadordpk</Player>
     <LostExp>6878824</LostExp>
     <KilledBy>Orc Leader</KilledBy>
