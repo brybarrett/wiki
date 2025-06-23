@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1750694629647</GeneratedAt>
+  <GeneratedAt>1750694929700</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -128,22 +128,22 @@
   </Player>
   <Player>
     <Rank>26</Rank>
+    <Name>Castiel</Name>
+    <StarsCollected>200</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>27</Rank>
     <Name>Ynk</Name>
     <StarsCollected>198</StarsCollected>
   </Player>
   <Player>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Name>Abaddon</Name>
     <StarsCollected>198</StarsCollected>
   </Player>
   <Player>
-    <Rank>28</Rank>
-    <Name>Michael </Name>
-    <StarsCollected>198</StarsCollected>
-  </Player>
-  <Player>
     <Rank>29</Rank>
-    <Name>Castiel</Name>
+    <Name>Michael </Name>
     <StarsCollected>198</StarsCollected>
   </Player>
   <Player>
@@ -408,17 +408,17 @@
   </Player>
   <Player>
     <Rank>82</Rank>
+    <Name>Zed</Name>
+    <StarsCollected>137</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>83</Rank>
     <Name>Gaspar</Name>
     <StarsCollected>136</StarsCollected>
   </Player>
   <Player>
-    <Rank>83</Rank>
-    <Name>Xxfuxx</Name>
-    <StarsCollected>136</StarsCollected>
-  </Player>
-  <Player>
     <Rank>84</Rank>
-    <Name>Zed</Name>
+    <Name>Xxfuxx</Name>
     <StarsCollected>136</StarsCollected>
   </Player>
   <Player>
