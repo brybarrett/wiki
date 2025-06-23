@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750651729343</GeneratedAt>
+  <GeneratedAt>1750652029334</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gandalf</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Lith</Player>
+    <LostExp>156577224</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-23 06:12:01</Time>
+    <Location>(32021,32254,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Brisadeiro</Player>
     <LostExp>142827527</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31817,31952,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Baam</Player>
     <LostExp>95015118</LostExp>
     <KilledBy>Crysmantis</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32788,32029,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Seis</Player>
     <LostExp>76517172</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31875,32032,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Wizze</Player>
     <LostExp>75358619</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31871,32043,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Sunraka</Player>
     <LostExp>71694796</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31896,32007,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Abgkumis</Player>
     <LostExp>25727871</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31781,31954,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Noia</Player>
     <LostExp>24347132</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31950,32264,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Sxgabrielx</Player>
     <LostExp>15515074</LostExp>
     <KilledBy>Crustea</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32837,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Srluis</Player>
     <LostExp>11099510</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31914,31988,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Xlucasx</Player>
     <LostExp>2198691</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31939,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Croot</Player>
     <LostExp>273924</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -98,7 +106,15 @@
     <Location>(31983,31925,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
+    <Player>Croot</Player>
+    <LostExp>247617</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-06-23 06:12:04</Time>
+    <Location>(32021,31922,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Magod</Player>
     <LostExp>133058</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
