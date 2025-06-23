@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750679629559</GeneratedAt>
+  <GeneratedAt>1750679929545</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gandalf</Player>
@@ -147,6 +147,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>19</Rank>
+    <Player>Mensonwiz</Player>
+    <LostExp>1671547</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-06-23 13:56:30</Time>
+    <Location>(32851,31975,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
     <Player>Croot</Player>
     <LostExp>273924</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31983,31925,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Croot</Player>
     <LostExp>247617</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32021,31922,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Smok</Player>
     <LostExp>221806</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31995,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Magod</Player>
     <LostExp>133058</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32017,31977,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Siouxing</Player>
     <LostExp>96512</LostExp>
     <KilledBy>Werewolf</KilledBy>
