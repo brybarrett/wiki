@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750787404765</GeneratedAt>
+  <GeneratedAt>1750787704800</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Verock</Player>
+    <LostExp>17114405</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-06-24 19:53:21</Time>
+    <Location>(32869,31968,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Godofdeatt</Player>
     <LostExp>13133164</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32827,32060,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Punipun</Player>
     <LostExp>11431025</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32066,31815,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Kraio</Player>
     <LostExp>4783613</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31895,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Alyo</Player>
     <LostExp>4633554</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32021,31847,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Xlucasx</Player>
     <LostExp>4293270</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31957,32018,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Airi</Player>
     <LostExp>4113771</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Kopi</Player>
     <LostExp>1584885</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32044,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Yuliana</Player>
     <LostExp>1253596</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32856,31997,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Madera</Player>
     <LostExp>1145596</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32024,31949,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Croot</Player>
     <LostExp>770287</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31959,32015,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Siouxing</Player>
     <LostExp>183729</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31854,31975,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Kant</Player>
     <LostExp>76203</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31964,31995,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Shitara</Player>
     <LostExp>34721</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31997,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Void</Player>
     <LostExp>13504</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31983,31898,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Xkiritox</Player>
     <LostExp>2027</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32008,31882,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Xkiritox</Player>
     <LostExp>1842</LostExp>
     <KilledBy>Orc Leader</KilledBy>
