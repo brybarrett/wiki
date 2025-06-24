@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750778404744</GeneratedAt>
+  <GeneratedAt>1750778704748</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Yuliana</Player>
+    <LostExp>1253596</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-06-24 17:23:19</Time>
+    <Location>(32856,31997,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Madera</Player>
     <LostExp>1145596</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -122,7 +130,15 @@
     <Location>(32024,31949,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
+    <Player>Croot</Player>
+    <LostExp>770287</LostExp>
+    <KilledBy>Bantinel</KilledBy>
+    <Time>2025-06-24 17:23:50</Time>
+    <Location>(31959,32015,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Siouxing</Player>
     <LostExp>183729</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -130,7 +146,7 @@
     <Location>(31854,31975,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>19</Rank>
     <Player>Kant</Player>
     <LostExp>76203</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -138,7 +154,7 @@
     <Location>(31964,31995,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>20</Rank>
     <Player>Shitara</Player>
     <LostExp>34721</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -146,7 +162,7 @@
     <Location>(31997,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>21</Rank>
     <Player>Void</Player>
     <LostExp>13504</LostExp>
     <KilledBy>Scorpion</KilledBy>
