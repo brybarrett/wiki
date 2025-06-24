@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750742404404</GeneratedAt>
+  <GeneratedAt>1750742704443</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Kraio</Player>
+    <LostExp>4783613</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-24 07:23:45</Time>
+    <Location>(31895,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Alyo</Player>
     <LostExp>4633554</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32021,31847,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Xlucasx</Player>
     <LostExp>4293270</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31957,32018,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Airi</Player>
     <LostExp>4113771</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Kopi</Player>
     <LostExp>1584885</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32044,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Madera</Player>
     <LostExp>1145596</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32024,31949,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Siouxing</Player>
     <LostExp>183729</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31854,31975,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Kant</Player>
     <LostExp>76203</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31964,31995,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Shitara</Player>
     <LostExp>34721</LostExp>
     <KilledBy>Orc</KilledBy>
