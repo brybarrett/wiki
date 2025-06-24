@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750725604296</GeneratedAt>
+  <GeneratedAt>1750725904266</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Alyo</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Bantinel</KilledBy>
     <Time>2025-06-24 00:39:04</Time>
     <Location>(31957,32018,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Kant</Player>
+    <LostExp>76203</LostExp>
+    <KilledBy>Wk</KilledBy>
+    <Time>2025-06-24 02:43:39</Time>
+    <Location>(31964,31995,7)</Location>
   </DeathEvent>
 </DeathHighscores>
