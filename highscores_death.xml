@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750786504767</GeneratedAt>
+  <GeneratedAt>1750786804782</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -184,5 +184,13 @@
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-06-24 11:35:53</Time>
     <Location>(31983,31898,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>24</Rank>
+    <Player>Xkiritox</Player>
+    <LostExp>2027</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-06-24 19:35:59</Time>
+    <Location>(32008,31882,12)</Location>
   </DeathEvent>
 </DeathHighscores>
