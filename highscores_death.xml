@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750801504915</GeneratedAt>
+  <GeneratedAt>1750801804884</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -219,6 +219,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>28</Rank>
+    <Player>Xkiritox</Player>
+    <LostExp>52984</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-06-24 23:48:25</Time>
+    <Location>(31995,32048,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>29</Rank>
     <Player>Shitara</Player>
     <LostExp>34721</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31997,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Void</Player>
     <LostExp>13504</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31983,31898,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Xkiritox</Player>
     <LostExp>2027</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(32008,31882,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Xkiritox</Player>
     <LostExp>1842</LostExp>
     <KilledBy>Orc Leader</KilledBy>
