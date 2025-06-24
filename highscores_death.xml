@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750741804398</GeneratedAt>
+  <GeneratedAt>1750742104414</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Kopi</Player>
+    <LostExp>1584885</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-06-24 07:12:24</Time>
+    <Location>(32044,31799,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Madera</Player>
     <LostExp>1145596</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32024,31949,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Siouxing</Player>
     <LostExp>183729</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31854,31975,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Kant</Player>
     <LostExp>76203</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31964,31995,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Shitara</Player>
     <LostExp>34721</LostExp>
     <KilledBy>Orc</KilledBy>
