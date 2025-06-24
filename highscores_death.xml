@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750738204374</GeneratedAt>
+  <GeneratedAt>1750738504381</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Siouxing</Player>
+    <LostExp>183729</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2025-06-24 06:14:05</Time>
+    <Location>(31854,31975,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Kant</Player>
     <LostExp>76203</LostExp>
     <KilledBy>Wk</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31964,31995,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Shitara</Player>
     <LostExp>34721</LostExp>
     <KilledBy>Orc</KilledBy>
