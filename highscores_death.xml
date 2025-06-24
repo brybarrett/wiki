@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750805403637</GeneratedAt>
+  <GeneratedAt>1750805703630</GeneratedAt>
+  <DeathEvent>
+    <Rank>1</Rank>
+    <Player>Belzebugod</Player>
+    <LostExp>67180890</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-25 00:51:01</Time>
+    <Location>(31951,32289,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Sar</Player>
+    <LostExp>2115152</LostExp>
+    <KilledBy>Chilong</KilledBy>
+    <Time>2025-06-25 00:50:37</Time>
+    <Location>(32063,31820,8)</Location>
+  </DeathEvent>
 </DeathHighscores>
