@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750809603663</GeneratedAt>
+  <GeneratedAt>1750809903656</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Belzebugod</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Chilong</KilledBy>
     <Time>2025-06-25 00:50:37</Time>
     <Location>(32063,31820,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Xkiritox</Player>
+    <LostExp>85076</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-06-25 02:03:06</Time>
+    <Location>(31995,32047,8)</Location>
   </DeathEvent>
 </DeathHighscores>
