@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750813803699</GeneratedAt>
+  <GeneratedAt>1750814103711</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Brisadeira</Player>
+    <LostExp>136893195</LostExp>
+    <KilledBy>Gaspar</KilledBy>
+    <Time>2025-06-25 03:14:40</Time>
+    <Location>(31791,31934,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Belzebugod</Player>
     <LostExp>67180890</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31951,32289,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Verockx</Player>
     <LostExp>11797384</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32062,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Verockx</Player>
     <LostExp>10617645</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32069,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Sar</Player>
     <LostExp>2115152</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32063,31820,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Kopi</Player>
     <LostExp>1435317</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32044,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Xkiritox</Player>
     <LostExp>85076</LostExp>
     <KilledBy>Skeleton</KilledBy>
