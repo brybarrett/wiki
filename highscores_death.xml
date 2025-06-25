@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750822203835</GeneratedAt>
+  <GeneratedAt>1750822503804</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brisadeira</Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Chucknorry</Player>
+    <LostExp>9020</LostExp>
+    <KilledBy>Fanatic</KilledBy>
+    <Time>2025-06-25 05:31:35</Time>
+    <Location>(31920,32009,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Cornelhius</Player>
     <LostExp>7651</LostExp>
     <KilledBy>Orc Leader</KilledBy>
