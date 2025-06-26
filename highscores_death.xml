@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750904403636</GeneratedAt>
+  <GeneratedAt>1750904703669</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brisadeira</Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Xkiritox</Player>
+    <LostExp>431226</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-06-26 04:23:28</Time>
+    <Location>(32013,32030,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Magod</Player>
     <LostExp>396285</LostExp>
     <KilledBy>Werewolf</KilledBy>
