@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750899603650</GeneratedAt>
+  <GeneratedAt>1750899903622</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dark</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Chucknorry</Player>
+    <LostExp>859042</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-06-26 03:04:18</Time>
+    <Location>(32840,31999,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Akirz</Player>
     <LostExp>506187</LostExp>
     <KilledBy>Bragnak</KilledBy>
