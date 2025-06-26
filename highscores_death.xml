@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750941402344</GeneratedAt>
+  <GeneratedAt>1750941702373</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -56,5 +56,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-06-26 06:28:52</Time>
     <Location>(32014,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Flango</Player>
+    <LostExp>257</LostExp>
+    <KilledBy>Hell Guard</KilledBy>
+    <Time>2025-06-26 14:39:11</Time>
+    <Location>(32789,32251,8)</Location>
   </DeathEvent>
 </DeathHighscores>
