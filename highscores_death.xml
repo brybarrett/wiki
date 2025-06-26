@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750900203658</GeneratedAt>
+  <GeneratedAt>1750900503678</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dark</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Nalen</Player>
+    <LostExp>1562921</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2025-06-26 03:10:22</Time>
+    <Location>(31855,31973,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Nandimbr</Player>
     <LostExp>1421315</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31963,32267,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Nandimbr</Player>
     <LostExp>1318616</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32863,31998,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Chucknorry</Player>
     <LostExp>859042</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -42,11 +50,19 @@
     <Location>(32840,31999,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Akirz</Player>
     <LostExp>506187</LostExp>
     <KilledBy>Bragnak</KilledBy>
     <Time>2025-06-26 00:19:36</Time>
     <Location>(32018,31861,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Magod</Player>
+    <LostExp>396285</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-26 03:14:36</Time>
+    <Location>(31881,32045,8)</Location>
   </DeathEvent>
 </DeathHighscores>
