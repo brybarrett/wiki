@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750903803729</GeneratedAt>
+  <GeneratedAt>1750904103644</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Brisadeira</Player>
+    <LostExp>128759081</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-06-26 04:14:42</Time>
+    <Location>(31791,31946,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Baam</Player>
     <LostExp>85710335</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31868,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Dark</Player>
     <LostExp>36373890</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32020,31807,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Bonilha</Player>
     <LostExp>14391821</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Pierre</Player>
     <LostExp>12865846</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31930,31984,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Ladykait</Player>
     <LostExp>2213589</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31863,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Nalen</Player>
     <LostExp>1562921</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31855,31973,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Nandimbr</Player>
     <LostExp>1421315</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31963,32267,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Nandimbr</Player>
     <LostExp>1318616</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32863,31998,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Chucknorry</Player>
     <LostExp>859042</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32840,31999,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Akirz</Player>
     <LostExp>506187</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32018,31861,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Magod</Player>
     <LostExp>396285</LostExp>
     <KilledBy>Werewolf</KilledBy>
