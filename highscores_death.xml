@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750972302537</GeneratedAt>
+  <GeneratedAt>1750972602531</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -156,13 +156,21 @@
   <DeathEvent>
     <Rank>20</Rank>
     <Player>Smakan</Player>
+    <LostExp>37865</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-06-26 23:15:49</Time>
+    <Location>(31970,32268,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
+    <Player>Smakan</Player>
     <LostExp>7071</LostExp>
     <KilledBy>Orc General</KilledBy>
     <Time>2025-06-26 21:40:36</Time>
     <Location>(32005,31874,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Smakan</Player>
     <LostExp>637</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31960,31917,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Flango</Player>
     <LostExp>257</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32789,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Mrhell</Player>
     <LostExp>0</LostExp>
     <KilledBy>Werewolf</KilledBy>
