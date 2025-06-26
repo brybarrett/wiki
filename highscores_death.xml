@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750980903993</GeneratedAt>
+  <GeneratedAt>1750981203989</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Chaomby</KilledBy>
     <Time>2025-06-27 00:18:58</Time>
     <Location>(31931,32231,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Chucknorry</Player>
+    <LostExp>1404735</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-06-27 01:35:41</Time>
+    <Location>(32851,31974,7)</Location>
   </DeathEvent>
 </DeathHighscores>
