@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750918602186</GeneratedAt>
+  <GeneratedAt>1750918902180</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Heineken</Player>
+    <LostExp>272293422</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-06-26 08:18:39</Time>
+    <Location>(31810,31961,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Chucknorry</Player>
     <LostExp>924873</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32856,32000,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Xkiritox</Player>
     <LostExp>446119</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32004,31874,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Xkiritox</Player>
     <LostExp>426281</LostExp>
     <KilledBy>Orc Leader</KilledBy>
