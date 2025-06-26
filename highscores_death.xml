@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750942602384</GeneratedAt>
+  <GeneratedAt>1750942902408</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Pierre</Player>
+    <LostExp>11721761</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-06-26 14:59:01</Time>
+    <Location>(32059,31825,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Anyian</Player>
     <LostExp>3333162</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32868,32027,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Void</Player>
     <LostExp>1284477</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32048,32341,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Chucknorry</Player>
     <LostExp>924873</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32856,32000,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Xkiritox</Player>
     <LostExp>446119</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32004,31874,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Xkiritox</Player>
     <LostExp>426281</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Flango</Player>
     <LostExp>257</LostExp>
     <KilledBy>Hell Guard</KilledBy>
