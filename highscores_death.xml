@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750896603613</GeneratedAt>
+  <GeneratedAt>1750896903660</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dark</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Nandimbr</Player>
+    <LostExp>1318616</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-06-26 02:13:33</Time>
+    <Location>(32863,31998,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Akirz</Player>
     <LostExp>506187</LostExp>
     <KilledBy>Bragnak</KilledBy>
