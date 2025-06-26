@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750962402445</GeneratedAt>
+  <GeneratedAt>1750962702431</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Pierre</Player>
+    <LostExp>10780097</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-26 20:30:22</Time>
+    <Location>(31954,31991,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Vigarista</Player>
     <LostExp>9967864</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32862,32028,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Anyian</Player>
     <LostExp>3333162</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32868,32027,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Void</Player>
     <LostExp>1284477</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32048,32341,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Chucknorry</Player>
     <LostExp>924873</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32856,32000,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Xkiritox</Player>
     <LostExp>446119</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32004,31874,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Xkiritox</Player>
     <LostExp>426281</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Flango</Player>
     <LostExp>257</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32789,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Mrhell</Player>
     <LostExp>0</LostExp>
     <KilledBy>Werewolf</KilledBy>
