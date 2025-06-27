@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750983604030</GeneratedAt>
+  <GeneratedAt>1750983903986</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -32,5 +32,21 @@
     <KilledBy>Redeath</KilledBy>
     <Time>2025-06-27 01:35:41</Time>
     <Location>(32851,31974,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Smakan</Player>
+    <LostExp>170331</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2025-06-27 02:21:10</Time>
+    <Location>(32047,32340,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Elderdruid</Player>
+    <LostExp>29341</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2025-06-27 02:21:06</Time>
+    <Location>(32047,32339,8)</Location>
   </DeathEvent>
 </DeathHighscores>
