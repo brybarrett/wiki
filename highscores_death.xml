@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750993204095</GeneratedAt>
+  <GeneratedAt>1750993504093</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingkiller</Player>
@@ -51,6 +51,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Bonilha</Player>
+    <LostExp>12362905</LostExp>
+    <KilledBy>Ghostsin</KilledBy>
+    <Time>2025-06-27 05:02:30</Time>
+    <Location>(32043,31803,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Matadordpk</Player>
+    <LostExp>9938538</LostExp>
+    <KilledBy>Ghostsin</KilledBy>
+    <Time>2025-06-27 05:02:27</Time>
+    <Location>(32043,31803,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Chucknorry</Player>
     <LostExp>1404735</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(32851,31974,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Smakan</Player>
     <LostExp>170331</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(32047,32340,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Elderdruid</Player>
     <LostExp>31464</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(32030,32272,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Elderdruid</Player>
     <LostExp>29341</LostExp>
     <KilledBy>Lucyr</KilledBy>
