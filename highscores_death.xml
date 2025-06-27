@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750991704078</GeneratedAt>
+  <GeneratedAt>1750992004101</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kingkiller</Player>
+    <LostExp>1371844129</LostExp>
+    <KilledBy>Chaomby</KilledBy>
+    <Time>2025-06-27 04:37:37</Time>
+    <Location>(31954,32218,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Madara</Player>
     <LostExp>449623137</LostExp>
     <KilledBy>Chaomby</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31931,32231,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Madara</Player>
     <LostExp>405699462</LostExp>
     <KilledBy>Chaomby</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31935,32216,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Renansz</Player>
     <LostExp>33927638</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31958,32281,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Dark</Player>
     <LostExp>33830688</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31895,32007,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Kratos</Player>
     <LostExp>16252243</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Chucknorry</Player>
     <LostExp>1404735</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32851,31974,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Smakan</Player>
     <LostExp>170331</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32047,32340,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Elderdruid</Player>
     <LostExp>31464</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32030,32272,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Elderdruid</Player>
     <LostExp>29341</LostExp>
     <KilledBy>Lucyr</KilledBy>
