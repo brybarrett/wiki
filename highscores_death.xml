@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751049004550</GeneratedAt>
+  <GeneratedAt>1751049304557</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingkiller</Player>
@@ -299,6 +299,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>38</Rank>
+    <Player>Shankszada</Player>
+    <LostExp>343577</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-06-27 20:31:56</Time>
+    <Location>(31978,31859,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>39</Rank>
     <Player>Vendedor</Player>
     <LostExp>275770</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31893,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Kingbles</Player>
     <LostExp>190288</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(32042,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Smakan</Player>
     <LostExp>170331</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(32047,32340,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Elderdruid</Player>
     <LostExp>31464</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(32030,32272,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Elderdruid</Player>
     <LostExp>29341</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(32047,32339,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Flango</Player>
     <LostExp>241</LostExp>
     <KilledBy>The Bug</KilledBy>
