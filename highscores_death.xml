@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750982704002</GeneratedAt>
+  <GeneratedAt>1750983003999</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Kratos</Player>
+    <LostExp>16252243</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-27 02:05:58</Time>
+    <Location>(31954,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Chucknorry</Player>
     <LostExp>1404735</LostExp>
     <KilledBy>Redeath</KilledBy>
