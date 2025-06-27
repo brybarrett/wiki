@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1750993504093</GeneratedAt>
+  <GeneratedAt>1750993804084</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingkiller</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Kingbles</Player>
+    <LostExp>190288</LostExp>
+    <KilledBy>GM-Doro</KilledBy>
+    <Time>2025-06-27 05:05:19</Time>
+    <Location>(32042,32041,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Smakan</Player>
     <LostExp>170331</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32047,32340,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Elderdruid</Player>
     <LostExp>31464</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32030,32272,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Elderdruid</Player>
     <LostExp>29341</LostExp>
     <KilledBy>Lucyr</KilledBy>
