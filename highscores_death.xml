@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751057104608</GeneratedAt>
+  <GeneratedAt>1751057404623</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingkiller</Player>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Deniallvz</Player>
+    <LostExp>22016372</LostExp>
+    <KilledBy>Tec</KilledBy>
+    <Time>2025-06-27 22:47:00</Time>
+    <Location>(31791,31936,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Sxgabrielx</Player>
     <LostExp>20377425</LostExp>
     <KilledBy>Kapami</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32875,32052,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Sxgabrielx</Player>
     <LostExp>19984147</LostExp>
     <KilledBy>Kapami</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32876,32052,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Crydevilz</Player>
     <LostExp>19856953</LostExp>
     <KilledBy>Krakomin</KilledBy>
@@ -154,7 +162,15 @@
     <Location>(31777,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
+    <Player>Deniallvz</Player>
+    <LostExp>19817258</LostExp>
+    <KilledBy>Krakomin</KilledBy>
+    <Time>2025-06-27 22:49:27</Time>
+    <Location>(31779,31943,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
     <Player>Sxgabrielx</Player>
     <LostExp>19689854</LostExp>
     <KilledBy>Bastinx</KilledBy>
@@ -162,7 +178,7 @@
     <Location>(32873,32052,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>23</Rank>
     <Player>Kratos</Player>
     <LostExp>16252243</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -170,7 +186,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>24</Rank>
     <Player>Mihawk</Player>
     <LostExp>13100059</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -178,7 +194,7 @@
     <Location>(31862,32051,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>25</Rank>
     <Player>Bonilha</Player>
     <LostExp>12362905</LostExp>
     <KilledBy>Ghostsin</KilledBy>
@@ -186,7 +202,7 @@
     <Location>(32043,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>26</Rank>
     <Player>Vigarista</Player>
     <LostExp>10935903</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -194,7 +210,7 @@
     <Location>(31992,32256,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>27</Rank>
     <Player>Matadordpk</Player>
     <LostExp>9938538</LostExp>
     <KilledBy>Ghostsin</KilledBy>
@@ -202,7 +218,7 @@
     <Location>(32043,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>28</Rank>
     <Player>Vigarista</Player>
     <LostExp>9846735</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -210,7 +226,7 @@
     <Location>(32009,32250,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>29</Rank>
     <Player>Lupy</Player>
     <LostExp>9276172</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -218,7 +234,7 @@
     <Location>(32041,31798,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>30</Rank>
     <Player>Airi</Player>
     <LostExp>9239351</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -226,7 +242,7 @@
     <Location>(31957,31865,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>31</Rank>
     <Player>Akirz</Player>
     <LostExp>2763252</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -234,7 +250,7 @@
     <Location>(31992,31997,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>32</Rank>
     <Player>Climax</Player>
     <LostExp>2760022</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -242,7 +258,7 @@
     <Location>(32008,31882,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>33</Rank>
     <Player>Chucknorry</Player>
     <LostExp>2392083</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -250,7 +266,7 @@
     <Location>(32060,31819,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>34</Rank>
     <Player>Xkiritox</Player>
     <LostExp>1824206</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -258,7 +274,7 @@
     <Location>(32856,32001,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>35</Rank>
     <Player>Xkiritox</Player>
     <LostExp>1763184</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -266,7 +282,7 @@
     <Location>(31966,32261,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>36</Rank>
     <Player>Xkiritox</Player>
     <LostExp>1733968</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -274,7 +290,7 @@
     <Location>(32067,31822,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>37</Rank>
     <Player>Chucknorry</Player>
     <LostExp>1404735</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -282,7 +298,7 @@
     <Location>(32851,31974,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>38</Rank>
     <Player>Siauhai</Player>
     <LostExp>1283116</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -290,7 +306,7 @@
     <Location>(31857,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>39</Rank>
     <Player>Xkiritox</Player>
     <LostExp>1121242</LostExp>
     <KilledBy>Cultist</KilledBy>
@@ -298,7 +314,7 @@
     <Location>(32018,31864,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>40</Rank>
     <Player>Siauhai</Player>
     <LostExp>1056338</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -306,7 +322,7 @@
     <Location>(32868,31971,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>41</Rank>
     <Player>Smakan</Player>
     <LostExp>634859</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -314,7 +330,7 @@
     <Location>(31948,31980,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>42</Rank>
     <Player>Shankszada</Player>
     <LostExp>343577</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -322,7 +338,7 @@
     <Location>(31978,31859,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>43</Rank>
     <Player>Vendedor</Player>
     <LostExp>275770</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -330,7 +346,7 @@
     <Location>(31893,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>44</Rank>
     <Player>Kingbles</Player>
     <LostExp>190288</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -338,7 +354,7 @@
     <Location>(32042,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>45</Rank>
     <Player>Smakan</Player>
     <LostExp>170331</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -346,7 +362,7 @@
     <Location>(32047,32340,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>46</Rank>
     <Player>Elderdruid</Player>
     <LostExp>31464</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -354,7 +370,7 @@
     <Location>(32030,32272,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>47</Rank>
     <Player>Elderdruid</Player>
     <LostExp>29341</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -362,7 +378,7 @@
     <Location>(32047,32339,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>48</Rank>
     <Player>Flango</Player>
     <LostExp>241</LostExp>
     <KilledBy>The Bug</KilledBy>
