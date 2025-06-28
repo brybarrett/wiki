@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751105705186</GeneratedAt>
+  <GeneratedAt>1751106005195</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Kuan</Player>
+    <LostExp>3102006</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-06-28 12:17:53</Time>
+    <Location>(31878,32025,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Chucknorry</Player>
     <LostExp>3052907</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31998,32256,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Climax</Player>
     <LostExp>2866984</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32009,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Chucknorry</Player>
     <LostExp>2753523</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32010,32250,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Climax</Player>
     <LostExp>2630207</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31882,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Rureda</Player>
     <LostExp>2194055</LostExp>
     <KilledBy>Wispin</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32068,32355,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Xkiritox</Player>
     <LostExp>1736101</LostExp>
     <KilledBy>Werewolf</KilledBy>
