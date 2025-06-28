@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751095205095</GeneratedAt>
+  <GeneratedAt>1751095505124</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Climax</Player>
+    <LostExp>2866984</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-06-28 09:20:22</Time>
+    <Location>(32009,31885,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Chucknorry</Player>
     <LostExp>2753523</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32010,32250,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Climax</Player>
     <LostExp>2630207</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31882,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Xkiritox</Player>
     <LostExp>1736101</LostExp>
     <KilledBy>Werewolf</KilledBy>
