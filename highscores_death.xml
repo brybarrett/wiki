@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751098505150</GeneratedAt>
+  <GeneratedAt>1751098805160</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Renansz</Player>
+    <LostExp>74553418</LostExp>
+    <KilledBy>Gold Stone</KilledBy>
+    <Time>2025-06-28 10:18:19</Time>
+    <Location>(31950,32275,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Dark</Player>
     <LostExp>31398921</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -34,7 +42,15 @@
     <Location>(31895,32007,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
+    <Player>Crydevilz</Player>
+    <LostExp>20388406</LostExp>
+    <KilledBy>Krakomin</KilledBy>
+    <Time>2025-06-28 10:15:14</Time>
+    <Location>(31786,31939,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Abgkumis</Player>
     <LostExp>17334382</LostExp>
     <KilledBy>(Others)</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31790,31911,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Abgkumis</Player>
     <LostExp>16239865</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(32052,32338,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Kratos</Player>
     <LostExp>15602158</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Bonilha</Player>
     <LostExp>11584504</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(31944,31982,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Srluis</Player>
     <LostExp>10637844</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(32022,31850,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Lessaka</Player>
     <LostExp>8286122</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(31956,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Lindinha</Player>
     <LostExp>5077862</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(32065,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Akirz</Player>
     <LostExp>4008669</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -98,7 +114,7 @@
     <Location>(32842,31979,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>15</Rank>
     <Player>Chucknorry</Player>
     <LostExp>3375440</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -106,7 +122,7 @@
     <Location>(32005,32250,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <Player>Chucknorry</Player>
     <LostExp>3275607</LostExp>
     <KilledBy>ElderDjinn</KilledBy>
@@ -114,7 +130,7 @@
     <Location>(32778,32225,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>17</Rank>
     <Player>Chucknorry</Player>
     <LostExp>3052907</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -122,7 +138,7 @@
     <Location>(31998,32256,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>18</Rank>
     <Player>Climax</Player>
     <LostExp>2866984</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -130,7 +146,7 @@
     <Location>(32009,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>19</Rank>
     <Player>Chucknorry</Player>
     <LostExp>2753523</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -138,7 +154,7 @@
     <Location>(32010,32250,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>20</Rank>
     <Player>Climax</Player>
     <LostExp>2630207</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -146,7 +162,7 @@
     <Location>(31882,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>21</Rank>
     <Player>Xkiritox</Player>
     <LostExp>1736101</LostExp>
     <KilledBy>Werewolf</KilledBy>
