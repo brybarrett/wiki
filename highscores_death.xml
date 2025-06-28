@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751106905212</GeneratedAt>
+  <GeneratedAt>1751107205211</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Scott</Player>
@@ -195,6 +195,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>25</Rank>
+    <Player>Poinnmm</Player>
+    <LostExp>3006</LostExp>
+    <KilledBy>Cyclops</KilledBy>
+    <Time>2025-06-28 12:38:51</Time>
+    <Location>(31888,31966,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
     <Player>Poinnmm</Player>
     <LostExp>7</LostExp>
     <KilledBy>Orc Leader</KilledBy>
