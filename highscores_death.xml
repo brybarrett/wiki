@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751090105080</GeneratedAt>
+  <GeneratedAt>1751090405049</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Lessaka</Player>
+    <LostExp>8286122</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-28 07:59:24</Time>
+    <Location>(31956,31994,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Lindinha</Player>
     <LostExp>5077862</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32065,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Chucknorry</Player>
     <LostExp>3375440</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32005,32250,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Chucknorry</Player>
     <LostExp>3052907</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31998,32256,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Chucknorry</Player>
     <LostExp>2753523</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32010,32250,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Climax</Player>
     <LostExp>2630207</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31882,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Xkiritox</Player>
     <LostExp>1736101</LostExp>
     <KilledBy>Werewolf</KilledBy>
