@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751071504906</GeneratedAt>
+  <GeneratedAt>1751071804912</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Dark</Player>
+    <LostExp>31398921</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-28 02:49:51</Time>
+    <Location>(31895,32007,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Abgkumis</Player>
+    <LostExp>17334382</LostExp>
+    <KilledBy>(Others)</KilledBy>
+    <Time>2025-06-28 02:48:37</Time>
+    <Location>(31790,31911,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Lindinha</Player>
     <LostExp>5077862</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -10,7 +26,7 @@
     <Location>(32065,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Chucknorry</Player>
     <LostExp>3375440</LostExp>
     <KilledBy>Blaze Master</KilledBy>
