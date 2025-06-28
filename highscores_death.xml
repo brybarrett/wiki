@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751072404969</GeneratedAt>
+  <GeneratedAt>1751072704944</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dark</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Bonilha</Player>
+    <LostExp>11584504</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-06-28 03:00:43</Time>
+    <Location>(31944,31982,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Srluis</Player>
     <LostExp>10637844</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32022,31850,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Lindinha</Player>
     <LostExp>5077862</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -34,11 +42,19 @@
     <Location>(32065,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Chucknorry</Player>
     <LostExp>3375440</LostExp>
     <KilledBy>Blaze Master</KilledBy>
     <Time>2025-06-28 02:03:59</Time>
     <Location>(32005,32250,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Chucknorry</Player>
+    <LostExp>3052907</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-28 03:03:09</Time>
+    <Location>(31998,32256,9)</Location>
   </DeathEvent>
 </DeathHighscores>
