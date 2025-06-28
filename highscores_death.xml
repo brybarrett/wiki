@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751089205036</GeneratedAt>
+  <GeneratedAt>1751089505062</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Abgkumis</Player>
+    <LostExp>16239865</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2025-06-28 07:40:14</Time>
+    <Location>(32052,32338,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Kratos</Player>
     <LostExp>15602158</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Bonilha</Player>
     <LostExp>11584504</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31944,31982,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Srluis</Player>
     <LostExp>10637844</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32022,31850,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Lindinha</Player>
     <LostExp>5077862</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32065,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Chucknorry</Player>
     <LostExp>3375440</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32005,32250,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Chucknorry</Player>
     <LostExp>3052907</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31998,32256,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Chucknorry</Player>
     <LostExp>2753523</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32010,32250,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Climax</Player>
     <LostExp>2630207</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31882,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Xkiritox</Player>
     <LostExp>1736101</LostExp>
     <KilledBy>Werewolf</KilledBy>
