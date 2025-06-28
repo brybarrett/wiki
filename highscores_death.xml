@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751068804877</GeneratedAt>
+  <GeneratedAt>1751069104911</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lindinha</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Flutty</KilledBy>
     <Time>2025-06-28 01:23:38</Time>
     <Location>(32065,31825,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Chucknorry</Player>
+    <LostExp>3375440</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-06-28 02:03:59</Time>
+    <Location>(32005,32250,9)</Location>
   </DeathEvent>
 </DeathHighscores>
