@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751237106008</GeneratedAt>
+  <GeneratedAt>1751237406025</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Blindadu</Player>
+    <LostExp>592837655</LostExp>
+    <KilledBy>Abominy</KilledBy>
+    <Time>2025-06-30 00:47:31</Time>
+    <Location>(32524,32447,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Hakina</Player>
     <LostExp>138641971</LostExp>
     <KilledBy>Blaze Master</KilledBy>
