@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751197206610</GeneratedAt>
+  <GeneratedAt>1751197506603</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Reidelas</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Teig</Player>
+    <LostExp>5527235</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-06-29 13:43:23</Time>
+    <Location>(32044,31800,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Charuto</Player>
     <LostExp>3687873</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31949,32276,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Kopi</Player>
     <LostExp>3452038</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31936,32222,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Chucknorry</Player>
     <LostExp>3064265</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32047,32339,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Kuan</Player>
     <LostExp>2968266</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31884,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Chucknorry</Player>
     <LostExp>2874829</LostExp>
     <KilledBy>Leechacle</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32782,31993,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Climax</Player>
     <LostExp>2635169</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32019,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Climax</Player>
     <LostExp>2405016</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32009,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Aeri</Player>
     <LostExp>1488651</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32019,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Magod</Player>
     <LostExp>502993</LostExp>
     <KilledBy>Werewolf</KilledBy>
