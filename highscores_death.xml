@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751220606785</GeneratedAt>
+  <GeneratedAt>1751220906784</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -283,6 +283,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>36</Rank>
+    <Player>Charutin</Player>
+    <LostExp>109724</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-06-29 20:13:03</Time>
+    <Location>(32007,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>37</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>613</LostExp>
     <KilledBy>Fanatic</KilledBy>
