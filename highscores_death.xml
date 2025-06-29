@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751216406738</GeneratedAt>
+  <GeneratedAt>1751216706737</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -232,5 +232,21 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-06-29 02:25:59</Time>
     <Location>(31901,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
+    <Player>Poinnmm</Player>
+    <LostExp>132338</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-06-29 19:05:01</Time>
+    <Location>(32012,31877,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>31</Rank>
+    <Player>Xkiritoxwi</Player>
+    <LostExp>613</LostExp>
+    <KilledBy>Fanatic</KilledBy>
+    <Time>2025-06-29 19:02:55</Time>
+    <Location>(31912,32014,8)</Location>
   </DeathEvent>
 </DeathHighscores>
