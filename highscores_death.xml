@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751163606345</GeneratedAt>
+  <GeneratedAt>1751163906337</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kopi</Player>
+    <LostExp>3452038</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-06-29 04:23:50</Time>
+    <Location>(31936,32222,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Chucknorry</Player>
     <LostExp>3064265</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32047,32339,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Kuan</Player>
     <LostExp>2968266</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31884,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Chucknorry</Player>
     <LostExp>2874829</LostExp>
     <KilledBy>Leechacle</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32782,31993,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Magod</Player>
     <LostExp>502993</LostExp>
     <KilledBy>Werewolf</KilledBy>
