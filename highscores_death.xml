@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751241006041</GeneratedAt>
+  <GeneratedAt>1751241306049</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindadu</Player>
@@ -24,5 +24,13 @@
     <KilledBy>Assasin</KilledBy>
     <Time>2025-06-30 01:46:37</Time>
     <Location>(31954,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Konan</Player>
+    <LostExp>1370750</LostExp>
+    <KilledBy>Frostily</KilledBy>
+    <Time>2025-06-30 01:53:05</Time>
+    <Location>(32019,31814,8)</Location>
   </DeathEvent>
 </DeathHighscores>
