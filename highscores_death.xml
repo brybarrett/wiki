@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751232306863</GeneratedAt>
+  <GeneratedAt>1751232606856</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingkiller</Player>
@@ -316,13 +316,21 @@
   <DeathEvent>
     <Rank>40</Rank>
     <Player>Charutin</Player>
+    <LostExp>120219</LostExp>
+    <KilledBy>Kreppan</KilledBy>
+    <Time>2025-06-29 23:26:13</Time>
+    <Location>(31921,32002,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>41</Rank>
+    <Player>Charutin</Player>
     <LostExp>109724</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-06-29 20:13:03</Time>
     <Location>(32007,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>613</LostExp>
     <KilledBy>Fanatic</KilledBy>
