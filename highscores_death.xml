@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751221206775</GeneratedAt>
+  <GeneratedAt>1751221506780</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -276,13 +276,21 @@
   <DeathEvent>
     <Rank>35</Rank>
     <Player>Poinnmm</Player>
+    <LostExp>256154</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-06-29 20:20:30</Time>
+    <Location>(31986,32016,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>36</Rank>
+    <Player>Poinnmm</Player>
     <LostExp>132338</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-06-29 19:05:01</Time>
     <Location>(32012,31877,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Charutin</Player>
     <LostExp>109724</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(32007,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>613</LostExp>
     <KilledBy>Fanatic</KilledBy>
