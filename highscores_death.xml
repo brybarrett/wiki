@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751216706737</GeneratedAt>
+  <GeneratedAt>1751217006726</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -203,6 +203,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>26</Rank>
+    <Player>Aeri</Player>
+    <LostExp>1649849</LostExp>
+    <KilledBy>Apprentice</KilledBy>
+    <Time>2025-06-29 19:06:39</Time>
+    <Location>(31993,31994,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>27</Rank>
     <Player>Konan</Player>
     <LostExp>1575000</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32019,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Aeri</Player>
     <LostExp>1488651</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32019,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Konan</Player>
     <LostExp>1417500</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Magod</Player>
     <LostExp>502993</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31901,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Poinnmm</Player>
     <LostExp>132338</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(32012,31877,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>613</LostExp>
     <KilledBy>Fanatic</KilledBy>
