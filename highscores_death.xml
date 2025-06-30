@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751241906061</GeneratedAt>
+  <GeneratedAt>1751242206065</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindadu</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Khorhigee</Player>
+    <LostExp>363871411</LostExp>
+    <KilledBy>Datubiadap</KilledBy>
+    <Time>2025-06-30 02:06:24</Time>
+    <Location>(31778,31936,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Hakina</Player>
     <LostExp>138641971</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31957,32281,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Dark</Player>
     <LostExp>34230078</LostExp>
     <KilledBy>Dandelions</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Kratos</Player>
     <LostExp>14457803</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -34,11 +42,19 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Konan</Player>
     <LostExp>1370750</LostExp>
     <KilledBy>Frostily</KilledBy>
     <Time>2025-06-30 01:53:05</Time>
     <Location>(32019,31814,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Matudo</Player>
+    <LostExp>1160</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-06-30 02:07:38</Time>
+    <Location>(31983,31897,9)</Location>
   </DeathEvent>
 </DeathHighscores>
