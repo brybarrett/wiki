@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751242806090</GeneratedAt>
+  <GeneratedAt>1751243106080</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindadu</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Srlira</Player>
+    <LostExp>298380619</LostExp>
+    <KilledBy>Datubiadap</KilledBy>
+    <Time>2025-06-30 02:21:08</Time>
+    <Location>(31777,31937,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Hakina</Player>
     <LostExp>138641971</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31957,32281,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Dark</Player>
     <LostExp>34230078</LostExp>
     <KilledBy>Dandelions</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Valkiria</Player>
     <LostExp>20120630</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31795,31945,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Kratos</Player>
     <LostExp>14457803</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Bonilha</Player>
     <LostExp>7307260</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Konan</Player>
     <LostExp>1370750</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32019,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Matudo</Player>
     <LostExp>1160</LostExp>
     <KilledBy>Scorpion</KilledBy>
