@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751258406142</GeneratedAt>
+  <GeneratedAt>1751258706185</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindadu</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Quince</Player>
+    <LostExp>13056238</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-06-30 06:44:16</Time>
+    <Location>(31869,32083,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Bonilha</Player>
     <LostExp>7307260</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Xkiritox</Player>
     <LostExp>3250673</LostExp>
     <KilledBy>Baby Drake</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31993,31944,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Konan</Player>
     <LostExp>1370750</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32019,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Meqe</Player>
     <LostExp>7962</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31996,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Matudo</Player>
     <LostExp>1160</LostExp>
     <KilledBy>Scorpion</KilledBy>
