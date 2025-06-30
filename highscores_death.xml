@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751272806264</GeneratedAt>
+  <GeneratedAt>1751273106271</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindadu</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Galadriel</Player>
+    <LostExp>17453236</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2025-06-30 10:43:41</Time>
+    <Location>(31864,32044,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Kratos</Player>
     <LostExp>14457803</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Kratos</Player>
     <LostExp>13208789</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Quince</Player>
     <LostExp>13056238</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31869,32083,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Bonilha</Player>
     <LostExp>7307260</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Xkiritox</Player>
     <LostExp>3250673</LostExp>
     <KilledBy>Baby Drake</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31993,31944,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Climax</Player>
     <LostExp>3193066</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32008,31882,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Covid</Player>
     <LostExp>1589100</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32063,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Konan</Player>
     <LostExp>1370750</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32019,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Meqe</Player>
     <LostExp>7962</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31996,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Matudo</Player>
     <LostExp>1160</LostExp>
     <KilledBy>Scorpion</KilledBy>
