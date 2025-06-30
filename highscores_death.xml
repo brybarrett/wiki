@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751302506535</GeneratedAt>
+  <GeneratedAt>1751302806550</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jandel</Player>
@@ -259,6 +259,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>33</Rank>
+    <Player>Poinnmm</Player>
+    <LostExp>656487</LostExp>
+    <KilledBy>Cultist</KilledBy>
+    <Time>2025-06-30 18:56:05</Time>
+    <Location>(32019,31864,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>34</Rank>
     <Player>Shitara</Player>
     <LostExp>188824</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(32010,32026,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Meqe</Player>
     <LostExp>47232</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Meqe</Player>
     <LostExp>37556</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31885,31913,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Meqe</Player>
     <LostExp>11525</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(32003,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Meqe</Player>
     <LostExp>7962</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31996,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Matudo</Player>
     <LostExp>1461</LostExp>
     <KilledBy>Spider</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31944,31922,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Matudo</Player>
     <LostExp>1160</LostExp>
     <KilledBy>Scorpion</KilledBy>
