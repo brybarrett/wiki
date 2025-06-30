@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751288106392</GeneratedAt>
+  <GeneratedAt>1751288406415</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jandel</Player>
@@ -179,6 +179,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>23</Rank>
+    <Player>Sasori</Player>
+    <LostExp>1345751</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-06-30 14:58:01</Time>
+    <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>24</Rank>
     <Player>Konan</Player>
     <LostExp>1238557</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32018,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Xoxox</Player>
     <LostExp>1123209</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31901,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Meqe</Player>
     <LostExp>11525</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32003,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Meqe</Player>
     <LostExp>7962</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31996,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Matudo</Player>
     <LostExp>1160</LostExp>
     <KilledBy>Scorpion</KilledBy>
