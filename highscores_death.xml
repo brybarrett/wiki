@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751320806699</GeneratedAt>
+  <GeneratedAt>1751321106715</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jandel</Player>
@@ -364,13 +364,21 @@
   <DeathEvent>
     <Rank>46</Rank>
     <Player>Matudo</Player>
+    <LostExp>2845</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-01 00:04:42</Time>
+    <Location>(31981,31910,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>47</Rank>
+    <Player>Matudo</Player>
     <LostExp>1461</LostExp>
     <KilledBy>Spider</KilledBy>
     <Time>2025-06-30 16:54:09</Time>
     <Location>(31944,31922,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Matudo</Player>
     <LostExp>1160</LostExp>
     <KilledBy>Scorpion</KilledBy>
