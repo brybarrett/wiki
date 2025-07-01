@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751337936938</GeneratedAt>
+  <GeneratedAt>1751338236959</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Drink</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Charutin</Player>
+    <LostExp>321469</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-07-01 04:48:22</Time>
+    <Location>(32026,32280,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Meqe</Player>
     <LostExp>98968</LostExp>
     <KilledBy>Shogun</KilledBy>
