@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751385637247</GeneratedAt>
+  <GeneratedAt>1751385937283</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Naruto</Player>
+    <LostExp>6807448</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-07-01 18:03:14</Time>
+    <Location>(32001,32235,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Dexterwiz</Player>
     <LostExp>5401017</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31880,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Xkiritox</Player>
     <LostExp>5084982</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32859,31997,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Lordkyller</Player>
     <LostExp>3639553</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32850,31975,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Siauhai</Player>
     <LostExp>3567877</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32843,32065,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Marihuana</Player>
     <LostExp>2420307</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31917,32012,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Covid</Player>
     <LostExp>1430610</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32038,31832,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>564263</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32019,31946,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Charutin</Player>
     <LostExp>321469</LostExp>
     <KilledBy>Long</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32026,32280,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Doze</Player>
     <LostExp>192798</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31898,31912,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Onze</Player>
     <LostExp>112625</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31877,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Meqe</Player>
     <LostExp>98968</LostExp>
     <KilledBy>Shogun</KilledBy>
