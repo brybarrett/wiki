@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751379037225</GeneratedAt>
+  <GeneratedAt>1751379337229</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -11,18 +11,18 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Killerwiz</Player>
+    <LostExp>306981596</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-07-01 16:11:33</Time>
+    <Location>(31955,32291,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Wizze</Player>
     <LostExp>88418299</LostExp>
     <KilledBy>Blaze Master</KilledBy>
     <Time>2025-07-01 15:55:23</Time>
-    <Location>(31957,32281,9)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>3</Rank>
-    <Player>Nenawiz</Player>
-    <LostExp>59817394</LostExp>
-    <KilledBy>Blaze Master</KilledBy>
-    <Time>2025-07-01 09:24:58</Time>
     <Location>(31957,32281,9)</Location>
   </DeathEvent>
   <DeathEvent>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Nenawiz</Player>
+    <LostExp>59817394</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-07-01 09:24:58</Time>
+    <Location>(31957,32281,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Dinho</Player>
     <LostExp>25079680</LostExp>
     <KilledBy>Dandelions</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31777,31938,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Drink</Player>
     <LostExp>23905099</LostExp>
     <KilledBy>Cinco</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Dinho</Player>
     <LostExp>22580636</LostExp>
     <KilledBy>Noparty</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31787,31936,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Sxgabrielx</Player>
     <LostExp>20927104</LostExp>
     <KilledBy>Brinefiend</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31805,32123,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Dinho</Player>
     <LostExp>20323876</LostExp>
     <KilledBy>Krakomin</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31782,31938,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Miguel</Player>
     <LostExp>18464184</LostExp>
     <KilledBy>Tec</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31808,31955,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Ramz</Player>
     <LostExp>17832905</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31791,31935,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Abgkumis</Player>
     <LostExp>13164419</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31854,32076,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Lupy</Player>
     <LostExp>12385066</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31998,32226,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Lupy</Player>
     <LostExp>11153539</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -114,7 +122,15 @@
     <Location>(31998,32226,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
+    <Player>Dexterwiz</Player>
+    <LostExp>5401017</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-01 16:12:05</Time>
+    <Location>(31880,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
     <Player>Xkiritox</Player>
     <LostExp>5084982</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -122,7 +138,7 @@
     <Location>(32859,31997,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>18</Rank>
     <Player>Lordkyller</Player>
     <LostExp>3639553</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -130,7 +146,7 @@
     <Location>(32850,31975,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>19</Rank>
     <Player>Siauhai</Player>
     <LostExp>3567877</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -138,7 +154,7 @@
     <Location>(32843,32065,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>20</Rank>
     <Player>Marihuana</Player>
     <LostExp>2420307</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -146,7 +162,7 @@
     <Location>(31917,32012,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>21</Rank>
     <Player>Covid</Player>
     <LostExp>1430610</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -154,7 +170,7 @@
     <Location>(32038,31832,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>22</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>564263</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -162,7 +178,7 @@
     <Location>(32019,31946,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>23</Rank>
     <Player>Charutin</Player>
     <LostExp>321469</LostExp>
     <KilledBy>Long</KilledBy>
@@ -170,7 +186,7 @@
     <Location>(32026,32280,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>24</Rank>
     <Player>Doze</Player>
     <LostExp>192798</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -178,7 +194,7 @@
     <Location>(31898,31912,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>25</Rank>
     <Player>Meqe</Player>
     <LostExp>98968</LostExp>
     <KilledBy>Shogun</KilledBy>
