@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751406037483</GeneratedAt>
+  <GeneratedAt>1751406337487</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -219,6 +219,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>28</Rank>
+    <Player>Xkiritoxwi</Player>
+    <LostExp>531794</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-07-01 23:41:49</Time>
+    <Location>(32858,31992,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>29</Rank>
     <Player>Charutin</Player>
     <LostExp>321469</LostExp>
     <KilledBy>Long</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32026,32280,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Shitara</Player>
     <LostExp>292083</LostExp>
     <KilledBy>Skelenary</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32011,32024,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Shitara</Player>
     <LostExp>263342</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(32023,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Doze</Player>
     <LostExp>192798</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(31898,31912,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Fushiguro</Player>
     <LostExp>167079</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31873,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Fushiguro</Player>
     <LostExp>150372</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(31873,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Onze</Player>
     <LostExp>112625</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31877,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Meqe</Player>
     <LostExp>98968</LostExp>
     <KilledBy>Shogun</KilledBy>
