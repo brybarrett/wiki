@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751378137209</GeneratedAt>
+  <GeneratedAt>1751378437213</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Siauhai</Player>
+    <LostExp>3567877</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-07-01 16:00:18</Time>
+    <Location>(32843,32065,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Marihuana</Player>
     <LostExp>2420307</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31917,32012,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Covid</Player>
     <LostExp>1430610</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32038,31832,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>564263</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32019,31946,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Charutin</Player>
     <LostExp>321469</LostExp>
     <KilledBy>Long</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32026,32280,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Doze</Player>
     <LostExp>192798</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31898,31912,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Meqe</Player>
     <LostExp>98968</LostExp>
     <KilledBy>Shogun</KilledBy>
