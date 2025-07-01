@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751357737093</GeneratedAt>
+  <GeneratedAt>1751358037083</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
-    <Player>Nenawiz</Player>
-    <LostExp>59817394</LostExp>
+    <Player>Madara</Player>
+    <LostExp>339965450</LostExp>
     <KilledBy>Blaze Master</KilledBy>
-    <Time>2025-07-01 09:24:58</Time>
-    <Location>(31957,32281,9)</Location>
+    <Time>2025-07-01 10:19:43</Time>
+    <Location>(31951,32264,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Nenawiz</Player>
+    <LostExp>59817394</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-07-01 09:24:58</Time>
+    <Location>(31957,32281,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Drink</Player>
     <LostExp>23905099</LostExp>
     <KilledBy>Cinco</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Sxgabrielx</Player>
     <LostExp>20927104</LostExp>
     <KilledBy>Brinefiend</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31805,32123,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Abgkumis</Player>
     <LostExp>13164419</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31854,32076,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Marihuana</Player>
     <LostExp>2420307</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31917,32012,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Covid</Player>
     <LostExp>1430610</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32038,31832,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Charutin</Player>
     <LostExp>321469</LostExp>
     <KilledBy>Long</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32026,32280,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Doze</Player>
     <LostExp>192798</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31898,31912,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Meqe</Player>
     <LostExp>98968</LostExp>
     <KilledBy>Shogun</KilledBy>
