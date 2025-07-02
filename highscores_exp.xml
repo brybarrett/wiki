@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Highscores>
-  <GeneratedAt>1751461804470</GeneratedAt>
+  <GeneratedAt>1751462104458</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Papito</Name>
     <Level>532</Level>
-    <Exp>66196787660</Exp>
+    <Exp>66197411360</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -19,7 +19,7 @@
     <Rank>3</Rank>
     <Name>Coisado</Name>
     <Level>496</Level>
-    <Exp>50093205320</Exp>
+    <Exp>50093655770</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -40,7 +40,7 @@
     <Rank>6</Rank>
     <Name>Kakashi</Name>
     <Level>471</Level>
-    <Exp>40654423842</Exp>
+    <Exp>40654804992</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -82,7 +82,7 @@
     <Rank>12</Rank>
     <Name>Niggawiz</Name>
     <Level>437</Level>
-    <Exp>30186963897</Exp>
+    <Exp>30187190277</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -402,30 +402,30 @@
   </Player>
   <Player>
     <Rank>58</Rank>
-    <Name>Kingkiller</Name>
-    <Level>329</Level>
-    <Exp>9698265692</Exp>
-    <Vocation>Warrior</Vocation>
-  </Player>
-  <Player>
-    <Rank>59</Rank>
     <Name>Sakura</Name>
     <Level>329</Level>
     <Exp>9639529495</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
-    <Rank>60</Rank>
+    <Rank>59</Rank>
     <Name>Alzeta</Name>
     <Level>326</Level>
     <Exp>9268582303</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
-    <Rank>61</Rank>
+    <Rank>60</Rank>
     <Name>Piras</Name>
     <Level>325</Level>
     <Exp>9157016460</Exp>
+    <Vocation>Warrior</Vocation>
+  </Player>
+  <Player>
+    <Rank>61</Rank>
+    <Name>Kingkiller</Name>
+    <Level>321</Level>
+    <Exp>8728439123</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -551,7 +551,7 @@
     <Rank>79</Rank>
     <Name>Dandelions</Name>
     <Level>296</Level>
-    <Exp>6292780351</Exp>
+    <Exp>6293081227</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -761,7 +761,7 @@
     <Rank>109</Rank>
     <Name>Pandatank</Name>
     <Level>268</Level>
-    <Exp>4228647724</Exp>
+    <Exp>4229155270</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -817,7 +817,7 @@
     <Rank>117</Rank>
     <Name>Khorhigee</Name>
     <Level>261</Level>
-    <Exp>3785808207</Exp>
+    <Exp>3785987823</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -852,21 +852,21 @@
     <Rank>122</Rank>
     <Name>Durin</Name>
     <Level>257</Level>
-    <Exp>3561582695</Exp>
+    <Exp>3561760481</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>123</Rank>
     <Name>Sunraku</Name>
     <Level>256</Level>
-    <Exp>3549982335</Exp>
+    <Exp>3550269402</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
     <Rank>124</Rank>
     <Name>Panda</Name>
     <Level>256</Level>
-    <Exp>3518779903</Exp>
+    <Exp>3519024277</Exp>
     <Vocation>Wizard</Vocation>
   </Player>
   <Player>
@@ -880,7 +880,7 @@
     <Rank>126</Rank>
     <Name>Pqr</Name>
     <Level>254</Level>
-    <Exp>3424512425</Exp>
+    <Exp>3424591545</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
   <Player>
@@ -894,7 +894,7 @@
     <Rank>128</Rank>
     <Name>Tuyull</Name>
     <Level>251</Level>
-    <Exp>3278128264</Exp>
+    <Exp>3278215204</Exp>
     <Vocation>Warrior</Vocation>
   </Player>
 </Highscores>
