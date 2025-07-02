@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751472004554</GeneratedAt>
+  <GeneratedAt>1751472304572</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingkiller</Player>
@@ -216,5 +216,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-07-02 03:11:34</Time>
     <Location>(31996,32048,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
+    <Player>Fushiguro</Player>
+    <LostExp>135765</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-02 18:01:09</Time>
+    <Location>(31969,31914,8)</Location>
   </DeathEvent>
 </DeathHighscores>
