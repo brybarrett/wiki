@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751446204324</GeneratedAt>
+  <GeneratedAt>1751446504315</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingkiller</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Galadriel</Player>
+    <LostExp>23343656</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2025-07-02 10:53:42</Time>
+    <Location>(31864,32044,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Kratos</Player>
     <LostExp>13812987</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Matadordpk</Player>
     <LostExp>13560138</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31890,32012,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Kratos</Player>
     <LostExp>12489084</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Lupy</Player>
     <LostExp>11602563</LostExp>
     <KilledBy>Ifrit</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32861,32052,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Naruto</Player>
     <LostExp>6576098</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32001,32235,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Ladykait</Player>
     <LostExp>5182803</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31863,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Charutin</Player>
     <LostExp>679721</LostExp>
     <KilledBy>Gaspar</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31956,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>661179</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32876,32001,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Nove</Player>
     <LostExp>437897</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31993,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Doze</Player>
     <LostExp>430107</LostExp>
     <KilledBy>Skeleton</KilledBy>
