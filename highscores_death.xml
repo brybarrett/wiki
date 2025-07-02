@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751422804150</GeneratedAt>
+  <GeneratedAt>1751423104146</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kingdeus</Player>
+    <LostExp>1073741823</LostExp>
+    <KilledBy>Kul'Krak'u</KilledBy>
+    <Time>2025-07-02 04:24:35</Time>
+    <Location>(31790,31909,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Madara</Player>
     <LostExp>316604436</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31951,32264,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Madara</Player>
     <LostExp>284999901</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31951,32264,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Madara</Player>
     <LostExp>256960286</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31951,32264,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Aulia</Player>
     <LostExp>24538308</LostExp>
     <KilledBy>Dandelions</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31778,31936,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Kratos</Player>
     <LostExp>13812987</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Ladykait</Player>
     <LostExp>5182803</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31863,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>661179</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32876,32001,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Nove</Player>
     <LostExp>437897</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31993,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Doze</Player>
     <LostExp>430107</LostExp>
     <KilledBy>Skeleton</KilledBy>
