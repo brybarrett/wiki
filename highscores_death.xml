@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751418604129</GeneratedAt>
+  <GeneratedAt>1751418904111</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Madara</Player>
+    <LostExp>284999901</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-07-02 03:14:28</Time>
+    <Location>(31951,32264,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Aulia</Player>
     <LostExp>24538308</LostExp>
     <KilledBy>Dandelions</KilledBy>
@@ -18,11 +26,19 @@
     <Location>(31778,31936,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Ladykait</Player>
     <LostExp>5182803</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-07-02 02:15:26</Time>
     <Location>(31863,32052,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Doze</Player>
+    <LostExp>430107</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-07-02 03:11:34</Time>
+    <Location>(31996,32048,8)</Location>
   </DeathEvent>
 </DeathHighscores>
