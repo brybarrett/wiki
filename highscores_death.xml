@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751427304212</GeneratedAt>
+  <GeneratedAt>1751427604177</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingdeus</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Charutin</Player>
+    <LostExp>679721</LostExp>
+    <KilledBy>Gaspar</KilledBy>
+    <Time>2025-07-02 05:40:03</Time>
+    <Location>(31956,31864,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>661179</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32876,32001,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Nove</Player>
     <LostExp>437897</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31993,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Doze</Player>
     <LostExp>430107</LostExp>
     <KilledBy>Skeleton</KilledBy>
