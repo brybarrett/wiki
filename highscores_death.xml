@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751510703531</GeneratedAt>
+  <GeneratedAt>1751511003549</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Mupy</Player>
+    <LostExp>11031073</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-07-03 04:45:36</Time>
+    <Location>(31891,32012,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Pierre</Player>
+    <LostExp>10306285</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-07-03 04:45:36</Time>
+    <Location>(32014,32187,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Artemis</Player>
     <LostExp>9453482</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -10,7 +26,7 @@
     <Location>(32853,31999,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Smok</Player>
     <LostExp>2584833</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(32834,32067,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>1692155</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(31907,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Axionshure</Player>
     <LostExp>1563995</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(32008,31882,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Sete</Player>
     <LostExp>988553</LostExp>
     <KilledBy>Werewolf</KilledBy>
