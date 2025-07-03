@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751511903560</GeneratedAt>
+  <GeneratedAt>1751512203558</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mupy</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Sexi</Player>
+    <LostExp>2872479</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-07-03 05:06:19</Time>
+    <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Smok</Player>
     <LostExp>2584833</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32834,32067,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>1692155</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,15 @@
     <Location>(31907,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
+    <Player>Sungjinwoo</Player>
+    <LostExp>1566774</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-07-03 05:05:48</Time>
+    <Location>(32060,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Axionshure</Player>
     <LostExp>1563995</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(32008,31882,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Axionshure</Player>
     <LostExp>1535110</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -66,7 +82,15 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
+    <Player>Axionshure</Player>
+    <LostExp>1381599</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-07-03 05:06:18</Time>
+    <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Sete</Player>
     <LostExp>988553</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +98,7 @@
     <Location>(32031,32269,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>13</Rank>
     <Player>Dois</Player>
     <LostExp>358596</LostExp>
     <KilledBy>Werewolf</KilledBy>
