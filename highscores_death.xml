@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751515503575</GeneratedAt>
+  <GeneratedAt>1751515803583</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Crydevilz</Player>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Dez</Player>
+    <LostExp>451756</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-03 06:07:54</Time>
+    <Location>(31880,32058,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Dois</Player>
     <LostExp>358596</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31909,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Dois</Player>
     <LostExp>333555</LostExp>
     <KilledBy>Tarantula</KilledBy>
