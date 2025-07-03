@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751510403535</GeneratedAt>
+  <GeneratedAt>1751510703531</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Artemis</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-07-03 02:00:45</Time>
     <Location>(32008,31882,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Sete</Player>
+    <LostExp>988553</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-03 04:41:29</Time>
+    <Location>(32031,32269,8)</Location>
   </DeathEvent>
 </DeathHighscores>
