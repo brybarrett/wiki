@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751529303689</GeneratedAt>
+  <GeneratedAt>1751529603691</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Crydevilz</Player>
@@ -176,5 +176,13 @@
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-07-03 05:26:17</Time>
     <Location>(31896,31912,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Dois</Player>
+    <LostExp>331829</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-07-03 09:58:24</Time>
+    <Location>(31898,31911,9)</Location>
   </DeathEvent>
 </DeathHighscores>
