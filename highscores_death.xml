@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751501103477</GeneratedAt>
+  <GeneratedAt>1751501403477</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Artemis</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Smok</Player>
+    <LostExp>2584833</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-07-03 02:06:39</Time>
+    <Location>(32834,32067,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Axionshure</Player>
     <LostExp>1563995</LostExp>
     <KilledBy>Orc Leader</KilledBy>
