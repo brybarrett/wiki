@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751511603547</GeneratedAt>
+  <GeneratedAt>1751511903560</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mupy</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Axionshure</Player>
+    <LostExp>1535110</LostExp>
+    <KilledBy>Chilong</KilledBy>
+    <Time>2025-07-03 05:03:27</Time>
+    <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Sete</Player>
     <LostExp>988553</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32031,32269,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Dois</Player>
     <LostExp>358596</LostExp>
     <KilledBy>Werewolf</KilledBy>
