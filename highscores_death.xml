@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751580304073</GeneratedAt>
+  <GeneratedAt>1751580604090</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zeboostin</Player>
@@ -288,5 +288,13 @@
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-07-03 09:58:24</Time>
     <Location>(31898,31911,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>37</Rank>
+    <Player>Zyn</Player>
+    <LostExp>313967</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-07-04 00:05:41</Time>
+    <Location>(31988,32013,8)</Location>
   </DeathEvent>
 </DeathHighscores>
