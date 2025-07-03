@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751535903755</GeneratedAt>
+  <GeneratedAt>1751536203759</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Crydevilz</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Gaspazinho</Player>
+    <LostExp>6601946</LostExp>
+    <KilledBy>Ghoranus</KilledBy>
+    <Time>2025-07-03 11:47:39</Time>
+    <Location>(32037,31835,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Sexi</Player>
     <LostExp>2872479</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Smok</Player>
     <LostExp>2584833</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32834,32067,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Royalshdow</Player>
     <LostExp>2154791</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32009,31872,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>1692155</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31907,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Sungjinwoo</Player>
     <LostExp>1566774</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Axionshure</Player>
     <LostExp>1563995</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32008,31882,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Axionshure</Player>
     <LostExp>1535110</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Axionshure</Player>
     <LostExp>1381599</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Sete</Player>
     <LostExp>988553</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32031,32269,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Doze</Player>
     <LostExp>754638</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31877,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Oito</Player>
     <LostExp>524086</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31895,31912,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Solii</Player>
     <LostExp>505265</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32851,31990,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Oito</Player>
     <LostExp>481982</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31885,31895,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Dez</Player>
     <LostExp>451756</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31880,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Dois</Player>
     <LostExp>358596</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31909,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Dois</Player>
     <LostExp>333555</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31896,31912,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Dois</Player>
     <LostExp>331829</LostExp>
     <KilledBy>Tarantula</KilledBy>
