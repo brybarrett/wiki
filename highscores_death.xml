@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751512503557</GeneratedAt>
+  <GeneratedAt>1751512803565</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mupy</Player>
@@ -99,6 +99,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Doze</Player>
+    <LostExp>754638</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-03 05:18:45</Time>
+    <Location>(31877,32061,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Oito</Player>
+    <LostExp>524086</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-07-03 05:17:25</Time>
+    <Location>(31895,31912,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Dois</Player>
     <LostExp>358596</LostExp>
     <KilledBy>Werewolf</KilledBy>
