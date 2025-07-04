@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751596891861</GeneratedAt>
+  <GeneratedAt>1751597191857</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kannizinha</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Konan</Player>
+    <LostExp>1930116</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-04 04:41:59</Time>
+    <Location>(31884,32054,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Charutin</Player>
     <LostExp>907216</LostExp>
     <KilledBy>Monk</KilledBy>
