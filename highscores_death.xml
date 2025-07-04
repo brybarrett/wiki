@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751600191873</GeneratedAt>
+  <GeneratedAt>1751600491874</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kannizinha</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Naruto</Player>
+    <LostExp>7226971</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-07-04 05:37:10</Time>
+    <Location>(31985,32242,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Konan</Player>
     <LostExp>1930116</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31884,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Charutin</Player>
     <LostExp>907216</LostExp>
     <KilledBy>Monk</KilledBy>
