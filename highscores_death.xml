@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751619391974</GeneratedAt>
+  <GeneratedAt>1751619692001</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kannizinha</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Supy</Player>
+    <LostExp>68127480</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-07-04 10:57:16</Time>
+    <Location>(32019,32226,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Kagura</Player>
     <LostExp>38799424</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31864,32044,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Dark</Player>
     <LostExp>34237803</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32062,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Sxgabrielx</Player>
     <LostExp>20626989</LostExp>
     <KilledBy>Dandelions</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32021,32227,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Mupy</Player>
     <LostExp>9804989</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32838,32053,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Naruto</Player>
     <LostExp>7226971</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31985,32242,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Mii</Player>
     <LostExp>3092702</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32024,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Konan</Player>
     <LostExp>1930116</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31884,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Sete</Player>
     <LostExp>1837826</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32034,32262,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Covid</Player>
     <LostExp>1647945</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32063,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Covid</Player>
     <LostExp>1578164</LostExp>
     <KilledBy>King Demon</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32047,32339,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Tres</Player>
     <LostExp>1440471</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31877,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Kuntilanak</Player>
     <LostExp>1271035</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32048,32340,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Charutin</Player>
     <LostExp>907216</LostExp>
     <KilledBy>Monk</KilledBy>
