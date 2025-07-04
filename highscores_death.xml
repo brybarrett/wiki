@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751595991850</GeneratedAt>
+  <GeneratedAt>1751596291820</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kannizinha</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Supy</Player>
+    <LostExp>75164143</LostExp>
+    <KilledBy>Kul'Krak'u</KilledBy>
+    <Time>2025-07-04 04:26:45</Time>
+    <Location>(31797,31914,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Dark</Player>
     <LostExp>34237803</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32062,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Mupy</Player>
     <LostExp>9804989</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32838,32053,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Charutin</Player>
     <LostExp>907216</LostExp>
     <KilledBy>Monk</KilledBy>
