@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751669102123</GeneratedAt>
+  <GeneratedAt>1751669402111</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ynk</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Chaomby</KilledBy>
     <Time>2025-07-05 00:36:37</Time>
     <Location>(31948,32231,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Hakina</Player>
+    <LostExp>128051059</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-07-05 00:46:45</Time>
+    <Location>(31976,32255,8)</Location>
   </DeathEvent>
 </DeathHighscores>
