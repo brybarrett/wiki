@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751587591787</GeneratedAt>
+  <GeneratedAt>1751587891793</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dark</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Chilong</KilledBy>
     <Time>2025-07-04 01:20:59</Time>
     <Location>(32062,31825,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Charutin</Player>
+    <LostExp>907216</LostExp>
+    <KilledBy>Monk</KilledBy>
+    <Time>2025-07-04 02:08:28</Time>
+    <Location>(32018,32259,8)</Location>
   </DeathEvent>
 </DeathHighscores>
