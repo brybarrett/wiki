@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751718302562</GeneratedAt>
+  <GeneratedAt>1751718602551</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tiringa </Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Sasori</Player>
+    <LostExp>2018676</LostExp>
+    <KilledBy>Ghostsin</KilledBy>
+    <Time>2025-07-05 14:27:44</Time>
+    <Location>(32042,31799,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Charutin</Player>
     <LostExp>813659</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31908,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Charutin</Player>
     <LostExp>719419</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31945,32000,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Charutin</Player>
     <LostExp>670959</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32016,32259,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Kant </Player>
     <LostExp>228512</LostExp>
     <KilledBy>Wispin</KilledBy>
