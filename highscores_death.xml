@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751674502194</GeneratedAt>
+  <GeneratedAt>1751674802175</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ynk</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Sexi</Player>
+    <LostExp>7487684</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-05 02:17:02</Time>
+    <Location>(32014,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Charutin</Player>
     <LostExp>670959</LostExp>
     <KilledBy>Monk</KilledBy>
