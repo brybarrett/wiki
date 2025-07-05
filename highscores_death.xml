@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751679902222</GeneratedAt>
+  <GeneratedAt>1751680202236</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ynk</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Hellwilzz</Player>
+    <LostExp>226992925</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-07-05 03:47:49</Time>
+    <Location>(31909,32220,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Hakina</Player>
     <LostExp>128051059</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31976,32255,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Hakina</Player>
     <LostExp>115454426</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31946,32270,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Sexi</Player>
     <LostExp>7487684</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Charutin</Player>
     <LostExp>813659</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31908,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Charutin</Player>
     <LostExp>719419</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31945,32000,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Charutin</Player>
     <LostExp>670959</LostExp>
     <KilledBy>Monk</KilledBy>
