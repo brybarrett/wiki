@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751682302241</GeneratedAt>
+  <GeneratedAt>1751682602269</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ynk</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Lordkyller</Player>
+    <LostExp>5134057</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-07-05 04:28:39</Time>
+    <Location>(31994,32186,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Charutin</Player>
     <LostExp>813659</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31908,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Charutin</Player>
     <LostExp>719419</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31945,32000,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Charutin</Player>
     <LostExp>670959</LostExp>
     <KilledBy>Monk</KilledBy>
