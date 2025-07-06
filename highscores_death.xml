@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751785207471</GeneratedAt>
+  <GeneratedAt>1751785507444</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Supy</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Gabriell</Player>
+    <LostExp>24542075</LostExp>
+    <KilledBy>Ifrit</KilledBy>
+    <Time>2025-07-06 09:04:14</Time>
+    <Location>(32862,32051,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Magicol</Player>
     <LostExp>23272270</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31955,32289,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Sungjinwoo</Player>
     <LostExp>7241214</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Yakoelindo</Player>
     <LostExp>4954496</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Myrtlez</Player>
     <LostExp>2008928</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32910,32013,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Mrdoman</Player>
     <LostExp>904506</LostExp>
     <KilledBy>Fire Drake</KilledBy>
