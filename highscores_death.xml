@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751828107764</GeneratedAt>
+  <GeneratedAt>1751828407788</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Vulion </Player>
@@ -155,6 +155,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>20</Rank>
+    <Player>Lukzinsk</Player>
+    <LostExp>6610</LostExp>
+    <KilledBy>Apprentice</KilledBy>
+    <Time>2025-07-06 20:56:34</Time>
+    <Location>(31993,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
     <Player>Lukzinsk</Player>
     <LostExp>3559</LostExp>
     <KilledBy>Fire Drake</KilledBy>
