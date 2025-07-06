@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751835007807</GeneratedAt>
+  <GeneratedAt>1751835307818</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Vulion </Player>
@@ -172,13 +172,21 @@
   <DeathEvent>
     <Rank>22</Rank>
     <Player>Lukzinsk</Player>
+    <LostExp>87983</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-07-06 22:53:15</Time>
+    <Location>(32024,31944,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Lukzinsk</Player>
     <LostExp>7480</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-07-06 21:15:06</Time>
     <Location>(31963,31930,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Lukzinsk</Player>
     <LostExp>7439</LostExp>
     <KilledBy>Bat</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31955,32064,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Lukzinsk</Player>
     <LostExp>6610</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31993,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Lukzinsk</Player>
     <LostExp>3559</LostExp>
     <KilledBy>Fire Drake</KilledBy>
