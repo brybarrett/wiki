@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751823307746</GeneratedAt>
+  <GeneratedAt>1751823607742</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Vulion </Player>
@@ -19,6 +19,38 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Habibi</Player>
+    <LostExp>49528702</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-07-06 19:36:23</Time>
+    <Location>(32859,31972,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Habibi</Player>
+    <LostExp>44575832</LostExp>
+    <KilledBy>Gigantula</KilledBy>
+    <Time>2025-07-06 19:37:06</Time>
+    <Location>(32929,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Habibi</Player>
+    <LostExp>40118248</LostExp>
+    <KilledBy>Gigantula</KilledBy>
+    <Time>2025-07-06 19:37:39</Time>
+    <Location>(32929,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Habibi</Player>
+    <LostExp>36106424</LostExp>
+    <KilledBy>Gigantula</KilledBy>
+    <Time>2025-07-06 19:38:21</Time>
+    <Location>(32929,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Supy</Player>
     <LostExp>35901143</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -26,7 +58,15 @@
     <Location>(32869,31968,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>8</Rank>
+    <Player>Habibi</Player>
+    <LostExp>32495781</LostExp>
+    <KilledBy>Gigantula</KilledBy>
+    <Time>2025-07-06 19:38:54</Time>
+    <Location>(32929,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Dark</Player>
     <LostExp>31203799</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -34,7 +74,7 @@
     <Location>(32044,31798,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>10</Rank>
     <Player>Gabriell</Player>
     <LostExp>24542075</LostExp>
     <KilledBy>Ifrit</KilledBy>
@@ -42,7 +82,7 @@
     <Location>(32862,32051,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>11</Rank>
     <Player>Magicol</Player>
     <LostExp>23272270</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -50,7 +90,7 @@
     <Location>(31955,32289,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>12</Rank>
     <Player>Magicol</Player>
     <LostExp>22039263</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -58,7 +98,7 @@
     <Location>(32064,31826,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>13</Rank>
     <Player>Siauhai</Player>
     <LostExp>14837025</LostExp>
     <KilledBy>Bastinx</KilledBy>
@@ -66,7 +106,7 @@
     <Location>(32874,32029,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>14</Rank>
     <Player>Ken</Player>
     <LostExp>8308183</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -74,7 +114,7 @@
     <Location>(31867,32083,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>15</Rank>
     <Player>Sungjinwoo</Player>
     <LostExp>7241214</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +122,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>16</Rank>
     <Player>Lordkyller</Player>
     <LostExp>5851331</LostExp>
     <KilledBy>Blue Stone</KilledBy>
@@ -90,7 +130,7 @@
     <Location>(31971,32208,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>17</Rank>
     <Player>Yakoelindo</Player>
     <LostExp>4954496</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -98,7 +138,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>18</Rank>
     <Player>Myrtlez</Player>
     <LostExp>2008928</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -106,7 +146,7 @@
     <Location>(32910,32013,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>19</Rank>
     <Player>Mrdoman</Player>
     <LostExp>904506</LostExp>
     <KilledBy>Fire Drake</KilledBy>
