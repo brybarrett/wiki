@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751829607750</GeneratedAt>
+  <GeneratedAt>1751829907794</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Vulion </Player>
@@ -99,6 +99,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Riquekmila</Player>
+    <LostExp>20627624</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-07-06 21:23:12</Time>
+    <Location>(31864,32065,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Siauhai</Player>
     <LostExp>14837025</LostExp>
     <KilledBy>Bastinx</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32874,32029,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Ken</Player>
     <LostExp>8308183</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31867,32083,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Sungjinwoo</Player>
     <LostExp>7241214</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Lordkyller</Player>
     <LostExp>5851331</LostExp>
     <KilledBy>Blue Stone</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31971,32208,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Yakoelindo</Player>
     <LostExp>4954496</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Myrtlez</Player>
     <LostExp>2008928</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32910,32013,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Mrdoman</Player>
     <LostExp>904506</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31987,31942,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Lukzinsk</Player>
     <LostExp>7480</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31963,31930,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Lukzinsk</Player>
     <LostExp>7439</LostExp>
     <KilledBy>Bat</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31955,32064,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Lukzinsk</Player>
     <LostExp>6610</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31993,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Lukzinsk</Player>
     <LostExp>3559</LostExp>
     <KilledBy>Fire Drake</KilledBy>
