@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751765107303</GeneratedAt>
+  <GeneratedAt>1751765407311</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Supy</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Yakoelindo</Player>
+    <LostExp>4954496</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-07-06 03:29:10</Time>
+    <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Myrtlez</Player>
     <LostExp>2008928</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
