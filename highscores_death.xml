@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751869806906</GeneratedAt>
+  <GeneratedAt>1751870106896</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Urekmazino</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Bii</Player>
+    <LostExp>1226187</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-07-07 08:33:46</Time>
+    <Location>(32052,31910,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Hammers</Player>
     <LostExp>52566</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
