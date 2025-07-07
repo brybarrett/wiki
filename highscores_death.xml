@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751898607134</GeneratedAt>
+  <GeneratedAt>1751898907142</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Urekmazino</Player>
@@ -83,19 +83,19 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Gaspazinho</Player>
+    <LostExp>6084268</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-07-07 16:35:02</Time>
+    <Location>(32067,31823,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Lordkyller</Player>
     <LostExp>5653788</LostExp>
     <KilledBy>Ghostsin</KilledBy>
     <Time>2025-07-07 15:26:45</Time>
     <Location>(32043,31797,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>12</Rank>
-    <Player>Shankszada</Player>
-    <LostExp>2429464</LostExp>
-    <KilledBy>Orc Leader</KilledBy>
-    <Time>2025-07-07 09:21:04</Time>
-    <Location>(32007,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Shankszada</Player>
+    <LostExp>2429464</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-07 09:21:04</Time>
+    <Location>(32007,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Bii</Player>
     <LostExp>1226187</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32052,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Sunset</Player>
     <LostExp>179135</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31876,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Hammers</Player>
     <LostExp>52566</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
