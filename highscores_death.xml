@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751919007280</GeneratedAt>
+  <GeneratedAt>1751919307281</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Urekmazino</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Finorium</Player>
+    <LostExp>18376440</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2025-07-07 22:11:23</Time>
+    <Location>(31859,31970,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Valkiria</Player>
     <LostExp>17637854</LostExp>
     <KilledBy>(Others)</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31791,31908,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Kratos</Player>
     <LostExp>13683710</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Matadordpk</Player>
     <LostExp>12210790</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31946,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Axionshure</Player>
     <LostExp>8014439</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31876,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Fernh</Player>
     <LostExp>6279783</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32040,31800,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Gaspazinho</Player>
     <LostExp>6084268</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -106,20 +114,12 @@
     <Location>(32067,31823,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Lordkyller</Player>
     <LostExp>5653788</LostExp>
     <KilledBy>Ghostsin</KilledBy>
     <Time>2025-07-07 15:26:45</Time>
     <Location>(32043,31797,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>15</Rank>
-    <Player>Shankszada</Player>
-    <LostExp>2429464</LostExp>
-    <KilledBy>Orc Leader</KilledBy>
-    <Time>2025-07-07 09:21:04</Time>
-    <Location>(32007,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Shankszada</Player>
+    <LostExp>2429464</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-07 09:21:04</Time>
+    <Location>(32007,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Sasori</Player>
     <LostExp>2101808</LostExp>
     <KilledBy>Ghostsin</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32043,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Bii</Player>
     <LostExp>1226187</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32052,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Sunset</Player>
     <LostExp>349192</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31995,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Sunset</Player>
     <LostExp>179135</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31876,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Hammers</Player>
     <LostExp>52566</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
