@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751893807094</GeneratedAt>
+  <GeneratedAt>1751894107100</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Urekmazino</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Sunset</Player>
+    <LostExp>179135</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-07-07 15:12:34</Time>
+    <Location>(31876,31910,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Hammers</Player>
     <LostExp>52566</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
