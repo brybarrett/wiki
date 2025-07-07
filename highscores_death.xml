@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751872806917</GeneratedAt>
+  <GeneratedAt>1751873106920</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Urekmazino</Player>
@@ -75,6 +75,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Shankszada</Player>
+    <LostExp>2429464</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-07 09:21:04</Time>
+    <Location>(32007,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Shankszada</Player>
+    <LostExp>2429464</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-07 09:21:04</Time>
+    <Location>(32007,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Bii</Player>
     <LostExp>1226187</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(32052,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Hammers</Player>
     <LostExp>52566</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
