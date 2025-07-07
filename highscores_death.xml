@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751902507146</GeneratedAt>
+  <GeneratedAt>1751902807159</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Urekmazino</Player>
@@ -123,6 +123,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
+    <Player>Sasori</Player>
+    <LostExp>2101808</LostExp>
+    <KilledBy>Ghostsin</KilledBy>
+    <Time>2025-07-07 17:35:38</Time>
+    <Location>(32043,31803,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
     <Player>Bii</Player>
     <LostExp>1226187</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32052,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Sunset</Player>
     <LostExp>179135</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31876,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Hammers</Player>
     <LostExp>52566</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
