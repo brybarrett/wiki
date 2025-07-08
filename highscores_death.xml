@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751954107272</GeneratedAt>
+  <GeneratedAt>1751954407264</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Redbull</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Shitara</Player>
+    <LostExp>2445362</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2025-07-08 07:56:52</Time>
+    <Location>(31950,32013,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Riky</Player>
     <LostExp>814083</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31995,31950,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Sunset</Player>
     <LostExp>563450</LostExp>
     <KilledBy>Werewolf</KilledBy>
