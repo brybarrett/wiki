@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751976007422</GeneratedAt>
+  <GeneratedAt>1751976307408</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Redbull</Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Xkiritoxwi</Player>
+    <LostExp>10173941</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-07-08 14:02:08</Time>
+    <Location>(32046,31799,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Shitara</Player>
     <LostExp>2701527</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31950,32013,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Shitara</Player>
     <LostExp>2463902</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32068,31819,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Shitara</Player>
     <LostExp>2445362</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31950,32013,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Riky</Player>
     <LostExp>814083</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31995,31950,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Sunset</Player>
     <LostExp>563450</LostExp>
     <KilledBy>Werewolf</KilledBy>
