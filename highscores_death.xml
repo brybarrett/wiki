@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751935507131</GeneratedAt>
+  <GeneratedAt>1751935807147</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Redbull</Player>
+    <LostExp>1657451111</LostExp>
+    <KilledBy>Guinny</KilledBy>
+    <Time>2025-07-08 02:47:57</Time>
+    <Location>(31916,32231,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Tiringa </Player>
     <LostExp>479950832</LostExp>
     <KilledBy>Dandelions</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31996,31859,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Khun</Player>
     <LostExp>264297879</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31800,31925,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Brisadeira</Player>
     <LostExp>187303959</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31811,31945,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Brisadeiro</Player>
     <LostExp>185925434</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31791,31944,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Urekmazino</Player>
     <LostExp>155609249</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31805,31927,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Hakina</Player>
     <LostExp>148179925</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31980,32270,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Sunset</Player>
     <LostExp>563450</LostExp>
     <KilledBy>Werewolf</KilledBy>
