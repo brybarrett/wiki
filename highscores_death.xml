@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1751933107115</GeneratedAt>
+  <GeneratedAt>1751933407131</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tiringa </Player>
@@ -48,5 +48,13 @@
     <KilledBy>Blaze Master</KilledBy>
     <Time>2025-07-08 00:15:54</Time>
     <Location>(31980,32270,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Sunset</Player>
+    <LostExp>563450</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-08 02:08:27</Time>
+    <Location>(31908,32044,8)</Location>
   </DeathEvent>
 </DeathHighscores>
