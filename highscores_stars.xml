@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1752063413193</GeneratedAt>
+  <GeneratedAt>1752063713213</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -93,17 +93,17 @@
   </Player>
   <Player>
     <Rank>19</Rank>
-    <Name>Genji</Name>
-    <StarsCollected>221</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>20</Rank>
     <Name>Karimpai</Name>
     <StarsCollected>221</StarsCollected>
   </Player>
   <Player>
-    <Rank>21</Rank>
+    <Rank>20</Rank>
     <Name>Kingkiller</Name>
+    <StarsCollected>221</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>21</Rank>
+    <Name>Genji</Name>
     <StarsCollected>221</StarsCollected>
   </Player>
   <Player>
