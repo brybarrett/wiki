@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752077513318</GeneratedAt>
+  <GeneratedAt>1752077813312</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Renansz</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Xkiritoxwi</Player>
+    <LostExp>10548608</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2025-07-09 18:13:49</Time>
+    <Location>(31950,32013,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Charutin</Player>
     <LostExp>2109555</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31895,32007,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Sunset</Player>
     <LostExp>1525408</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Farmfragum</Player>
     <LostExp>122510</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31957,31869,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Farmfrag</Player>
     <LostExp>122500</LostExp>
     <KilledBy>Shadow</KilledBy>
