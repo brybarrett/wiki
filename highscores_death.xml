@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752100202351</GeneratedAt>
+  <GeneratedAt>1752100502354</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Justin</Player>
+    <LostExp>336136298</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-07-10 00:32:31</Time>
+    <Location>(31983,32267,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Belzebugod</Player>
+    <LostExp>95831253</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-07-10 00:32:38</Time>
+    <Location>(31980,32267,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Kaitt</Player>
     <LostExp>35572468</LostExp>
     <KilledBy>Blaze Master</KilledBy>
