@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1752128102537</GeneratedAt>
+  <GeneratedAt>1752128402537</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -143,17 +143,17 @@
   </Player>
   <Player>
     <Rank>29</Rank>
-    <Name>Ynk</Name>
-    <StarsCollected>198</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>30</Rank>
     <Name>Hiroshi</Name>
     <StarsCollected>198</StarsCollected>
   </Player>
   <Player>
-    <Rank>31</Rank>
+    <Rank>30</Rank>
     <Name>Abaddon</Name>
+    <StarsCollected>198</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>31</Rank>
+    <Name>Ynk</Name>
     <StarsCollected>198</StarsCollected>
   </Player>
   <Player>
@@ -593,12 +593,12 @@
   </Player>
   <Player>
     <Rank>119</Rank>
-    <Name>Sp</Name>
+    <Name>Zhouzinn</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
     <Rank>120</Rank>
-    <Name>Zhouzinn</Name>
+    <Name>Sp</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
