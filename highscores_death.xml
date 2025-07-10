@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752117902478</GeneratedAt>
+  <GeneratedAt>1752118202475</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Justin</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Sasori</Player>
+    <LostExp>2176627</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-07-10 05:27:45</Time>
+    <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Riky</Player>
     <LostExp>1877737</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32044,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Riky</Player>
     <LostExp>1737464</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Lelia</Player>
     <LostExp>193065</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
