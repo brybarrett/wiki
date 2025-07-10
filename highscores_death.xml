@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752172202876</GeneratedAt>
+  <GeneratedAt>1752172502864</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hamura</Player>
@@ -240,5 +240,13 @@
     <KilledBy>GM-Viajant</KilledBy>
     <Time>2025-07-10 03:02:18</Time>
     <Location>(32044,32036,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>31</Rank>
+    <Player>Eduzinhoo</Player>
+    <LostExp>1086</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-10 20:31:16</Time>
+    <Location>(31977,31878,10)</Location>
   </DeathEvent>
 </DeathHighscores>
