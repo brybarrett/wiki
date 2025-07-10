@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752159602782</GeneratedAt>
+  <GeneratedAt>1752159902745</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Hamura</Player>
+    <LostExp>2147483647</LostExp>
+    <KilledBy>Sasukez</KilledBy>
+    <Time>2025-07-10 17:03:18</Time>
+    <Location>(31827,32324,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Hamura</Player>
     <LostExp>1073741823</LostExp>
     <KilledBy>Mutanty</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31827,32324,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Kingkiller</Player>
     <LostExp>924709048</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32021,32254,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Justin</Player>
     <LostExp>336136298</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31983,32267,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Liliks</Player>
     <LostExp>190748997</LostExp>
     <KilledBy>Akirz</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31791,31934,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Brisadeira</Player>
     <LostExp>180979465</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31800,31925,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Belzebugod</Player>
     <LostExp>95831253</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31980,32267,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Baam</Player>
     <LostExp>86313633</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31785,31941,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Kaitt</Player>
     <LostExp>35572468</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31962,32270,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Gabriell</Player>
     <LostExp>32832409</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31970,32276,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Shaog</Player>
     <LostExp>23176790</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -82,20 +90,12 @@
     <Location>(31863,32079,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Shaog</Player>
     <LostExp>20906799</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2025-07-10 02:26:56</Time>
     <Location>(32060,31827,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>12</Rank>
-    <Player>Magicol</Player>
-    <LostExp>17261288</LostExp>
-    <KilledBy>Werewolf</KilledBy>
-    <Time>2025-07-10 04:54:38</Time>
-    <Location>(31884,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Magicol</Player>
+    <LostExp>17261288</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-10 04:54:38</Time>
+    <Location>(31884,32054,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Magroso</Player>
     <LostExp>17255738</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31791,31915,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Valkiria</Player>
     <LostExp>16874432</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31792,31947,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Magicol</Player>
     <LostExp>16863464</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31789,31953,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Magroso</Player>
     <LostExp>15530605</LostExp>
     <KilledBy>Krakomin</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Charuto</Player>
     <LostExp>10760788</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32032,32266,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Verockx</Player>
     <LostExp>10485943</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Shitara</Player>
     <LostExp>5470587</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32061,31822,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Sar</Player>
     <LostExp>3083455</LostExp>
     <KilledBy>Crysmantis</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32798,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Fzkeblorcr</Player>
     <LostExp>2612266</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Cedric</Player>
     <LostExp>2581294</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Sasori</Player>
     <LostExp>2176627</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Riky</Player>
     <LostExp>1877737</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32044,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Riky</Player>
     <LostExp>1737464</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Lelia</Player>
     <LostExp>193065</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
