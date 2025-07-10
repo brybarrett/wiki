@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752177902910</GeneratedAt>
+  <GeneratedAt>1752178202929</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hamura</Player>
@@ -244,13 +244,21 @@
   <DeathEvent>
     <Rank>31</Rank>
     <Player>Eduzinhoo</Player>
+    <LostExp>12690</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-07-10 22:07:21</Time>
+    <Location>(32012,32030,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>32</Rank>
+    <Player>Eduzinhoo</Player>
     <LostExp>1734</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-07-10 20:41:34</Time>
     <Location>(31981,31926,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Eduzinhoo</Player>
     <LostExp>1086</LostExp>
     <KilledBy>Scorpion</KilledBy>
