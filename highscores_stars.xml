@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1752189004159</GeneratedAt>
+  <GeneratedAt>1752189304191</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -93,17 +93,17 @@
   </Player>
   <Player>
     <Rank>19</Rank>
-    <Name>Kingkiller</Name>
-    <StarsCollected>221</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>20</Rank>
     <Name>Genji</Name>
     <StarsCollected>221</StarsCollected>
   </Player>
   <Player>
-    <Rank>21</Rank>
+    <Rank>20</Rank>
     <Name>Karimpai</Name>
+    <StarsCollected>221</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>21</Rank>
+    <Name>Kingkiller</Name>
     <StarsCollected>221</StarsCollected>
   </Player>
   <Player>
@@ -238,12 +238,12 @@
   </Player>
   <Player>
     <Rank>48</Rank>
-    <Name>Cupy</Name>
+    <Name>Kuro</Name>
     <StarsCollected>170</StarsCollected>
   </Player>
   <Player>
     <Rank>49</Rank>
-    <Name>Kuro</Name>
+    <Name>Cupy</Name>
     <StarsCollected>170</StarsCollected>
   </Player>
   <Player>
@@ -293,12 +293,12 @@
   </Player>
   <Player>
     <Rank>59</Rank>
-    <Name>Astreus</Name>
+    <Name>Offtank </Name>
     <StarsCollected>161</StarsCollected>
   </Player>
   <Player>
     <Rank>60</Rank>
-    <Name>Offtank </Name>
+    <Name>Astreus</Name>
     <StarsCollected>161</StarsCollected>
   </Player>
   <Player>
