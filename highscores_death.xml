@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752256804687</GeneratedAt>
+  <GeneratedAt>1752257104685</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Soft</Player>
@@ -147,6 +147,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>19</Rank>
+    <Player>Tres</Player>
+    <LostExp>5117124</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-11 20:04:02</Time>
+    <Location>(32031,32248,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
     <Player>Shitara</Player>
     <LostExp>5052259</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32842,31970,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Sar</Player>
     <LostExp>2877014</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32017,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Dois</Player>
     <LostExp>1041484</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32037,31965,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Ghostface</Player>
     <LostExp>971607</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32011,31874,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Ghostface</Player>
     <LostExp>894735</LostExp>
     <KilledBy>Orc Leader</KilledBy>
