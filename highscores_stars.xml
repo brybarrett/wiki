@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1752208804329</GeneratedAt>
+  <GeneratedAt>1752209104334</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -128,17 +128,17 @@
   </Player>
   <Player>
     <Rank>26</Rank>
-    <Name>Michael </Name>
-    <StarsCollected>200</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>27</Rank>
     <Name>Ynk</Name>
     <StarsCollected>200</StarsCollected>
   </Player>
   <Player>
-    <Rank>28</Rank>
+    <Rank>27</Rank>
     <Name>Giovani</Name>
+    <StarsCollected>200</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>28</Rank>
+    <Name>Michael </Name>
     <StarsCollected>200</StarsCollected>
   </Player>
   <Player>
@@ -253,12 +253,12 @@
   </Player>
   <Player>
     <Rank>51</Rank>
-    <Name>Wizav</Name>
+    <Name>Fearlock</Name>
     <StarsCollected>169</StarsCollected>
   </Player>
   <Player>
     <Rank>52</Rank>
-    <Name>Fearlock</Name>
+    <Name>Wizav</Name>
     <StarsCollected>169</StarsCollected>
   </Player>
   <Player>
@@ -433,12 +433,12 @@
   </Player>
   <Player>
     <Rank>87</Rank>
-    <Name>Killer</Name>
+    <Name>Niggawar</Name>
     <StarsCollected>135</StarsCollected>
   </Player>
   <Player>
     <Rank>88</Rank>
-    <Name>Niggawar</Name>
+    <Name>Killer</Name>
     <StarsCollected>135</StarsCollected>
   </Player>
   <Player>
@@ -523,22 +523,22 @@
   </Player>
   <Player>
     <Rank>105</Rank>
-    <Name>Rog</Name>
-    <StarsCollected>117</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>106</Rank>
     <Name>Cochilo</Name>
     <StarsCollected>117</StarsCollected>
   </Player>
   <Player>
+    <Rank>106</Rank>
+    <Name>Rog</Name>
+    <StarsCollected>117</StarsCollected>
+  </Player>
+  <Player>
     <Rank>107</Rank>
-    <Name>Sakura</Name>
+    <Name>Narack</Name>
     <StarsCollected>117</StarsCollected>
   </Player>
   <Player>
     <Rank>108</Rank>
-    <Name>Narack</Name>
+    <Name>Sakura</Name>
     <StarsCollected>117</StarsCollected>
   </Player>
   <Player>
@@ -593,12 +593,12 @@
   </Player>
   <Player>
     <Rank>119</Rank>
-    <Name>Sp</Name>
+    <Name>Zhouzinn</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
     <Rank>120</Rank>
-    <Name>Zhouzinn</Name>
+    <Name>Sp</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
@@ -638,7 +638,7 @@
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Natoriu </Name>
+    <Name>Warr</Name>
     <StarsCollected>102</StarsCollected>
   </Player>
 </StarsHighscores>
