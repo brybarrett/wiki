@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752195604251</GeneratedAt>
+  <GeneratedAt>1752195904251</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Soft</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-07-11 02:38:44</Time>
     <Location>(32011,31874,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Ghostface</Player>
+    <LostExp>894735</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-11 03:01:25</Time>
+    <Location>(32011,31873,11)</Location>
   </DeathEvent>
 </DeathHighscores>
