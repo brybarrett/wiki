@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752232804504</GeneratedAt>
+  <GeneratedAt>1752233104496</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Soft</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Magrinn</Player>
+    <LostExp>53821018</LostExp>
+    <KilledBy>Ninjany</KilledBy>
+    <Time>2025-07-11 13:22:00</Time>
+    <Location>(31794,31915,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Xkiritox</Player>
     <LostExp>19461165</LostExp>
     <KilledBy>Silver Stone</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32023,32227,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Magrelo</Player>
     <LostExp>16968038</LostExp>
     <KilledBy>Tyrannix</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31767,31961,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Emilia</Player>
     <LostExp>15414330</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Emilia</Player>
     <LostExp>14252027</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32014,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Neon</Player>
     <LostExp>8097510</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32042,31801,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Bii</Player>
     <LostExp>7866713</LostExp>
     <KilledBy>Horrornet</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32783,31980,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Shitara</Player>
     <LostExp>5229586</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32870,31968,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Sar</Player>
     <LostExp>2877014</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32017,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Ghostface</Player>
     <LostExp>971607</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32011,31874,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Ghostface</Player>
     <LostExp>894735</LostExp>
     <KilledBy>Orc Leader</KilledBy>
