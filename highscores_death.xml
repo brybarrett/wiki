@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752268504776</GeneratedAt>
+  <GeneratedAt>1752268804788</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Soft</Player>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Yakoefeio</Player>
+    <LostExp>6746971</LostExp>
+    <KilledBy>Ghostsin</KilledBy>
+    <Time>2025-07-11 23:16:35</Time>
+    <Location>(32043,31794,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Charutin</Player>
     <LostExp>5639297</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32023,32227,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Charutin</Player>
     <LostExp>5586259</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32023,32227,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Dez</Player>
     <LostExp>5397693</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32025,32259,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Shitara</Player>
     <LostExp>5229586</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32870,31968,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Tres</Player>
     <LostExp>5117124</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32031,32248,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Shitara</Player>
     <LostExp>5052259</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32842,31970,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Onze</Player>
     <LostExp>3574327</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32041,32245,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Sar</Player>
     <LostExp>2877014</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32017,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Farmfrag </Player>
     <LostExp>1778419</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Dois</Player>
     <LostExp>1041484</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32037,31965,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Dois</Player>
     <LostExp>977179</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31861,32057,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Ghostface</Player>
     <LostExp>971607</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32011,31874,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Ghostface</Player>
     <LostExp>894735</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32011,31873,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Akame</Player>
     <LostExp>766632</LostExp>
     <KilledBy>Werewolf</KilledBy>
