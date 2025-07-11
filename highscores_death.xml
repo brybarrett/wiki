@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752266104774</GeneratedAt>
+  <GeneratedAt>1752266404772</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Soft</Player>
@@ -187,6 +187,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>24</Rank>
+    <Player>Farmfrag </Player>
+    <LostExp>1778419</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-07-11 22:37:41</Time>
+    <Location>(32064,31818,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
     <Player>Dois</Player>
     <LostExp>1041484</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32037,31965,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Dois</Player>
     <LostExp>977179</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31861,32057,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Ghostface</Player>
     <LostExp>971607</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32011,31874,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Ghostface</Player>
     <LostExp>894735</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32011,31873,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Akame</Player>
     <LostExp>766632</LostExp>
     <KilledBy>Werewolf</KilledBy>
