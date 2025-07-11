@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752233704505</GeneratedAt>
+  <GeneratedAt>1752234004507</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Soft</Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Shitara</Player>
+    <LostExp>5052259</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-07-11 13:35:39</Time>
+    <Location>(32842,31970,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Sar</Player>
     <LostExp>2877014</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32017,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Ghostface</Player>
     <LostExp>971607</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32011,31874,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Ghostface</Player>
     <LostExp>894735</LostExp>
     <KilledBy>Orc Leader</KilledBy>
