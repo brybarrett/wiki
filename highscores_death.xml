@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752270004807</GeneratedAt>
+  <GeneratedAt>1752270304809</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Soft</Player>
@@ -248,5 +248,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-07-11 20:24:17</Time>
     <Location>(31865,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>32</Rank>
+    <Player>Lire</Player>
+    <LostExp>1431</LostExp>
+    <KilledBy>Bat</KilledBy>
+    <Time>2025-07-11 23:41:33</Time>
+    <Location>(31936,32068,8)</Location>
   </DeathEvent>
 </DeathHighscores>
