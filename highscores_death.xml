@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752293704518</GeneratedAt>
+  <GeneratedAt>1752294004515</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Aulia</Player>
+    <LostExp>49539203</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-07-12 06:17:24</Time>
+    <Location>(32869,31968,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Emilia</Player>
     <LostExp>13305877</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32011,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Konan</Player>
     <LostExp>8166107</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Charutin</Player>
     <LostExp>5444796</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31984,32271,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Onze</Player>
     <LostExp>3556451</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32031,32244,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Anyian</Player>
     <LostExp>3424880</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32064,31819,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>28003</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31975,31880,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>26085</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31976,31892,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>10772</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31981,31890,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>9695</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31981,31890,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>5529</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31968,31888,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>3693</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31968,31887,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>1508</LostExp>
     <KilledBy>Scorpion</KilledBy>
