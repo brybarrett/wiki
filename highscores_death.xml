@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752278104387</GeneratedAt>
+  <GeneratedAt>1752278404410</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Charutin</Player>
@@ -12,13 +12,21 @@
   <DeathEvent>
     <Rank>2</Rank>
     <Player>Dinamicoo</Player>
+    <LostExp>5529</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-12 01:57:20</Time>
+    <Location>(31968,31888,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Dinamicoo</Player>
     <LostExp>3693</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-07-12 01:33:17</Time>
     <Location>(31968,31887,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>1508</LostExp>
     <KilledBy>Scorpion</KilledBy>
