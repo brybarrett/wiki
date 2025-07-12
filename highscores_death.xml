@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752360905552</GeneratedAt>
+  <GeneratedAt>1752361205571</GeneratedAt>
+  <DeathEvent>
+    <Rank>1</Rank>
+    <Player>Dark</Player>
+    <LostExp>32136322</LostExp>
+    <KilledBy>Foresdrake</KilledBy>
+    <Time>2025-07-13 00:59:59</Time>
+    <Location>(32886,32020,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Dinamicoo</Player>
+    <LostExp>49540</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-13 00:56:06</Time>
+    <Location>(31976,31893,10)</Location>
+  </DeathEvent>
 </DeathHighscores>
