@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752282604440</GeneratedAt>
+  <GeneratedAt>1752282904390</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Konan</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Anyian</Player>
+    <LostExp>3424880</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-07-12 03:11:57</Time>
+    <Location>(32064,31819,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>5529</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31968,31888,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>3693</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31968,31887,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>1508</LostExp>
     <KilledBy>Scorpion</KilledBy>
