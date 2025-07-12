@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752291904504</GeneratedAt>
+  <GeneratedAt>1752292204537</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Emilia</Player>
@@ -52,15 +52,15 @@
   <DeathEvent>
     <Rank>7</Rank>
     <Player>Dinamicoo</Player>
-    <LostExp>10772</LostExp>
+    <LostExp>26085</LostExp>
     <KilledBy>Scorpion</KilledBy>
-    <Time>2025-07-12 03:48:39</Time>
-    <Location>(31981,31890,10)</Location>
+    <Time>2025-07-12 05:45:12</Time>
+    <Location>(31976,31892,10)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
     <Player>Dinamicoo</Player>
-    <LostExp>9695</LostExp>
+    <LostExp>10772</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-07-12 03:48:39</Time>
     <Location>(31981,31890,10)</Location>
@@ -68,13 +68,21 @@
   <DeathEvent>
     <Rank>9</Rank>
     <Player>Dinamicoo</Player>
+    <LostExp>9695</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-12 03:48:39</Time>
+    <Location>(31981,31890,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Dinamicoo</Player>
     <LostExp>5529</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-07-12 01:57:20</Time>
     <Location>(31968,31888,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>3693</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31968,31887,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>1508</LostExp>
     <KilledBy>Scorpion</KilledBy>
