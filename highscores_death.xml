@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752340504812</GeneratedAt>
+  <GeneratedAt>1752340804805</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -203,6 +203,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>26</Rank>
+    <Player>Lire</Player>
+    <LostExp>24456</LostExp>
+    <KilledBy>Bloodfly</KilledBy>
+    <Time>2025-07-12 19:16:12</Time>
+    <Location>(31928,31957,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>27</Rank>
+    <Player>Lire</Player>
+    <LostExp>22017</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-12 19:17:27</Time>
+    <Location>(31901,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>10772</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -210,7 +226,7 @@
     <Location>(31981,31890,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>29</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>9695</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -218,7 +234,7 @@
     <Location>(31981,31890,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>30</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>5529</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -226,7 +242,7 @@
     <Location>(31968,31888,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>31</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>3693</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -234,7 +250,7 @@
     <Location>(31968,31887,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>32</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>1508</LostExp>
     <KilledBy>Scorpion</KilledBy>
