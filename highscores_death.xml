@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752373505650</GeneratedAt>
+  <GeneratedAt>1752373805665</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Siauhai</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Aeri</Player>
+    <LostExp>3266562</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-13 04:26:38</Time>
+    <Location>(31896,32047,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Red</Player>
     <LostExp>1238102</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Amigoide</Player>
     <LostExp>176012</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31914,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>49540</LostExp>
     <KilledBy>Scorpion</KilledBy>
