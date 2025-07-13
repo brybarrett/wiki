@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752368105609</GeneratedAt>
+  <GeneratedAt>1752368405624</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dark</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Red</Player>
+    <LostExp>1238102</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-13 02:59:18</Time>
+    <Location>(32008,31883,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>49540</LostExp>
     <KilledBy>Scorpion</KilledBy>
