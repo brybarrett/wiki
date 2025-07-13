@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752407705941</GeneratedAt>
+  <GeneratedAt>1752408005941</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tiringa </Player>
@@ -164,13 +164,21 @@
   <DeathEvent>
     <Rank>21</Rank>
     <Player>Maickson</Player>
+    <LostExp>59083</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-07-13 13:56:08</Time>
+    <Location>(31989,32019,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Maickson</Player>
     <LostExp>51678</LostExp>
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-07-13 13:38:28</Time>
     <Location>(31994,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>49540</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31976,31893,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Maickson</Player>
     <LostExp>607</LostExp>
     <KilledBy>Scorpion</KilledBy>
