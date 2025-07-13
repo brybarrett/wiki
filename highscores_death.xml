@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752371705639</GeneratedAt>
+  <GeneratedAt>1752372005674</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Siauhai</Player>
+    <LostExp>182574942</LostExp>
+    <KilledBy>Chaomby</KilledBy>
+    <Time>2025-07-13 03:55:16</Time>
+    <Location>(31916,32222,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Dark</Player>
     <LostExp>32136322</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32886,32020,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Dark</Player>
     <LostExp>28973388</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32877,32025,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Nove</Player>
     <LostExp>7991108</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32030,32239,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Red</Player>
     <LostExp>1238102</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Amigoide</Player>
     <LostExp>176012</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31914,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>49540</LostExp>
     <KilledBy>Scorpion</KilledBy>
