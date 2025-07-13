@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1752370805647</GeneratedAt>
+  <GeneratedAt>1752371105642</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -148,12 +148,12 @@
   </Player>
   <Player>
     <Rank>30</Rank>
-    <Name>Abaddon</Name>
+    <Name>Hiroshi</Name>
     <StarsCollected>198</StarsCollected>
   </Player>
   <Player>
     <Rank>31</Rank>
-    <Name>Hiroshi</Name>
+    <Name>Abaddon</Name>
     <StarsCollected>198</StarsCollected>
   </Player>
   <Player>
@@ -623,22 +623,22 @@
   </Player>
   <Player>
     <Rank>125</Rank>
-    <Name>Omadara</Name>
-    <StarsCollected>103</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>126</Rank>
     <Name>Salamaleko</Name>
     <StarsCollected>103</StarsCollected>
   </Player>
   <Player>
-    <Rank>127</Rank>
+    <Rank>126</Rank>
     <Name>Kiyahatzu</Name>
     <StarsCollected>103</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>127</Rank>
     <Name>Yakoebom</Name>
+    <StarsCollected>103</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Omadara</Name>
     <StarsCollected>103</StarsCollected>
   </Player>
 </StarsHighscores>
