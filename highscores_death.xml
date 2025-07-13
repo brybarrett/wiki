@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752447906425</GeneratedAt>
+  <GeneratedAt>1752448206399</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Buccca</Player>
+    <LostExp>23162678</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-07-14 01:06:15</Time>
+    <Location>(31970,32221,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Riky</Player>
     <LostExp>8695117</LostExp>
     <KilledBy>Orc Leader</KilledBy>
