@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752372005674</GeneratedAt>
+  <GeneratedAt>1752372305655</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Siauhai</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Drakezeraa</Player>
+    <LostExp>24506750</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-07-13 04:03:52</Time>
+    <Location>(31863,32081,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Nove</Player>
     <LostExp>7991108</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32030,32239,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Red</Player>
     <LostExp>1238102</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Amigoide</Player>
     <LostExp>176012</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31914,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>49540</LostExp>
     <KilledBy>Scorpion</KilledBy>
