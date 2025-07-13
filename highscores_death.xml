@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752414605999</GeneratedAt>
+  <GeneratedAt>1752414905994</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tiringa </Player>
@@ -196,13 +196,29 @@
   <DeathEvent>
     <Rank>25</Rank>
     <Player>Amigoide</Player>
+    <LostExp>270786</LostExp>
+    <KilledBy>Shadow</KilledBy>
+    <Time>2025-07-13 15:51:57</Time>
+    <Location>(31955,31868,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
+    <Player>Amigoide</Player>
+    <LostExp>244012</LostExp>
+    <KilledBy>Shadow</KilledBy>
+    <Time>2025-07-13 15:53:47</Time>
+    <Location>(31957,31861,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>27</Rank>
+    <Player>Amigoide</Player>
     <LostExp>176012</LostExp>
     <KilledBy>Small Eye</KilledBy>
     <Time>2025-07-13 03:50:55</Time>
     <Location>(31914,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>28</Rank>
     <Player>Maickson</Player>
     <LostExp>59083</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -210,7 +226,7 @@
     <Location>(31989,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>29</Rank>
     <Player>Maickson</Player>
     <LostExp>51678</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -218,7 +234,7 @@
     <Location>(31994,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>30</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>49540</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -226,7 +242,7 @@
     <Location>(31976,31893,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>31</Rank>
     <Player>Maickson</Player>
     <LostExp>607</LostExp>
     <KilledBy>Scorpion</KilledBy>
