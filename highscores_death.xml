@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752411905964</GeneratedAt>
+  <GeneratedAt>1752412205962</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tiringa </Player>
@@ -163,6 +163,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>21</Rank>
+    <Player>Nove</Player>
+    <LostExp>5959164</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-13 15:07:53</Time>
+    <Location>(32031,32240,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
     <Player>Aeri</Player>
     <LostExp>3266562</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31896,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Dois</Player>
     <LostExp>1608335</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31898,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Red</Player>
     <LostExp>1238102</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Amigoide</Player>
     <LostExp>176012</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31914,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Maickson</Player>
     <LostExp>59083</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31989,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Maickson</Player>
     <LostExp>51678</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31994,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Dinamicoo</Player>
     <LostExp>49540</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31976,31893,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Maickson</Player>
     <LostExp>607</LostExp>
     <KilledBy>Scorpion</KilledBy>
