@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752512188169</GeneratedAt>
+  <GeneratedAt>1752512488198</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Crydevilz</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Lindinha</Player>
+    <LostExp>4163710</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-07-14 19:01:23</Time>
+    <Location>(31950,32278,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Prowarrr</Player>
     <LostExp>871386</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32007,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Eunhyuk</Player>
     <LostExp>348073</LostExp>
     <KilledBy>Treant</KilledBy>
