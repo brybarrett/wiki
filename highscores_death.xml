@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752475206644</GeneratedAt>
+  <GeneratedAt>1752475506651</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tuyull</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Omadara</Player>
+    <LostExp>65679368</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-07-14 08:43:30</Time>
+    <Location>(31808,31963,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Reidelas</Player>
     <LostExp>25641108</LostExp>
     <KilledBy>Blue Stone</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31970,32212,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Buccca</Player>
     <LostExp>23162678</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31970,32221,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Ladykait</Player>
     <LostExp>18757768</LostExp>
     <KilledBy>Krakomin</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31778,31936,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Riky</Player>
     <LostExp>8695117</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32017,31875,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Sunset</Player>
     <LostExp>7079119</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31881,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Eunhyuk</Player>
     <LostExp>219531</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Sifu</Player>
     <LostExp>14748</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31996,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Sifu</Player>
     <LostExp>13662</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31967,31924,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Sifu</Player>
     <LostExp>7795</LostExp>
     <KilledBy>Scorpion</KilledBy>
