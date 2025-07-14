@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752454506468</GeneratedAt>
+  <GeneratedAt>1752454806468</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Reidelas</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Sifu</Player>
+    <LostExp>14748</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-07-14 02:56:34</Time>
+    <Location>(31996,32054,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Sifu</Player>
     <LostExp>7795</LostExp>
     <KilledBy>Scorpion</KilledBy>
