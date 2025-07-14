@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752459906539</GeneratedAt>
+  <GeneratedAt>1752460206546</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Tuyull</Player>
+    <LostExp>328395212</LostExp>
+    <KilledBy>Tyrannix</KilledBy>
+    <Time>2025-07-14 04:29:55</Time>
+    <Location>(31770,31966,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Seis</Player>
     <LostExp>107536973</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31876,32032,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Reidelas</Player>
     <LostExp>25641108</LostExp>
     <KilledBy>Blue Stone</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31970,32212,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Buccca</Player>
     <LostExp>23162678</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31970,32221,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Ladykait</Player>
     <LostExp>18757768</LostExp>
     <KilledBy>Krakomin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31778,31936,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Riky</Player>
     <LostExp>8695117</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32017,31875,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Sifu</Player>
     <LostExp>14748</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31996,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Sifu</Player>
     <LostExp>7795</LostExp>
     <KilledBy>Scorpion</KilledBy>
