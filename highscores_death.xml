@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752520588242</GeneratedAt>
+  <GeneratedAt>1752520888229</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Crydevilz</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Solii</Player>
+    <LostExp>13227984</LostExp>
+    <KilledBy>Horrornet</KilledBy>
+    <Time>2025-07-14 21:21:27</Time>
+    <Location>(32781,31983,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Tres</Player>
     <LostExp>9447403</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32032,32269,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Pukimak</Player>
     <LostExp>7468896</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31874,31939,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Lindinha</Player>
     <LostExp>4163710</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31950,32278,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Prowarrr</Player>
     <LostExp>871386</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32007,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Eunhyuk</Player>
     <LostExp>348073</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31991,31917,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Sifu</Player>
     <LostExp>24453</LostExp>
     <KilledBy>Fire Drake</KilledBy>
