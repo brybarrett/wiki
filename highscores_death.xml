@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752529888312</GeneratedAt>
+  <GeneratedAt>1752530188303</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Crydevilz</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Luffypanta</Player>
+    <LostExp>26886</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-14 23:55:27</Time>
+    <Location>(32006,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Sifu</Player>
     <LostExp>24453</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Luffypanta</Player>
     <LostExp>13691</LostExp>
     <KilledBy>Werewolf</KilledBy>
