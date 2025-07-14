@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752453006466</GeneratedAt>
+  <GeneratedAt>1752453306458</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Reidelas</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-07-14 00:46:25</Time>
     <Location>(32017,31875,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Sifu</Player>
+    <LostExp>7795</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-14 02:31:37</Time>
+    <Location>(31962,31931,8)</Location>
   </DeathEvent>
 </DeathHighscores>
