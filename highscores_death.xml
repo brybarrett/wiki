@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752507988131</GeneratedAt>
+  <GeneratedAt>1752508288122</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Crydevilz</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-07-14 17:24:32</Time>
     <Location>(32007,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Eunhyuk</Player>
+    <LostExp>348073</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-07-14 17:51:21</Time>
+    <Location>(31991,31917,8)</Location>
   </DeathEvent>
 </DeathHighscores>
