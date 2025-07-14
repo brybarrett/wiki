@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752470706637</GeneratedAt>
+  <GeneratedAt>1752471006666</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tuyull</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Eunhyuk</Player>
+    <LostExp>219531</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-07-14 07:26:18</Time>
+    <Location>(31990,32013,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Sifu</Player>
     <LostExp>14748</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31996,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Sifu</Player>
     <LostExp>13662</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31967,31924,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Sifu</Player>
     <LostExp>7795</LostExp>
     <KilledBy>Scorpion</KilledBy>
