@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752509488141</GeneratedAt>
+  <GeneratedAt>1752509788160</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Crydevilz</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Doze</Player>
+    <LostExp>13286282</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-14 18:13:40</Time>
+    <Location>(32032,32263,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Tres</Player>
     <LostExp>9447403</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32032,32269,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Pukimak</Player>
     <LostExp>7468896</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31874,31939,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Prowarrr</Player>
     <LostExp>871386</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32007,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Eunhyuk</Player>
     <LostExp>348073</LostExp>
     <KilledBy>Treant</KilledBy>
