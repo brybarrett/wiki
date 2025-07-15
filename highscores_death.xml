@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752572403301</GeneratedAt>
+  <GeneratedAt>1752572703307</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sakura</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Aeri</Player>
+    <LostExp>3519529</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-07-15 11:40:57</Time>
+    <Location>(32069,31820,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Darkwolf</Player>
     <LostExp>1980544</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31907,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Darkwolf</Player>
     <LostExp>1809321</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31905,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Red</Player>
     <LostExp>1551605</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32011,31873,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Prowarrr</Player>
     <LostExp>949392</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32007,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Luffypanta</Player>
     <LostExp>29540</LostExp>
     <KilledBy>Fanatic</KilledBy>
