@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752540303079</GeneratedAt>
+  <GeneratedAt>1752540603063</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Genji</Player>
+    <LostExp>577132070</LostExp>
+    <KilledBy>Sasukez</KilledBy>
+    <Time>2025-07-15 02:48:44</Time>
+    <Location>(32185,32209,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Darkwolf</Player>
     <LostExp>1980544</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31907,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Red</Player>
     <LostExp>1551605</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32011,31873,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Luffypanta</Player>
     <LostExp>29540</LostExp>
     <KilledBy>Fanatic</KilledBy>
