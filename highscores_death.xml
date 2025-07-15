@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752564603254</GeneratedAt>
+  <GeneratedAt>1752564903254</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Genji</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Supy</Player>
+    <LostExp>75651962</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-07-15 09:34:41</Time>
+    <Location>(31935,32206,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Cochilo</Player>
     <LostExp>33428100</LostExp>
     <KilledBy>Blue Stone</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31957,32272,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Mii</Player>
     <LostExp>15454789</LostExp>
     <KilledBy>(Others)</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31795,31909,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Xoxox</Player>
     <LostExp>10593818</LostExp>
     <KilledBy>Cupy</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31778,31945,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Charutin</Player>
     <LostExp>7601519</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32023,32227,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Darkwolf</Player>
     <LostExp>1980544</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31907,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Darkwolf</Player>
     <LostExp>1809321</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31905,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Red</Player>
     <LostExp>1551605</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32011,31873,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Prowarrr</Player>
     <LostExp>949392</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32007,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Luffypanta</Player>
     <LostExp>29540</LostExp>
     <KilledBy>Fanatic</KilledBy>
