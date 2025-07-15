@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752621603171</GeneratedAt>
+  <GeneratedAt>1752621903196</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Bucccca</Player>
+    <LostExp>14867659</LostExp>
+    <KilledBy>Chilong</KilledBy>
+    <Time>2025-07-16 01:24:32</Time>
+    <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Darkwolf</Player>
     <LostExp>2135553</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2025-07-16 00:59:05</Time>
     <Location>(32064,31818,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Amigoide</Player>
+    <LostExp>829020</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-16 01:21:58</Time>
+    <Location>(32010,31876,8)</Location>
   </DeathEvent>
 </DeathHighscores>
