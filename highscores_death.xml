@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752537903060</GeneratedAt>
+  <GeneratedAt>1752538203070</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Red</Player>
+    <LostExp>1551605</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-15 02:06:47</Time>
+    <Location>(32011,31873,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Luffypanta</Player>
     <LostExp>29540</LostExp>
     <KilledBy>Fanatic</KilledBy>
