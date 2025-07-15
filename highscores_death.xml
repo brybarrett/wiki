@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752603003495</GeneratedAt>
+  <GeneratedAt>1752603303496</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sakura</Player>
@@ -235,6 +235,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>30</Rank>
+    <Player>Sifu</Player>
+    <LostExp>72855</LostExp>
+    <KilledBy>Warden</KilledBy>
+    <Time>2025-07-15 20:10:05</Time>
+    <Location>(32049,31911,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>31</Rank>
     <Player>Luffypanta</Player>
     <LostExp>29540</LostExp>
     <KilledBy>Fanatic</KilledBy>
