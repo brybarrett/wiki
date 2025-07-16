@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752680103597</GeneratedAt>
+  <GeneratedAt>1752680403600</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -132,13 +132,21 @@
   <DeathEvent>
     <Rank>17</Rank>
     <Player>Prowarrr</Player>
+    <LostExp>1630920</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-07-16 17:36:14</Time>
+    <Location>(32859,31995,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
+    <Player>Prowarrr</Player>
     <LostExp>1627675</LostExp>
     <KilledBy>Blackdrake</KilledBy>
     <Time>2025-07-16 15:27:56</Time>
     <Location>(32239,32357,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Prowarrr</Player>
     <LostExp>1577601</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32019,31862,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Amigoide</Player>
     <LostExp>829020</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32010,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Setice</Player>
     <LostExp>572378</LostExp>
     <KilledBy>Orc Leader</KilledBy>
