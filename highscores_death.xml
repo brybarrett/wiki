@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752691803734</GeneratedAt>
+  <GeneratedAt>1752692103708</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -192,5 +192,13 @@
     <KilledBy>Orc</KilledBy>
     <Time>2025-07-16 20:39:43</Time>
     <Location>(31978,31869,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
+    <Player>Luffypanta</Player>
+    <LostExp>27506</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-07-16 20:52:46</Time>
+    <Location>(32187,32272,9)</Location>
   </DeathEvent>
 </DeathHighscores>
