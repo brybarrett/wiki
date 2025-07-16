@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752691503697</GeneratedAt>
+  <GeneratedAt>1752691803734</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Sunset</Player>
+    <LostExp>11250072</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-07-16 20:49:12</Time>
+    <Location>(31891,32014,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Cruela</Player>
     <LostExp>6349646</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32033,31835,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Sshpy</Player>
     <LostExp>4343187</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32872,31993,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Sasori</Player>
     <LostExp>3028651</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32018,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Darkwolf</Player>
     <LostExp>2602403</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32043,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Darkwolf</Player>
     <LostExp>2135553</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Wonka</Player>
     <LostExp>1773212</LostExp>
     <KilledBy>Templarr</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32007,31862,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Prowarrr</Player>
     <LostExp>1630920</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32859,31995,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Prowarrr</Player>
     <LostExp>1627675</LostExp>
     <KilledBy>Blackdrake</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32239,32357,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Prowarrr</Player>
     <LostExp>1577601</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32019,31862,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Amigoide</Player>
     <LostExp>829020</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32010,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Setice</Player>
     <LostExp>572378</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32006,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Luffypanta</Player>
     <LostExp>29836</LostExp>
     <KilledBy>Orc</KilledBy>
