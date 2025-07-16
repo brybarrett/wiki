@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752670803515</GeneratedAt>
+  <GeneratedAt>1752671103522</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Prowarrr</Player>
+    <LostExp>1577601</LostExp>
+    <KilledBy>Bragnak</KilledBy>
+    <Time>2025-07-16 15:00:18</Time>
+    <Location>(32019,31862,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Amigoide</Player>
     <LostExp>829020</LostExp>
     <KilledBy>Orc Leader</KilledBy>
