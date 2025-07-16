@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752665703502</GeneratedAt>
+  <GeneratedAt>1752666003504</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Justin</Player>
@@ -60,13 +60,21 @@
   <DeathEvent>
     <Rank>8</Rank>
     <Player>Darkwolf</Player>
+    <LostExp>2602403</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-07-16 13:39:13</Time>
+    <Location>(32043,31803,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Darkwolf</Player>
     <LostExp>2135553</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2025-07-16 00:59:05</Time>
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Wonka</Player>
     <LostExp>1773212</LostExp>
     <KilledBy>Templarr</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32007,31862,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Amigoide</Player>
     <LostExp>829020</LostExp>
     <KilledBy>Orc Leader</KilledBy>
