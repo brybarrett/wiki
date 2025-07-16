@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1752704701723</GeneratedAt>
+  <GeneratedAt>1752705001735</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -13,7 +13,7 @@
   </Player>
   <Player>
     <Rank>3</Rank>
-    <Name>Pancernik </Name>
+    <Name>Pancernik</Name>
     <StarsCollected>314</StarsCollected>
   </Player>
   <Player>
@@ -558,27 +558,27 @@
   </Player>
   <Player>
     <Rank>112</Rank>
-    <Name>Humbalang</Name>
-    <StarsCollected>116</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>113</Rank>
     <Name>Warr</Name>
     <StarsCollected>116</StarsCollected>
   </Player>
   <Player>
-    <Rank>114</Rank>
-    <Name>Templar</Name>
-    <StarsCollected>115</StarsCollected>
+    <Rank>113</Rank>
+    <Name>Humbalang</Name>
+    <StarsCollected>116</StarsCollected>
   </Player>
   <Player>
-    <Rank>115</Rank>
+    <Rank>114</Rank>
     <Name>Megume</Name>
     <StarsCollected>115</StarsCollected>
   </Player>
   <Player>
-    <Rank>116</Rank>
+    <Rank>115</Rank>
     <Name>Zin</Name>
+    <StarsCollected>115</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>116</Rank>
+    <Name>Templar</Name>
     <StarsCollected>115</StarsCollected>
   </Player>
   <Player>
@@ -633,12 +633,12 @@
   </Player>
   <Player>
     <Rank>127</Rank>
-    <Name>Omadara</Name>
+    <Name>Kiyahatzu</Name>
     <StarsCollected>103</StarsCollected>
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Salamaleko</Name>
+    <Name>Omadara</Name>
     <StarsCollected>103</StarsCollected>
   </Player>
 </StarsHighscores>
