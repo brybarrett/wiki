@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752699303746</GeneratedAt>
+  <GeneratedAt>1752699603752</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -188,13 +188,21 @@
   <DeathEvent>
     <Rank>24</Rank>
     <Player>Luffypanta</Player>
+    <LostExp>63174</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-07-16 22:57:16</Time>
+    <Location>(31992,31863,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
+    <Player>Luffypanta</Player>
     <LostExp>29836</LostExp>
     <KilledBy>Orc</KilledBy>
     <Time>2025-07-16 20:39:43</Time>
     <Location>(31978,31869,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Tosen</Player>
     <LostExp>27570</LostExp>
     <KilledBy>Mantis</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31914,31968,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Luffypanta</Player>
     <LostExp>27506</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32187,32272,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Luffypanta</Player>
     <LostExp>25389</LostExp>
     <KilledBy>The Fanatic</KilledBy>
