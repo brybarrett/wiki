@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1752659703432</GeneratedAt>
+  <GeneratedAt>1752660003439</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -563,17 +563,17 @@
   </Player>
   <Player>
     <Rank>113</Rank>
-    <Name>Megume</Name>
-    <StarsCollected>115</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>114</Rank>
     <Name>Templar</Name>
     <StarsCollected>115</StarsCollected>
   </Player>
   <Player>
-    <Rank>115</Rank>
+    <Rank>114</Rank>
     <Name>Zin</Name>
+    <StarsCollected>115</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>115</Rank>
+    <Name>Megume</Name>
     <StarsCollected>115</StarsCollected>
   </Player>
   <Player>
@@ -603,12 +603,12 @@
   </Player>
   <Player>
     <Rank>121</Rank>
-    <Name>Sp</Name>
+    <Name>Zhouzinn</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
     <Rank>122</Rank>
-    <Name>Zhouzinn</Name>
+    <Name>Sp</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
@@ -638,7 +638,7 @@
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Omadara</Name>
+    <Name>Salamaleko</Name>
     <StarsCollected>103</StarsCollected>
   </Player>
 </StarsHighscores>
