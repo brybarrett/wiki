@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752725401890</GeneratedAt>
+  <GeneratedAt>1752725701877</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -164,13 +164,21 @@
   <DeathEvent>
     <Rank>21</Rank>
     <Player>Arturdaine</Player>
+    <LostExp>8189</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-07-17 06:14:51</Time>
+    <Location>(31994,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Arturdaine</Player>
     <LostExp>4115</LostExp>
     <KilledBy>Fanatic</KilledBy>
     <Time>2025-07-17 04:48:00</Time>
     <Location>(31918,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Arturdaine</Player>
     <LostExp>3762</LostExp>
     <KilledBy>Skeleton</KilledBy>
