@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752785102408</GeneratedAt>
+  <GeneratedAt>1752785402429</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -460,13 +460,21 @@
   <DeathEvent>
     <Rank>58</Rank>
     <Player>Magonegro</Player>
+    <LostExp>2975</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-07-17 22:47:24</Time>
+    <Location>(32000,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>59</Rank>
+    <Player>Magonegro</Player>
     <LostExp>1937</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-07-17 19:20:12</Time>
     <Location>(31968,31887,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>59</Rank>
+    <Rank>60</Rank>
     <Player>Magonegro</Player>
     <LostExp>1935</LostExp>
     <KilledBy>Scorpion</KilledBy>
