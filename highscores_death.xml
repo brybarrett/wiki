@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752720901894</GeneratedAt>
+  <GeneratedAt>1752721201890</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -83,6 +83,54 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Hayabusa </Player>
+    <LostExp>48114</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2025-07-17 04:55:22</Time>
+    <Location>(32048,32338,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Hayabusa </Player>
+    <LostExp>43303</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-07-17 04:56:08</Time>
+    <Location>(32035,32286,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>Hayabusa </Player>
+    <LostExp>38973</LostExp>
+    <KilledBy>Wispin</KilledBy>
+    <Time>2025-07-17 04:56:54</Time>
+    <Location>(32068,32359,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Hayabusa </Player>
+    <LostExp>35075</LostExp>
+    <KilledBy>Crepp</KilledBy>
+    <Time>2025-07-17 04:58:02</Time>
+    <Location>(32038,32355,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Hayabusa </Player>
+    <LostExp>31568</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-07-17 04:59:07</Time>
+    <Location>(32023,32228,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Hayabusa </Player>
+    <LostExp>28411</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2025-07-17 04:59:43</Time>
+    <Location>(32048,32341,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
     <Player>Arturdaine</Player>
     <LostExp>4115</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -90,7 +138,7 @@
     <Location>(31918,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>18</Rank>
     <Player>Arturdaine</Player>
     <LostExp>3762</LostExp>
     <KilledBy>Skeleton</KilledBy>
