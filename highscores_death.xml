@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752772502320</GeneratedAt>
+  <GeneratedAt>1752772802276</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -392,5 +392,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-07-17 03:58:55</Time>
     <Location>(31996,32055,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>50</Rank>
+    <Player>Magonegro</Player>
+    <LostExp>1935</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-17 19:17:47</Time>
+    <Location>(31983,31899,9)</Location>
   </DeathEvent>
 </DeathHighscores>
