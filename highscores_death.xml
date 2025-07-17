@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752717301868</GeneratedAt>
+  <GeneratedAt>1752717601837</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Riky</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Orc</KilledBy>
     <Time>2025-07-17 03:12:44</Time>
     <Location>(31992,31863,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Arturdaine</Player>
+    <LostExp>3762</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-07-17 03:58:55</Time>
+    <Location>(31996,32055,8)</Location>
   </DeathEvent>
 </DeathHighscores>
