@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752831608369</GeneratedAt>
+  <GeneratedAt>1752831908364</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Xlucasx</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Cochiloafk</Player>
+    <LostExp>3852664</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-18 11:43:26</Time>
+    <Location>(32010,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Zoropanta</Player>
     <LostExp>50467</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32030,31973,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Magonegro</Player>
     <LostExp>40475</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32022,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Zoropanta</Player>
     <LostExp>37752</LostExp>
     <KilledBy>Tarantula</KilledBy>
