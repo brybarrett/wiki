@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752873713938</GeneratedAt>
+  <GeneratedAt>1752874013949</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Cruela</Player>
@@ -20,13 +20,21 @@
   <DeathEvent>
     <Rank>3</Rank>
     <Player>Luffypanta</Player>
+    <LostExp>375684</LostExp>
+    <KilledBy>Fanatic</KilledBy>
+    <Time>2025-07-18 23:23:07</Time>
+    <Location>(31914,32014,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Luffypanta</Player>
     <LostExp>349410</LostExp>
     <KilledBy>Goblin</KilledBy>
     <Time>2025-07-18 19:33:03</Time>
     <Location>(32269,32379,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Luffypanta</Player>
     <LostExp>341818</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32040,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Zoropanta</Player>
     <LostExp>113463</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32055,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Zoropanta</Player>
     <LostExp>105694</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31988,31865,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Zoropanta</Player>
     <LostExp>95153</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31985,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Zoropanta</Player>
     <LostExp>89803</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31979,31910,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Zoropanta</Player>
     <LostExp>84266</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32034,31980,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Zoropanta</Player>
     <LostExp>81698</LostExp>
     <KilledBy>Scorpion</KilledBy>
