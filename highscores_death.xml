@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752861113888</GeneratedAt>
+  <GeneratedAt>1752861413870</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Cruela</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Zoropanta</Player>
+    <LostExp>84266</LostExp>
+    <KilledBy>Bear</KilledBy>
+    <Time>2025-07-18 19:51:57</Time>
+    <Location>(32034,31980,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Zoropanta</Player>
     <LostExp>81698</LostExp>
     <KilledBy>Scorpion</KilledBy>
