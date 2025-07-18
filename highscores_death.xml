@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752878744148</GeneratedAt>
+  <GeneratedAt>1752879044133</GeneratedAt>
+  <DeathEvent>
+    <Rank>1</Rank>
+    <Player>Urekmazino</Player>
+    <LostExp>151273811</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-07-19 00:49:05</Time>
+    <Location>(31790,31946,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Arturdaine</Player>
+    <LostExp>94002</LostExp>
+    <KilledBy>Minotaur</KilledBy>
+    <Time>2025-07-19 00:50:34</Time>
+    <Location>(31886,32037,11)</Location>
+  </DeathEvent>
 </DeathHighscores>
