@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752879944182</GeneratedAt>
+  <GeneratedAt>1752880244160</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Urekmazino</Player>
@@ -11,10 +11,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Zeus</Player>
+    <LostExp>70107911</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-07-19 01:08:16</Time>
+    <Location>(31960,32283,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Arturdaine</Player>
     <LostExp>94002</LostExp>
     <KilledBy>Minotaur</KilledBy>
     <Time>2025-07-19 00:50:34</Time>
     <Location>(31886,32037,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Arturdaine</Player>
+    <LostExp>85022</LostExp>
+    <KilledBy>Djinn</KilledBy>
+    <Time>2025-07-19 01:08:11</Time>
+    <Location>(32794,32220,9)</Location>
   </DeathEvent>
 </DeathHighscores>
