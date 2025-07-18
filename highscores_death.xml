@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752857213808</GeneratedAt>
+  <GeneratedAt>1752857513830</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Cruela</Player>
+    <LostExp>6284695</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-07-18 18:49:09</Time>
+    <Location>(32042,31799,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Zoropanta</Player>
     <LostExp>89803</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31979,31910,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Zoropanta</Player>
     <LostExp>81698</LostExp>
     <KilledBy>Scorpion</KilledBy>
