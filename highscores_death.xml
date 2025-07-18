@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752870713917</GeneratedAt>
+  <GeneratedAt>1752871013924</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Cruela</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Myrtlez</Player>
+    <LostExp>3663481</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-07-18 22:35:38</Time>
+    <Location>(31968,32264,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Luffypanta</Player>
     <LostExp>349410</LostExp>
     <KilledBy>Goblin</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32269,32379,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Luffypanta</Player>
     <LostExp>341818</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32040,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Zoropanta</Player>
     <LostExp>113463</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32055,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Zoropanta</Player>
     <LostExp>89803</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31979,31910,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Zoropanta</Player>
     <LostExp>84266</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32034,31980,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Zoropanta</Player>
     <LostExp>81698</LostExp>
     <KilledBy>Scorpion</KilledBy>
