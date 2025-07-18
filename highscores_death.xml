@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752875813941</GeneratedAt>
+  <GeneratedAt>1752876113946</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Cruela</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Arturdaine</Player>
+    <LostExp>97105</LostExp>
+    <KilledBy>Troll</KilledBy>
+    <Time>2025-07-18 23:57:44</Time>
+    <Location>(31878,32077,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Zoropanta</Player>
     <LostExp>95153</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31985,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Zoropanta</Player>
     <LostExp>89803</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31979,31910,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Zoropanta</Player>
     <LostExp>84266</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32034,31980,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Zoropanta</Player>
     <LostExp>81698</LostExp>
     <KilledBy>Scorpion</KilledBy>
