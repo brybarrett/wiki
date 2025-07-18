@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752827408338</GeneratedAt>
+  <GeneratedAt>1752827708313</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Xlucasx</Player>
+    <LostExp>136157192</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-07-18 10:33:12</Time>
+    <Location>(31906,32215,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Noia</Player>
     <LostExp>26712182</LostExp>
     <KilledBy>Sasukez</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31788,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Crystal</Player>
     <LostExp>25935195</LostExp>
     <KilledBy>Kul'Krak'u</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31791,31915,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Zoropanta</Player>
     <LostExp>50467</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32030,31973,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Magonegro</Player>
     <LostExp>40475</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32022,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Zoropanta</Player>
     <LostExp>37752</LostExp>
     <KilledBy>Tarantula</KilledBy>
