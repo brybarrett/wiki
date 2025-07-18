@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752802208103</GeneratedAt>
+  <GeneratedAt>1752802508099</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Noia</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Crystal</Player>
+    <LostExp>25935195</LostExp>
+    <KilledBy>Kul'Krak'u</KilledBy>
+    <Time>2025-07-18 03:35:03</Time>
+    <Location>(31791,31915,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Zoropanta</Player>
     <LostExp>37752</LostExp>
     <KilledBy>Tarantula</KilledBy>
