@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752945344699</GeneratedAt>
+  <GeneratedAt>1752945644708</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Powerofgod</Player>
@@ -224,5 +224,13 @@
     <KilledBy>Djinn</KilledBy>
     <Time>2025-07-19 01:08:11</Time>
     <Location>(32794,32220,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>29</Rank>
+    <Player>Soapx</Player>
+    <LostExp>84213</LostExp>
+    <KilledBy>Hell Guard</KilledBy>
+    <Time>2025-07-19 19:16:35</Time>
+    <Location>(32789,32251,8)</Location>
   </DeathEvent>
 </DeathHighscores>
