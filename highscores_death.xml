@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752945644708</GeneratedAt>
+  <GeneratedAt>1752945944674</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Powerofgod</Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Amigoide</Player>
+    <LostExp>2215438</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-19 19:25:23</Time>
+    <Location>(31863,32053,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Shinzui</Player>
     <LostExp>2135076</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32008,31882,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Magonegro</Player>
     <LostExp>404671</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32852,31979,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Magonegro</Player>
     <LostExp>321791</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32867,31995,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Magonegro</Player>
     <LostExp>317760</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32859,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Magonegro</Player>
     <LostExp>184166</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31936,32023,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Zoropanta</Player>
     <LostExp>176161</LostExp>
     <KilledBy>The Fanatic</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31914,32014,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Arturdaine</Player>
     <LostExp>138516</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Arturdaine</Player>
     <LostExp>126628</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31996,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Arturdaine</Player>
     <LostExp>94002</LostExp>
     <KilledBy>Minotaur</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31886,32037,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Arturdaine</Player>
     <LostExp>86159</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Arturdaine</Player>
     <LostExp>85022</LostExp>
     <KilledBy>Djinn</KilledBy>
@@ -226,11 +234,19 @@
     <Location>(32794,32220,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Soapx</Player>
     <LostExp>84213</LostExp>
     <KilledBy>Hell Guard</KilledBy>
     <Time>2025-07-19 19:16:35</Time>
     <Location>(32789,32251,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>31</Rank>
+    <Player>Soapx</Player>
+    <LostExp>77080</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-07-19 19:23:31</Time>
+    <Location>(31990,31914,8)</Location>
   </DeathEvent>
 </DeathHighscores>
