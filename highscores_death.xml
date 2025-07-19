@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752889844240</GeneratedAt>
+  <GeneratedAt>1752890144255</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Urekmazino</Player>
@@ -28,13 +28,21 @@
   <DeathEvent>
     <Rank>4</Rank>
     <Player>Magonegro</Player>
+    <LostExp>317760</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-07-19 03:51:47</Time>
+    <Location>(32859,31985,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Magonegro</Player>
     <LostExp>184166</LostExp>
     <KilledBy>Bantinel</KilledBy>
     <Time>2025-07-19 02:51:15</Time>
     <Location>(31936,32023,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Zoropanta</Player>
     <LostExp>176161</LostExp>
     <KilledBy>The Fanatic</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31914,32014,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Arturdaine</Player>
     <LostExp>94002</LostExp>
     <KilledBy>Minotaur</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31886,32037,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Arturdaine</Player>
     <LostExp>86159</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Arturdaine</Player>
     <LostExp>85022</LostExp>
     <KilledBy>Djinn</KilledBy>
