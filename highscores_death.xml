@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752905444343</GeneratedAt>
+  <GeneratedAt>1752905744391</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Justin</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Xkiritoxwi</Player>
+    <LostExp>19095176</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-07-19 08:15:03</Time>
+    <Location>(32855,31979,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Magonegro</Player>
     <LostExp>321791</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32867,31995,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Magonegro</Player>
     <LostExp>317760</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32859,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Magonegro</Player>
     <LostExp>184166</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31936,32023,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Zoropanta</Player>
     <LostExp>176161</LostExp>
     <KilledBy>The Fanatic</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31914,32014,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Arturdaine</Player>
     <LostExp>138516</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Arturdaine</Player>
     <LostExp>126628</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31996,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Arturdaine</Player>
     <LostExp>94002</LostExp>
     <KilledBy>Minotaur</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31886,32037,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Arturdaine</Player>
     <LostExp>86159</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31979,32064,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Arturdaine</Player>
     <LostExp>85022</LostExp>
     <KilledBy>Djinn</KilledBy>
