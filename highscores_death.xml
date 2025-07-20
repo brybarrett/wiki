@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753021201329</GeneratedAt>
+  <GeneratedAt>1753021501332</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Megume</Player>
@@ -299,6 +299,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>38</Rank>
+    <Player>Qasdf</Player>
+    <LostExp>13196</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-20 16:24:10</Time>
+    <Location>(32007,31876,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>39</Rank>
     <Player>Favelados</Player>
     <LostExp>11270</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(32005,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Favelados</Player>
     <LostExp>10609</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31864,32070,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Qasdf</Player>
     <LostExp>7769</LostExp>
     <KilledBy>Orc Leader</KilledBy>
