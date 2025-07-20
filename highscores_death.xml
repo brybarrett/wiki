@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753028701386</GeneratedAt>
+  <GeneratedAt>1753029001386</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pandatank</Player>
@@ -291,6 +291,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>37</Rank>
+    <Player>Rael</Player>
+    <LostExp>272756</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-20 18:29:02</Time>
+    <Location>(32012,31878,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>38</Rank>
     <Player>Youl</Player>
     <LostExp>205691</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31994,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Rael</Player>
     <LostExp>92386</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(32010,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Rael</Player>
     <LostExp>87339</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31984,32059,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Cacheiro </Player>
     <LostExp>53390</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31962,32244,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Qasdf</Player>
     <LostExp>13196</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(32007,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Favelados</Player>
     <LostExp>11270</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(32005,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Favelados</Player>
     <LostExp>10609</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(31864,32070,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Qasdf</Player>
     <LostExp>7769</LostExp>
     <KilledBy>Orc Leader</KilledBy>
