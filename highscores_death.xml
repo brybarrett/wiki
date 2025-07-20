@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753043101497</GeneratedAt>
+  <GeneratedAt>1753043401485</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pandatank</Player>
@@ -339,6 +339,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>43</Rank>
+    <Player>Oss</Player>
+    <LostExp>151704</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-07-20 22:27:17</Time>
+    <Location>(31879,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>44</Rank>
     <Player>Rael</Player>
     <LostExp>92386</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(32010,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Rael</Player>
     <LostExp>87339</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(31984,32059,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Cacheiro </Player>
     <LostExp>53390</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(31962,32244,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Qasdf</Player>
     <LostExp>13196</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(32007,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Favelados</Player>
     <LostExp>11270</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(32005,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Favelados</Player>
     <LostExp>10609</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(31864,32070,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Qasdf</Player>
     <LostExp>7769</LostExp>
     <KilledBy>Orc Leader</KilledBy>
