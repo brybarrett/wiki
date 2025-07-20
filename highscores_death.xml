@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753019401302</GeneratedAt>
+  <GeneratedAt>1753019701306</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Megume</Player>
@@ -312,5 +312,13 @@
     <KilledBy>Troll</KilledBy>
     <Time>2025-07-20 14:50:01</Time>
     <Location>(31864,32070,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>40</Rank>
+    <Player>Qasdf</Player>
+    <LostExp>7769</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-20 15:50:05</Time>
+    <Location>(32006,31880,8)</Location>
   </DeathEvent>
 </DeathHighscores>
