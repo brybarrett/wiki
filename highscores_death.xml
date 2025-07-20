@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752970200934</GeneratedAt>
+  <GeneratedAt>1752970500906</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Galadriel</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Redeath</KilledBy>
     <Time>2025-07-20 02:09:28</Time>
     <Location>(32864,31976,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Jackfrost</Player>
+    <LostExp>322189</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-07-20 02:12:52</Time>
+    <Location>(32863,31976,7)</Location>
   </DeathEvent>
 </DeathHighscores>
