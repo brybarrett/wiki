@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753012801269</GeneratedAt>
+  <GeneratedAt>1753013101254</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Megume</Player>
@@ -220,13 +220,21 @@
   <DeathEvent>
     <Rank>28</Rank>
     <Player>Jackfrost</Player>
+    <LostExp>457485</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-07-20 14:01:21</Time>
+    <Location>(32870,31968,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>29</Rank>
+    <Player>Jackfrost</Player>
     <LostExp>393708</LostExp>
     <KilledBy>Assasin</KilledBy>
     <Time>2025-07-20 03:40:42</Time>
     <Location>(31919,31990,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Jackfrost</Player>
     <LostExp>364830</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31854,31971,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Jackfrost</Player>
     <LostExp>348772</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(32860,31981,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Jackfrost</Player>
     <LostExp>335699</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32864,31976,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Jackfrost</Player>
     <LostExp>322189</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(32863,31976,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Cacheiro </Player>
     <LostExp>53390</LostExp>
     <KilledBy>Flutt</KilledBy>
