@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753014301300</GeneratedAt>
+  <GeneratedAt>1753014601301</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Megume</Player>
@@ -267,6 +267,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>34</Rank>
+    <Player>Rael</Player>
+    <LostExp>92386</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-20 14:29:40</Time>
+    <Location>(32010,31885,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Cacheiro </Player>
     <LostExp>53390</LostExp>
     <KilledBy>Flutt</KilledBy>
