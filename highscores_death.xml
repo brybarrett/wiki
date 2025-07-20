@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1752975600996</GeneratedAt>
+  <GeneratedAt>1752975901000</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Galadriel</Player>
@@ -20,13 +20,21 @@
   <DeathEvent>
     <Rank>3</Rank>
     <Player>Jackfrost</Player>
+    <LostExp>393708</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-07-20 03:40:42</Time>
+    <Location>(31919,31990,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Jackfrost</Player>
     <LostExp>364830</LostExp>
     <KilledBy>The Miner</KilledBy>
     <Time>2025-07-20 01:03:32</Time>
     <Location>(31854,31971,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Jackfrost</Player>
     <LostExp>348772</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32860,31981,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Jackfrost</Player>
     <LostExp>335699</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32864,31976,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Jackfrost</Player>
     <LostExp>322189</LostExp>
     <KilledBy>Redeath</KilledBy>
