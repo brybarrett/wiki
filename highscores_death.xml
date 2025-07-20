@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753040701480</GeneratedAt>
+  <GeneratedAt>1753041001485</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pandatank</Player>
@@ -188,13 +188,21 @@
   <DeathEvent>
     <Rank>24</Rank>
     <Player>Magonegro</Player>
+    <LostExp>2294442</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-07-20 21:47:48</Time>
+    <Location>(32852,32059,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
+    <Player>Magonegro</Player>
     <LostExp>2177206</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
     <Time>2025-07-20 21:38:43</Time>
     <Location>(32829,32056,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Magonegro</Player>
     <LostExp>2102832</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32827,32039,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Zoropanta</Player>
     <LostExp>1065632</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32015,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Luffypanta</Player>
     <LostExp>823413</LostExp>
     <KilledBy>Gaspar</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31962,31868,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Magonegro</Player>
     <LostExp>812643</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31858,31971,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Luffypanta</Player>
     <LostExp>765809</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31853,31973,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Zoropanta</Player>
     <LostExp>727221</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31854,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Luffypanta</Player>
     <LostExp>716839</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -250,7 +258,15 @@
     <Location>(31954,31869,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
+    <Player>Eduzinhoo</Player>
+    <LostExp>584428</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2025-07-20 21:46:13</Time>
+    <Location>(31947,32001,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>34</Rank>
     <Player>Jackfrost</Player>
     <LostExp>474670</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -258,7 +274,7 @@
     <Location>(31919,31989,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>35</Rank>
     <Player>Jackfrost</Player>
     <LostExp>457485</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -266,7 +282,7 @@
     <Location>(32870,31968,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>36</Rank>
     <Player>Jackfrost</Player>
     <LostExp>393708</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -274,7 +290,7 @@
     <Location>(31919,31990,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>37</Rank>
     <Player>Jackfrost</Player>
     <LostExp>364830</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -282,7 +298,7 @@
     <Location>(31854,31971,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>38</Rank>
     <Player>Jackfrost</Player>
     <LostExp>348772</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -290,7 +306,7 @@
     <Location>(32860,31981,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>39</Rank>
     <Player>Jackfrost</Player>
     <LostExp>335699</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -298,7 +314,7 @@
     <Location>(32864,31976,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>40</Rank>
     <Player>Jackfrost</Player>
     <LostExp>322189</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -306,7 +322,7 @@
     <Location>(32863,31976,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>41</Rank>
     <Player>Rael</Player>
     <LostExp>272756</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -314,7 +330,7 @@
     <Location>(32012,31878,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>42</Rank>
     <Player>Youl</Player>
     <LostExp>205691</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -322,7 +338,7 @@
     <Location>(31994,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>43</Rank>
     <Player>Rael</Player>
     <LostExp>92386</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -330,7 +346,7 @@
     <Location>(32010,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>44</Rank>
     <Player>Rael</Player>
     <LostExp>87339</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -338,7 +354,7 @@
     <Location>(31984,32059,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>45</Rank>
     <Player>Cacheiro </Player>
     <LostExp>53390</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -346,7 +362,7 @@
     <Location>(31962,32244,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>46</Rank>
     <Player>Qasdf</Player>
     <LostExp>13196</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -354,7 +370,7 @@
     <Location>(32007,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>47</Rank>
     <Player>Favelados</Player>
     <LostExp>11270</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -362,7 +378,7 @@
     <Location>(32005,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>48</Rank>
     <Player>Favelados</Player>
     <LostExp>10609</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -370,7 +386,7 @@
     <Location>(31864,32070,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>49</Rank>
     <Player>Qasdf</Player>
     <LostExp>7769</LostExp>
     <KilledBy>Orc Leader</KilledBy>
