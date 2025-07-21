@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753140605977</GeneratedAt>
+  <GeneratedAt>1753140905958</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Skayland</Player>
+    <LostExp>744049</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-07-22 01:32:32</Time>
+    <Location>(32851,31978,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Rael</Player>
     <LostExp>520809</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32849,31983,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Kant</Player>
     <LostExp>206543</LostExp>
     <KilledBy>Wispin</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32065,32357,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Kant</Player>
     <LostExp>185888</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32028,32281,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Kant</Player>
     <LostExp>167300</LostExp>
     <KilledBy>Wispin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32066,32356,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Cabecudo</Player>
     <LostExp>74313</LostExp>
     <KilledBy>Bear</KilledBy>
