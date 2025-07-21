@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753061706589</GeneratedAt>
+  <GeneratedAt>1753062006570</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bii</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Eunha</Player>
+    <LostExp>120683570</LostExp>
+    <KilledBy>Blue Stone</KilledBy>
+    <Time>2025-07-21 03:39:00</Time>
+    <Location>(31912,32204,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Riquekmila</Player>
     <LostExp>47014303</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32042,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>15675243</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31891,32015,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Matadordpk</Player>
     <LostExp>14668938</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31895,32006,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Verockx</Player>
     <LostExp>9424996</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31864,32075,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Jackfrost</Player>
     <LostExp>6423884</LostExp>
     <KilledBy>Leechacle</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32854,32036,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Jackfrost</Player>
     <LostExp>4765018</LostExp>
     <KilledBy>Leechacle</KilledBy>
