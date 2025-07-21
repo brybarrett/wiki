@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753062606608</GeneratedAt>
+  <GeneratedAt>1753062906564</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Brisadeira</Player>
+    <LostExp>206010223</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-07-21 03:54:40</Time>
+    <Location>(31799,31938,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Bii</Player>
     <LostExp>176586928</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32180,32265,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Eunha</Player>
     <LostExp>120683570</LostExp>
     <KilledBy>Blue Stone</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31912,32204,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Riquekmila</Player>
     <LostExp>47014303</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32042,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>15675243</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31891,32015,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Matadordpk</Player>
     <LostExp>14668938</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31895,32006,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Verockx</Player>
     <LostExp>9424996</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31864,32075,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Jackfrost</Player>
     <LostExp>7091934</LostExp>
     <KilledBy>Bastinx</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32877,32017,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Jackfrost</Player>
     <LostExp>6423884</LostExp>
     <KilledBy>Leechacle</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32854,32036,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Jackfrost</Player>
     <LostExp>4765018</LostExp>
     <KilledBy>Leechacle</KilledBy>
