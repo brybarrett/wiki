@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753138505934</GeneratedAt>
+  <GeneratedAt>1753138805918</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Rael</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Wispin</KilledBy>
     <Time>2025-07-22 00:54:06</Time>
     <Location>(32065,32357,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Kant</Player>
+    <LostExp>185888</LostExp>
+    <KilledBy>Kreppan</KilledBy>
+    <Time>2025-07-22 00:56:49</Time>
+    <Location>(32028,32281,7)</Location>
   </DeathEvent>
 </DeathHighscores>
