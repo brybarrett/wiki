@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753095606815</GeneratedAt>
+  <GeneratedAt>1753095906809</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Eunha</Player>
@@ -155,6 +155,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>20</Rank>
+    <Player>Xmrbx</Player>
+    <LostExp>3351</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-07-21 13:01:30</Time>
+    <Location>(31990,32013,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
     <Player>Kenpachi</Player>
     <LostExp>558</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31993,31996,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Kenpachi</Player>
     <LostExp>520</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31989,32017,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Kenpachi</Player>
     <LostExp>92</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31989,32014,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Kenpachi</Player>
     <LostExp>83</LostExp>
     <KilledBy>GM-Doro</KilledBy>
