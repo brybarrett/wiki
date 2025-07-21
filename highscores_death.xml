@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753070106643</GeneratedAt>
+  <GeneratedAt>1753070406640</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Eunha</Player>
@@ -88,5 +88,13 @@
     <KilledBy>Leechacle</KilledBy>
     <Time>2025-07-21 01:41:07</Time>
     <Location>(32887,31972,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Zoropanta</Player>
+    <LostExp>1684329</LostExp>
+    <KilledBy>Gaspar</KilledBy>
+    <Time>2025-07-21 05:57:46</Time>
+    <Location>(31957,31864,8)</Location>
   </DeathEvent>
 </DeathHighscores>
