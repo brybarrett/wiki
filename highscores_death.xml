@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753088106757</GeneratedAt>
+  <GeneratedAt>1753088406769</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Eunha</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Rael</Player>
+    <LostExp>250889</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-21 10:57:30</Time>
+    <Location>(31896,32048,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Binlada</Player>
     <LostExp>218831</LostExp>
     <KilledBy>Little Drake</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32012,31941,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Binlada</Player>
     <LostExp>215053</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32018,31938,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Kenpachi</Player>
     <LostExp>558</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31993,31996,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Kenpachi</Player>
     <LostExp>520</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31989,32017,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Kenpachi</Player>
     <LostExp>92</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31989,32014,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Kenpachi</Player>
     <LostExp>83</LostExp>
     <KilledBy>GM-Doro</KilledBy>
