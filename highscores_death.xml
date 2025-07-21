@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753059906565</GeneratedAt>
+  <GeneratedAt>1753060206573</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bii</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Jackfrost</Player>
+    <LostExp>6423884</LostExp>
+    <KilledBy>Leechacle</KilledBy>
+    <Time>2025-07-21 03:09:06</Time>
+    <Location>(32854,32036,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Jackfrost</Player>
     <LostExp>4765018</LostExp>
     <KilledBy>Leechacle</KilledBy>
