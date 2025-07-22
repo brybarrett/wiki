@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753214706510</GeneratedAt>
+  <GeneratedAt>1753215006519</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Laubisomi</Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Magonegro</Player>
+    <LostExp>4244475</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-07-22 22:10:01</Time>
+    <Location>(32060,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Kenzo</Player>
     <LostExp>1845363</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32858,31971,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Rael</Player>
     <LostExp>1679747</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31959,31995,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Rael</Player>
     <LostExp>1629199</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31941,31999,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Rael</Player>
     <LostExp>1611638</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31905,31986,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Rael</Player>
     <LostExp>1556837</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31971,31986,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Rael</Player>
     <LostExp>1515700</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31965,32269,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Skayland</Player>
     <LostExp>744049</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32851,31978,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Rael</Player>
     <LostExp>520809</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32849,31983,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Kant</Player>
     <LostExp>206543</LostExp>
     <KilledBy>Wispin</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32065,32357,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Kant</Player>
     <LostExp>185888</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32028,32281,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Kant</Player>
     <LostExp>167300</LostExp>
     <KilledBy>Wispin</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32066,32356,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Tyrod</Player>
     <LostExp>131028</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32006,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Tyrod</Player>
     <LostExp>121929</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32005,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Chenxin</Player>
     <LostExp>107954</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32035,31974,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Cabecudo</Player>
     <LostExp>74313</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32029,31973,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Matr</Player>
     <LostExp>32265</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32043,31965,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Matr</Player>
     <LostExp>32000</LostExp>
     <KilledBy>Scorpion</KilledBy>
