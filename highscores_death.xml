@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753158006090</GeneratedAt>
+  <GeneratedAt>1753158306091</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Laubisomi</Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Tyrod</Player>
+    <LostExp>121929</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-22 06:21:31</Time>
+    <Location>(32005,31881,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Cabecudo</Player>
     <LostExp>74313</LostExp>
     <KilledBy>Bear</KilledBy>
