@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753212006478</GeneratedAt>
+  <GeneratedAt>1753212306492</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Laubisomi</Player>
@@ -216,5 +216,13 @@
     <KilledBy>Bear</KilledBy>
     <Time>2025-07-22 21:05:19</Time>
     <Location>(32043,31965,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
+    <Player>Matr</Player>
+    <LostExp>32000</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-22 21:21:02</Time>
+    <Location>(31981,31921,9)</Location>
   </DeathEvent>
 </DeathHighscores>
