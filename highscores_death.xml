@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753233606276</GeneratedAt>
+  <GeneratedAt>1753233906264</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Dashloth</Player>
+    <LostExp>1179353</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2025-07-23 03:22:08</Time>
+    <Location>(31866,32053,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Matr</Player>
     <LostExp>220749</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31900,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Matr</Player>
     <LostExp>162859</LostExp>
     <KilledBy>Tarantula</KilledBy>
