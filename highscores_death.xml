@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753308913239</GeneratedAt>
+  <GeneratedAt>1753309204560</GeneratedAt>
+  <DeathEvent>
+    <Rank>1</Rank>
+    <Player>Hakina</Player>
+    <LostExp>165934279</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-07-24 00:16:49</Time>
+    <Location>(31964,32269,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Galadriel</Player>
+    <LostExp>73581374</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-07-24 00:15:48</Time>
+    <Location>(31961,32254,8)</Location>
+  </DeathEvent>
 </DeathHighscores>
