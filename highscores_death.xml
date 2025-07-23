@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753254606431</GeneratedAt>
+  <GeneratedAt>1753254906434</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -99,6 +99,46 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Enio</Player>
+    <LostExp>58613743</LostExp>
+    <KilledBy>Foresdrake</KilledBy>
+    <Time>2025-07-23 09:10:32</Time>
+    <Location>(32877,32038,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Enio</Player>
+    <LostExp>55683056</LostExp>
+    <KilledBy>Foresdrake</KilledBy>
+    <Time>2025-07-23 09:11:20</Time>
+    <Location>(32869,32032,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Enio</Player>
+    <LostExp>52898927</LostExp>
+    <KilledBy>Foresdrake</KilledBy>
+    <Time>2025-07-23 09:12:11</Time>
+    <Location>(32867,32034,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Enio</Player>
+    <LostExp>50254004</LostExp>
+    <KilledBy>Bloodbeak</KilledBy>
+    <Time>2025-07-23 09:13:17</Time>
+    <Location>(32833,32041,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
+    <Player>Enio</Player>
+    <LostExp>47741304</LostExp>
+    <KilledBy>Bloodbeak</KilledBy>
+    <Time>2025-07-23 09:14:14</Time>
+    <Location>(32835,32038,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Liaauliaa</Player>
     <LostExp>16979753</LostExp>
     <KilledBy>Krakomin</KilledBy>
@@ -106,7 +146,7 @@
     <Location>(31788,31941,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>19</Rank>
     <Player>Rael</Player>
     <LostExp>1838444</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -114,7 +154,7 @@
     <Location>(32016,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>20</Rank>
     <Player>Rael</Player>
     <LostExp>1833465</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -122,7 +162,7 @@
     <Location>(32870,31967,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>21</Rank>
     <Player>Dashloth</Player>
     <LostExp>1179353</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -130,7 +170,7 @@
     <Location>(31866,32053,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>22</Rank>
     <Player>Matr</Player>
     <LostExp>220749</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -138,7 +178,7 @@
     <Location>(31900,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>23</Rank>
     <Player>Matr</Player>
     <LostExp>162859</LostExp>
     <KilledBy>Tarantula</KilledBy>
