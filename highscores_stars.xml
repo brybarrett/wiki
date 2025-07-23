@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1753266906536</GeneratedAt>
+  <GeneratedAt>1753267206533</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -38,12 +38,12 @@
   </Player>
   <Player>
     <Rank>8</Rank>
-    <Name>Maxx</Name>
+    <Name>Kingdeus</Name>
     <StarsCollected>280</StarsCollected>
   </Player>
   <Player>
     <Rank>9</Rank>
-    <Name>Kingdeus</Name>
+    <Name>Maxx</Name>
     <StarsCollected>280</StarsCollected>
   </Player>
   <Player>
@@ -118,17 +118,17 @@
   </Player>
   <Player>
     <Rank>24</Rank>
-    <Name>Avatarus</Name>
-    <StarsCollected>207</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>25</Rank>
     <Name>Lendario</Name>
     <StarsCollected>207</StarsCollected>
   </Player>
   <Player>
-    <Rank>26</Rank>
+    <Rank>25</Rank>
     <Name>Seventysvn</Name>
+    <StarsCollected>207</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>26</Rank>
+    <Name>Avatarus</Name>
     <StarsCollected>207</StarsCollected>
   </Player>
   <Player>
@@ -448,27 +448,27 @@
   </Player>
   <Player>
     <Rank>90</Rank>
-    <Name>Yoshikazu</Name>
-    <StarsCollected>136</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>91</Rank>
-    <Name>Niggawar</Name>
-    <StarsCollected>136</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>92</Rank>
     <Name>Exist</Name>
     <StarsCollected>136</StarsCollected>
   </Player>
   <Player>
+    <Rank>91</Rank>
+    <Name>Yoshikazu</Name>
+    <StarsCollected>136</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>92</Rank>
+    <Name>Niggawar</Name>
+    <StarsCollected>136</StarsCollected>
+  </Player>
+  <Player>
     <Rank>93</Rank>
-    <Name>Enio</Name>
+    <Name>Killer</Name>
     <StarsCollected>135</StarsCollected>
   </Player>
   <Player>
     <Rank>94</Rank>
-    <Name>Killer</Name>
+    <Name>Enio</Name>
     <StarsCollected>135</StarsCollected>
   </Player>
   <Player>
@@ -488,12 +488,12 @@
   </Player>
   <Player>
     <Rank>98</Rank>
-    <Name>Warr</Name>
+    <Name>Nudin</Name>
     <StarsCollected>132</StarsCollected>
   </Player>
   <Player>
     <Rank>99</Rank>
-    <Name>Nudin</Name>
+    <Name>Warr</Name>
     <StarsCollected>132</StarsCollected>
   </Player>
   <Player>
@@ -523,27 +523,27 @@
   </Player>
   <Player>
     <Rank>105</Rank>
-    <Name>Renegado</Name>
-    <StarsCollected>125</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>106</Rank>
     <Name>Mineira</Name>
     <StarsCollected>125</StarsCollected>
   </Player>
   <Player>
-    <Rank>107</Rank>
-    <Name>Wk</Name>
-    <StarsCollected>124</StarsCollected>
+    <Rank>106</Rank>
+    <Name>Renegado</Name>
+    <StarsCollected>125</StarsCollected>
   </Player>
   <Player>
-    <Rank>108</Rank>
+    <Rank>107</Rank>
     <Name>Sasukez</Name>
     <StarsCollected>124</StarsCollected>
   </Player>
   <Player>
-    <Rank>109</Rank>
+    <Rank>108</Rank>
     <Name>Rog</Name>
+    <StarsCollected>124</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>109</Rank>
+    <Name>Wk</Name>
     <StarsCollected>124</StarsCollected>
   </Player>
   <Player>
@@ -588,12 +588,12 @@
   </Player>
   <Player>
     <Rank>118</Rank>
-    <Name>Megume</Name>
+    <Name>Narack</Name>
     <StarsCollected>117</StarsCollected>
   </Player>
   <Player>
     <Rank>119</Rank>
-    <Name>Narack</Name>
+    <Name>Megume</Name>
     <StarsCollected>117</StarsCollected>
   </Player>
   <Player>
@@ -638,7 +638,7 @@
   </Player>
   <Player>
     <Rank>128</Rank>
-    <Name>Jeeje</Name>
+    <Name>Biawak</Name>
     <StarsCollected>104</StarsCollected>
   </Player>
 </StarsHighscores>
