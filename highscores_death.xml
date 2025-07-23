@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753310704565</GeneratedAt>
+  <GeneratedAt>1753311004561</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -11,10 +11,34 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Hakina</Player>
+    <LostExp>149525615</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-07-24 00:47:27</Time>
+    <Location>(31964,32269,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Galadriel</Player>
     <LostExp>73581374</LostExp>
     <KilledBy>Blaze Master</KilledBy>
     <Time>2025-07-24 00:15:48</Time>
     <Location>(31961,32254,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Miacalifa</Player>
+    <LostExp>9581</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-24 00:49:48</Time>
+    <Location>(31894,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Miacalifa</Player>
+    <LostExp>8623</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-24 00:49:48</Time>
+    <Location>(31894,32050,8)</Location>
   </DeathEvent>
 </DeathHighscores>
