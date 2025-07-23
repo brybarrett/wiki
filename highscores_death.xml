@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753256706440</GeneratedAt>
+  <GeneratedAt>1753257006451</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -371,6 +371,62 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>47</Rank>
+    <Player>Enio</Player>
+    <LostExp>10786723</LostExp>
+    <KilledBy>Foresdrake</KilledBy>
+    <Time>2025-07-23 09:45:06</Time>
+    <Location>(32863,32028,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>48</Rank>
+    <Player>Enio</Player>
+    <LostExp>10247386</LostExp>
+    <KilledBy>Foresdrake</KilledBy>
+    <Time>2025-07-23 09:46:01</Time>
+    <Location>(32864,32027,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>49</Rank>
+    <Player>Enio</Player>
+    <LostExp>9735017</LostExp>
+    <KilledBy>Foresdrake</KilledBy>
+    <Time>2025-07-23 09:46:35</Time>
+    <Location>(32862,32028,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>50</Rank>
+    <Player>Enio</Player>
+    <LostExp>9248290</LostExp>
+    <KilledBy>Foresdrake</KilledBy>
+    <Time>2025-07-23 09:47:19</Time>
+    <Location>(32863,32028,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>51</Rank>
+    <Player>Enio</Player>
+    <LostExp>8785876</LostExp>
+    <KilledBy>Foresdrake</KilledBy>
+    <Time>2025-07-23 09:47:54</Time>
+    <Location>(32862,32028,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>52</Rank>
+    <Player>Enio</Player>
+    <LostExp>8346582</LostExp>
+    <KilledBy>Foresdrake</KilledBy>
+    <Time>2025-07-23 09:48:45</Time>
+    <Location>(32863,32028,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>53</Rank>
+    <Player>Enio</Player>
+    <LostExp>7929253</LostExp>
+    <KilledBy>Foresdrake</KilledBy>
+    <Time>2025-07-23 09:49:43</Time>
+    <Location>(32863,32028,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>54</Rank>
     <Player>Rael</Player>
     <LostExp>1838444</LostExp>
     <KilledBy>Crystally</KilledBy>
@@ -378,7 +434,7 @@
     <Location>(32016,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>55</Rank>
     <Player>Rael</Player>
     <LostExp>1833465</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -386,7 +442,7 @@
     <Location>(32870,31967,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>56</Rank>
     <Player>Dashloth</Player>
     <LostExp>1179353</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -394,7 +450,7 @@
     <Location>(31866,32053,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>57</Rank>
     <Player>Matr</Player>
     <LostExp>220749</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -402,7 +458,7 @@
     <Location>(31900,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>58</Rank>
     <Player>Matr</Player>
     <LostExp>162859</LostExp>
     <KilledBy>Tarantula</KilledBy>
