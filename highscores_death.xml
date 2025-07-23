@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753292106735</GeneratedAt>
+  <GeneratedAt>1753292406731</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -944,5 +944,13 @@
     <KilledBy>Orc Raider</KilledBy>
     <Time>2025-07-23 10:18:01</Time>
     <Location>(31971,31868,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>119</Rank>
+    <Player>Thc</Player>
+    <LostExp>11603</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-07-23 19:38:44</Time>
+    <Location>(32023,31944,8)</Location>
   </DeathEvent>
 </DeathHighscores>
