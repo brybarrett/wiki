@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753290606728</GeneratedAt>
+  <GeneratedAt>1753290906728</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -907,6 +907,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>114</Rank>
+    <Player>Matr</Player>
+    <LostExp>603323</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-23 19:13:35</Time>
+    <Location>(31912,32043,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>115</Rank>
     <Player>Thailinkun</Player>
     <LostExp>491586</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -914,7 +922,7 @@
     <Location>(31862,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>115</Rank>
+    <Rank>116</Rank>
     <Player>Matr</Player>
     <LostExp>220749</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -922,7 +930,7 @@
     <Location>(31900,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>116</Rank>
+    <Rank>117</Rank>
     <Player>Matr</Player>
     <LostExp>162859</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -930,7 +938,7 @@
     <Location>(31871,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>117</Rank>
+    <Rank>118</Rank>
     <Player>Eduzinhuu</Player>
     <LostExp>79940</LostExp>
     <KilledBy>Orc Raider</KilledBy>
