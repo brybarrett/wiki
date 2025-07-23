@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753296006765</GeneratedAt>
+  <GeneratedAt>1753296306757</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -955,6 +955,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>120</Rank>
+    <Player>Thc</Player>
+    <LostExp>26409</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-07-23 20:44:51</Time>
+    <Location>(32001,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>121</Rank>
     <Player>Thc</Player>
     <LostExp>11603</LostExp>
     <KilledBy>Fire Drake</KilledBy>
