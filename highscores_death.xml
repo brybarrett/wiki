@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753393505296</GeneratedAt>
+  <GeneratedAt>1753393805300</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Eztoymjr</Player>
@@ -396,13 +396,21 @@
   <DeathEvent>
     <Rank>50</Rank>
     <Player>Maryalen</Player>
+    <LostExp>43487</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2025-07-24 23:47:53</Time>
+    <Location>(32047,32340,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>51</Rank>
+    <Player>Maryalen</Player>
     <LostExp>42258</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
     <Time>2025-07-24 06:14:44</Time>
     <Location>(32040,32035,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Maryalen</Player>
     <LostExp>40394</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Maryalen</Player>
     <LostExp>36953</LostExp>
     <KilledBy>Wisperfire</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(31883,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Thc</Player>
     <LostExp>35627</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -426,7 +434,7 @@
     <Location>(32009,31843,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
     <Player>Maryalen</Player>
     <LostExp>21648</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -434,7 +442,7 @@
     <Location>(31995,32061,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>56</Rank>
     <Player>Miacalifa</Player>
     <LostExp>12721</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -442,7 +450,7 @@
     <Location>(31862,32053,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Miacalifa</Player>
     <LostExp>11953</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(31966,31923,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Miacalifa</Player>
     <LostExp>9581</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -458,7 +466,7 @@
     <Location>(31894,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Miacalifa</Player>
     <LostExp>8623</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -466,7 +474,7 @@
     <Location>(31894,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>59</Rank>
+    <Rank>60</Rank>
     <Player>Airwavess</Player>
     <LostExp>6391</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -474,7 +482,7 @@
     <Location>(32789,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>60</Rank>
+    <Rank>61</Rank>
     <Player>Airwavess</Player>
     <LostExp>5962</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -482,7 +490,7 @@
     <Location>(31943,31915,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>61</Rank>
+    <Rank>62</Rank>
     <Player>Airwavess</Player>
     <LostExp>5383</LostExp>
     <KilledBy>Treant</KilledBy>
