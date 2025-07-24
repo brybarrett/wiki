@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753395906089</GeneratedAt>
+  <GeneratedAt>1753396206076</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Maryalen</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-07-25 00:16:02</Time>
     <Location>(31982,32064,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Maryalen</Player>
+    <LostExp>46109</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-07-25 00:28:51</Time>
+    <Location>(31988,32063,9)</Location>
   </DeathEvent>
 </DeathHighscores>
