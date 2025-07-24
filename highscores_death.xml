@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753329904714</GeneratedAt>
+  <GeneratedAt>1753330204724</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Eztoymjr</Player>
+    <LostExp>379701693</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-07-24 06:06:39</Time>
+    <Location>(31918,32233,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Hakina</Player>
     <LostExp>165934279</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31964,32269,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Hakina</Player>
     <LostExp>149525615</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31964,32269,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Hakina</Player>
     <LostExp>135535963</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,15 @@
     <Location>(31964,32269,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
+    <Player>Eunha</Player>
+    <LostExp>120972996</LostExp>
+    <KilledBy>Chaomby</KilledBy>
+    <Time>2025-07-24 06:09:44</Time>
+    <Location>(31920,32220,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Galadriel</Player>
     <LostExp>73581374</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(31961,32254,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Nenawiz </Player>
     <LostExp>57608168</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31955,32281,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Matadordpk</Player>
     <LostExp>15391572</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Matadordpk</Player>
     <LostExp>14295792</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Oss</Player>
     <LostExp>1556882</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(31876,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Oss</Player>
     <LostExp>1439000</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(31876,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Maryalen</Player>
     <LostExp>40394</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Maryalen</Player>
     <LostExp>36953</LostExp>
     <KilledBy>Wisperfire</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(31883,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Thc</Player>
     <LostExp>35627</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -98,7 +114,7 @@
     <Location>(32009,31843,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>15</Rank>
     <Player>Maryalen</Player>
     <LostExp>21648</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -106,7 +122,7 @@
     <Location>(31995,32061,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <Player>Miacalifa</Player>
     <LostExp>12721</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -114,7 +130,7 @@
     <Location>(31862,32053,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>17</Rank>
     <Player>Miacalifa</Player>
     <LostExp>11953</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -122,7 +138,7 @@
     <Location>(31966,31923,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>18</Rank>
     <Player>Miacalifa</Player>
     <LostExp>9581</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -130,7 +146,7 @@
     <Location>(31894,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>19</Rank>
     <Player>Miacalifa</Player>
     <LostExp>8623</LostExp>
     <KilledBy>Werewolf</KilledBy>
