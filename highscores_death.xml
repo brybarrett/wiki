@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753387505231</GeneratedAt>
+  <GeneratedAt>1753387805241</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Eztoymjr</Player>
@@ -340,13 +340,21 @@
   <DeathEvent>
     <Rank>43</Rank>
     <Player>Miacalifa</Player>
+    <LostExp>52811</LostExp>
+    <KilledBy>Troll</KilledBy>
+    <Time>2025-07-24 22:08:07</Time>
+    <Location>(31879,32067,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>44</Rank>
+    <Player>Miacalifa</Player>
     <LostExp>51232</LostExp>
     <KilledBy>Chaombie</KilledBy>
     <Time>2025-07-24 17:28:42</Time>
     <Location>(31912,32216,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Miacalifa</Player>
     <LostExp>49516</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(31914,32204,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Maryalen</Player>
     <LostExp>48318</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(31923,32234,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Miacalifa</Player>
     <LostExp>44108</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(31938,32227,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Maryalen</Player>
     <LostExp>42258</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(32040,32035,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Maryalen</Player>
     <LostExp>40394</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Maryalen</Player>
     <LostExp>36953</LostExp>
     <KilledBy>Wisperfire</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31883,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Thc</Player>
     <LostExp>35627</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(32009,31843,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Maryalen</Player>
     <LostExp>21648</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(31995,32061,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Miacalifa</Player>
     <LostExp>12721</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(31862,32053,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Miacalifa</Player>
     <LostExp>11953</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -426,7 +434,7 @@
     <Location>(31966,31923,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
     <Player>Miacalifa</Player>
     <LostExp>9581</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -434,7 +442,7 @@
     <Location>(31894,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>56</Rank>
     <Player>Miacalifa</Player>
     <LostExp>8623</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -442,11 +450,27 @@
     <Location>(31894,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Airwavess</Player>
     <LostExp>6391</LostExp>
     <KilledBy>Hell Guard</KilledBy>
     <Time>2025-07-24 22:02:16</Time>
     <Location>(32789,32251,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>58</Rank>
+    <Player>Airwavess</Player>
+    <LostExp>5962</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-24 22:06:29</Time>
+    <Location>(31943,31915,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>59</Rank>
+    <Player>Airwavess</Player>
+    <LostExp>5383</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-07-24 22:09:25</Time>
+    <Location>(31995,31908,8)</Location>
   </DeathEvent>
 </DeathHighscores>
