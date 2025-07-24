@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753315504621</GeneratedAt>
+  <GeneratedAt>1753315804607</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -52,13 +52,21 @@
   <DeathEvent>
     <Rank>7</Rank>
     <Player>Miacalifa</Player>
+    <LostExp>11953</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-24 02:05:54</Time>
+    <Location>(31966,31923,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Miacalifa</Player>
     <LostExp>9581</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-07-24 00:49:48</Time>
     <Location>(31894,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Miacalifa</Player>
     <LostExp>8623</LostExp>
     <KilledBy>Werewolf</KilledBy>
