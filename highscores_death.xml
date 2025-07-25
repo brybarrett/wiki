@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753413606221</GeneratedAt>
+  <GeneratedAt>1753413906225</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kakashi</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Renegado</Player>
+    <LostExp>135303607</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-07-25 05:21:36</Time>
+    <Location>(31960,32254,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Bii</Player>
     <LostExp>126315946</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31917,32231,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Belzebugod</Player>
     <LostExp>122145704</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31790,31948,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Mii</Player>
     <LostExp>47355424</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32144,32280,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Kurakura</Player>
     <LostExp>1387507</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32873,32000,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Phad</Player>
     <LostExp>664292</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31917,32011,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Maryalen</Player>
     <LostExp>48164</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31982,32064,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Maryalen</Player>
     <LostExp>46109</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31988,32063,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Maryalen</Player>
     <LostExp>43514</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32011,32031,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Koejp</Player>
     <LostExp>77</LostExp>
     <KilledBy>Scorpion</KilledBy>
