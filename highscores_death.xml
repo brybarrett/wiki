@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753408806188</GeneratedAt>
+  <GeneratedAt>1753409106175</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kakashi</Player>
+    <LostExp>1073741823</LostExp>
+    <KilledBy>Wisper</KilledBy>
+    <Time>2025-07-25 04:02:50</Time>
+    <Location>(31912,31940,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Justin</Player>
     <LostExp>276513592</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31961,32254,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Kurakura</Player>
     <LostExp>1387507</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32873,32000,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Maryalen</Player>
     <LostExp>48164</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31982,32064,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Maryalen</Player>
     <LostExp>46109</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31988,32063,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Maryalen</Player>
     <LostExp>43514</LostExp>
     <KilledBy>Skeleguard</KilledBy>
