@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753455906661</GeneratedAt>
+  <GeneratedAt>1753456206583</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kakashi</Player>
@@ -228,13 +228,21 @@
   <DeathEvent>
     <Rank>29</Rank>
     <Player>Kaand</Player>
+    <LostExp>4323</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-07-25 17:08:24</Time>
+    <Location>(31993,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
+    <Player>Kaand</Player>
     <LostExp>3448</LostExp>
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-07-25 12:36:23</Time>
     <Location>(31975,31953,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Quidbegala</Player>
     <LostExp>173</LostExp>
     <KilledBy>Spider</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31988,31863,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Quidbegala</Player>
     <LostExp>154</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32005,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Koejp</Player>
     <LostExp>77</LostExp>
     <KilledBy>Scorpion</KilledBy>
