@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753480206807</GeneratedAt>
+  <GeneratedAt>1753480506789</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kakashi</Player>
@@ -420,13 +420,29 @@
   <DeathEvent>
     <Rank>53</Rank>
     <Player>Koejp</Player>
+    <LostExp>2682</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-25 23:51:37</Time>
+    <Location>(31976,31909,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>54</Rank>
+    <Player>Koejp</Player>
     <LostExp>2681</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-07-25 22:39:24</Time>
     <Location>(32012,31884,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
+    <Player>Koejp</Player>
+    <LostExp>2414</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-25 23:54:04</Time>
+    <Location>(31983,31899,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>56</Rank>
     <Player>Koejp</Player>
     <LostExp>451</LostExp>
     <KilledBy>Spider</KilledBy>
@@ -434,7 +450,7 @@
     <Location>(31946,31921,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>57</Rank>
     <Player>Koejp</Player>
     <LostExp>303</LostExp>
     <KilledBy>Spider</KilledBy>
@@ -442,7 +458,7 @@
     <Location>(31938,31935,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>58</Rank>
     <Player>Quidbegala</Player>
     <LostExp>173</LostExp>
     <KilledBy>Spider</KilledBy>
@@ -450,7 +466,7 @@
     <Location>(31988,31863,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>59</Rank>
     <Player>Quidbegala</Player>
     <LostExp>154</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -458,7 +474,7 @@
     <Location>(32005,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>60</Rank>
     <Player>Koejp</Player>
     <LostExp>77</LostExp>
     <KilledBy>Scorpion</KilledBy>
