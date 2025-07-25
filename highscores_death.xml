@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753476906784</GeneratedAt>
+  <GeneratedAt>1753477206779</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kakashi</Player>
@@ -372,13 +372,21 @@
   <DeathEvent>
     <Rank>47</Rank>
     <Player>Koejp</Player>
+    <LostExp>2791</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-25 22:56:53</Time>
+    <Location>(31982,31919,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>48</Rank>
+    <Player>Koejp</Player>
     <LostExp>2788</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-07-25 17:50:02</Time>
     <Location>(32013,31884,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Koejp</Player>
     <LostExp>2747</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(31973,31892,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Koejp</Player>
     <LostExp>2681</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(32012,31884,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Koejp</Player>
     <LostExp>451</LostExp>
     <KilledBy>Spider</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31946,31921,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Koejp</Player>
     <LostExp>303</LostExp>
     <KilledBy>Spider</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(31938,31935,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Quidbegala</Player>
     <LostExp>173</LostExp>
     <KilledBy>Spider</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(31988,31863,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Quidbegala</Player>
     <LostExp>154</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -426,7 +434,7 @@
     <Location>(32005,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
     <Player>Koejp</Player>
     <LostExp>77</LostExp>
     <KilledBy>Scorpion</KilledBy>
