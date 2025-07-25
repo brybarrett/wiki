@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753416606251</GeneratedAt>
+  <GeneratedAt>1753416906251</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kakashi</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Thc</Player>
+    <LostExp>498260</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-07-25 06:14:12</Time>
+    <Location>(32048,32038,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Maryalen</Player>
     <LostExp>48164</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31982,32064,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Maryalen</Player>
     <LostExp>46109</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31988,32063,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Maryalen</Player>
     <LostExp>43514</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32011,32031,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Koejp</Player>
     <LostExp>77</LostExp>
     <KilledBy>Scorpion</KilledBy>
