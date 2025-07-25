@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753412706228</GeneratedAt>
+  <GeneratedAt>1753413006204</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kakashi</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Belzebugod</Player>
+    <LostExp>122145704</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-07-25 05:06:09</Time>
+    <Location>(31790,31948,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Mii</Player>
     <LostExp>47355424</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32144,32280,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Kurakura</Player>
     <LostExp>1387507</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32873,32000,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Phad</Player>
     <LostExp>664292</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31917,32011,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Maryalen</Player>
     <LostExp>48164</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31982,32064,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Maryalen</Player>
     <LostExp>46109</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31988,32063,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Maryalen</Player>
     <LostExp>43514</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32011,32031,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Koejp</Player>
     <LostExp>77</LostExp>
     <KilledBy>Scorpion</KilledBy>
