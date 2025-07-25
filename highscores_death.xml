@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753421106301</GeneratedAt>
+  <GeneratedAt>1753421406283</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kakashi</Player>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Quidbegala</Player>
+    <LostExp>154</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-25 07:29:39</Time>
+    <Location>(32005,31881,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Koejp</Player>
     <LostExp>77</LostExp>
     <KilledBy>Scorpion</KilledBy>
