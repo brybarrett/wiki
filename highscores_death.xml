@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753549283451</GeneratedAt>
+  <GeneratedAt>1753549583469</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Turok</Player>
+    <LostExp>100680</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-26 19:02:32</Time>
+    <Location>(32004,31872,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Liz</Player>
     <LostExp>24381</LostExp>
     <KilledBy>Werewolf</KilledBy>
