@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753500306443</GeneratedAt>
+  <GeneratedAt>1753500606423</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Seis</Player>
@@ -36,13 +36,21 @@
   <DeathEvent>
     <Rank>5</Rank>
     <Player>Usop</Player>
+    <LostExp>103927</LostExp>
+    <KilledBy>Shadow</KilledBy>
+    <Time>2025-07-26 05:28:27</Time>
+    <Location>(31952,31865,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Usop</Player>
     <LostExp>70467</LostExp>
     <KilledBy>Shogun</KilledBy>
     <Time>2025-07-26 04:44:52</Time>
     <Location>(32064,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Tah</Player>
     <LostExp>33145</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31996,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Koejp</Player>
     <LostExp>5579</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31995,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Koejp</Player>
     <LostExp>5175</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31976,31893,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Koejp</Player>
     <LostExp>4980</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31993,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Koejp</Player>
     <LostExp>1916</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32003,31882,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Srsmith</Player>
     <LostExp>939</LostExp>
     <KilledBy>Skeleton</KilledBy>
