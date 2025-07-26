@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753495806333</GeneratedAt>
+  <GeneratedAt>1753496106416</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Seis</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Galadriel</Player>
+    <LostExp>71043077</LostExp>
+    <KilledBy>Melkor</KilledBy>
+    <Time>2025-07-26 04:11:53</Time>
+    <Location>(31791,31935,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Otto</Player>
     <LostExp>20643265</LostExp>
     <KilledBy>Krakomin</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Matadordpk</Player>
     <LostExp>12957572</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -26,7 +34,15 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
+    <Player>Koejp</Player>
+    <LostExp>5175</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-26 04:13:45</Time>
+    <Location>(31976,31893,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Koejp</Player>
     <LostExp>4980</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(31993,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Koejp</Player>
     <LostExp>1916</LostExp>
     <KilledBy>Orc Leader</KilledBy>
