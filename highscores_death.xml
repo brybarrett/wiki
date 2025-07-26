@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753554383504</GeneratedAt>
+  <GeneratedAt>1753554683494</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Xoxox</Player>
+    <LostExp>11887214</LostExp>
+    <KilledBy>Bastinx</KilledBy>
+    <Time>2025-07-26 20:30:03</Time>
+    <Location>(32884,32017,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Lelia</Player>
     <LostExp>715588</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31863,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Turok</Player>
     <LostExp>100680</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32004,31872,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Liz</Player>
     <LostExp>24381</LostExp>
     <KilledBy>Werewolf</KilledBy>
