@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753563083571</GeneratedAt>
+  <GeneratedAt>1753563383573</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bonilha</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Sunset</Player>
+    <LostExp>17217952</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-07-26 22:55:46</Time>
+    <Location>(31795,31947,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Xoxox</Player>
     <LostExp>11887214</LostExp>
     <KilledBy>Bastinx</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32884,32017,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Lelia</Player>
     <LostExp>715588</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31863,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Turok</Player>
     <LostExp>100680</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32004,31872,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Liz</Player>
     <LostExp>24381</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31899,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Koejp</Player>
     <LostExp>8220</LostExp>
     <KilledBy>Scorpion</KilledBy>
