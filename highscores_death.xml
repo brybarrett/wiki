@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753529706704</GeneratedAt>
+  <GeneratedAt>1753530006637</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellwilzz</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Thc</Player>
+    <LostExp>212455</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-07-26 13:39:28</Time>
+    <Location>(31976,31859,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Miacalifa</Player>
     <LostExp>176408</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32012,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Usop</Player>
     <LostExp>103927</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31952,31865,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Usop</Player>
     <LostExp>70467</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32064,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Tah</Player>
     <LostExp>33145</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31996,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Qasdf</Player>
     <LostExp>20025</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32184,32267,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Koejp</Player>
     <LostExp>5579</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31995,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Koejp</Player>
     <LostExp>5175</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31976,31893,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Koejp</Player>
     <LostExp>4980</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31993,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Koejp</Player>
     <LostExp>1916</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32003,31882,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Srsmith</Player>
     <LostExp>939</LostExp>
     <KilledBy>Skeleton</KilledBy>
