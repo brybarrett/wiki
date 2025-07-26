@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753488906269</GeneratedAt>
+  <GeneratedAt>1753489206300</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Seis</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Otto</Player>
+    <LostExp>20643265</LostExp>
+    <KilledBy>Krakomin</KilledBy>
+    <Time>2025-07-26 02:19:55</Time>
+    <Location>(31776,31937,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Matadordpk</Player>
     <LostExp>12957572</LostExp>
     <KilledBy>Assasin</KilledBy>
