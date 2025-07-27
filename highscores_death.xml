@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753583680233</GeneratedAt>
+  <GeneratedAt>1753583980247</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Quatro</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Quidbegala</Player>
+    <LostExp>21023</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-07-27 04:39:20</Time>
+    <Location>(31944,32212,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Koejp</Player>
     <LostExp>9918</LostExp>
     <KilledBy>Scorpion</KilledBy>
