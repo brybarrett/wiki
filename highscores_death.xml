@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753656390758</GeneratedAt>
+  <GeneratedAt>1753656690752</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zoropanta</Player>
@@ -24,5 +24,13 @@
     <KilledBy>Warden</KilledBy>
     <Time>2025-07-28 00:22:53</Time>
     <Location>(32046,31909,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Quidbegala</Player>
+    <LostExp>17678</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-07-28 00:51:14</Time>
+    <Location>(31908,32207,8)</Location>
   </DeathEvent>
 </DeathHighscores>
