@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753659090795</GeneratedAt>
+  <GeneratedAt>1753659390832</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Rael </Player>
+    <LostExp>8674617</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-07-28 01:34:33</Time>
+    <Location>(31986,32253,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Rael </Player>
     <LostExp>4535414</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32022,32256,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Zoropanta</Player>
     <LostExp>2218744</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32015,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Thc</Player>
     <LostExp>1290016</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31874,31917,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Magomil</Player>
     <LostExp>111365</LostExp>
     <KilledBy>Warden</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32046,31909,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Quidbegala</Player>
     <LostExp>17678</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31908,32207,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Quidbegala</Player>
     <LostExp>15911</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31953,32201,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Quidbegala</Player>
     <LostExp>14319</LostExp>
     <KilledBy>Chaombie</KilledBy>
