@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1753584580243</GeneratedAt>
+  <GeneratedAt>1753584880235</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -103,12 +103,12 @@
   </Player>
   <Player>
     <Rank>21</Rank>
-    <Name>Genji</Name>
+    <Name>Karimpai</Name>
     <StarsCollected>221</StarsCollected>
   </Player>
   <Player>
     <Rank>22</Rank>
-    <Name>Karimpai</Name>
+    <Name>Genji</Name>
     <StarsCollected>221</StarsCollected>
   </Player>
   <Player>
@@ -188,17 +188,17 @@
   </Player>
   <Player>
     <Rank>38</Rank>
-    <Name>Deimonreii</Name>
+    <Name>Vulion</Name>
     <StarsCollected>192</StarsCollected>
   </Player>
   <Player>
     <Rank>39</Rank>
-    <Name>Victorbr</Name>
+    <Name>Deimonreii</Name>
     <StarsCollected>192</StarsCollected>
   </Player>
   <Player>
     <Rank>40</Rank>
-    <Name>Vulion</Name>
+    <Name>Victorbr</Name>
     <StarsCollected>192</StarsCollected>
   </Player>
   <Player>
@@ -253,12 +253,12 @@
   </Player>
   <Player>
     <Rank>51</Rank>
-    <Name>Fearlock</Name>
+    <Name>Kuro</Name>
     <StarsCollected>171</StarsCollected>
   </Player>
   <Player>
     <Rank>52</Rank>
-    <Name>Kuro</Name>
+    <Name>Fearlock</Name>
     <StarsCollected>171</StarsCollected>
   </Player>
   <Player>
@@ -288,12 +288,12 @@
   </Player>
   <Player>
     <Rank>58</Rank>
-    <Name>Devorz</Name>
+    <Name>Warmagedom</Name>
     <StarsCollected>166</StarsCollected>
   </Player>
   <Player>
     <Rank>59</Rank>
-    <Name>Warmagedom</Name>
+    <Name>Devorz</Name>
     <StarsCollected>166</StarsCollected>
   </Player>
   <Player>
@@ -403,12 +403,12 @@
   </Player>
   <Player>
     <Rank>81</Rank>
-    <Name>Biel</Name>
+    <Name>Drakee</Name>
     <StarsCollected>145</StarsCollected>
   </Player>
   <Player>
     <Rank>82</Rank>
-    <Name>Drakee</Name>
+    <Name>Biel</Name>
     <StarsCollected>145</StarsCollected>
   </Player>
   <Player>
@@ -433,32 +433,32 @@
   </Player>
   <Player>
     <Rank>87</Rank>
-    <Name>Warr</Name>
-    <StarsCollected>137</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>88</Rank>
     <Name>Godcarver</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
-    <Rank>89</Rank>
+    <Rank>88</Rank>
     <Name>Zed</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
-    <Rank>90</Rank>
+    <Rank>89</Rank>
     <Name>Fay</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
-    <Rank>91</Rank>
+    <Rank>90</Rank>
     <Name>Goat</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
-    <Rank>92</Rank>
+    <Rank>91</Rank>
     <Name>Blindadu</Name>
+    <StarsCollected>137</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>92</Rank>
+    <Name>Warr</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -498,12 +498,12 @@
   </Player>
   <Player>
     <Rank>100</Rank>
-    <Name>Qahderijan</Name>
+    <Name>Boruto</Name>
     <StarsCollected>131</StarsCollected>
   </Player>
   <Player>
     <Rank>101</Rank>
-    <Name>Boruto</Name>
+    <Name>Qahderijan</Name>
     <StarsCollected>131</StarsCollected>
   </Player>
   <Player>
@@ -538,17 +538,17 @@
   </Player>
   <Player>
     <Rank>108</Rank>
-    <Name>Wk</Name>
-    <StarsCollected>124</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>109</Rank>
     <Name>Rog</Name>
     <StarsCollected>124</StarsCollected>
   </Player>
   <Player>
-    <Rank>110</Rank>
+    <Rank>109</Rank>
     <Name>Gods</Name>
+    <StarsCollected>124</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>110</Rank>
+    <Name>Wk</Name>
     <StarsCollected>124</StarsCollected>
   </Player>
   <Player>
@@ -558,17 +558,17 @@
   </Player>
   <Player>
     <Rank>112</Rank>
-    <Name>Templarr</Name>
-    <StarsCollected>121</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>113</Rank>
     <Name>Salamaleko</Name>
     <StarsCollected>121</StarsCollected>
   </Player>
   <Player>
+    <Rank>113</Rank>
+    <Name>Templarr</Name>
+    <StarsCollected>121</StarsCollected>
+  </Player>
+  <Player>
     <Rank>114</Rank>
-    <Name>Rei</Name>
+    <Name>Ultron</Name>
     <StarsCollected>120</StarsCollected>
   </Player>
   <Player>
@@ -578,7 +578,7 @@
   </Player>
   <Player>
     <Rank>116</Rank>
-    <Name>Ultron</Name>
+    <Name>Rei</Name>
     <StarsCollected>120</StarsCollected>
   </Player>
   <Player>
