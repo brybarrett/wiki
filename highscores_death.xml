@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753585180259</GeneratedAt>
+  <GeneratedAt>1753585480264</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pancernik</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Koejp</Player>
+    <LostExp>11115</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-07-27 05:01:42</Time>
+    <Location>(31993,32047,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Koejp</Player>
     <LostExp>9918</LostExp>
     <KilledBy>Scorpion</KilledBy>
