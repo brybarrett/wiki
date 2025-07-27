@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753584880237</GeneratedAt>
+  <GeneratedAt>1753585180259</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Pancernik</Player>
+    <LostExp>1073741823</LostExp>
+    <KilledBy>Ancient</KilledBy>
+    <Time>2025-07-27 04:56:08</Time>
+    <Location>(32049,32328,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Quatro</Player>
     <LostExp>118176526</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31980,32269,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Kaitt</Player>
     <LostExp>61408884</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31801,31925,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Prowarrr</Player>
     <LostExp>15560041</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32045,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Anyian</Player>
     <LostExp>4303691</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32059,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Rael </Player>
     <LostExp>2336934</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32000,32255,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Nabrisa</Player>
     <LostExp>352567</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31989,32018,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Srsmith</Player>
     <LostExp>127009</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31996,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Liz</Player>
     <LostExp>24400</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31983,31907,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Quidbegala</Player>
     <LostExp>21023</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31944,32212,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Koejp</Player>
     <LostExp>9918</LostExp>
     <KilledBy>Scorpion</KilledBy>
