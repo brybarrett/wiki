@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753629880636</GeneratedAt>
+  <GeneratedAt>1753630180627</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pancernik</Player>
@@ -507,6 +507,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>64</Rank>
+    <Player>Mrsuhu</Player>
+    <LostExp>583</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-27 17:26:20</Time>
+    <Location>(31964,31931,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>65</Rank>
     <Player>Magomil</Player>
     <LostExp>537</LostExp>
     <KilledBy>Orc Leader</KilledBy>
