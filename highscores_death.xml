@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753584580244</GeneratedAt>
+  <GeneratedAt>1753584880237</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Quatro</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Srsmith</Player>
+    <LostExp>127009</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-07-27 04:54:34</Time>
+    <Location>(31996,32059,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Liz</Player>
     <LostExp>24400</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31983,31907,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Quidbegala</Player>
     <LostExp>21023</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31944,32212,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Koejp</Player>
     <LostExp>9918</LostExp>
     <KilledBy>Scorpion</KilledBy>
