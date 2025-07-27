@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753656990812</GeneratedAt>
+  <GeneratedAt>1753657290853</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zoropanta</Player>
@@ -32,5 +32,21 @@
     <KilledBy>Chaombie</KilledBy>
     <Time>2025-07-28 00:51:14</Time>
     <Location>(31908,32207,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Quidbegala</Player>
+    <LostExp>15911</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-07-28 00:57:15</Time>
+    <Location>(31953,32201,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Quidbegala</Player>
+    <LostExp>14319</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-07-28 00:58:44</Time>
+    <Location>(31933,32222,7)</Location>
   </DeathEvent>
 </DeathHighscores>
