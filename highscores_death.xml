@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753620880559</GeneratedAt>
+  <GeneratedAt>1753621180537</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pancernik</Player>
@@ -243,6 +243,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>31</Rank>
+    <Player>Srsmith</Player>
+    <LostExp>114615</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-27 14:56:08</Time>
+    <Location>(31982,31884,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>32</Rank>
     <Player>Tah</Player>
     <LostExp>106130</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32055,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Magomil</Player>
     <LostExp>42510</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31881,31904,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Liz</Player>
     <LostExp>24400</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(31983,31907,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Quidbegala</Player>
     <LostExp>21023</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31944,32212,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Quidbegala</Player>
     <LostExp>18921</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31945,32236,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Magomil</Player>
     <LostExp>13955</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(32005,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Magomil</Player>
     <LostExp>13192</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(32010,31885,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Magomil</Player>
     <LostExp>12559</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31992,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Koejp</Player>
     <LostExp>11115</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31993,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Koejp</Player>
     <LostExp>10484</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(32014,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Koejp</Player>
     <LostExp>9918</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(31983,31907,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Koejp</Player>
     <LostExp>9583</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(32006,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Magomil</Player>
     <LostExp>9034</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(32004,31883,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Kaand</Player>
     <LostExp>8512</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(32008,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Magomil</Player>
     <LostExp>7603</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Kaand</Player>
     <LostExp>7188</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(31976,31893,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Magomil</Player>
     <LostExp>3408</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31994,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Magomil</Player>
     <LostExp>3067</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(32013,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Magomil</Player>
     <LostExp>2761</LostExp>
     <KilledBy>Ghost</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31914,32030,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Magomil</Player>
     <LostExp>537</LostExp>
     <KilledBy>Orc Leader</KilledBy>
