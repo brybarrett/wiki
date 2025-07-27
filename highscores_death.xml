@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753655490757</GeneratedAt>
+  <GeneratedAt>1753655790757</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Zoropanta</Player>
+    <LostExp>2218744</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-28 00:33:23</Time>
+    <Location>(32015,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Thc</Player>
+    <LostExp>1290016</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-07-28 00:33:15</Time>
+    <Location>(31874,31917,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Magomil</Player>
     <LostExp>111365</LostExp>
     <KilledBy>Warden</KilledBy>
