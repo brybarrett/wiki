@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753734091372</GeneratedAt>
+  <GeneratedAt>1753734391375</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -539,6 +539,46 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>68</Rank>
+    <Player>Linkunz</Player>
+    <LostExp>3384</LostExp>
+    <KilledBy>Siauhai</KilledBy>
+    <Time>2025-07-28 22:23:36</Time>
+    <Location>(31976,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>69</Rank>
+    <Player>Linkunz</Player>
+    <LostExp>3045</LostExp>
+    <KilledBy>Siauhai</KilledBy>
+    <Time>2025-07-28 22:24:12</Time>
+    <Location>(31976,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>70</Rank>
+    <Player>Linkunz</Player>
+    <LostExp>2741</LostExp>
+    <KilledBy>Siauhai</KilledBy>
+    <Time>2025-07-28 22:24:58</Time>
+    <Location>(31975,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>71</Rank>
+    <Player>Linkunz</Player>
+    <LostExp>2467</LostExp>
+    <KilledBy>Siauhai</KilledBy>
+    <Time>2025-07-28 22:25:44</Time>
+    <Location>(31974,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>72</Rank>
+    <Player>Linkunz</Player>
+    <LostExp>2220</LostExp>
+    <KilledBy>Siauhai</KilledBy>
+    <Time>2025-07-28 22:26:30</Time>
+    <Location>(31975,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>73</Rank>
     <Player>Kaikr</Player>
     <LostExp>520</LostExp>
     <KilledBy>Scorpion</KilledBy>
