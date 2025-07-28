@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753665990896</GeneratedAt>
+  <GeneratedAt>1753666290877</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Rael </Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Bellah</Player>
+    <LostExp>15171</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-28 03:28:33</Time>
+    <Location>(31905,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Quidbegala</Player>
     <LostExp>14319</LostExp>
     <KilledBy>Chaombie</KilledBy>
