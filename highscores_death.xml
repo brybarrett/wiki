@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753741508743</GeneratedAt>
+  <GeneratedAt>1753741808728</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hypertank</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Chaombie</KilledBy>
     <Time>2025-07-29 00:22:34</Time>
     <Location>(31948,32204,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Usop</Player>
+    <LostExp>1159333</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-29 00:27:15</Time>
+    <Location>(32015,31879,8)</Location>
   </DeathEvent>
 </DeathHighscores>
