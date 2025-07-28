@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753734391375</GeneratedAt>
+  <GeneratedAt>1753734691393</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -579,6 +579,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>73</Rank>
+    <Player>Linkunz</Player>
+    <LostExp>1998</LostExp>
+    <KilledBy>Siauhai</KilledBy>
+    <Time>2025-07-28 22:27:14</Time>
+    <Location>(31975,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>74</Rank>
+    <Player>Linkunz</Player>
+    <LostExp>1798</LostExp>
+    <KilledBy>Siauhai</KilledBy>
+    <Time>2025-07-28 22:28:21</Time>
+    <Location>(31976,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>75</Rank>
     <Player>Kaikr</Player>
     <LostExp>520</LostExp>
     <KilledBy>Scorpion</KilledBy>
