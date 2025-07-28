@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753702891175</GeneratedAt>
+  <GeneratedAt>1753703191132</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -379,6 +379,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>48</Rank>
+    <Player>Quidbegala</Player>
+    <LostExp>13410</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-07-28 13:41:54</Time>
+    <Location>(31913,32214,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>49</Rank>
     <Player>Bellah</Player>
     <LostExp>12934</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(31995,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Koejp</Player>
     <LostExp>8666</LostExp>
     <KilledBy>Rottummy</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(32706,32321,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Kaikr</Player>
     <LostExp>520</LostExp>
     <KilledBy>Scorpion</KilledBy>
