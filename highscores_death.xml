@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753743008724</GeneratedAt>
+  <GeneratedAt>1753743308770</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hypertank</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Xkiritoxwi</Player>
+    <LostExp>13205158</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-07-29 00:52:27</Time>
+    <Location>(31863,32076,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Usop</Player>
     <LostExp>1159333</LostExp>
     <KilledBy>Orc Leader</KilledBy>
