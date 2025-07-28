@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753666890908</GeneratedAt>
+  <GeneratedAt>1753667190914</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Urekmazino</Player>
+    <LostExp>148841959</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-07-28 03:41:46</Time>
+    <Location>(31799,31939,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Rael </Player>
     <LostExp>8674617</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31986,32253,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Rael </Player>
     <LostExp>4535414</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32022,32256,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Stecuu</Player>
     <LostExp>3066412</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32193,32266,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Zoropanta</Player>
     <LostExp>2218744</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32015,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Thc</Player>
     <LostExp>1290016</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31874,31917,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Mafu</Player>
     <LostExp>1154960</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31881,31907,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Srsmith</Player>
     <LostExp>350439</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31983,32062,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Tah</Player>
     <LostExp>130247</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31995,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Magomil</Player>
     <LostExp>111365</LostExp>
     <KilledBy>Warden</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32046,31909,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Quidbegala</Player>
     <LostExp>17678</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31908,32207,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Quidbegala</Player>
     <LostExp>15911</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -90,7 +98,15 @@
     <Location>(31953,32201,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
+    <Player>Bellah</Player>
+    <LostExp>15327</LostExp>
+    <KilledBy>Bear</KilledBy>
+    <Time>2025-07-28 03:44:55</Time>
+    <Location>(32022,31988,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Bellah</Player>
     <LostExp>15171</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -98,11 +114,19 @@
     <Location>(31905,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>15</Rank>
     <Player>Quidbegala</Player>
     <LostExp>14319</LostExp>
     <KilledBy>Chaombie</KilledBy>
     <Time>2025-07-28 00:58:44</Time>
     <Location>(31933,32222,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Kaikr</Player>
+    <LostExp>520</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-28 03:45:13</Time>
+    <Location>(31975,31908,9)</Location>
   </DeathEvent>
 </DeathHighscores>
