@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753711291185</GeneratedAt>
+  <GeneratedAt>1753711591191</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -324,13 +324,21 @@
   <DeathEvent>
     <Rank>41</Rank>
     <Player>Bellah</Player>
+    <LostExp>23120</LostExp>
+    <KilledBy>Djinn</KilledBy>
+    <Time>2025-07-28 16:02:27</Time>
+    <Location>(32793,32222,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>42</Rank>
+    <Player>Bellah</Player>
     <LostExp>21536</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-07-28 06:27:11</Time>
     <Location>(32007,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Bellah</Player>
     <LostExp>21351</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(32015,31882,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Quidbegala</Player>
     <LostExp>17678</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(31908,32207,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Quidbegala</Player>
     <LostExp>15911</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(31953,32201,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Bellah</Player>
     <LostExp>15669</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(31972,31876,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Bellah</Player>
     <LostExp>15327</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(32022,31988,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Bellah</Player>
     <LostExp>15171</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31905,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Bellah</Player>
     <LostExp>14368</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(31900,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Quidbegala</Player>
     <LostExp>14319</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31933,32222,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Quidbegala</Player>
     <LostExp>13805</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31953,32219,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Quidbegala</Player>
     <LostExp>13467</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(31940,32201,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Quidbegala</Player>
     <LostExp>13410</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(31913,32214,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Bellah</Player>
     <LostExp>12934</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -426,7 +434,7 @@
     <Location>(31995,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
     <Player>Koejp</Player>
     <LostExp>8666</LostExp>
     <KilledBy>Rottummy</KilledBy>
@@ -434,7 +442,7 @@
     <Location>(32706,32321,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>56</Rank>
     <Player>Kaikr</Player>
     <LostExp>520</LostExp>
     <KilledBy>Scorpion</KilledBy>
