@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1753805269673</GeneratedAt>
+  <GeneratedAt>1753805569679</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -103,12 +103,12 @@
   </Player>
   <Player>
     <Rank>21</Rank>
-    <Name>Karimpai</Name>
+    <Name>Genji</Name>
     <StarsCollected>221</StarsCollected>
   </Player>
   <Player>
     <Rank>22</Rank>
-    <Name>Genji</Name>
+    <Name>Karimpai</Name>
     <StarsCollected>221</StarsCollected>
   </Player>
   <Player>
@@ -153,12 +153,12 @@
   </Player>
   <Player>
     <Rank>31</Rank>
-    <Name>Ynk</Name>
+    <Name>Dewezz</Name>
     <StarsCollected>203</StarsCollected>
   </Player>
   <Player>
     <Rank>32</Rank>
-    <Name>Dewezz</Name>
+    <Name>Ynk</Name>
     <StarsCollected>203</StarsCollected>
   </Player>
   <Player>
@@ -198,12 +198,12 @@
   </Player>
   <Player>
     <Rank>40</Rank>
-    <Name>Deimonreii</Name>
+    <Name>Vulion</Name>
     <StarsCollected>192</StarsCollected>
   </Player>
   <Player>
     <Rank>41</Rank>
-    <Name>Vulion</Name>
+    <Name>Deimonreii</Name>
     <StarsCollected>192</StarsCollected>
   </Player>
   <Player>
@@ -288,17 +288,17 @@
   </Player>
   <Player>
     <Rank>58</Rank>
-    <Name>Devorz</Name>
+    <Name>Warmagedom</Name>
     <StarsCollected>166</StarsCollected>
   </Player>
   <Player>
     <Rank>59</Rank>
-    <Name>Durin</Name>
+    <Name>Devorz</Name>
     <StarsCollected>166</StarsCollected>
   </Player>
   <Player>
     <Rank>60</Rank>
-    <Name>Warmagedom</Name>
+    <Name>Durin</Name>
     <StarsCollected>166</StarsCollected>
   </Player>
   <Player>
@@ -323,12 +323,12 @@
   </Player>
   <Player>
     <Rank>65</Rank>
-    <Name>Lumelia</Name>
+    <Name>Karin</Name>
     <StarsCollected>160</StarsCollected>
   </Player>
   <Player>
     <Rank>66</Rank>
-    <Name>Karin</Name>
+    <Name>Lumelia</Name>
     <StarsCollected>160</StarsCollected>
   </Player>
   <Player>
@@ -368,22 +368,22 @@
   </Player>
   <Player>
     <Rank>74</Rank>
-    <Name>Moondeath</Name>
-    <StarsCollected>154</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>75</Rank>
     <Name>Apocalypse</Name>
     <StarsCollected>154</StarsCollected>
   </Player>
   <Player>
+    <Rank>75</Rank>
+    <Name>Moondeath</Name>
+    <StarsCollected>154</StarsCollected>
+  </Player>
+  <Player>
     <Rank>76</Rank>
-    <Name>Thor</Name>
+    <Name>Rigger</Name>
     <StarsCollected>152</StarsCollected>
   </Player>
   <Player>
     <Rank>77</Rank>
-    <Name>Rigger</Name>
+    <Name>Thor</Name>
     <StarsCollected>152</StarsCollected>
   </Player>
   <Player>
@@ -443,7 +443,7 @@
   </Player>
   <Player>
     <Rank>89</Rank>
-    <Name>Zed</Name>
+    <Name>Renegado</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -463,17 +463,17 @@
   </Player>
   <Player>
     <Rank>93</Rank>
-    <Name>Renegado</Name>
+    <Name>Zed</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
     <Rank>94</Rank>
-    <Name>Niggawar</Name>
+    <Name>Nudin</Name>
     <StarsCollected>136</StarsCollected>
   </Player>
   <Player>
     <Rank>95</Rank>
-    <Name>Nudin</Name>
+    <Name>Niggawar</Name>
     <StarsCollected>136</StarsCollected>
   </Player>
   <Player>
@@ -538,7 +538,7 @@
   </Player>
   <Player>
     <Rank>108</Rank>
-    <Name>Yuta</Name>
+    <Name>Mineira</Name>
     <StarsCollected>125</StarsCollected>
   </Player>
   <Player>
@@ -548,7 +548,7 @@
   </Player>
   <Player>
     <Rank>110</Rank>
-    <Name>Mineira</Name>
+    <Name>Yuta</Name>
     <StarsCollected>125</StarsCollected>
   </Player>
   <Player>
@@ -593,12 +593,12 @@
   </Player>
   <Player>
     <Rank>119</Rank>
-    <Name>Narack</Name>
+    <Name>Megume</Name>
     <StarsCollected>117</StarsCollected>
   </Player>
   <Player>
     <Rank>120</Rank>
-    <Name>Megume</Name>
+    <Name>Narack</Name>
     <StarsCollected>117</StarsCollected>
   </Player>
   <Player>
@@ -623,22 +623,22 @@
   </Player>
   <Player>
     <Rank>125</Rank>
-    <Name>Yakoebom</Name>
-    <StarsCollected>107</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>126</Rank>
-    <Name>Jeeje</Name>
-    <StarsCollected>107</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>127</Rank>
     <Name>Sp</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
   <Player>
-    <Rank>128</Rank>
+    <Rank>126</Rank>
     <Name>Zhouzinn</Name>
+    <StarsCollected>107</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>127</Rank>
+    <Name>Jeeje</Name>
+    <StarsCollected>107</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>128</Rank>
+    <Name>Yakoebom</Name>
     <StarsCollected>107</StarsCollected>
   </Player>
 </StarsHighscores>
