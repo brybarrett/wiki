@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753752169218</GeneratedAt>
+  <GeneratedAt>1753752469211</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Noparty</Player>
+    <LostExp>19710368</LostExp>
+    <KilledBy>Kul'Krak'u</KilledBy>
+    <Time>2025-07-29 03:26:27</Time>
+    <Location>(31794,31915,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Kaand</Player>
     <LostExp>20130</LostExp>
     <KilledBy>Small Eye</KilledBy>
