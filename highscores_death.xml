@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753833159869</GeneratedAt>
+  <GeneratedAt>1753833459863</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -28,13 +28,21 @@
   <DeathEvent>
     <Rank>4</Rank>
     <Player>Maryalen</Player>
+    <LostExp>186366</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-30 01:55:18</Time>
+    <Location>(31899,32048,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Maryalen</Player>
     <LostExp>164058</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-07-30 01:18:29</Time>
     <Location>(31899,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Quidbegala</Player>
     <LostExp>12069</LostExp>
     <KilledBy>Chaleton</KilledBy>
