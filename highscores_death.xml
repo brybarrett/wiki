@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753793869553</GeneratedAt>
+  <GeneratedAt>1753794169524</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -195,6 +195,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>25</Rank>
+    <Player>Qasdf</Player>
+    <LostExp>20785</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-07-29 14:59:03</Time>
+    <Location>(32199,32263,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
     <Player>Kaand</Player>
     <LostExp>20130</LostExp>
     <KilledBy>Small Eye</KilledBy>
