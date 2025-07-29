@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753756969229</GeneratedAt>
+  <GeneratedAt>1753757269248</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Heineken</Player>
+    <LostExp>491131034</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-07-29 04:47:26</Time>
+    <Location>(31811,31944,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Renansz</Player>
     <LostExp>155918621</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31955,32277,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Noparty</Player>
     <LostExp>19710368</LostExp>
     <KilledBy>Kul'Krak'u</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31794,31915,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Luffypanta</Player>
     <LostExp>923626</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -26,7 +34,15 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
+    <Player>Liz</Player>
+    <LostExp>233316</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-29 04:46:16</Time>
+    <Location>(32005,31883,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Liz</Player>
     <LostExp>195338</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(32005,31883,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Kaand</Player>
     <LostExp>20130</LostExp>
     <KilledBy>Small Eye</KilledBy>
