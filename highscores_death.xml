@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753759369225</GeneratedAt>
+  <GeneratedAt>1753759669247</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Liaauliaa</Player>
+    <LostExp>16527364</LostExp>
+    <KilledBy>Ninjany</KilledBy>
+    <Time>2025-07-29 05:27:36</Time>
+    <Location>(31791,31915,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Luffypanta</Player>
     <LostExp>923626</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Liz</Player>
     <LostExp>233316</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32005,31883,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Liz</Player>
     <LostExp>195338</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32005,31883,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Kaand</Player>
     <LostExp>20130</LostExp>
     <KilledBy>Small Eye</KilledBy>
