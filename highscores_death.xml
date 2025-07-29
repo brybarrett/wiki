@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753747271916</GeneratedAt>
+  <GeneratedAt>1753747571902</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Stu</Player>
+    <LostExp>541390604</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-07-29 02:02:49</Time>
+    <Location>(31935,32204,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Dark</Player>
     <LostExp>59611207</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32820,32014,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Okiticumeu</Player>
     <LostExp>1169176</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31934,32019,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Usop</Player>
     <LostExp>1056686</LostExp>
     <KilledBy>Orc Leader</KilledBy>
