@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753748171913</GeneratedAt>
+  <GeneratedAt>1753748471924</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Stu</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-07-29 01:08:06</Time>
     <Location>(32009,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Lola</Player>
+    <LostExp>103135</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2025-07-29 02:18:03</Time>
+    <Location>(31865,32054,9)</Location>
   </DeathEvent>
 </DeathHighscores>
