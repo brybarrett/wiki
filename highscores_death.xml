@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753801069658</GeneratedAt>
+  <GeneratedAt>1753801369611</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -219,6 +219,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>28</Rank>
+    <Player>Luffypanta</Player>
+    <LostExp>775644</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-29 16:57:54</Time>
+    <Location>(32015,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>29</Rank>
     <Player>Liz</Player>
     <LostExp>233316</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32005,31883,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Liz</Player>
     <LostExp>195338</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32005,31883,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Kaand</Player>
     <LostExp>78416</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(32011,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Kaand</Player>
     <LostExp>72031</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32007,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Kaand</Player>
     <LostExp>65044</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31916,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Qasdf</Player>
     <LostExp>20785</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(32199,32263,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Kaand</Player>
     <LostExp>20130</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31913,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Qasdf</Player>
     <LostExp>18769</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31988,32018,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Koejp</Player>
     <LostExp>7493</LostExp>
     <KilledBy>Scorpion</KilledBy>
