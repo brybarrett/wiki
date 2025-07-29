@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753749371928</GeneratedAt>
+  <GeneratedAt>1753749671943</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Stu</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Scorpiant</KilledBy>
     <Time>2025-07-29 02:18:03</Time>
     <Location>(31865,32054,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Bellah</Player>
+    <LostExp>21326</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-07-29 02:37:46</Time>
+    <Location>(32058,31901,8)</Location>
   </DeathEvent>
 </DeathHighscores>
