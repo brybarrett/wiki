@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753763869273</GeneratedAt>
+  <GeneratedAt>1753764169266</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Renegado</Player>
+    <LostExp>133763554</LostExp>
+    <KilledBy>Shellborn</KilledBy>
+    <Time>2025-07-29 06:42:47</Time>
+    <Location>(31843,32103,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Magonegro </Player>
     <LostExp>56398759</LostExp>
     <KilledBy>Gorm</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31916,32226,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Xkiritox</Player>
     <LostExp>52964740</LostExp>
     <KilledBy>Brinefiend</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31776,32120,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Noparty</Player>
     <LostExp>19710368</LostExp>
     <KilledBy>Kul'Krak'u</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31794,31915,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Liaauliaa</Player>
     <LostExp>16527364</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31791,31915,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Luffypanta</Player>
     <LostExp>923626</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Luffypanta</Player>
     <LostExp>848063</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31992,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Liz</Player>
     <LostExp>233316</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32005,31883,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Liz</Player>
     <LostExp>195338</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32005,31883,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Kaand</Player>
     <LostExp>20130</LostExp>
     <KilledBy>Small Eye</KilledBy>
