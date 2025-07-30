@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753906060416</GeneratedAt>
+  <GeneratedAt>1753906360420</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Thor</Player>
@@ -440,5 +440,13 @@
     <KilledBy>Chaleton</KilledBy>
     <Time>2025-07-30 00:41:06</Time>
     <Location>(31942,32224,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>56</Rank>
+    <Player>Elton</Player>
+    <LostExp>3088</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-07-30 22:10:06</Time>
+    <Location>(31982,31899,9)</Location>
   </DeathEvent>
 </DeathHighscores>
