@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1753846059970</GeneratedAt>
+  <GeneratedAt>1753846359989</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -123,17 +123,17 @@
   </Player>
   <Player>
     <Rank>25</Rank>
+    <Name>Astreus</Name>
+    <StarsCollected>211</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>26</Rank>
     <Name>Cupy</Name>
     <StarsCollected>210</StarsCollected>
   </Player>
   <Player>
-    <Rank>26</Rank>
-    <Name>Avatarus</Name>
-    <StarsCollected>209</StarsCollected>
-  </Player>
-  <Player>
     <Rank>27</Rank>
-    <Name>Astreus</Name>
+    <Name>Avatarus</Name>
     <StarsCollected>209</StarsCollected>
   </Player>
   <Player>
