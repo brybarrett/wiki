@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753891060328</GeneratedAt>
+  <GeneratedAt>1753891360315</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Thor</Player>
@@ -339,6 +339,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>43</Rank>
+    <Player>Knigth</Player>
+    <LostExp>157829</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-30 18:02:35</Time>
+    <Location>(31911,32043,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>44</Rank>
     <Player>Lola</Player>
     <LostExp>152278</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(31989,32057,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Quidbegala</Player>
     <LostExp>12069</LostExp>
     <KilledBy>Chaleton</KilledBy>
