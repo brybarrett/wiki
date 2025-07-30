@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753834659896</GeneratedAt>
+  <GeneratedAt>1753834959896</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Duckbr</Player>
+    <LostExp>268341</LostExp>
+    <KilledBy>Skeleguard</KilledBy>
+    <Time>2025-07-30 02:21:26</Time>
+    <Location>(32018,32013,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Maryalen</Player>
     <LostExp>186366</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31899,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Maryalen</Player>
     <LostExp>164058</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,15 @@
     <Location>(31899,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
+    <Player>Lola</Player>
+    <LostExp>152278</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-07-30 02:18:34</Time>
+    <Location>(31989,32057,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Quidbegala</Player>
     <LostExp>12069</LostExp>
     <KilledBy>Chaleton</KilledBy>
