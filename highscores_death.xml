@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753840359959</GeneratedAt>
+  <GeneratedAt>1753840659961</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tec</Player>
@@ -99,6 +99,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Magomil</Player>
+    <LostExp>1252828</LostExp>
+    <KilledBy>Bloodbeak</KilledBy>
+    <Time>2025-07-30 03:54:55</Time>
+    <Location>(32839,32066,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Liz</Player>
     <LostExp>959335</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Luffypanta</Player>
     <LostExp>831719</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31957,31869,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Duckbr</Player>
     <LostExp>268341</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32018,32013,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Maryalen</Player>
     <LostExp>227600</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31898,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Maryalen</Player>
     <LostExp>186366</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31899,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Maryalen</Player>
     <LostExp>164058</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31899,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Lola</Player>
     <LostExp>152278</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31989,32057,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Quidbegala</Player>
     <LostExp>12069</LostExp>
     <KilledBy>Chaleton</KilledBy>
