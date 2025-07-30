@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753851760050</GeneratedAt>
+  <GeneratedAt>1753852060114</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tec</Player>
@@ -163,6 +163,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>21</Rank>
+    <Player>Lola</Player>
+    <LostExp>315670</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-07-30 07:07:26</Time>
+    <Location>(32025,32225,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
     <Player>Duckbr</Player>
     <LostExp>268341</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32018,32013,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Maryalen</Player>
     <LostExp>227600</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31898,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Lola</Player>
     <LostExp>187512</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31855,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Maryalen</Player>
     <LostExp>186366</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31899,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Maryalen</Player>
     <LostExp>164058</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31899,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Lola</Player>
     <LostExp>152278</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31989,32057,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Quidbegala</Player>
     <LostExp>12069</LostExp>
     <KilledBy>Chaleton</KilledBy>
