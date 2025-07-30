@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753899460372</GeneratedAt>
+  <GeneratedAt>1753899760409</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Thor</Player>
@@ -395,6 +395,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>50</Rank>
+    <Player>Knigth</Player>
+    <LostExp>164429</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-07-30 20:22:17</Time>
+    <Location>(31897,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>51</Rank>
     <Player>Maryalen</Player>
     <LostExp>164058</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31899,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Knigth</Player>
     <LostExp>157829</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(31911,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Lola</Player>
     <LostExp>152278</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(31989,32057,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Knigth</Player>
     <LostExp>143726</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -426,7 +434,7 @@
     <Location>(32014,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
     <Player>Quidbegala</Player>
     <LostExp>12069</LostExp>
     <KilledBy>Chaleton</KilledBy>
