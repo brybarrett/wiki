@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753906660427</GeneratedAt>
+  <GeneratedAt>1753906960429</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Thor</Player>
@@ -267,6 +267,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>34</Rank>
+    <Player>Srsmith</Player>
+    <LostExp>1560182</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-07-30 22:20:01</Time>
+    <Location>(32853,31970,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Vinteum</Player>
     <LostExp>1529657</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(32016,31978,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Miacalifa</Player>
     <LostExp>1507590</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31927,32029,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Raelf</Player>
     <LostExp>1486107</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(31884,32053,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Magomil</Player>
     <LostExp>1431678</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(32856,31980,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Usop</Player>
     <LostExp>1392062</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(32015,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Magomil</Player>
     <LostExp>1252828</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(32839,32066,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Liz</Player>
     <LostExp>1226444</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Liz</Player>
     <LostExp>959335</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Luffypanta</Player>
     <LostExp>831719</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(31957,31869,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Prowarr</Player>
     <LostExp>357048</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(32047,32339,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Lola</Player>
     <LostExp>315670</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(32025,32225,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Elero</Player>
     <LostExp>280501</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(31890,32007,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Duckbr</Player>
     <LostExp>268341</LostExp>
     <KilledBy>Skeleguard</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(32018,32013,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Maryalen</Player>
     <LostExp>227600</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31898,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Lola</Player>
     <LostExp>187512</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(31855,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Maryalen</Player>
     <LostExp>186366</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31899,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Knigth</Player>
     <LostExp>164429</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31897,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Maryalen</Player>
     <LostExp>164058</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(31899,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Knigth</Player>
     <LostExp>157829</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(31911,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Lola</Player>
     <LostExp>152278</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -426,7 +434,7 @@
     <Location>(31989,32057,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
     <Player>Knigth</Player>
     <LostExp>143726</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -434,7 +442,7 @@
     <Location>(32014,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>56</Rank>
     <Player>Quidbegala</Player>
     <LostExp>12069</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -442,7 +450,7 @@
     <Location>(31942,32224,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Elton</Player>
     <LostExp>5054</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(31896,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Elton</Player>
     <LostExp>3088</LostExp>
     <KilledBy>Scorpion</KilledBy>
