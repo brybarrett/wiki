@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754001903514</GeneratedAt>
+  <GeneratedAt>1754002203497</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Powerangez</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-08-01 00:40:04</Time>
     <Location>(31997,31893,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Kaand</Player>
+    <LostExp>136952</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-01 00:46:41</Time>
+    <Location>(31936,31863,9)</Location>
   </DeathEvent>
 </DeathHighscores>
