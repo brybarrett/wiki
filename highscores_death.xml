@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753989007460</GeneratedAt>
+  <GeneratedAt>1753989307490</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -275,6 +275,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>35</Rank>
+    <Player>Kenpachi</Player>
+    <LostExp>187707</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-07-31 21:10:46</Time>
+    <Location>(31999,31853,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>36</Rank>
     <Player>Zzzzzzz</Player>
     <LostExp>176867</LostExp>
     <KilledBy>Kopi</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31975,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Kaand</Player>
     <LostExp>161019</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(32008,31871,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Zzzzzzz</Player>
     <LostExp>159180</LostExp>
     <KilledBy>Kopi</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31974,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Kaand</Player>
     <LostExp>145737</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(32026,32286,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Kaikr</Player>
     <LostExp>14772</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31991,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Quidbegala</Player>
     <LostExp>11017</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31913,32205,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Quidbegala</Player>
     <LostExp>9915</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(32049,32338,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Quidbegala</Player>
     <LostExp>8924</LostExp>
     <KilledBy>Wispin</KilledBy>
