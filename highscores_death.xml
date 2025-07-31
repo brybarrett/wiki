@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753930807085</GeneratedAt>
+  <GeneratedAt>1753931107077</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Riquekmila</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Dabo</Player>
+    <LostExp>4183626</LostExp>
+    <KilledBy>Troll</KilledBy>
+    <Time>2025-07-31 05:04:58</Time>
+    <Location>(31913,32049,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Magomil</Player>
     <LostExp>1654867</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31996,31927,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Magomil</Player>
     <LostExp>1490200</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32049,32341,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Turok</Player>
     <LostExp>1257496</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31942,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Kaand</Player>
     <LostExp>161019</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32008,31871,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Kaand</Player>
     <LostExp>145737</LostExp>
     <KilledBy>Kreppan</KilledBy>
