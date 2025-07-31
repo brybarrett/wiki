@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753921206987</GeneratedAt>
+  <GeneratedAt>1753921506976</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Xkiritox</Player>
@@ -11,6 +11,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Sunset</Player>
+    <LostExp>22773575</LostExp>
+    <KilledBy>Dreadtide</KilledBy>
+    <Time>2025-07-31 02:21:54</Time>
+    <Location>(31843,32111,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Konan</Player>
+    <LostExp>14209089</LostExp>
+    <KilledBy>Dreadtide</KilledBy>
+    <Time>2025-07-31 02:22:30</Time>
+    <Location>(31842,32109,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Yakoefeio</Player>
     <LostExp>8637290</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -18,11 +34,19 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Pedemesa</Player>
     <LostExp>5966816</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2025-07-31 01:49:27</Time>
     <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Kaand</Player>
+    <LostExp>161019</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-07-31 02:22:22</Time>
+    <Location>(32008,31871,10)</Location>
   </DeathEvent>
 </DeathHighscores>
