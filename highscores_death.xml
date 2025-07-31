@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753977007364</GeneratedAt>
+  <GeneratedAt>1753977307394</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Binance</Player>
@@ -288,5 +288,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-07-31 05:27:43</Time>
     <Location>(31991,32059,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>37</Rank>
+    <Player>Quidbegala</Player>
+    <LostExp>11017</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-07-31 17:50:54</Time>
+    <Location>(31913,32205,8)</Location>
   </DeathEvent>
 </DeathHighscores>
