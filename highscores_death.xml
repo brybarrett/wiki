@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753931407061</GeneratedAt>
+  <GeneratedAt>1753931707046</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Brisadeira</Player>
+    <LostExp>207271931</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-07-31 05:14:22</Time>
+    <Location>(31799,31938,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Riquekmila</Player>
     <LostExp>73533690</LostExp>
     <KilledBy>Haruk</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31976,31800,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Xkiritox</Player>
     <LostExp>58711294</LostExp>
     <KilledBy>Dreadtide</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31850,32103,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Sunset</Player>
     <LostExp>22773575</LostExp>
     <KilledBy>Dreadtide</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31843,32111,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Crordew</Player>
     <LostExp>18825065</LostExp>
     <KilledBy>Akirz</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31778,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Ladykait</Player>
     <LostExp>17836953</LostExp>
     <KilledBy>Kul'Krak'u</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31800,31911,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Konan</Player>
     <LostExp>14209089</LostExp>
     <KilledBy>Dreadtide</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31842,32109,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Yakoefeio</Player>
     <LostExp>8637290</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Pedemesa</Player>
     <LostExp>5966816</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Dabo</Player>
     <LostExp>4183626</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31913,32049,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Magomil</Player>
     <LostExp>1654867</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31996,31927,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Magomil</Player>
     <LostExp>1490200</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32049,32341,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Turok</Player>
     <LostExp>1257496</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31942,32017,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Kaand</Player>
     <LostExp>161019</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32008,31871,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Kaand</Player>
     <LostExp>145737</LostExp>
     <KilledBy>Kreppan</KilledBy>
