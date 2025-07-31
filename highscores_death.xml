@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753922106981</GeneratedAt>
+  <GeneratedAt>1753922406999</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Xkiritox</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Ladykait</Player>
+    <LostExp>17836953</LostExp>
+    <KilledBy>Kul'Krak'u</KilledBy>
+    <Time>2025-07-31 02:37:25</Time>
+    <Location>(31800,31911,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Konan</Player>
     <LostExp>14209089</LostExp>
     <KilledBy>Dreadtide</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31842,32109,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Yakoefeio</Player>
     <LostExp>8637290</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Pedemesa</Player>
     <LostExp>5966816</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -42,7 +50,15 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
+    <Player>Magomil</Player>
+    <LostExp>1654867</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-07-31 02:36:00</Time>
+    <Location>(31996,31927,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Kaand</Player>
     <LostExp>161019</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(32008,31871,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Kaand</Player>
     <LostExp>145737</LostExp>
     <KilledBy>Kreppan</KilledBy>
