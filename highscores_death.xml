@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753932307096</GeneratedAt>
+  <GeneratedAt>1753932607055</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brisadeira</Player>
@@ -120,5 +120,13 @@
     <KilledBy>Kreppan</KilledBy>
     <Time>2025-07-31 02:27:11</Time>
     <Location>(32026,32286,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Kaikr</Player>
+    <LostExp>14772</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-07-31 05:27:43</Time>
+    <Location>(31991,32059,8)</Location>
   </DeathEvent>
 </DeathHighscores>
