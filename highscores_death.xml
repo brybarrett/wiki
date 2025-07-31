@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753922707000</GeneratedAt>
+  <GeneratedAt>1753923007002</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Xkiritox</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Magomil</Player>
+    <LostExp>1490200</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2025-07-31 02:49:35</Time>
+    <Location>(32049,32341,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Kaand</Player>
     <LostExp>161019</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32008,31871,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Kaand</Player>
     <LostExp>145737</LostExp>
     <KilledBy>Kreppan</KilledBy>
