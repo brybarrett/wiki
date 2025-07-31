@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1753921506976</GeneratedAt>
+  <GeneratedAt>1753921806991</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Xkiritox</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-07-31 02:22:22</Time>
     <Location>(32008,31871,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Kaand</Player>
+    <LostExp>145737</LostExp>
+    <KilledBy>Kreppan</KilledBy>
+    <Time>2025-07-31 02:27:11</Time>
+    <Location>(32026,32286,7)</Location>
   </DeathEvent>
 </DeathHighscores>
