@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754055603904</GeneratedAt>
+  <GeneratedAt>1754055903884</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Alfisyeh</Player>
@@ -315,6 +315,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>40</Rank>
+    <Player>Tidus</Player>
+    <LostExp>63867</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-01 15:43:54</Time>
+    <Location>(32006,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>41</Rank>
     <Player>Quidbegala</Player>
     <LostExp>8418</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31911,32213,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Mrsingjr</Player>
     <LostExp>3590</LostExp>
     <KilledBy>Chaleton</KilledBy>
