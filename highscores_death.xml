@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754069104016</GeneratedAt>
+  <GeneratedAt>1754069404003</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templar</Player>
@@ -355,6 +355,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>45</Rank>
+    <Player>Haxixe</Player>
+    <LostExp>69015</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-08-01 19:25:05</Time>
+    <Location>(31978,31909,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>46</Rank>
     <Player>Tidus</Player>
     <LostExp>63867</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Mrsingjr</Player>
     <LostExp>56901</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Quidbegala</Player>
     <LostExp>8418</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31911,32213,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Quidbegala</Player>
     <LostExp>7780</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(31917,32232,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Quidbegala</Player>
     <LostExp>7712</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31908,32210,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Quidbegala</Player>
     <LostExp>7002</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31936,32233,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Quidbegala</Player>
     <LostExp>6431</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(31925,32202,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Mrsingjr</Player>
     <LostExp>3590</LostExp>
     <KilledBy>Chaleton</KilledBy>
