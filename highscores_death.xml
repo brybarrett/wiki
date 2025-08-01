@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754088605790</GeneratedAt>
+  <GeneratedAt>1754088905809</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Trintaum</Player>
     <LostExp>628204</LostExp>
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-08-02 00:29:32</Time>
+    <Location>(31884,31906,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Trintaum</Player>
+    <LostExp>565383</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-08-02 00:53:52</Time>
     <Location>(31884,31906,8)</Location>
   </DeathEvent>
 </DeathHighscores>
