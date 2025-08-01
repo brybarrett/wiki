@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754017503605</GeneratedAt>
+  <GeneratedAt>1754017803621</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dark</Player>
@@ -76,13 +76,21 @@
   <DeathEvent>
     <Rank>10</Rank>
     <Player>Okiticumeu</Player>
+    <LostExp>2966351</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-01 05:06:49</Time>
+    <Location>(31879,32043,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Okiticumeu</Player>
     <LostExp>2944465</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-08-01 02:22:22</Time>
     <Location>(31879,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Vintequatr</Player>
     <LostExp>603510</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32015,31991,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Powerangez</Player>
     <LostExp>348021</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -98,20 +106,12 @@
     <Location>(31997,31893,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Rin</Player>
     <LostExp>253863</LostExp>
     <KilledBy>Wardy</KilledBy>
     <Time>2025-08-01 01:28:16</Time>
     <Location>(32021,32218,7)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>14</Rank>
-    <Player>Rin</Player>
-    <LostExp>208779</LostExp>
-    <KilledBy>Treant</KilledBy>
-    <Time>2025-08-01 01:51:07</Time>
-    <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
@@ -123,6 +123,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
+    <Player>Rin</Player>
+    <LostExp>208779</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-08-01 01:51:07</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
     <Player>Kaand</Player>
     <LostExp>136952</LostExp>
     <KilledBy>Orc Leader</KilledBy>
