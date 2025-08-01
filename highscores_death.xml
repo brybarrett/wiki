@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754046003851</GeneratedAt>
+  <GeneratedAt>1754046303841</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Alfisyeh</Player>
@@ -288,5 +288,13 @@
     <KilledBy>Chaombie</KilledBy>
     <Time>2025-08-01 06:07:18</Time>
     <Location>(31911,32213,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>37</Rank>
+    <Player>Mrsingjr</Player>
+    <LostExp>3590</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-08-01 13:03:47</Time>
+    <Location>(32189,32272,9)</Location>
   </DeathEvent>
 </DeathHighscores>
