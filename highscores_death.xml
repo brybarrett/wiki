@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754070004019</GeneratedAt>
+  <GeneratedAt>1754070303982</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templar</Player>
@@ -299,19 +299,19 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>38</Rank>
+    <Player>Ludo</Player>
+    <LostExp>259744</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-01 19:41:13</Time>
+    <Location>(31899,31989,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>39</Rank>
     <Player>Rin</Player>
     <LostExp>253863</LostExp>
     <KilledBy>Wardy</KilledBy>
     <Time>2025-08-01 01:28:16</Time>
     <Location>(32021,32218,7)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>39</Rank>
-    <Player>Rin</Player>
-    <LostExp>208779</LostExp>
-    <KilledBy>Treant</KilledBy>
-    <Time>2025-08-01 01:51:07</Time>
-    <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>40</Rank>
@@ -323,6 +323,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>41</Rank>
+    <Player>Rin</Player>
+    <LostExp>208779</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-08-01 01:51:07</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>42</Rank>
     <Player>Kaand</Player>
     <LostExp>136952</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(31936,31863,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Haxixe</Player>
     <LostExp>81632</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(31946,32233,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Haxixe</Player>
     <LostExp>73630</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(31954,32215,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Haxixe</Player>
     <LostExp>71033</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(31977,31910,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Haxixe</Player>
     <LostExp>69015</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(31978,31909,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Tidus</Player>
     <LostExp>63867</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Mrsingjr</Player>
     <LostExp>56901</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Quidbegala</Player>
     <LostExp>8418</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(31911,32213,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Quidbegala</Player>
     <LostExp>7780</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31917,32232,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Quidbegala</Player>
     <LostExp>7712</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31908,32210,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Quidbegala</Player>
     <LostExp>7002</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(31936,32233,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Quidbegala</Player>
     <LostExp>6431</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(31925,32202,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Mrsingjr</Player>
     <LostExp>3590</LostExp>
     <KilledBy>Chaleton</KilledBy>
