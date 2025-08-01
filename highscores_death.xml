@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754020803655</GeneratedAt>
+  <GeneratedAt>1754021103654</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Alfisyeh</Player>
@@ -152,5 +152,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-08-01 00:46:41</Time>
     <Location>(31936,31863,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Haxixe</Player>
+    <LostExp>81632</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-08-01 06:03:32</Time>
+    <Location>(31946,32233,7)</Location>
   </DeathEvent>
 </DeathHighscores>
