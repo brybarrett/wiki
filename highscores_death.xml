@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754090405837</GeneratedAt>
+  <GeneratedAt>1754090705813</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panda</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Orc Raider</KilledBy>
     <Time>2025-08-02 01:05:22</Time>
     <Location>(31986,31861,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Haxixe</Player>
+    <LostExp>67249</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-08-02 01:23:52</Time>
+    <Location>(31982,31864,9)</Location>
   </DeathEvent>
 </DeathHighscores>
