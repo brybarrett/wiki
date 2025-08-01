@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754070903984</GeneratedAt>
+  <GeneratedAt>1754071204030</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templar</Player>
@@ -456,5 +456,13 @@
     <KilledBy>Chaleton</KilledBy>
     <Time>2025-08-01 13:03:47</Time>
     <Location>(32189,32272,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>58</Rank>
+    <Player>Kombi</Player>
+    <LostExp>2200</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-08-01 19:59:42</Time>
+    <Location>(31978,31895,9)</Location>
   </DeathEvent>
 </DeathHighscores>
