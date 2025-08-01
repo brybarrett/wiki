@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754019303637</GeneratedAt>
+  <GeneratedAt>1754019603631</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Alfisyeh</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Vintesete</Player>
+    <LostExp>485522</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-08-01 05:35:48</Time>
+    <Location>(31895,31912,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Powerangez</Player>
     <LostExp>348021</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -114,20 +122,12 @@
     <Location>(31997,31893,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Rin</Player>
     <LostExp>253863</LostExp>
     <KilledBy>Wardy</KilledBy>
     <Time>2025-08-01 01:28:16</Time>
     <Location>(32021,32218,7)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>16</Rank>
-    <Player>Rin</Player>
-    <LostExp>208779</LostExp>
-    <KilledBy>Treant</KilledBy>
-    <Time>2025-08-01 01:51:07</Time>
-    <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Rin</Player>
+    <LostExp>208779</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-08-01 01:51:07</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Kaand</Player>
     <LostExp>136952</LostExp>
     <KilledBy>Orc Leader</KilledBy>
