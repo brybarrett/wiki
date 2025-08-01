@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754063703958</GeneratedAt>
+  <GeneratedAt>1754064003949</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Alfisyeh</Player>
@@ -387,6 +387,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>49</Rank>
+    <Player>Quidbegala</Player>
+    <LostExp>6431</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-08-01 17:57:37</Time>
+    <Location>(31925,32202,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>50</Rank>
     <Player>Mrsingjr</Player>
     <LostExp>3590</LostExp>
     <KilledBy>Chaleton</KilledBy>
