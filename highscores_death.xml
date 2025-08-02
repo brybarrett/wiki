@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754178006119</GeneratedAt>
+  <GeneratedAt>1754178306118</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Moondeath</Player>
+    <LostExp>1092877983</LostExp>
+    <KilledBy>Dreadtide</KilledBy>
+    <Time>2025-08-03 01:44:44</Time>
+    <Location>(31848,32106,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Ynk</Player>
     <LostExp>537357594</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32010,32250,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Hakina</Player>
     <LostExp>157377548</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31955,32277,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Pablinhu</Player>
     <LostExp>54015455</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31809,31960,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Tidus</Player>
     <LostExp>188880</LostExp>
     <KilledBy>Tarantula</KilledBy>
