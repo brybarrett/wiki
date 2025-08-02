@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754100005893</GeneratedAt>
+  <GeneratedAt>1754100305865</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panda</Player>
@@ -35,6 +35,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Sunrakuwiz</Player>
+    <LostExp>24149540</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-08-02 04:02:45</Time>
+    <Location>(31980,32268,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Winchestrr</Player>
+    <LostExp>1529861</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-08-02 04:02:03</Time>
+    <Location>(31973,32041,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Vintequatr</Player>
     <LostExp>1435954</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31885,31896,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Vinteoito</Player>
     <LostExp>903929</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(31899,31913,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Trintaum</Player>
     <LostExp>628204</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(31884,31906,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Trintaum</Player>
     <LostExp>565383</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(31884,31906,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Elton</Player>
     <LostExp>106307</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(32034,31973,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Elton</Player>
     <LostExp>96796</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Haxixe</Player>
     <LostExp>68151</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(31986,31861,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Haxixe</Player>
     <LostExp>67249</LostExp>
     <KilledBy>Orc Raider</KilledBy>
