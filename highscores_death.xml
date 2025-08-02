@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754154906281</GeneratedAt>
+  <GeneratedAt>1754155206329</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panda</Player>
@@ -299,6 +299,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>38</Rank>
+    <Player>Vintesete</Player>
+    <LostExp>1197635</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-08-02 19:17:27</Time>
+    <Location>(31879,31904,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>39</Rank>
     <Player>Vinteoito</Player>
     <LostExp>911259</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31885,31896,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Vinteoito</Player>
     <LostExp>903929</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31899,31913,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Vinteoito</Player>
     <LostExp>862145</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31885,31897,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Trintaum</Player>
     <LostExp>850817</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(31896,31912,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Trintaum</Player>
     <LostExp>651459</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(31892,31905,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Trintaum</Player>
     <LostExp>628204</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(31884,31906,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Trintaum</Player>
     <LostExp>565383</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(31884,31906,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Mandau</Player>
     <LostExp>316141</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(31990,31914,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Eduzinhuu</Player>
     <LostExp>201668</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Elton</Player>
     <LostExp>106307</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(32034,31973,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Elton</Player>
     <LostExp>96796</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Haxixe</Player>
     <LostExp>68151</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31986,31861,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Haxixe</Player>
     <LostExp>67249</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31982,31864,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Babe</Player>
     <LostExp>30130</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(32003,31875,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Babe</Player>
     <LostExp>11000</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Laos</Player>
     <LostExp>9860</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -426,7 +434,7 @@
     <Location>(32003,31882,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
     <Player>Nasa</Player>
     <LostExp>7554</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -434,7 +442,7 @@
     <Location>(32055,31901,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>56</Rank>
     <Player>Quidbegala</Player>
     <LostExp>5788</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -442,7 +450,7 @@
     <Location>(31942,32233,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Quidbegala</Player>
     <LostExp>5209</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(31942,32223,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Babe</Player>
     <LostExp>4721</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -458,7 +466,7 @@
     <Location>(31977,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Nasa</Player>
     <LostExp>499</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -466,7 +474,7 @@
     <Location>(32008,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>59</Rank>
+    <Rank>60</Rank>
     <Player>Jarvela</Player>
     <LostExp>285</LostExp>
     <KilledBy>GM-Doro</KilledBy>
