@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754157606320</GeneratedAt>
+  <GeneratedAt>1754157906312</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panda</Player>
@@ -435,6 +435,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>55</Rank>
+    <Player>Lito</Player>
+    <LostExp>12556</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-08-02 20:02:39</Time>
+    <Location>(32054,31892,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>56</Rank>
     <Player>Babe</Player>
     <LostExp>11000</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -442,7 +450,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Laos</Player>
     <LostExp>9860</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(32003,31882,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Nasa</Player>
     <LostExp>7554</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -458,7 +466,7 @@
     <Location>(32055,31901,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Quidbegala</Player>
     <LostExp>5788</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -466,7 +474,7 @@
     <Location>(31942,32233,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>59</Rank>
+    <Rank>60</Rank>
     <Player>Quidbegala</Player>
     <LostExp>5209</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -474,7 +482,7 @@
     <Location>(31942,32223,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>60</Rank>
+    <Rank>61</Rank>
     <Player>Babe</Player>
     <LostExp>4721</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -482,7 +490,7 @@
     <Location>(31977,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>61</Rank>
+    <Rank>62</Rank>
     <Player>Nasa</Player>
     <LostExp>499</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -490,7 +498,7 @@
     <Location>(32008,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>62</Rank>
+    <Rank>63</Rank>
     <Player>Jarvela</Player>
     <LostExp>285</LostExp>
     <KilledBy>GM-Doro</KilledBy>
