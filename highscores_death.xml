@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754238606546</GeneratedAt>
+  <GeneratedAt>1754238906551</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Moondeath</Player>
@@ -291,6 +291,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>37</Rank>
+    <Player>Zac</Player>
+    <LostExp>16885</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-08-03 18:34:36</Time>
+    <Location>(32191,32269,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>38</Rank>
     <Player>Laos</Player>
     <LostExp>15822</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(32055,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Zac</Player>
     <LostExp>12361</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(32792,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Zac</Player>
     <LostExp>11240</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31985,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Awie</Player>
     <LostExp>10873</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Makoto</Player>
     <LostExp>10163</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(31968,31927,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Nasa</Player>
     <LostExp>9032</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(32005,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Kyojuro</Player>
     <LostExp>7683</LostExp>
     <KilledBy>Treant</KilledBy>
