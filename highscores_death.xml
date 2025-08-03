@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754228406464</GeneratedAt>
+  <GeneratedAt>1754228706464</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Moondeath</Player>
@@ -187,6 +187,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>24</Rank>
+    <Player>Luffypanta</Player>
+    <LostExp>1981873</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-03 15:42:44</Time>
+    <Location>(32010,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
     <Player>Thecrot</Player>
     <LostExp>1095232</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31991,31996,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Thecrot</Player>
     <LostExp>776973</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31954,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Babe</Player>
     <LostExp>319701</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31917,31972,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Tidus</Player>
     <LostExp>188880</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31881,31914,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Gallena</Player>
     <LostExp>81388</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32019,31989,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Gallena</Player>
     <LostExp>50211</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32007,31884,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Gallena</Player>
     <LostExp>39424</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31880,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Gallena</Player>
     <LostExp>26799</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32019,31937,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Zac</Player>
     <LostExp>12361</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(32792,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Zac</Player>
     <LostExp>11240</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(31985,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Awie</Player>
     <LostExp>10873</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Makoto</Player>
     <LostExp>10163</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31968,31927,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Kyojuro</Player>
     <LostExp>7683</LostExp>
     <KilledBy>Treant</KilledBy>
