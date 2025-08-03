@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754213106367</GeneratedAt>
+  <GeneratedAt>1754213406362</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Moondeath</Player>
@@ -180,13 +180,21 @@
   <DeathEvent>
     <Rank>23</Rank>
     <Player>Gallena</Player>
+    <LostExp>81388</LostExp>
+    <KilledBy>Bear</KilledBy>
+    <Time>2025-08-03 11:26:14</Time>
+    <Location>(32019,31989,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>24</Rank>
+    <Player>Gallena</Player>
     <LostExp>50211</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-08-03 09:07:29</Time>
     <Location>(32007,31884,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Gallena</Player>
     <LostExp>39424</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31880,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Gallena</Player>
     <LostExp>26799</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32019,31937,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Zac</Player>
     <LostExp>12361</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32792,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Zac</Player>
     <LostExp>11240</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31985,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Makoto</Player>
     <LostExp>10163</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(31968,31927,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Kyojuro</Player>
     <LostExp>7683</LostExp>
     <KilledBy>Treant</KilledBy>
