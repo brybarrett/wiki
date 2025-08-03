@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754183406148</GeneratedAt>
+  <GeneratedAt>1754183706165</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Moondeath</Player>
@@ -80,5 +80,13 @@
     <KilledBy>Hell Guard</KilledBy>
     <Time>2025-08-03 02:45:03</Time>
     <Location>(32792,32251,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Zac</Player>
+    <LostExp>11240</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-08-03 03:12:22</Time>
+    <Location>(31985,32019,8)</Location>
   </DeathEvent>
 </DeathHighscores>
