@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754264250594</GeneratedAt>
+  <GeneratedAt>1754264550580</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Seis</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Snowling</KilledBy>
     <Time>2025-08-04 00:48:20</Time>
     <Location>(31960,31806,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Rael</Player>
+    <LostExp>5139243</LostExp>
+    <KilledBy>Kapami</KilledBy>
+    <Time>2025-08-04 01:38:40</Time>
+    <Location>(32876,32052,9)</Location>
   </DeathEvent>
 </DeathHighscores>
