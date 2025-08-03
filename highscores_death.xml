@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754261250576</GeneratedAt>
+  <GeneratedAt>1754261550576</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Seis</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Scorpiant</KilledBy>
     <Time>2025-08-04 00:34:40</Time>
     <Location>(31864,32043,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Xkiritoxwi</Player>
+    <LostExp>25658014</LostExp>
+    <KilledBy>Snowling</KilledBy>
+    <Time>2025-08-04 00:48:20</Time>
+    <Location>(31960,31806,11)</Location>
   </DeathEvent>
 </DeathHighscores>
