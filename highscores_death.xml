@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754187006174</GeneratedAt>
+  <GeneratedAt>1754187306167</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Moondeath</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Wizze</Player>
+    <LostExp>212011443</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-08-03 04:11:30</Time>
+    <Location>(31812,31944,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Hakina</Player>
     <LostExp>157377548</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31955,32277,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Bebelaq</Player>
     <LostExp>106620494</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31950,32289,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Shaog</Player>
     <LostExp>93341827</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31999,32255,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Pablinhu</Player>
     <LostExp>54015455</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31809,31960,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Goldwizz</Player>
     <LostExp>37970355</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31868,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Dewii</Player>
     <LostExp>17064166</LostExp>
     <KilledBy>Airi</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31782,31938,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Vinteum</Player>
     <LostExp>2704544</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32066,32296,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Tidus</Player>
     <LostExp>188880</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31881,31914,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Zac</Player>
     <LostExp>12361</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32792,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Zac</Player>
     <LostExp>11240</LostExp>
     <KilledBy>The Bug</KilledBy>
