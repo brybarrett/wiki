@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754180106145</GeneratedAt>
+  <GeneratedAt>1754180406147</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Moondeath</Player>
@@ -35,6 +35,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Goldwizz</Player>
+    <LostExp>37970355</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2025-08-03 02:16:39</Time>
+    <Location>(31868,32062,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Vinteum</Player>
+    <LostExp>2704544</LostExp>
+    <KilledBy>Werewolf Master</KilledBy>
+    <Time>2025-08-03 02:17:19</Time>
+    <Location>(32066,32296,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Tidus</Player>
     <LostExp>188880</LostExp>
     <KilledBy>Tarantula</KilledBy>
