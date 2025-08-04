@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754281950685</GeneratedAt>
+  <GeneratedAt>1754282250673</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bii</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Urekmazino</Player>
+    <LostExp>130829713</LostExp>
+    <KilledBy>Blackdrake</KilledBy>
+    <Time>2025-08-04 06:36:01</Time>
+    <Location>(32233,32358,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Seis</Player>
     <LostExp>78635629</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31864,32043,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Seis</Player>
     <LostExp>71630479</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31864,32044,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Baam</Player>
     <LostExp>71011439</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31800,31925,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>25658014</LostExp>
     <KilledBy>Snowling</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31960,31806,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Thc</Player>
     <LostExp>16599483</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31863,32075,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Rael</Player>
     <LostExp>5139243</LostExp>
     <KilledBy>Kapami</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32876,32052,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Magomil</Player>
     <LostExp>2898651</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32042,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Thecrot</Player>
     <LostExp>2114181</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32854,31982,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Babe</Player>
     <LostExp>754964</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32036,31933,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Babe</Player>
     <LostExp>688259</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32018,31923,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Knigth</Player>
     <LostExp>535451</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32854,31982,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Elton</Player>
     <LostExp>220253</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31990,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Nasa</Player>
     <LostExp>53585</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32048,32338,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Taylerg</Player>
     <LostExp>10267</LostExp>
     <KilledBy>Fire Drake</KilledBy>
