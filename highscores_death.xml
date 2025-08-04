@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754270550638</GeneratedAt>
+  <GeneratedAt>1754270850603</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Seis</Player>
@@ -32,5 +32,13 @@
     <KilledBy>The Bug</KilledBy>
     <Time>2025-08-04 02:49:38</Time>
     <Location>(31990,32019,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Taylerg</Player>
+    <LostExp>10267</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-08-04 03:23:53</Time>
+    <Location>(32025,31943,8)</Location>
   </DeathEvent>
 </DeathHighscores>
