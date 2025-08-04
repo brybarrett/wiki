@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754346011473</GeneratedAt>
+  <GeneratedAt>1754346311484</GeneratedAt>
+  <DeathEvent>
+    <Rank>1</Rank>
+    <Player>Khun</Player>
+    <LostExp>307375141</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-08-05 00:24:22</Time>
+    <Location>(31799,31938,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Elton</Player>
+    <LostExp>268380</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-05 00:24:36</Time>
+    <Location>(32004,31876,10)</Location>
+  </DeathEvent>
 </DeathHighscores>
