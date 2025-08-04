@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754271150611</GeneratedAt>
+  <GeneratedAt>1754271450620</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Seis</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Seis</Player>
+    <LostExp>71630479</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2025-08-04 03:35:17</Time>
+    <Location>(31864,32044,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>25658014</LostExp>
     <KilledBy>Snowling</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31960,31806,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Rael</Player>
     <LostExp>5139243</LostExp>
     <KilledBy>Kapami</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32876,32052,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Elton</Player>
     <LostExp>220253</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31990,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Taylerg</Player>
     <LostExp>10267</LostExp>
     <KilledBy>Fire Drake</KilledBy>
