@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754276250628</GeneratedAt>
+  <GeneratedAt>1754276550618</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Seis</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Thc</Player>
+    <LostExp>16599483</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-08-04 05:01:46</Time>
+    <Location>(31863,32075,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Rael</Player>
     <LostExp>5139243</LostExp>
     <KilledBy>Kapami</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32876,32052,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Magomil</Player>
     <LostExp>2898651</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32042,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Elton</Player>
     <LostExp>220253</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31990,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Nasa</Player>
     <LostExp>53585</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32048,32338,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Taylerg</Player>
     <LostExp>10267</LostExp>
     <KilledBy>Fire Drake</KilledBy>
