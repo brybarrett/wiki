@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754275950660</GeneratedAt>
+  <GeneratedAt>1754276250628</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Seis</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Nasa</Player>
+    <LostExp>53585</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2025-08-04 04:55:17</Time>
+    <Location>(32048,32338,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Taylerg</Player>
     <LostExp>10267</LostExp>
     <KilledBy>Fire Drake</KilledBy>
