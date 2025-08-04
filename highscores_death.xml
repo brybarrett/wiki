@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754325450995</GeneratedAt>
+  <GeneratedAt>1754325751001</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Toddy</Player>
@@ -99,6 +99,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Shinzui</Player>
+    <LostExp>20096888</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-04 18:39:53</Time>
+    <Location>(32010,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Jaycho</Player>
     <LostExp>17822498</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31791,31949,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Thc</Player>
     <LostExp>16599483</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31863,32075,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Dabo</Player>
     <LostExp>13005009</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32840,32051,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Mar</Player>
     <LostExp>6424490</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32019,31812,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Rael</Player>
     <LostExp>5139243</LostExp>
     <KilledBy>Kapami</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32876,32052,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Miacalifa</Player>
     <LostExp>4917681</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32812,32247,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Usop</Player>
     <LostExp>4217211</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32015,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Usop</Player>
     <LostExp>4208769</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Magomil</Player>
     <LostExp>2898651</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(32042,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Thecrot</Player>
     <LostExp>2606961</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32833,32063,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Powerangez</Player>
     <LostExp>2549336</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31880,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Thecrot</Player>
     <LostExp>2114181</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32854,31982,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Babe</Player>
     <LostExp>754964</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32036,31933,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Babe</Player>
     <LostExp>730696</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31953,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Babe</Player>
     <LostExp>688259</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32018,31923,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Knigth</Player>
     <LostExp>535451</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32854,31982,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Elton</Player>
     <LostExp>220253</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31990,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Nasa</Player>
     <LostExp>53585</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(32048,32338,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Nube</Player>
     <LostExp>34230</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(31995,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Taylerg</Player>
     <LostExp>10267</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(32025,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Saniaaaaa</Player>
     <LostExp>754</LostExp>
     <KilledBy>The Bug</KilledBy>
