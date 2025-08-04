@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754275350626</GeneratedAt>
+  <GeneratedAt>1754275650627</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Seis</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Baam</Player>
+    <LostExp>71011439</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-08-04 04:43:47</Time>
+    <Location>(31800,31925,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Xkiritoxwi</Player>
     <LostExp>25658014</LostExp>
     <KilledBy>Snowling</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31960,31806,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Rael</Player>
     <LostExp>5139243</LostExp>
     <KilledBy>Kapami</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32876,32052,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Magomil</Player>
     <LostExp>2898651</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32042,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Elton</Player>
     <LostExp>220253</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31990,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Taylerg</Player>
     <LostExp>10267</LostExp>
     <KilledBy>Fire Drake</KilledBy>
