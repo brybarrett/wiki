@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754363411582</GeneratedAt>
+  <GeneratedAt>1754363711588</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaizer</Player>
@@ -60,13 +60,29 @@
   <DeathEvent>
     <Rank>8</Rank>
     <Player>Magomil</Player>
+    <LostExp>4349953</LostExp>
+    <KilledBy>Scarapy Master</KilledBy>
+    <Time>2025-08-05 05:13:51</Time>
+    <Location>(31972,32297,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Magomil</Player>
+    <LostExp>4349953</LostExp>
+    <KilledBy>Scarapy Master</KilledBy>
+    <Time>2025-08-05 05:13:51</Time>
+    <Location>(31972,32297,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Magomil</Player>
     <LostExp>3896658</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
     <Time>2025-08-05 00:35:10</Time>
     <Location>(32857,31988,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Elton</Player>
     <LostExp>377688</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(32013,31865,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Elton</Player>
     <LostExp>268380</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(32004,31876,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Elton</Player>
     <LostExp>244203</LostExp>
     <KilledBy>Orc Leader</KilledBy>
