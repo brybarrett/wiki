@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754393411816</GeneratedAt>
+  <GeneratedAt>1754393711833</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaizer</Player>
@@ -267,6 +267,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>34</Rank>
+    <Player>Fulldmg</Player>
+    <LostExp>42319</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-08-05 13:33:59</Time>
+    <Location>(31989,32257,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
+    <Player>Fulldmg</Player>
+    <LostExp>38087</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-08-05 13:35:04</Time>
+    <Location>(31949,32278,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>36</Rank>
     <Player>Tobb</Player>
     <LostExp>24184</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -274,7 +290,7 @@
     <Location>(32021,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>37</Rank>
     <Player>Bibilino</Player>
     <LostExp>499</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -282,7 +298,7 @@
     <Location>(32040,32036,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>38</Rank>
     <Player>Bibilino</Player>
     <LostExp>449</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
