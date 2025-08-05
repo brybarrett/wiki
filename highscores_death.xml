@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754436610032</GeneratedAt>
+  <GeneratedAt>1754436910019</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dark</Player>
@@ -11,6 +11,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Crordew</Player>
+    <LostExp>18177628</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-08-06 01:34:29</Time>
+    <Location>(32067,31824,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Hordel</Player>
+    <LostExp>10606532</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-08-06 01:34:29</Time>
+    <Location>(32067,31824,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Zac</Player>
     <LostExp>64817</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(31910,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Zac</Player>
     <LostExp>54143</LostExp>
     <KilledBy>Skeleton</KilledBy>
