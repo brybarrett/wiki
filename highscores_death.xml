@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754406311916</GeneratedAt>
+  <GeneratedAt>1754406611921</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaizer</Player>
@@ -155,6 +155,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>20</Rank>
+    <Player>Lessako</Player>
+    <LostExp>21447318</LostExp>
+    <KilledBy>Snowling</KilledBy>
+    <Time>2025-08-05 17:07:46</Time>
+    <Location>(31957,31799,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
     <Player>Sandman </Player>
     <LostExp>7775620</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -162,20 +170,12 @@
     <Location>(32044,31796,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Thecrot</Player>
     <LostExp>5179865</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2025-08-05 13:44:29</Time>
     <Location>(32064,31818,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>22</Rank>
-    <Player>Magomil</Player>
-    <LostExp>4349953</LostExp>
-    <KilledBy>Scarapy Master</KilledBy>
-    <Time>2025-08-05 05:13:51</Time>
-    <Location>(31972,32297,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>23</Rank>
@@ -188,13 +188,21 @@
   <DeathEvent>
     <Rank>24</Rank>
     <Player>Magomil</Player>
+    <LostExp>4349953</LostExp>
+    <KilledBy>Scarapy Master</KilledBy>
+    <Time>2025-08-05 05:13:51</Time>
+    <Location>(31972,32297,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
+    <Player>Magomil</Player>
     <LostExp>3918490</LostExp>
     <KilledBy>Flutt</KilledBy>
     <Time>2025-08-05 05:54:28</Time>
     <Location>(31948,32277,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Magomil</Player>
     <LostExp>3896658</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32857,31988,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Magomil</Player>
     <LostExp>3711176</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31956,32275,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Magomil</Player>
     <LostExp>3340059</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31951,32276,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Winchestrr</Player>
     <LostExp>3190611</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Magomil</Player>
     <LostExp>3095612</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32042,31971,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Luffypanta</Player>
     <LostExp>2216060</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(32016,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Shirley</Player>
     <LostExp>1576914</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32037,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Shirley</Player>
     <LostExp>1222308</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(32024,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Knigth</Player>
     <LostExp>483229</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(31946,32283,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Knigth</Player>
     <LostExp>434920</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31950,32275,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Knigth</Player>
     <LostExp>415876</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31879,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Elton</Player>
     <LostExp>377688</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(32013,31865,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Bellah</Player>
     <LostExp>363318</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31992,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Zigfryed</Player>
     <LostExp>312580</LostExp>
     <KilledBy>Wispin</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(32063,32361,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Zigfryed</Player>
     <LostExp>281322</LostExp>
     <KilledBy>Wispin</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(32063,32355,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Elton</Player>
     <LostExp>268380</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(32004,31876,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Elton</Player>
     <LostExp>244203</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(32010,31872,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Bibilino</Player>
     <LostExp>73769</LostExp>
     <KilledBy>Minotaur</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(31900,32067,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Bibilino</Player>
     <LostExp>67637</LostExp>
     <KilledBy>Scorpiant</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(31864,32042,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Bibilino</Player>
     <LostExp>61472</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(31939,32073,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Bibilino</Player>
     <LostExp>57418</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(32042,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Bibilino</Player>
     <LostExp>51676</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(32042,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Fulldmg</Player>
     <LostExp>47021</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31958,32268,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Bibilino</Player>
     <LostExp>46508</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(32042,32037,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Awie</Player>
     <LostExp>43414</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31991,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Fulldmg</Player>
     <LostExp>42319</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31989,32257,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Bibilino</Player>
     <LostExp>41858</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(32036,32038,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Fulldmg</Player>
     <LostExp>38087</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(31949,32278,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Bibilino</Player>
     <LostExp>38081</LostExp>
     <KilledBy>Long</KilledBy>
@@ -426,7 +434,7 @@
     <Location>(32035,32274,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
     <Player>Fulldmg</Player>
     <LostExp>34278</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -434,7 +442,7 @@
     <Location>(31956,32271,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>56</Rank>
     <Player>Bibilino</Player>
     <LostExp>34273</LostExp>
     <KilledBy>Long</KilledBy>
@@ -442,7 +450,7 @@
     <Location>(32034,32278,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Bibilino</Player>
     <LostExp>31255</LostExp>
     <KilledBy>Long</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(32028,32274,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Bibilino</Player>
     <LostExp>28130</LostExp>
     <KilledBy>Long</KilledBy>
@@ -458,7 +466,7 @@
     <Location>(32030,32274,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Bibilino</Player>
     <LostExp>25317</LostExp>
     <KilledBy>Long</KilledBy>
@@ -466,7 +474,7 @@
     <Location>(32033,32276,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>59</Rank>
+    <Rank>60</Rank>
     <Player>Tobb</Player>
     <LostExp>24184</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -474,7 +482,7 @@
     <Location>(32021,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>60</Rank>
+    <Rank>61</Rank>
     <Player>Bibilino</Player>
     <LostExp>22785</LostExp>
     <KilledBy>Long</KilledBy>
@@ -482,7 +490,7 @@
     <Location>(32033,32276,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>61</Rank>
+    <Rank>62</Rank>
     <Player>Bibilino</Player>
     <LostExp>20507</LostExp>
     <KilledBy>Long</KilledBy>
@@ -490,7 +498,7 @@
     <Location>(32034,32276,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>62</Rank>
+    <Rank>63</Rank>
     <Player>Bibilino</Player>
     <LostExp>18456</LostExp>
     <KilledBy>Long</KilledBy>
@@ -498,7 +506,7 @@
     <Location>(32032,32277,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>63</Rank>
+    <Rank>64</Rank>
     <Player>Bibilino</Player>
     <LostExp>16610</LostExp>
     <KilledBy>Long</KilledBy>
@@ -506,7 +514,7 @@
     <Location>(32035,32280,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>64</Rank>
+    <Rank>65</Rank>
     <Player>Bibilino</Player>
     <LostExp>14949</LostExp>
     <KilledBy>Long</KilledBy>
@@ -514,7 +522,7 @@
     <Location>(32036,32280,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>65</Rank>
+    <Rank>66</Rank>
     <Player>Bibilino</Player>
     <LostExp>13454</LostExp>
     <KilledBy>Long</KilledBy>
@@ -522,7 +530,7 @@
     <Location>(32036,32282,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>66</Rank>
+    <Rank>67</Rank>
     <Player>Bibilino</Player>
     <LostExp>12109</LostExp>
     <KilledBy>Long</KilledBy>
@@ -530,7 +538,7 @@
     <Location>(32036,32282,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>67</Rank>
+    <Rank>68</Rank>
     <Player>Bibilino</Player>
     <LostExp>10898</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -538,7 +546,7 @@
     <Location>(31966,32247,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>68</Rank>
+    <Rank>69</Rank>
     <Player>Bibilino</Player>
     <LostExp>9808</LostExp>
     <KilledBy>Long</KilledBy>
@@ -546,7 +554,7 @@
     <Location>(32032,32281,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>69</Rank>
+    <Rank>70</Rank>
     <Player>Bibilino</Player>
     <LostExp>8828</LostExp>
     <KilledBy>Long</KilledBy>
@@ -554,7 +562,7 @@
     <Location>(32033,32281,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>70</Rank>
+    <Rank>71</Rank>
     <Player>Bibilino</Player>
     <LostExp>499</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -562,7 +570,7 @@
     <Location>(32040,32036,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>71</Rank>
+    <Rank>72</Rank>
     <Player>Bibilino</Player>
     <LostExp>449</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
