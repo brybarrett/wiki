@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754399111849</GeneratedAt>
+  <GeneratedAt>1754399411860</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaizer</Player>
@@ -452,13 +452,29 @@
   <DeathEvent>
     <Rank>57</Rank>
     <Player>Bibilino</Player>
+    <LostExp>20507</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-08-05 15:06:19</Time>
+    <Location>(32034,32276,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>58</Rank>
+    <Player>Bibilino</Player>
+    <LostExp>18456</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-08-05 15:08:44</Time>
+    <Location>(32032,32277,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>59</Rank>
+    <Player>Bibilino</Player>
     <LostExp>499</LostExp>
     <KilledBy>GM-Doro</KilledBy>
     <Time>2025-08-05 05:42:57</Time>
     <Location>(32040,32036,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>60</Rank>
     <Player>Bibilino</Player>
     <LostExp>449</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
