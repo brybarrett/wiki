@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754365211614</GeneratedAt>
+  <GeneratedAt>1754365511617</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaizer</Player>
@@ -99,6 +99,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Bellah</Player>
+    <LostExp>363318</LostExp>
+    <KilledBy>Apprentice</KilledBy>
+    <Time>2025-08-05 05:42:11</Time>
+    <Location>(31992,31992,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Elton</Player>
     <LostExp>268380</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -106,11 +114,19 @@
     <Location>(32004,31876,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Elton</Player>
     <LostExp>244203</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-08-05 03:04:18</Time>
     <Location>(32010,31872,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Bibilino</Player>
+    <LostExp>499</LostExp>
+    <KilledBy>GM-Doro</KilledBy>
+    <Time>2025-08-05 05:42:57</Time>
+    <Location>(32040,32036,8)</Location>
   </DeathEvent>
 </DeathHighscores>
