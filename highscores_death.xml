@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754364611589</GeneratedAt>
+  <GeneratedAt>1754364911606</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaizer</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Luffypanta</Player>
+    <LostExp>2216060</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-05 05:34:24</Time>
+    <Location>(32016,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Elton</Player>
     <LostExp>377688</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32013,31865,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Elton</Player>
     <LostExp>268380</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32004,31876,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Elton</Player>
     <LostExp>244203</LostExp>
     <KilledBy>Orc Leader</KilledBy>
