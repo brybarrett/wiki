@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754359811572</GeneratedAt>
+  <GeneratedAt>1754360111562</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaizer</Player>
@@ -68,13 +68,21 @@
   <DeathEvent>
     <Rank>9</Rank>
     <Player>Elton</Player>
+    <LostExp>377688</LostExp>
+    <KilledBy>Bragnak</KilledBy>
+    <Time>2025-08-05 04:13:59</Time>
+    <Location>(32013,31865,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Elton</Player>
     <LostExp>268380</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-08-05 00:24:36</Time>
     <Location>(32004,31876,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Elton</Player>
     <LostExp>244203</LostExp>
     <KilledBy>Orc Leader</KilledBy>
