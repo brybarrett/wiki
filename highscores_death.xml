@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754398811867</GeneratedAt>
+  <GeneratedAt>1754399111849</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaizer</Player>
@@ -387,6 +387,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>49</Rank>
+    <Player>Bibilino</Player>
+    <LostExp>38081</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-08-05 15:00:30</Time>
+    <Location>(32035,32274,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>50</Rank>
     <Player>Fulldmg</Player>
     <LostExp>34278</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -394,7 +402,39 @@
     <Location>(31956,32271,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
+    <Player>Bibilino</Player>
+    <LostExp>34273</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-08-05 15:01:23</Time>
+    <Location>(32034,32278,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>52</Rank>
+    <Player>Bibilino</Player>
+    <LostExp>31255</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-08-05 15:02:32</Time>
+    <Location>(32028,32274,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>53</Rank>
+    <Player>Bibilino</Player>
+    <LostExp>28130</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-08-05 15:03:23</Time>
+    <Location>(32030,32274,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>54</Rank>
+    <Player>Bibilino</Player>
+    <LostExp>25317</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-08-05 15:04:19</Time>
+    <Location>(32033,32276,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>55</Rank>
     <Player>Tobb</Player>
     <LostExp>24184</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -402,7 +442,15 @@
     <Location>(32021,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>56</Rank>
+    <Player>Bibilino</Player>
+    <LostExp>22785</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-08-05 15:05:08</Time>
+    <Location>(32033,32276,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>57</Rank>
     <Player>Bibilino</Player>
     <LostExp>499</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -410,7 +458,7 @@
     <Location>(32040,32036,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>58</Rank>
     <Player>Bibilino</Player>
     <LostExp>449</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
