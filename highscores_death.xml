@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754523305945</GeneratedAt>
+  <GeneratedAt>1754523605971</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jeeje</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Bamor</Player>
+    <LostExp>62934410</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-08-07 01:39:27</Time>
+    <Location>(31957,32291,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Charuto </Player>
     <LostExp>40982998</LostExp>
     <KilledBy>Tyrannix</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31845,31932,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Usop</Player>
     <LostExp>5699931</LostExp>
     <KilledBy>Long</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32003,32277,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Konor</Player>
     <LostExp>85003</LostExp>
     <KilledBy>Orc</KilledBy>
