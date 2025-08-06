@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754471110272</GeneratedAt>
+  <GeneratedAt>1754471410257</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yakoebom</Player>
@@ -555,6 +555,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>70</Rank>
+    <Player>Edward</Player>
+    <LostExp>300808</LostExp>
+    <KilledBy>Thailinkun</KilledBy>
+    <Time>2025-08-06 11:05:53</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>71</Rank>
     <Player>Badimapa</Player>
     <LostExp>275010</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -562,7 +570,15 @@
     <Location>(31914,31974,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>71</Rank>
+    <Rank>72</Rank>
+    <Player>Edward</Player>
+    <LostExp>270728</LostExp>
+    <KilledBy>Thailinkun</KilledBy>
+    <Time>2025-08-06 11:06:38</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>73</Rank>
     <Player>Badimapa</Player>
     <LostExp>247509</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -570,7 +586,15 @@
     <Location>(31914,31973,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>72</Rank>
+    <Rank>74</Rank>
+    <Player>Edward</Player>
+    <LostExp>243655</LostExp>
+    <KilledBy>Thailinkun</KilledBy>
+    <Time>2025-08-06 11:07:22</Time>
+    <Location>(31975,31984,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>75</Rank>
     <Player>Qasdf</Player>
     <LostExp>234785</LostExp>
     <KilledBy>Bug</KilledBy>
@@ -578,7 +602,7 @@
     <Location>(31988,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>73</Rank>
+    <Rank>76</Rank>
     <Player>Badimapa</Player>
     <LostExp>222758</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -586,7 +610,15 @@
     <Location>(31912,32003,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>74</Rank>
+    <Rank>77</Rank>
+    <Player>Edward</Player>
+    <LostExp>219289</LostExp>
+    <KilledBy>Thailinkun</KilledBy>
+    <Time>2025-08-06 11:08:16</Time>
+    <Location>(31976,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>78</Rank>
     <Player>Fulldmg</Player>
     <LostExp>203398</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -594,7 +626,7 @@
     <Location>(31967,32267,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>75</Rank>
+    <Rank>79</Rank>
     <Player>Badimapa</Player>
     <LostExp>200482</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -602,7 +634,15 @@
     <Location>(31911,32002,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>76</Rank>
+    <Rank>80</Rank>
+    <Player>Edward</Player>
+    <LostExp>197360</LostExp>
+    <KilledBy>Thailinkun</KilledBy>
+    <Time>2025-08-06 11:09:23</Time>
+    <Location>(31975,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>81</Rank>
     <Player>Fulldmg</Player>
     <LostExp>183059</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -610,7 +650,7 @@
     <Location>(32010,32247,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>77</Rank>
+    <Rank>82</Rank>
     <Player>Badimapa</Player>
     <LostExp>180434</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -618,7 +658,15 @@
     <Location>(31911,32002,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>78</Rank>
+    <Rank>83</Rank>
+    <Player>Edward</Player>
+    <LostExp>177624</LostExp>
+    <KilledBy>Thailinkun</KilledBy>
+    <Time>2025-08-06 11:10:00</Time>
+    <Location>(31976,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>84</Rank>
     <Player>Fulldmg</Player>
     <LostExp>164753</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -626,7 +674,7 @@
     <Location>(32003,32254,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>79</Rank>
+    <Rank>85</Rank>
     <Player>Badimapa</Player>
     <LostExp>162390</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -634,7 +682,7 @@
     <Location>(31911,32002,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>80</Rank>
+    <Rank>86</Rank>
     <Player>Fulldmg</Player>
     <LostExp>148292</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -642,7 +690,7 @@
     <Location>(32010,32247,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>81</Rank>
+    <Rank>87</Rank>
     <Player>Botaronoku</Player>
     <LostExp>77398</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -650,7 +698,7 @@
     <Location>(32013,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>82</Rank>
+    <Rank>88</Rank>
     <Player>Botaronoku</Player>
     <LostExp>73590</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -658,7 +706,7 @@
     <Location>(31993,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>83</Rank>
+    <Rank>89</Rank>
     <Player>Zac</Player>
     <LostExp>64817</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -666,7 +714,7 @@
     <Location>(31910,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>84</Rank>
+    <Rank>90</Rank>
     <Player>Zac</Player>
     <LostExp>54143</LostExp>
     <KilledBy>Skeleton</KilledBy>
