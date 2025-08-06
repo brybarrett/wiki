@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754520305951</GeneratedAt>
+  <GeneratedAt>1754520605960</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jeeje</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Thorolf</KilledBy>
     <Time>2025-08-07 00:36:23</Time>
     <Location>(31933,32495,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Usop</Player>
+    <LostExp>5699931</LostExp>
+    <KilledBy>Long</KilledBy>
+    <Time>2025-08-07 00:49:06</Time>
+    <Location>(32003,32277,7)</Location>
   </DeathEvent>
 </DeathHighscores>
