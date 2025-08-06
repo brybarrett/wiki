@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754441410041</GeneratedAt>
+  <GeneratedAt>1754441710056</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dark</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Beba</Player>
+    <LostExp>821285</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-08-06 02:53:10</Time>
+    <Location>(31995,32048,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Qasdf</Player>
     <LostExp>234785</LostExp>
     <KilledBy>Bug</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31988,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Zac</Player>
     <LostExp>64817</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31910,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Zac</Player>
     <LostExp>54143</LostExp>
     <KilledBy>Skeleton</KilledBy>
