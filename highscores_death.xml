@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754471410257</GeneratedAt>
+  <GeneratedAt>1754471710268</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yakoebom</Player>
@@ -683,6 +683,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>86</Rank>
+    <Player>Edward</Player>
+    <LostExp>159862</LostExp>
+    <KilledBy>Thailinkun</KilledBy>
+    <Time>2025-08-06 11:10:39</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>87</Rank>
     <Player>Fulldmg</Player>
     <LostExp>148292</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -690,7 +698,31 @@
     <Location>(32010,32247,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>87</Rank>
+    <Rank>88</Rank>
+    <Player>Edward</Player>
+    <LostExp>143876</LostExp>
+    <KilledBy>Thailinkun</KilledBy>
+    <Time>2025-08-06 11:13:38</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>89</Rank>
+    <Player>Edward</Player>
+    <LostExp>129488</LostExp>
+    <KilledBy>Thailinkun</KilledBy>
+    <Time>2025-08-06 11:14:20</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>90</Rank>
+    <Player>Edward</Player>
+    <LostExp>116539</LostExp>
+    <KilledBy>Thailinkun</KilledBy>
+    <Time>2025-08-06 11:15:00</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>91</Rank>
     <Player>Botaronoku</Player>
     <LostExp>77398</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -698,7 +730,7 @@
     <Location>(32013,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>88</Rank>
+    <Rank>92</Rank>
     <Player>Botaronoku</Player>
     <LostExp>73590</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -706,7 +738,7 @@
     <Location>(31993,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>89</Rank>
+    <Rank>93</Rank>
     <Player>Zac</Player>
     <LostExp>64817</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -714,7 +746,7 @@
     <Location>(31910,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>90</Rank>
+    <Rank>94</Rank>
     <Player>Zac</Player>
     <LostExp>54143</LostExp>
     <KilledBy>Skeleton</KilledBy>
