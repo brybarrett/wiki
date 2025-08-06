@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754453110143</GeneratedAt>
+  <GeneratedAt>1754453410137</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yakoebom</Player>
@@ -75,6 +75,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Saadanya</Player>
+    <LostExp>3804074</LostExp>
+    <KilledBy>Datubiadap</KilledBy>
+    <Time>2025-08-06 06:06:19</Time>
+    <Location>(31975,31864,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Saadanya</Player>
+    <LostExp>3423667</LostExp>
+    <KilledBy>Datubiadap</KilledBy>
+    <Time>2025-08-06 06:08:38</Time>
+    <Location>(31975,31864,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Shirley</Player>
     <LostExp>3146697</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -82,7 +98,15 @@
     <Location>(32807,32047,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
+    <Player>Saadanya</Player>
+    <LostExp>3081300</LostExp>
+    <KilledBy>Datubiadap</KilledBy>
+    <Time>2025-08-06 06:09:45</Time>
+    <Location>(31975,31864,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Pupy</Player>
     <LostExp>2210006</LostExp>
     <KilledBy>Ghostsin</KilledBy>
@@ -90,7 +114,7 @@
     <Location>(32043,31794,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>15</Rank>
     <Player>Vintesete</Player>
     <LostExp>1651389</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -98,7 +122,7 @@
     <Location>(32065,31819,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>16</Rank>
     <Player>Elton</Player>
     <LostExp>966316</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -106,7 +130,7 @@
     <Location>(32868,31975,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>17</Rank>
     <Player>Babe</Player>
     <LostExp>880824</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -114,7 +138,7 @@
     <Location>(32847,31974,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>18</Rank>
     <Player>Beba</Player>
     <LostExp>821285</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -122,7 +146,7 @@
     <Location>(31995,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>19</Rank>
     <Player>Qasdf</Player>
     <LostExp>234785</LostExp>
     <KilledBy>Bug</KilledBy>
@@ -130,7 +154,7 @@
     <Location>(31988,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>20</Rank>
     <Player>Botaronoku</Player>
     <LostExp>77398</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -138,7 +162,7 @@
     <Location>(32013,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>21</Rank>
     <Player>Botaronoku</Player>
     <LostExp>73590</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -146,7 +170,7 @@
     <Location>(31993,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>22</Rank>
     <Player>Zac</Player>
     <LostExp>64817</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -154,7 +178,7 @@
     <Location>(31910,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>23</Rank>
     <Player>Zac</Player>
     <LostExp>54143</LostExp>
     <KilledBy>Skeleton</KilledBy>
