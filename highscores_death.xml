@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754459410169</GeneratedAt>
+  <GeneratedAt>1754459710179</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yakoebom</Player>
@@ -291,6 +291,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>37</Rank>
+    <Player>Badimapa</Player>
+    <LostExp>275010</LostExp>
+    <KilledBy>Minorrior</KilledBy>
+    <Time>2025-08-06 07:52:12</Time>
+    <Location>(31914,31974,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>38</Rank>
+    <Player>Badimapa</Player>
+    <LostExp>247509</LostExp>
+    <KilledBy>Minorrior</KilledBy>
+    <Time>2025-08-06 07:53:39</Time>
+    <Location>(31914,31973,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>39</Rank>
     <Player>Qasdf</Player>
     <LostExp>234785</LostExp>
     <KilledBy>Bug</KilledBy>
@@ -298,7 +314,7 @@
     <Location>(31988,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>40</Rank>
     <Player>Fulldmg</Player>
     <LostExp>203398</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -306,7 +322,7 @@
     <Location>(31967,32267,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>41</Rank>
     <Player>Fulldmg</Player>
     <LostExp>183059</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -314,7 +330,7 @@
     <Location>(32010,32247,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>42</Rank>
     <Player>Fulldmg</Player>
     <LostExp>164753</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -322,7 +338,7 @@
     <Location>(32003,32254,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>43</Rank>
     <Player>Fulldmg</Player>
     <LostExp>148292</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -330,7 +346,7 @@
     <Location>(32010,32247,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>44</Rank>
     <Player>Botaronoku</Player>
     <LostExp>77398</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -338,7 +354,7 @@
     <Location>(32013,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>45</Rank>
     <Player>Botaronoku</Player>
     <LostExp>73590</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -346,7 +362,7 @@
     <Location>(31993,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>46</Rank>
     <Player>Zac</Player>
     <LostExp>64817</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -354,7 +370,7 @@
     <Location>(31910,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>47</Rank>
     <Player>Zac</Player>
     <LostExp>54143</LostExp>
     <KilledBy>Skeleton</KilledBy>
