@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754460010180</GeneratedAt>
+  <GeneratedAt>1754460310181</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yakoebom</Player>
@@ -363,6 +363,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>46</Rank>
+    <Player>Badimapa</Player>
+    <LostExp>162390</LostExp>
+    <KilledBy>Kreppan</KilledBy>
+    <Time>2025-08-06 08:00:24</Time>
+    <Location>(31911,32002,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>47</Rank>
     <Player>Fulldmg</Player>
     <LostExp>148292</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(32010,32247,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Botaronoku</Player>
     <LostExp>77398</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(32013,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Botaronoku</Player>
     <LostExp>73590</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(31993,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Zac</Player>
     <LostExp>64817</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31910,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Zac</Player>
     <LostExp>54143</LostExp>
     <KilledBy>Skeleton</KilledBy>
