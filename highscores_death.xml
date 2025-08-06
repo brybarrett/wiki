@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754492710420</GeneratedAt>
+  <GeneratedAt>1754493010428</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Qahderijan</Player>
@@ -827,6 +827,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>104</Rank>
+    <Player>Fulldmg</Player>
+    <LostExp>97295</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-08-06 17:05:44</Time>
+    <Location>(31967,32252,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>105</Rank>
+    <Player>Fulldmg</Player>
+    <LostExp>87565</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-08-06 17:07:06</Time>
+    <Location>(31988,32256,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>106</Rank>
     <Player>Botaronoku</Player>
     <LostExp>77398</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -834,7 +850,7 @@
     <Location>(32013,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>105</Rank>
+    <Rank>107</Rank>
     <Player>Botaronoku</Player>
     <LostExp>73590</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -842,7 +858,7 @@
     <Location>(31993,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>106</Rank>
+    <Rank>108</Rank>
     <Player>Botaronoku</Player>
     <LostExp>71691</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -850,7 +866,7 @@
     <Location>(32026,31977,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>107</Rank>
+    <Rank>109</Rank>
     <Player>Zac</Player>
     <LostExp>64817</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -858,7 +874,7 @@
     <Location>(31910,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>108</Rank>
+    <Rank>110</Rank>
     <Player>Zac</Player>
     <LostExp>54143</LostExp>
     <KilledBy>Skeleton</KilledBy>
