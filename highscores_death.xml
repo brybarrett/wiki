@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754461510200</GeneratedAt>
+  <GeneratedAt>1754461810198</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yakoebom</Player>
@@ -11,6 +11,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Quatro</Player>
+    <LostExp>77206587</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2025-08-06 08:27:56</Time>
+    <Location>(31864,32043,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Seis</Player>
+    <LostExp>61995115</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2025-08-06 08:27:25</Time>
+    <Location>(31855,32052,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Eloa</Player>
     <LostExp>54767680</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(31963,32257,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Dark</Player>
     <LostExp>52505342</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(32824,32010,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Amigoide</Player>
     <LostExp>36649294</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Charutin</Player>
     <LostExp>21587560</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31808,31959,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Crordew</Player>
     <LostExp>18177628</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(32067,31824,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Hordel</Player>
     <LostExp>10606532</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(32067,31824,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Miacalifa</Player>
     <LostExp>6276021</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(31957,31865,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Ezeeeepeze</Player>
     <LostExp>5487788</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(31975,31863,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Ezeeeepeze</Player>
     <LostExp>4939010</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Saadanya</Player>
     <LostExp>4696388</LostExp>
     <KilledBy>Ghostsin</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(32043,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Ezeeeepeze</Player>
     <LostExp>4445109</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -98,7 +114,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>15</Rank>
     <Player>Saadanya</Player>
     <LostExp>4226749</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -106,7 +122,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <Player>Ezeeeepeze</Player>
     <LostExp>4000598</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -114,7 +130,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>17</Rank>
     <Player>Saadanya</Player>
     <LostExp>3804074</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -122,7 +138,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>18</Rank>
     <Player>Ezeeeepeze</Player>
     <LostExp>3600538</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -130,7 +146,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>19</Rank>
     <Player>Saadanya</Player>
     <LostExp>3423667</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -138,7 +154,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>20</Rank>
     <Player>Ezeeeepeze</Player>
     <LostExp>3240484</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -146,7 +162,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>21</Rank>
     <Player>Shirley</Player>
     <LostExp>3146697</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -154,7 +170,7 @@
     <Location>(32807,32047,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>22</Rank>
     <Player>Saadanya</Player>
     <LostExp>3081300</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -162,7 +178,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>23</Rank>
     <Player>Ezeeeepeze</Player>
     <LostExp>2916436</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -170,7 +186,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>24</Rank>
     <Player>Saadanya</Player>
     <LostExp>2773170</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -178,7 +194,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>25</Rank>
     <Player>Ezeeeepeze</Player>
     <LostExp>2624792</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -186,7 +202,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>26</Rank>
     <Player>Saadanya</Player>
     <LostExp>2495853</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -194,7 +210,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>27</Rank>
     <Player>Ezeeeepeze</Player>
     <LostExp>2362313</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -202,7 +218,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>28</Rank>
     <Player>Saadanya</Player>
     <LostExp>2246268</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -210,7 +226,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>29</Rank>
     <Player>Pupy</Player>
     <LostExp>2210006</LostExp>
     <KilledBy>Ghostsin</KilledBy>
@@ -218,7 +234,7 @@
     <Location>(32043,31794,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>30</Rank>
     <Player>Luffypanta</Player>
     <LostExp>2133145</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -226,7 +242,7 @@
     <Location>(32015,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>31</Rank>
     <Player>Ezeeeepeze</Player>
     <LostExp>2126082</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -234,7 +250,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>32</Rank>
     <Player>Saadanya</Player>
     <LostExp>2021641</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -242,7 +258,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>33</Rank>
     <Player>Saadanya</Player>
     <LostExp>1819477</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -250,7 +266,7 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>34</Rank>
     <Player>Vintesete</Player>
     <LostExp>1651389</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -258,7 +274,7 @@
     <Location>(32065,31819,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>35</Rank>
     <Player>Saadanya</Player>
     <LostExp>1637529</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -266,7 +282,15 @@
     <Location>(31975,31864,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>36</Rank>
+    <Player>Mrb</Player>
+    <LostExp>1105798</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-08-06 08:26:43</Time>
+    <Location>(31909,31994,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>37</Rank>
     <Player>Elton</Player>
     <LostExp>966316</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -274,7 +298,7 @@
     <Location>(32868,31975,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>38</Rank>
     <Player>Babe</Player>
     <LostExp>880824</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -282,7 +306,7 @@
     <Location>(32847,31974,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>39</Rank>
     <Player>Beba</Player>
     <LostExp>821285</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -290,7 +314,7 @@
     <Location>(31995,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>40</Rank>
     <Player>Badimapa</Player>
     <LostExp>275010</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -298,7 +322,7 @@
     <Location>(31914,31974,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>41</Rank>
     <Player>Badimapa</Player>
     <LostExp>247509</LostExp>
     <KilledBy>Minorrior</KilledBy>
@@ -306,7 +330,7 @@
     <Location>(31914,31973,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>42</Rank>
     <Player>Qasdf</Player>
     <LostExp>234785</LostExp>
     <KilledBy>Bug</KilledBy>
@@ -314,7 +338,7 @@
     <Location>(31988,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>43</Rank>
     <Player>Badimapa</Player>
     <LostExp>222758</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -322,7 +346,7 @@
     <Location>(31912,32003,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>44</Rank>
     <Player>Fulldmg</Player>
     <LostExp>203398</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -330,7 +354,7 @@
     <Location>(31967,32267,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>45</Rank>
     <Player>Badimapa</Player>
     <LostExp>200482</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -338,7 +362,7 @@
     <Location>(31911,32002,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>46</Rank>
     <Player>Fulldmg</Player>
     <LostExp>183059</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -346,7 +370,7 @@
     <Location>(32010,32247,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>47</Rank>
     <Player>Badimapa</Player>
     <LostExp>180434</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -354,7 +378,7 @@
     <Location>(31911,32002,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>48</Rank>
     <Player>Fulldmg</Player>
     <LostExp>164753</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -362,7 +386,7 @@
     <Location>(32003,32254,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>49</Rank>
     <Player>Badimapa</Player>
     <LostExp>162390</LostExp>
     <KilledBy>Kreppan</KilledBy>
@@ -370,7 +394,7 @@
     <Location>(31911,32002,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>50</Rank>
     <Player>Fulldmg</Player>
     <LostExp>148292</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -378,7 +402,7 @@
     <Location>(32010,32247,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>51</Rank>
     <Player>Botaronoku</Player>
     <LostExp>77398</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -386,7 +410,7 @@
     <Location>(32013,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>52</Rank>
     <Player>Botaronoku</Player>
     <LostExp>73590</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -394,7 +418,7 @@
     <Location>(31993,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>53</Rank>
     <Player>Zac</Player>
     <LostExp>64817</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -402,7 +426,7 @@
     <Location>(31910,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>54</Rank>
     <Player>Zac</Player>
     <LostExp>54143</LostExp>
     <KilledBy>Skeleton</KilledBy>
