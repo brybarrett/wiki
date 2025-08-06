@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754504110504</GeneratedAt>
+  <GeneratedAt>1754504410457</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Qahderijan</Player>
@@ -915,6 +915,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>115</Rank>
+    <Player>Sifu</Player>
+    <LostExp>104028</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-06 20:16:34</Time>
+    <Location>(32011,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>116</Rank>
     <Player>Fulldmg</Player>
     <LostExp>97295</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -922,7 +930,7 @@
     <Location>(31967,32252,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>116</Rank>
+    <Rank>117</Rank>
     <Player>Badimapa</Player>
     <LostExp>95890</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -930,7 +938,7 @@
     <Location>(31976,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>117</Rank>
+    <Rank>118</Rank>
     <Player>Fulldmg</Player>
     <LostExp>87565</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -938,7 +946,7 @@
     <Location>(31988,32256,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>118</Rank>
+    <Rank>119</Rank>
     <Player>Badimapa</Player>
     <LostExp>86301</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -946,7 +954,7 @@
     <Location>(31976,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>119</Rank>
+    <Rank>120</Rank>
     <Player>Fulldmg</Player>
     <LostExp>78809</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -954,7 +962,7 @@
     <Location>(31956,32279,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>120</Rank>
+    <Rank>121</Rank>
     <Player>Badimapa</Player>
     <LostExp>77671</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -962,7 +970,7 @@
     <Location>(31976,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>121</Rank>
+    <Rank>122</Rank>
     <Player>Botaronoku</Player>
     <LostExp>77398</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -970,7 +978,7 @@
     <Location>(32013,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>122</Rank>
+    <Rank>123</Rank>
     <Player>Botaronoku</Player>
     <LostExp>73590</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -978,7 +986,7 @@
     <Location>(31993,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>123</Rank>
+    <Rank>124</Rank>
     <Player>Botaronoku</Player>
     <LostExp>71691</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -986,7 +994,7 @@
     <Location>(32026,31977,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>124</Rank>
+    <Rank>125</Rank>
     <Player>Badimapa</Player>
     <LostExp>69904</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -994,7 +1002,7 @@
     <Location>(31976,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>125</Rank>
+    <Rank>126</Rank>
     <Player>Zac</Player>
     <LostExp>64817</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -1002,7 +1010,7 @@
     <Location>(31910,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>126</Rank>
+    <Rank>127</Rank>
     <Player>Badimapa</Player>
     <LostExp>62913</LostExp>
     <KilledBy>Datubiadap</KilledBy>
@@ -1010,7 +1018,7 @@
     <Location>(31976,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>127</Rank>
+    <Rank>128</Rank>
     <Player>Zac</Player>
     <LostExp>54143</LostExp>
     <KilledBy>Skeleton</KilledBy>
