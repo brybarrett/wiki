@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754508010540</GeneratedAt>
+  <GeneratedAt>1754508310530</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Qahderijan</Player>
@@ -1040,5 +1040,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-08-06 00:35:51</Time>
     <Location>(31996,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>131</Rank>
+    <Player>Noru</Player>
+    <LostExp>477</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-06 21:22:14</Time>
+    <Location>(32005,31871,10)</Location>
   </DeathEvent>
 </DeathHighscores>
