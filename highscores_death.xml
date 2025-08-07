@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754558106217</GeneratedAt>
+  <GeneratedAt>1754558406209</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jeeje</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Riquekmila</Player>
+    <LostExp>96351497</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-08-07 11:17:49</Time>
+    <Location>(31948,32276,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Bamor</Player>
     <LostExp>62934410</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31957,32291,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Dark</Player>
     <LostExp>50312674</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32824,32010,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Charuto </Player>
     <LostExp>40982998</LostExp>
     <KilledBy>Tyrannix</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31845,31932,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Jaycho</Player>
     <LostExp>16118734</LostExp>
     <KilledBy>Kul'Krak'u</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31791,31915,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Usop</Player>
     <LostExp>5699931</LostExp>
     <KilledBy>Long</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32003,32277,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Vintequatr</Player>
     <LostExp>2319934</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32062,31822,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Ahrifox</Player>
     <LostExp>2014475</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31961,32282,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Ahrifox</Player>
     <LostExp>1859850</LostExp>
     <KilledBy>Archvampir</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32734,32290,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Gordinxl</Player>
     <LostExp>1151415</LostExp>
     <KilledBy>Orc Master</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32004,31840,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Batman</Player>
     <LostExp>421694</LostExp>
     <KilledBy>Gaspar</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31953,31861,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Badimapa</Player>
     <LostExp>231622</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32047,32339,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Konor</Player>
     <LostExp>123580</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32015,31884,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Sifu</Player>
     <LostExp>87238</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31983,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Konor</Player>
     <LostExp>85003</LostExp>
     <KilledBy>Orc</KilledBy>
