@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754527205997</GeneratedAt>
+  <GeneratedAt>1754527505996</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jeeje</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Badimapa</Player>
+    <LostExp>231622</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2025-08-07 02:44:24</Time>
+    <Location>(32047,32339,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Konor</Player>
     <LostExp>85003</LostExp>
     <KilledBy>Orc</KilledBy>
