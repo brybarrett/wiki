@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754531706041</GeneratedAt>
+  <GeneratedAt>1754532006019</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jeeje</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Konor</Player>
+    <LostExp>123580</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-07 03:59:28</Time>
+    <Location>(32015,31884,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Sifu</Player>
     <LostExp>87238</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31983,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Konor</Player>
     <LostExp>85003</LostExp>
     <KilledBy>Orc</KilledBy>
