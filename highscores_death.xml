@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754610600672</GeneratedAt>
+  <GeneratedAt>1754610900713</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Raven</Player>
+    <LostExp>27861879</LostExp>
+    <KilledBy>Silver Stone</KilledBy>
+    <Time>2025-08-08 01:52:31</Time>
+    <Location>(32013,32231,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Sifu</Player>
     <LostExp>377042</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32005,31882,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Sifu</Player>
     <LostExp>357608</LostExp>
     <KilledBy>Werewolf</KilledBy>
