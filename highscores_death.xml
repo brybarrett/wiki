@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754533806036</GeneratedAt>
+  <GeneratedAt>1754534106031</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jeeje</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Dark</Player>
+    <LostExp>50312674</LostExp>
+    <KilledBy>Bloodbeak</KilledBy>
+    <Time>2025-08-07 04:32:55</Time>
+    <Location>(32824,32010,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Charuto </Player>
     <LostExp>40982998</LostExp>
     <KilledBy>Tyrannix</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31845,31932,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Usop</Player>
     <LostExp>5699931</LostExp>
     <KilledBy>Long</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32003,32277,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Gordinxl</Player>
     <LostExp>1151415</LostExp>
     <KilledBy>Orc Master</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32004,31840,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Badimapa</Player>
     <LostExp>231622</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32047,32339,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Konor</Player>
     <LostExp>123580</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32015,31884,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Sifu</Player>
     <LostExp>87238</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31983,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Konor</Player>
     <LostExp>85003</LostExp>
     <KilledBy>Orc</KilledBy>
