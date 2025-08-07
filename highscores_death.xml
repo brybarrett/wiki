@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754552406156</GeneratedAt>
+  <GeneratedAt>1754552706176</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jeeje</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Ahrifox</Player>
+    <LostExp>2014475</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-08-07 09:43:25</Time>
+    <Location>(31961,32282,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Gordinxl</Player>
     <LostExp>1151415</LostExp>
     <KilledBy>Orc Master</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32004,31840,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Badimapa</Player>
     <LostExp>231622</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32047,32339,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Konor</Player>
     <LostExp>123580</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32015,31884,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Sifu</Player>
     <LostExp>87238</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31983,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Konor</Player>
     <LostExp>85003</LostExp>
     <KilledBy>Orc</KilledBy>
