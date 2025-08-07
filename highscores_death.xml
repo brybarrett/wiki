@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754591706482</GeneratedAt>
+  <GeneratedAt>1754592006491</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jeeje</Player>
@@ -267,6 +267,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>34</Rank>
+    <Player>Qqqo</Player>
+    <LostExp>18715</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-08-07 20:36:28</Time>
+    <Location>(32027,31983,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Bibilino</Player>
     <LostExp>7518</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31981,31897,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Ravaikz</Player>
     <LostExp>3192</LostExp>
     <KilledBy>(Others)</KilledBy>
