@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754598006523</GeneratedAt>
+  <GeneratedAt>1754598306474</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jeeje</Player>
@@ -267,6 +267,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>34</Rank>
+    <Player>Qqqo</Player>
+    <LostExp>70087</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-08-07 22:24:51</Time>
+    <Location>(32189,32270,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Botaronoku</Player>
     <LostExp>66772</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(32019,31958,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Qqqo</Player>
     <LostExp>18715</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(32027,31983,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Qqqo</Player>
     <LostExp>17738</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(31878,32057,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Bibilino</Player>
     <LostExp>7518</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31981,31897,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Ravaikz</Player>
     <LostExp>3192</LostExp>
     <KilledBy>(Others)</KilledBy>
