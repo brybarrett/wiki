@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754609700671</GeneratedAt>
+  <GeneratedAt>1754610000678</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sifu</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-08-08 01:12:56</Time>
     <Location>(32005,31882,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Sifu</Player>
+    <LostExp>357608</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-08 01:35:55</Time>
+    <Location>(31906,32047,8)</Location>
   </DeathEvent>
 </DeathHighscores>
