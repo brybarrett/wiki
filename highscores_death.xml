@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754571606325</GeneratedAt>
+  <GeneratedAt>1754571906298</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jeeje</Player>
@@ -192,5 +192,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-08-07 12:14:12</Time>
     <Location>(31899,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
+    <Player>Botaronoku</Player>
+    <LostExp>66772</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-08-07 15:01:48</Time>
+    <Location>(32019,31958,8)</Location>
   </DeathEvent>
 </DeathHighscores>
