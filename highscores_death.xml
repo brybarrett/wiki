@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754646000961</GeneratedAt>
+  <GeneratedAt>1754646300959</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Emperor</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Myrtlez</Player>
+    <LostExp>15207519</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-08-08 11:44:31</Time>
+    <Location>(32184,32212,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Okiticumeu</Player>
     <LostExp>12248575</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31862,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Gordinxl</Player>
     <LostExp>4071166</LostExp>
     <KilledBy>Haruk</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31957,31800,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Chucknorry</Player>
     <LostExp>3406838</LostExp>
     <KilledBy>Snowling</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31960,31805,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Magomil</Player>
     <LostExp>3381544</LostExp>
     <KilledBy>The Haruk</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31963,31801,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Magomil</Player>
     <LostExp>3045254</LostExp>
     <KilledBy>Snowling</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31969,31814,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Taylerg</Player>
     <LostExp>2757489</LostExp>
     <KilledBy>Haruk</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31956,31800,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Trinta</Player>
     <LostExp>2386079</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Vintenove</Player>
     <LostExp>2373716</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Vintetres</Player>
     <LostExp>2194653</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Raelf </Player>
     <LostExp>2023110</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31884,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Raelf </Player>
     <LostExp>1983155</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31863,32051,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Vintetres</Player>
     <LostExp>1975188</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Mrb</Player>
     <LostExp>1040595</LostExp>
     <KilledBy>Hellokitty</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31996,32295,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Mrb</Player>
     <LostExp>936778</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31957,32279,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Mrb</Player>
     <LostExp>846913</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32017,32224,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Gordinviii</Player>
     <LostExp>735672</LostExp>
     <KilledBy>Snowling</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31960,31806,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Gordinviii</Player>
     <LostExp>690315</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32007,31872,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Gordinviii</Player>
     <LostExp>625904</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32010,31875,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Gordinx</Player>
     <LostExp>582681</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Sifu</Player>
     <LostExp>377042</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32005,31882,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Sifu</Player>
     <LostExp>372490</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32010,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Sifu</Player>
     <LostExp>357608</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31906,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Konor</Player>
     <LostExp>264464</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31983,32239,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Haxixe</Player>
     <LostExp>65890</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(31978,31861,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Haxixe</Player>
     <LostExp>61529</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31991,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Kyojuro</Player>
     <LostExp>40005</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(31993,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Bibilino</Player>
     <LostExp>6794</LostExp>
     <KilledBy>The Bug</KilledBy>
