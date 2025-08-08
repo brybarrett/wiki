@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754694609574</GeneratedAt>
+  <GeneratedAt>1754694909584</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Duza</Player>
+    <LostExp>107157212</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-08-09 01:12:39</Time>
+    <Location>(31959,32278,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Vintedois</Player>
     <LostExp>23492768</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
