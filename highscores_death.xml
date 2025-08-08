@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754656201042</GeneratedAt>
+  <GeneratedAt>1754656501019</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Emperor</Player>
@@ -268,13 +268,21 @@
   <DeathEvent>
     <Rank>34</Rank>
     <Player>Konor</Player>
+    <LostExp>293849</LostExp>
+    <KilledBy>Monk</KilledBy>
+    <Time>2025-08-08 14:34:20</Time>
+    <Location>(31981,32235,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
+    <Player>Konor</Player>
     <LostExp>264464</LostExp>
     <KilledBy>Monk</KilledBy>
     <Time>2025-08-08 04:17:58</Time>
     <Location>(31983,32239,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Qqqo</Player>
     <LostExp>104090</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(32007,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Qqqo</Player>
     <LostExp>74667</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(31988,31995,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Haxixe</Player>
     <LostExp>65890</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31978,31861,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Haxixe</Player>
     <LostExp>61529</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31991,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Kyojuro</Player>
     <LostExp>40005</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31993,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Bibilino</Player>
     <LostExp>6794</LostExp>
     <KilledBy>The Bug</KilledBy>
