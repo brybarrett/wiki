@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754644200939</GeneratedAt>
+  <GeneratedAt>1754644500967</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Emperor</Player>
@@ -259,6 +259,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>33</Rank>
+    <Player>Kyojuro</Player>
+    <LostExp>40005</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-08-08 11:11:24</Time>
+    <Location>(31993,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>34</Rank>
     <Player>Bibilino</Player>
     <LostExp>6794</LostExp>
     <KilledBy>The Bug</KilledBy>
