@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754614200735</GeneratedAt>
+  <GeneratedAt>1754614500726</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Darkwolf</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Gordinviii</Player>
+    <LostExp>690315</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-08 02:53:39</Time>
+    <Location>(32007,31872,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Sifu</Player>
     <LostExp>377042</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -26,7 +34,15 @@
     <Location>(32005,31882,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
+    <Player>Sifu</Player>
+    <LostExp>372490</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-08 02:51:49</Time>
+    <Location>(32010,31876,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Sifu</Player>
     <LostExp>357608</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(31906,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Haxixe</Player>
     <LostExp>65890</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(31978,31861,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Haxixe</Player>
     <LostExp>61529</LostExp>
     <KilledBy>Orc</KilledBy>
