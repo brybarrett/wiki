@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754637300873</GeneratedAt>
+  <GeneratedAt>1754637600899</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>All</Player>
@@ -240,5 +240,13 @@
     <KilledBy>Orc</KilledBy>
     <Time>2025-08-08 02:16:31</Time>
     <Location>(31991,31864,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>31</Rank>
+    <Player>Bibilino</Player>
+    <LostExp>6794</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-08-08 09:15:34</Time>
+    <Location>(31989,32015,8)</Location>
   </DeathEvent>
 </DeathHighscores>
