@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754695209590</GeneratedAt>
+  <GeneratedAt>1754695509609</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Duza</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Werewolf Master</KilledBy>
     <Time>2025-08-09 00:40:13</Time>
     <Location>(32065,32298,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Mafu</Player>
+    <LostExp>17648884</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-09 01:20:18</Time>
+    <Location>(31862,32047,8)</Location>
   </DeathEvent>
 </DeathHighscores>
