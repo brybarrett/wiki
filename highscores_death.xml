@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754613900713</GeneratedAt>
+  <GeneratedAt>1754614200735</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Darkwolf</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Haxixe</Player>
+    <LostExp>65890</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-08-08 02:46:27</Time>
+    <Location>(31978,31861,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Haxixe</Player>
     <LostExp>61529</LostExp>
     <KilledBy>Orc</KilledBy>
