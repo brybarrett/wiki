@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754621100768</GeneratedAt>
+  <GeneratedAt>1754621400791</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>All</Player>
@@ -43,6 +43,38 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Trinta</Player>
+    <LostExp>2386079</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-08-08 04:48:41</Time>
+    <Location>(32060,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Vintenove</Player>
+    <LostExp>2373716</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-08-08 04:48:42</Time>
+    <Location>(32060,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Vintetres</Player>
+    <LostExp>2194653</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-08-08 04:46:30</Time>
+    <Location>(32060,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Vintetres</Player>
+    <LostExp>1975188</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-08-08 04:48:49</Time>
+    <Location>(32060,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Mrb</Player>
     <LostExp>1040595</LostExp>
     <KilledBy>Hellokitty</KilledBy>
@@ -50,7 +82,7 @@
     <Location>(31996,32295,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>11</Rank>
     <Player>Mrb</Player>
     <LostExp>936778</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -58,7 +90,7 @@
     <Location>(31957,32279,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>12</Rank>
     <Player>Gordinviii</Player>
     <LostExp>690315</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -66,7 +98,7 @@
     <Location>(32007,31872,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>13</Rank>
     <Player>Gordinviii</Player>
     <LostExp>625904</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -74,7 +106,7 @@
     <Location>(32010,31875,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>14</Rank>
     <Player>Sifu</Player>
     <LostExp>377042</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +114,7 @@
     <Location>(32005,31882,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>15</Rank>
     <Player>Sifu</Player>
     <LostExp>372490</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +122,7 @@
     <Location>(32010,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>16</Rank>
     <Player>Sifu</Player>
     <LostExp>357608</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -98,7 +130,7 @@
     <Location>(31906,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>17</Rank>
     <Player>Konor</Player>
     <LostExp>264464</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -106,7 +138,7 @@
     <Location>(31983,32239,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>18</Rank>
     <Player>Haxixe</Player>
     <LostExp>65890</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -114,7 +146,7 @@
     <Location>(31978,31861,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>19</Rank>
     <Player>Haxixe</Player>
     <LostExp>61529</LostExp>
     <KilledBy>Orc</KilledBy>
