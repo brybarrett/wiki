@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754782053510</GeneratedAt>
+  <GeneratedAt>1754782353530</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Lorded</Player>
+    <LostExp>89445652</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-08-10 01:29:36</Time>
+    <Location>(31917,31991,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Vinteum</Player>
     <LostExp>21913668</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32065,32298,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Chucknorry</Player>
     <LostExp>6904969</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31897,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Chucknorry</Player>
     <LostExp>6224615</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31897,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Gordinviii</Player>
     <LostExp>3805233</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +42,15 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
+    <Player>Gordinviii</Player>
+    <LostExp>3527939</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-10 01:31:33</Time>
+    <Location>(31898,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Sifu</Player>
     <LostExp>2958811</LostExp>
     <KilledBy>Werewolf</KilledBy>
