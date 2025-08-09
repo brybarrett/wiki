@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754705409709</GeneratedAt>
+  <GeneratedAt>1754705709673</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Tuyull</Player>
+    <LostExp>317727962</LostExp>
+    <KilledBy>Blackdrake</KilledBy>
+    <Time>2025-08-09 04:10:32</Time>
+    <Location>(32247,32361,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Yakoebom</Player>
     <LostExp>315953858</LostExp>
     <KilledBy>Snowling</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31957,31802,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Duza</Player>
     <LostExp>107157212</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31959,32278,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Vintedois</Player>
     <LostExp>23492768</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32065,32298,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Mafu</Player>
     <LostExp>17648884</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31862,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Aeri</Player>
     <LostExp>16846698</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31788,31911,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Creator</Player>
     <LostExp>14643499</LostExp>
     <KilledBy>Pageone</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32819,31921,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Usop</Player>
     <LostExp>8311918</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31867,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Chucknorry</Player>
     <LostExp>5822630</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Konor</Player>
     <LostExp>299160</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31979,32231,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Haxixe</Player>
     <LostExp>133963</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32033,31972,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Okiharu</Player>
     <LostExp>9495</LostExp>
     <KilledBy>Wisper</KilledBy>
