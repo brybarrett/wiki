@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754743309944</GeneratedAt>
+  <GeneratedAt>1754743609922</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sunset</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Flutty</KilledBy>
     <Time>2025-08-09 14:00:14</Time>
     <Location>(32065,31819,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Akama</Player>
+    <LostExp>55650</LostExp>
+    <KilledBy>Hell Guard</KilledBy>
+    <Time>2025-08-09 14:42:53</Time>
+    <Location>(32788,32250,8)</Location>
   </DeathEvent>
 </DeathHighscores>
