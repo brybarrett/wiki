@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754758010031</GeneratedAt>
+  <GeneratedAt>1754758310045</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Usop</Player>
+    <LostExp>7985164</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-09 18:46:51</Time>
+    <Location>(32014,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Rebento</Player>
     <LostExp>4006226</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32045,32307,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Taylerg</Player>
     <LostExp>3307657</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32845,32066,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Stecuu</Player>
     <LostExp>2337755</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32065,31819,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Shikamaru</Player>
     <LostExp>699764</LostExp>
     <KilledBy>Tenebris</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31957,31799,14)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Konor</Player>
     <LostExp>348214</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31972,32229,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Konor</Player>
     <LostExp>336793</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31959,32208,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Akama</Player>
     <LostExp>55650</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32788,32250,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Likar</Player>
     <LostExp>9348</LostExp>
     <KilledBy>Orc</KilledBy>
