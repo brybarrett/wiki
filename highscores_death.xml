@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754701509627</GeneratedAt>
+  <GeneratedAt>1754701809673</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yakoebom</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Monk</KilledBy>
     <Time>2025-08-09 03:03:16</Time>
     <Location>(31979,32231,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Haxixe</Player>
+    <LostExp>133963</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2025-08-09 03:07:18</Time>
+    <Location>(32033,31972,9)</Location>
   </DeathEvent>
 </DeathHighscores>
