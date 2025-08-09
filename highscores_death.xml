@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754704809643</GeneratedAt>
+  <GeneratedAt>1754705109684</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -72,5 +72,13 @@
     <KilledBy>Rabid Bear</KilledBy>
     <Time>2025-08-09 03:07:18</Time>
     <Location>(32033,31972,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Okiharu</Player>
+    <LostExp>9495</LostExp>
+    <KilledBy>Wisper</KilledBy>
+    <Time>2025-08-09 04:04:06</Time>
+    <Location>(31897,31936,8)</Location>
   </DeathEvent>
 </DeathHighscores>
