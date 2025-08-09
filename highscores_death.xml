@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754764010098</GeneratedAt>
+  <GeneratedAt>1754764310108</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nestle</Player>
@@ -99,6 +99,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Konor</Player>
+    <LostExp>383241</LostExp>
+    <KilledBy>Monk</KilledBy>
+    <Time>2025-08-09 20:30:02</Time>
+    <Location>(31972,32225,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Akama</Player>
     <LostExp>352783</LostExp>
     <KilledBy>Wispin</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32068,32363,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Konor</Player>
     <LostExp>348214</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31972,32229,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Akama</Player>
     <LostExp>345502</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31990,31914,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Konor</Player>
     <LostExp>336793</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -130,7 +138,15 @@
     <Location>(31959,32208,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
+    <Player>Likar</Player>
+    <LostExp>67453</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2025-08-09 20:31:09</Time>
+    <Location>(31859,31972,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Akama</Player>
     <LostExp>55650</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -138,7 +154,7 @@
     <Location>(32788,32250,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>20</Rank>
     <Player>Likar</Player>
     <LostExp>39856</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -146,7 +162,7 @@
     <Location>(31854,31971,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>21</Rank>
     <Player>Likar</Player>
     <LostExp>9348</LostExp>
     <KilledBy>Orc</KilledBy>
