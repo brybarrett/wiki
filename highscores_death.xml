@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754706009674</GeneratedAt>
+  <GeneratedAt>1754706309686</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Charutin</Player>
+    <LostExp>21957743</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-08-09 04:22:38</Time>
+    <Location>(32009,32200,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Mafu</Player>
     <LostExp>17648884</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31862,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Aeri</Player>
     <LostExp>16846698</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31788,31911,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Creator</Player>
     <LostExp>14643499</LostExp>
     <KilledBy>Pageone</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32819,31921,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Usop</Player>
     <LostExp>8311918</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31867,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Chucknorry</Player>
     <LostExp>5822630</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Konor</Player>
     <LostExp>299160</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31979,32231,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Haxixe</Player>
     <LostExp>133963</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32033,31972,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Okiharu</Player>
     <LostExp>9495</LostExp>
     <KilledBy>Wisper</KilledBy>
