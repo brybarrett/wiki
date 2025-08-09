@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754759510040</GeneratedAt>
+  <GeneratedAt>1754759810041</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Akama</Player>
+    <LostExp>352783</LostExp>
+    <KilledBy>Wispin</KilledBy>
+    <Time>2025-08-09 19:13:03</Time>
+    <Location>(32068,32363,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Konor</Player>
     <LostExp>348214</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31972,32229,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Konor</Player>
     <LostExp>336793</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31959,32208,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Akama</Player>
     <LostExp>55650</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32788,32250,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Likar</Player>
     <LostExp>9348</LostExp>
     <KilledBy>Orc</KilledBy>
