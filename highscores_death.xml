@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754703009712</GeneratedAt>
+  <GeneratedAt>1754703309682</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yakoebom</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Creator</Player>
+    <LostExp>14643499</LostExp>
+    <KilledBy>Pageone</KilledBy>
+    <Time>2025-08-09 03:33:44</Time>
+    <Location>(32819,31921,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Usop</Player>
     <LostExp>8311918</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31867,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Konor</Player>
     <LostExp>299160</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31979,32231,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Haxixe</Player>
     <LostExp>133963</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
