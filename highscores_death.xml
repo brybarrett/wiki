@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754733009874</GeneratedAt>
+  <GeneratedAt>1754733309877</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Galadriel</Player>
+    <LostExp>74694050</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-08-09 11:53:05</Time>
+    <Location>(31970,32275,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Vintedois</Player>
     <LostExp>23492768</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32065,32298,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Charutin</Player>
     <LostExp>21957743</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32009,32200,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Mafu</Player>
     <LostExp>17648884</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31862,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Aeri</Player>
     <LostExp>16846698</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31788,31911,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Creator</Player>
     <LostExp>14643499</LostExp>
     <KilledBy>Pageone</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32819,31921,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Usop</Player>
     <LostExp>8311918</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31867,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Chucknorry</Player>
     <LostExp>5822630</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Magomil</Player>
     <LostExp>3200019</LostExp>
     <KilledBy>Crustea</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32893,31982,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Konor</Player>
     <LostExp>299160</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31979,32231,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Trintaoito</Player>
     <LostExp>264773</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32024,31978,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Haxixe</Player>
     <LostExp>142096</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32031,31973,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Haxixe</Player>
     <LostExp>133963</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32033,31972,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Fafy</Player>
     <LostExp>103430</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31881,31914,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Akama</Player>
     <LostExp>19227</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32014,31881,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Akama</Player>
     <LostExp>17379</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Akama</Player>
     <LostExp>16138</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32024,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Okiharu</Player>
     <LostExp>9495</LostExp>
     <KilledBy>Wisper</KilledBy>
