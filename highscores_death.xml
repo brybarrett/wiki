@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754774210152</GeneratedAt>
+  <GeneratedAt>1754774510157</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nestle</Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Akama</Player>
+    <LostExp>412207</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-08-09 23:19:38</Time>
+    <Location>(32000,32255,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Konor</Player>
     <LostExp>383241</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31972,32225,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Akama</Player>
     <LostExp>352783</LostExp>
     <KilledBy>Wispin</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32068,32363,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Konor</Player>
     <LostExp>348214</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31972,32229,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Akama</Player>
     <LostExp>345502</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31990,31914,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Konor</Player>
     <LostExp>336793</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31959,32208,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Likar</Player>
     <LostExp>67453</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31859,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Akama</Player>
     <LostExp>55650</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32788,32250,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Likar</Player>
     <LostExp>39856</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31854,31971,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Likar</Player>
     <LostExp>9348</LostExp>
     <KilledBy>Orc</KilledBy>
