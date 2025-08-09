@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754749309951</GeneratedAt>
+  <GeneratedAt>1754749609948</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sunset</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Konor</Player>
+    <LostExp>348214</LostExp>
+    <KilledBy>Monk</KilledBy>
+    <Time>2025-08-09 16:25:40</Time>
+    <Location>(31972,32229,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Akama</Player>
     <LostExp>55650</LostExp>
     <KilledBy>Hell Guard</KilledBy>
