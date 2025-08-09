@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754707509726</GeneratedAt>
+  <GeneratedAt>1754707809708</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Akama</Player>
+    <LostExp>17379</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-08-09 04:45:41</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Okiharu</Player>
     <LostExp>9495</LostExp>
     <KilledBy>Wisper</KilledBy>
