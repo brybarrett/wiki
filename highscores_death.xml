@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754704509663</GeneratedAt>
+  <GeneratedAt>1754704809643</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Gacorrr</Player>
+    <LostExp>437442169</LostExp>
+    <KilledBy>Blackdrake</KilledBy>
+    <Time>2025-08-09 03:59:39</Time>
+    <Location>(32247,32372,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Yakoebom</Player>
     <LostExp>315953858</LostExp>
     <KilledBy>Snowling</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31957,31802,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Duza</Player>
     <LostExp>107157212</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31959,32278,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Vintedois</Player>
     <LostExp>23492768</LostExp>
     <KilledBy>Werewolf Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32065,32298,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Mafu</Player>
     <LostExp>17648884</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31862,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Creator</Player>
     <LostExp>14643499</LostExp>
     <KilledBy>Pageone</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32819,31921,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Usop</Player>
     <LostExp>8311918</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31867,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Konor</Player>
     <LostExp>299160</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31979,32231,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Haxixe</Player>
     <LostExp>133963</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
