@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754701209648</GeneratedAt>
+  <GeneratedAt>1754701509627</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yakoebom</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-08-09 01:48:07</Time>
     <Location>(31867,32061,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Konor</Player>
+    <LostExp>299160</LostExp>
+    <KilledBy>Monk</KilledBy>
+    <Time>2025-08-09 03:03:16</Time>
+    <Location>(31979,32231,8)</Location>
   </DeathEvent>
 </DeathHighscores>
