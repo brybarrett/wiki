@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754756510131</GeneratedAt>
+  <GeneratedAt>1754756810053</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Shikamaru</Player>
+    <LostExp>699764</LostExp>
+    <KilledBy>Tenebris</KilledBy>
+    <Time>2025-08-09 18:25:21</Time>
+    <Location>(31957,31799,14)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Konor</Player>
     <LostExp>348214</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31972,32229,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Konor</Player>
     <LostExp>336793</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31959,32208,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Akama</Player>
     <LostExp>55650</LostExp>
     <KilledBy>Hell Guard</KilledBy>
