@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754779353501</GeneratedAt>
+  <GeneratedAt>1754779653509</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Vinteum</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Chucknorry</Player>
+    <LostExp>6224615</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-10 00:47:11</Time>
+    <Location>(31897,32047,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Gordinviii</Player>
     <LostExp>3805233</LostExp>
     <KilledBy>Orc Leader</KilledBy>
