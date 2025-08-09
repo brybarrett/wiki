@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754757110027</GeneratedAt>
+  <GeneratedAt>1754757410041</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -80,5 +80,13 @@
     <KilledBy>Hell Guard</KilledBy>
     <Time>2025-08-09 14:42:53</Time>
     <Location>(32788,32250,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Likar</Player>
+    <LostExp>9348</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-08-09 18:36:28</Time>
+    <Location>(31994,31864,8)</Location>
   </DeathEvent>
 </DeathHighscores>
