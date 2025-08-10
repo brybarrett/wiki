@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754791653611</GeneratedAt>
+  <GeneratedAt>1754791953631</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Matr</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Becboladao</Player>
+    <LostExp>267686</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-08-10 04:09:40</Time>
+    <Location>(31997,31892,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Zac</Player>
     <LostExp>204156</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Zac</Player>
     <LostExp>200184</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32187,32268,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Zac</Player>
     <LostExp>183758</LostExp>
     <KilledBy>The Bug</KilledBy>
