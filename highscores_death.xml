@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754855554144</GeneratedAt>
+  <GeneratedAt>1754855854191</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Maddevilz</Player>
@@ -427,6 +427,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>54</Rank>
+    <Player>Val</Player>
+    <LostExp>6195</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-08-10 21:54:14</Time>
+    <Location>(31982,31904,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>55</Rank>
     <Player>Hyouka</Player>
     <LostExp>6038</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -434,7 +442,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>56</Rank>
     <Player>Hyouka</Player>
     <LostExp>5686</LostExp>
     <KilledBy>Ghost</KilledBy>
@@ -442,7 +450,7 @@
     <Location>(31917,32028,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Beli</Player>
     <LostExp>4045</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(31995,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Torvic</Player>
     <LostExp>3381</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -458,7 +466,7 @@
     <Location>(31994,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Hyouka</Player>
     <LostExp>1424</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -466,7 +474,7 @@
     <Location>(32007,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>59</Rank>
+    <Rank>60</Rank>
     <Player>Return</Player>
     <LostExp>499</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -474,7 +482,7 @@
     <Location>(32042,32040,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>60</Rank>
+    <Rank>61</Rank>
     <Player>Aek</Player>
     <LostExp>28</LostExp>
     <KilledBy>GM-Doro</KilledBy>
