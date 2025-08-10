@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754818053857</GeneratedAt>
+  <GeneratedAt>1754818353846</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Matr</Player>
@@ -179,6 +179,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>23</Rank>
+    <Player>Dekneo</Player>
+    <LostExp>107509</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-10 11:29:15</Time>
+    <Location>(31878,32047,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>24</Rank>
     <Player>Likar</Player>
     <LostExp>83304</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31988,31921,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Torvic</Player>
     <LostExp>3381</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31994,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Return</Player>
     <LostExp>499</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
