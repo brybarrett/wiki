@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754847454064</GeneratedAt>
+  <GeneratedAt>1754847754053</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Itachi</Player>
@@ -267,6 +267,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>34</Rank>
+    <Player>Nagato</Player>
+    <LostExp>626859</LostExp>
+    <KilledBy>Snowling</KilledBy>
+    <Time>2025-08-10 19:41:33</Time>
+    <Location>(31957,31799,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Konor</Player>
     <LostExp>471789</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31972,32225,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Tah</Player>
     <LostExp>307497</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31859,31973,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Becboladao</Player>
     <LostExp>267686</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(31997,31892,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Zac</Player>
     <LostExp>204156</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Zac</Player>
     <LostExp>200184</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(32187,32268,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Zac</Player>
     <LostExp>183758</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31985,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Dekneo</Player>
     <LostExp>107509</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31878,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Hyouka</Player>
     <LostExp>92086</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(32007,31872,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Likar</Player>
     <LostExp>83304</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(31988,31921,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Fulldmg</Player>
     <LostExp>70928</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(32014,32251,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Hyouka</Player>
     <LostExp>50094</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(32006,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Hyouka</Player>
     <LostExp>9467</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(32014,31882,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Hyouka</Player>
     <LostExp>6038</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Hyouka</Player>
     <LostExp>5686</LostExp>
     <KilledBy>Ghost</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31917,32028,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Beli</Player>
     <LostExp>4045</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(31995,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Torvic</Player>
     <LostExp>3381</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31994,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Hyouka</Player>
     <LostExp>1424</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(32007,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Return</Player>
     <LostExp>499</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
