@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754784753578</GeneratedAt>
+  <GeneratedAt>1754785053554</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lorded</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Ahrifox</Player>
+    <LostExp>6980594</LostExp>
+    <KilledBy>Hell Guard</KilledBy>
+    <Time>2025-08-10 02:13:21</Time>
+    <Location>(32792,32251,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Chucknorry</Player>
     <LostExp>6904969</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31897,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Chucknorry</Player>
     <LostExp>6224615</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31897,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Gordinviii</Player>
     <LostExp>3805233</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Gordinviii</Player>
     <LostExp>3527939</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31898,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Sifu</Player>
     <LostExp>2958811</LostExp>
     <KilledBy>Werewolf</KilledBy>
