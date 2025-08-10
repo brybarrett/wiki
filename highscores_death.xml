@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754833353963</GeneratedAt>
+  <GeneratedAt>1754833654013</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Matr</Player>
@@ -251,6 +251,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>32</Rank>
+    <Player>Beli</Player>
+    <LostExp>4045</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-08-10 15:43:22</Time>
+    <Location>(31995,32052,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>33</Rank>
     <Player>Torvic</Player>
     <LostExp>3381</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31994,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Return</Player>
     <LostExp>499</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
