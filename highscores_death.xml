@@ -1,36 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754864019832</GeneratedAt>
-  <DeathEvent>
-    <Rank>1</Rank>
-    <Player>Gordinx</Player>
-    <LostExp>4422705</LostExp>
-    <KilledBy>Orc Leader</KilledBy>
-    <Time>2025-08-11 00:07:52</Time>
-    <Location>(32014,31879,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>2</Rank>
-    <Player>Becboladao</Player>
-    <LostExp>623539</LostExp>
-    <KilledBy>Tarantula</KilledBy>
-    <Time>2025-08-10 23:36:13</Time>
-    <Location>(31867,31914,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>3</Rank>
-    <Player>Konor</Player>
-    <LostExp>503233</LostExp>
-    <KilledBy>Nunaquatch</KilledBy>
-    <Time>2025-08-10 23:32:48</Time>
-    <Location>(32840,32064,7)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>4</Rank>
-    <Player>Konor</Player>
-    <LostExp>494237</LostExp>
-    <KilledBy>Bloodbeak</KilledBy>
-    <Time>2025-08-11 00:07:04</Time>
-    <Location>(32833,32063,7)</Location>
-  </DeathEvent>
+  <GeneratedAt>1754864139054</GeneratedAt>
 </DeathHighscores>
