@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754795853694</GeneratedAt>
+  <GeneratedAt>1754796153657</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Matr</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Tah</Player>
+    <LostExp>307497</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2025-08-10 05:19:27</Time>
+    <Location>(31859,31973,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Becboladao</Player>
     <LostExp>267686</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31997,31892,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Zac</Player>
     <LostExp>204156</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Zac</Player>
     <LostExp>200184</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32187,32268,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Zac</Player>
     <LostExp>183758</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31985,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Torvic</Player>
     <LostExp>3381</LostExp>
     <KilledBy>Ninjaman</KilledBy>
