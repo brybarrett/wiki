@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754858254182</GeneratedAt>
+  <GeneratedAt>1754858554182</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Maddevilz</Player>
@@ -267,6 +267,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>34</Rank>
+    <Player>Mirley</Player>
+    <LostExp>1245472</LostExp>
+    <KilledBy>Bloodbeak</KilledBy>
+    <Time>2025-08-10 22:41:46</Time>
+    <Location>(32824,32042,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Quidbegala</Player>
     <LostExp>1224556</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31960,31981,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Fullwiz</Player>
     <LostExp>1193853</LostExp>
     <KilledBy>Vampmaster</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31970,31891,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Quidbegala</Player>
     <LostExp>1160316</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(31888,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Nagato</Player>
     <LostExp>772774</LostExp>
     <KilledBy>Snowling</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31957,31799,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Mrb</Player>
     <LostExp>762222</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(32827,32043,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Nagato</Player>
     <LostExp>696332</LostExp>
     <KilledBy>Tenebris</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31957,31800,14)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Mrb</Player>
     <LostExp>687039</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(32829,32040,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Nagato</Player>
     <LostExp>626859</LostExp>
     <KilledBy>Snowling</KilledBy>
@@ -330,7 +338,7 @@
     <Location>(31957,31799,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>42</Rank>
+    <Rank>43</Rank>
     <Player>Konor</Player>
     <LostExp>492990</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(32833,32063,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Konor</Player>
     <LostExp>472175</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(31975,32234,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Konor</Player>
     <LostExp>471789</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(31972,32225,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Tah</Player>
     <LostExp>307497</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(31859,31973,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Becboladao</Player>
     <LostExp>267686</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(31997,31892,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Zac</Player>
     <LostExp>204156</LostExp>
     <KilledBy>Bullwar</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(32023,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Zac</Player>
     <LostExp>200184</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(32187,32268,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Zac</Player>
     <LostExp>183758</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31985,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Dekneo</Player>
     <LostExp>107509</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31878,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Hyouka</Player>
     <LostExp>103347</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(32063,31902,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Hyouka</Player>
     <LostExp>92086</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(32007,31872,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Likar</Player>
     <LostExp>83304</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -426,7 +434,7 @@
     <Location>(31988,31921,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
     <Player>Fulldmg</Player>
     <LostExp>70928</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -434,7 +442,7 @@
     <Location>(32014,32251,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>56</Rank>
     <Player>Hyouka</Player>
     <LostExp>50094</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -442,7 +450,7 @@
     <Location>(32006,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Zha</Player>
     <LostExp>33010</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(31875,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Hyouka</Player>
     <LostExp>9467</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -458,7 +466,7 @@
     <Location>(32014,31882,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Val</Player>
     <LostExp>6195</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -466,7 +474,7 @@
     <Location>(31982,31904,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>59</Rank>
+    <Rank>60</Rank>
     <Player>Hyouka</Player>
     <LostExp>6038</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -474,7 +482,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>60</Rank>
+    <Rank>61</Rank>
     <Player>Hyouka</Player>
     <LostExp>5686</LostExp>
     <KilledBy>Ghost</KilledBy>
@@ -482,7 +490,7 @@
     <Location>(31917,32028,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>61</Rank>
+    <Rank>62</Rank>
     <Player>Beli</Player>
     <LostExp>4045</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -490,7 +498,7 @@
     <Location>(31995,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>62</Rank>
+    <Rank>63</Rank>
     <Player>Torvic</Player>
     <LostExp>3381</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -498,7 +506,7 @@
     <Location>(31994,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>63</Rank>
+    <Rank>64</Rank>
     <Player>Hyouka</Player>
     <LostExp>1424</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -506,7 +514,7 @@
     <Location>(32007,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>64</Rank>
+    <Rank>65</Rank>
     <Player>Return</Player>
     <LostExp>499</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -514,7 +522,7 @@
     <Location>(32042,32040,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>65</Rank>
+    <Rank>66</Rank>
     <Player>Aek</Player>
     <LostExp>28</LostExp>
     <KilledBy>GM-Doro</KilledBy>
