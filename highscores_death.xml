@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754798853663</GeneratedAt>
+  <GeneratedAt>1754799153695</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Matr</Player>
@@ -163,6 +163,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>21</Rank>
+    <Player>Likar</Player>
+    <LostExp>83304</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-08-10 06:12:11</Time>
+    <Location>(31988,31921,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
     <Player>Torvic</Player>
     <LostExp>3381</LostExp>
     <KilledBy>Ninjaman</KilledBy>
