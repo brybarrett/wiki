@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754817753840</GeneratedAt>
+  <GeneratedAt>1754818053857</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Matr</Player>
@@ -192,5 +192,13 @@
     <KilledBy>Ninjaman</KilledBy>
     <Time>2025-08-10 04:59:14</Time>
     <Location>(31994,32062,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
+    <Player>Return</Player>
+    <LostExp>499</LostExp>
+    <KilledBy>GM-Jhonnis</KilledBy>
+    <Time>2025-08-10 11:27:04</Time>
+    <Location>(32042,32040,8)</Location>
   </DeathEvent>
 </DeathHighscores>
