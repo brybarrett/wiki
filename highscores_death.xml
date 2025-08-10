@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754794653643</GeneratedAt>
+  <GeneratedAt>1754794953644</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Matr</Player>
@@ -136,5 +136,13 @@
     <KilledBy>The Bug</KilledBy>
     <Time>2025-08-10 04:01:23</Time>
     <Location>(31985,32019,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
+    <Player>Torvic</Player>
+    <LostExp>3381</LostExp>
+    <KilledBy>Ninjaman</KilledBy>
+    <Time>2025-08-10 04:59:14</Time>
+    <Location>(31994,32062,9)</Location>
   </DeathEvent>
 </DeathHighscores>
