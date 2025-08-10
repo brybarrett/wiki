@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754839654012</GeneratedAt>
+  <GeneratedAt>1754839953992</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Itachi</Player>
@@ -276,13 +276,21 @@
   <DeathEvent>
     <Rank>35</Rank>
     <Player>Hyouka</Player>
+    <LostExp>9467</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-10 17:28:25</Time>
+    <Location>(32014,31882,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>36</Rank>
+    <Player>Hyouka</Player>
     <LostExp>6038</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-08-10 17:08:30</Time>
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Hyouka</Player>
     <LostExp>5686</LostExp>
     <KilledBy>Ghost</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(31917,32028,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Beli</Player>
     <LostExp>4045</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31995,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Torvic</Player>
     <LostExp>3381</LostExp>
     <KilledBy>Ninjaman</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31994,32062,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Hyouka</Player>
     <LostExp>1424</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(32007,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Return</Player>
     <LostExp>499</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
