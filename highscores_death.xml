@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754786853572</GeneratedAt>
+  <GeneratedAt>1754787153583</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lorded</Player>
@@ -96,5 +96,13 @@
     <KilledBy>Bloodbeak</KilledBy>
     <Time>2025-08-10 02:27:00</Time>
     <Location>(32829,32040,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>Zac</Player>
+    <LostExp>200184</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-08-10 02:48:19</Time>
+    <Location>(32187,32268,9)</Location>
   </DeathEvent>
 </DeathHighscores>
