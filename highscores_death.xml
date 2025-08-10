@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754836953970</GeneratedAt>
+  <GeneratedAt>1754837253993</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Matr</Player>
@@ -283,6 +283,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>36</Rank>
+    <Player>Hyouka</Player>
+    <LostExp>1424</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-10 16:43:33</Time>
+    <Location>(32007,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>37</Rank>
     <Player>Return</Player>
     <LostExp>499</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
