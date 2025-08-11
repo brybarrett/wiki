@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754930738675</GeneratedAt>
+  <GeneratedAt>1754931038679</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Quatro</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Kleber</Player>
+    <LostExp>88280</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-08-11 18:47:10</Time>
+    <Location>(31950,31911,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Rulo</Player>
     <LostExp>72273</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31918,32012,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Lare</Player>
     <LostExp>63338</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31989,32015,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Nasa</Player>
     <LostExp>53477</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31898,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Bibilino</Player>
     <LostExp>11507</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31881,32040,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Imperatriz</Player>
     <LostExp>6503</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32005,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Imperatriz</Player>
     <LostExp>5857</LostExp>
     <KilledBy>Minotaur</KilledBy>
