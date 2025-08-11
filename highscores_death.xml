@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754891428870</GeneratedAt>
+  <GeneratedAt>1754891728910</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brisadeiro</Player>
@@ -91,6 +91,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Zha</Player>
+    <LostExp>33189</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-08-11 07:53:03</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>Zha</Player>
+    <LostExp>33189</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-08-11 07:53:03</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Val</Player>
     <LostExp>31179</LostExp>
     <KilledBy>Werewolf</KilledBy>
