@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754902528957</GeneratedAt>
+  <GeneratedAt>1754902828968</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brisadeiro</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Becboladao</Player>
+    <LostExp>1023613</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-08-11 10:58:07</Time>
+    <Location>(31871,31898,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Trintatres</Player>
     <LostExp>910273</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32025,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Trintatres</Player>
     <LostExp>910205</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32025,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Haxixe</Player>
     <LostExp>802479</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31883,31906,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Miracle</Player>
     <LostExp>312500</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32042,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Miracle</Player>
     <LostExp>281250</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -106,20 +114,12 @@
     <Location>(32042,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Lare</Player>
     <LostExp>63221</LostExp>
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-08-11 03:55:37</Time>
     <Location>(32024,31945,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>15</Rank>
-    <Player>Zha</Player>
-    <LostExp>33189</LostExp>
-    <KilledBy>Treant</KilledBy>
-    <Time>2025-08-11 07:53:03</Time>
-    <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Zha</Player>
+    <LostExp>33189</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-08-11 07:53:03</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Val</Player>
     <LostExp>31179</LostExp>
     <KilledBy>Werewolf</KilledBy>
