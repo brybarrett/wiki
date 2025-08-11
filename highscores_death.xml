@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754929838709</GeneratedAt>
+  <GeneratedAt>1754930138686</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Quatro</Player>
@@ -64,5 +64,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-08-11 18:26:52</Time>
     <Location>(32005,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Imperatriz</Player>
+    <LostExp>5857</LostExp>
+    <KilledBy>Minotaur</KilledBy>
+    <Time>2025-08-11 18:32:29</Time>
+    <Location>(31886,31991,10)</Location>
   </DeathEvent>
 </DeathHighscores>
