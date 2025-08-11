@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754928938681</GeneratedAt>
+  <GeneratedAt>1754929238697</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Quatro</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Rulo</Player>
+    <LostExp>72273</LostExp>
+    <KilledBy>Fanatic</KilledBy>
+    <Time>2025-08-11 18:17:21</Time>
+    <Location>(31918,32012,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Lare</Player>
     <LostExp>63338</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31989,32015,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Nasa</Player>
     <LostExp>53477</LostExp>
     <KilledBy>Werewolf</KilledBy>
