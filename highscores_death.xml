@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754951146285</GeneratedAt>
+  <GeneratedAt>1754951446296</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Blaze Master</KilledBy>
     <Time>2025-08-12 00:17:48</Time>
     <Location>(31951,32264,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Vinte</Player>
+    <LostExp>28550606</LostExp>
+    <KilledBy>Werewolf Master</KilledBy>
+    <Time>2025-08-12 00:27:11</Time>
+    <Location>(32044,32303,8)</Location>
   </DeathEvent>
 </DeathHighscores>
