@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754955346341</GeneratedAt>
+  <GeneratedAt>1754955646351</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Rulo</Player>
+    <LostExp>681713</LostExp>
+    <KilledBy>GM-Doro</KilledBy>
+    <Time>2025-08-12 01:39:07</Time>
+    <Location>(32036,32038,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Kleber</Player>
     <LostExp>105594</LostExp>
     <KilledBy>Orc Raider</KilledBy>
