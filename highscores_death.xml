@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754927738686</GeneratedAt>
+  <GeneratedAt>1754928038664</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Quatro</Player>
+    <LostExp>91110665</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-08-11 17:57:27</Time>
+    <Location>(31948,31995,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Qqqo</Player>
     <LostExp>4802374</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32872,32029,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Gordinx</Player>
     <LostExp>4565397</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Nasa</Player>
     <LostExp>53477</LostExp>
     <KilledBy>Werewolf</KilledBy>
