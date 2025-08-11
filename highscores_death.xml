@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754927438673</GeneratedAt>
+  <GeneratedAt>1754927738686</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Qqqo</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Gordinx</Player>
+    <LostExp>4565397</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-11 17:52:12</Time>
+    <Location>(32006,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Nasa</Player>
     <LostExp>53477</LostExp>
     <KilledBy>Werewolf</KilledBy>
