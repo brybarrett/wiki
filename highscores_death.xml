@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754904628966</GeneratedAt>
+  <GeneratedAt>1754904928973</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brisadeiro</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Covid</Player>
+    <LostExp>4696341</LostExp>
+    <KilledBy>Crepp</KilledBy>
+    <Time>2025-08-11 11:35:02</Time>
+    <Location>(32043,32359,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Quidbegala</Player>
     <LostExp>2554183</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32867,32027,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Quidbegala</Player>
     <LostExp>2404929</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31942,31997,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Mirley</Player>
     <LostExp>2181322</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32851,31976,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Becboladao</Player>
     <LostExp>1023613</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31871,31898,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Trintatres</Player>
     <LostExp>910273</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32025,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Trintatres</Player>
     <LostExp>910205</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32025,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Haxixe</Player>
     <LostExp>802479</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31883,31906,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Miracle</Player>
     <LostExp>312500</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32042,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Miracle</Player>
     <LostExp>281250</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -114,20 +122,12 @@
     <Location>(32042,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Lare</Player>
     <LostExp>63221</LostExp>
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-08-11 03:55:37</Time>
     <Location>(32024,31945,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>16</Rank>
-    <Player>Zha</Player>
-    <LostExp>33189</LostExp>
-    <KilledBy>Treant</KilledBy>
-    <Time>2025-08-11 07:53:03</Time>
-    <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Zha</Player>
+    <LostExp>33189</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-08-11 07:53:03</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Val</Player>
     <LostExp>31179</LostExp>
     <KilledBy>Werewolf</KilledBy>
