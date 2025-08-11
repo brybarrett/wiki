@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754934038740</GeneratedAt>
+  <GeneratedAt>1754934338724</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Destino</Player>
+    <LostExp>520570718</LostExp>
+    <KilledBy>Ninjany</KilledBy>
+    <Time>2025-08-11 19:45:14</Time>
+    <Location>(31793,31904,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Quatro</Player>
     <LostExp>91110665</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -10,7 +18,15 @@
     <Location>(31948,31995,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
+    <Player>Poppay</Player>
+    <LostExp>47803088</LostExp>
+    <KilledBy>Gods</KilledBy>
+    <Time>2025-08-11 19:44:43</Time>
+    <Location>(31789,31935,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Amigoide</Player>
     <LostExp>45368010</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(31903,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Qqqo</Player>
     <LostExp>4802374</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(32872,32029,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Gordinx</Player>
     <LostExp>4565397</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Magomil</Player>
     <LostExp>3975630</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Kleber</Player>
     <LostExp>88280</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(31950,31911,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Rulo</Player>
     <LostExp>72273</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(31918,32012,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Lare</Player>
     <LostExp>63338</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(31989,32015,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Nasa</Player>
     <LostExp>53477</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(31898,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Bibilino</Player>
     <LostExp>11507</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(31881,32040,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Imperatriz</Player>
     <LostExp>6751</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(31938,32073,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Imperatriz</Player>
     <LostExp>6506</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -98,7 +114,7 @@
     <Location>(31940,32073,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>15</Rank>
     <Player>Imperatriz</Player>
     <LostExp>6503</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -106,7 +122,7 @@
     <Location>(32005,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <Player>Imperatriz</Player>
     <LostExp>5857</LostExp>
     <KilledBy>Minotaur</KilledBy>
