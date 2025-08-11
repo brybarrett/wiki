@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754955946329</GeneratedAt>
+  <GeneratedAt>1754956246316</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Orc Raider</KilledBy>
     <Time>2025-08-12 01:08:32</Time>
     <Location>(31970,31862,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Dide</Player>
+    <LostExp>1043</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-08-12 01:46:02</Time>
+    <Location>(31963,31930,8)</Location>
   </DeathEvent>
 </DeathHighscores>
