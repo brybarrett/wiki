@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754929238697</GeneratedAt>
+  <GeneratedAt>1754929538702</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Quatro</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-08-11 17:43:58</Time>
     <Location>(31898,32047,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Bibilino</Player>
+    <LostExp>11507</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-11 18:24:50</Time>
+    <Location>(31881,32040,8)</Location>
   </DeathEvent>
 </DeathHighscores>
