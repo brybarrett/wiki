@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754888728854</GeneratedAt>
+  <GeneratedAt>1754889028878</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Brisadeiro</Player>
+    <LostExp>326545893</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-08-11 07:08:23</Time>
+    <Location>(31800,31925,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Itachi</Player>
     <LostExp>165057265</LostExp>
     <KilledBy>Solveig</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31912,32224,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Miacalifa</Player>
     <LostExp>16794770</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32874,32028,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Bob</Player>
     <LostExp>6274188</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31856,31969,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Quidbegala</Player>
     <LostExp>2554183</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32867,32027,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Quidbegala</Player>
     <LostExp>2404929</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31942,31997,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Mirley</Player>
     <LostExp>2181322</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32851,31976,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Trintatres</Player>
     <LostExp>910273</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32025,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Trintatres</Player>
     <LostExp>910205</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32025,31976,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Haxixe</Player>
     <LostExp>802479</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31883,31906,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Lare</Player>
     <LostExp>63221</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32024,31945,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Val</Player>
     <LostExp>31179</LostExp>
     <KilledBy>Werewolf</KilledBy>
