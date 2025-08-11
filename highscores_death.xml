@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754919929108</GeneratedAt>
+  <GeneratedAt>1754920229083</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Redline</Player>
@@ -179,19 +179,19 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>23</Rank>
+    <Player>Bure</Player>
+    <LostExp>76992</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-11 15:49:07</Time>
+    <Location>(31888,32054,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>24</Rank>
     <Player>Lare</Player>
     <LostExp>63221</LostExp>
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-08-11 03:55:37</Time>
     <Location>(32024,31945,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>24</Rank>
-    <Player>Zha</Player>
-    <LostExp>33189</LostExp>
-    <KilledBy>Treant</KilledBy>
-    <Time>2025-08-11 07:53:03</Time>
-    <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>25</Rank>
@@ -203,6 +203,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>26</Rank>
+    <Player>Zha</Player>
+    <LostExp>33189</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-08-11 07:53:03</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>27</Rank>
     <Player>Val</Player>
     <LostExp>31179</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31911,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Onnne</Player>
     <LostExp>20856</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32024,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Onnne</Player>
     <LostExp>19682</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32014,31936,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Onnne</Player>
     <LostExp>18071</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32024,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Onnne</Player>
     <LostExp>17997</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(32018,31959,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Bibilino</Player>
     <LostExp>10776</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(31983,31920,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Noss</Player>
     <LostExp>3165</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31995,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Noss</Player>
     <LostExp>2914</LostExp>
     <KilledBy>Scorpion</KilledBy>
