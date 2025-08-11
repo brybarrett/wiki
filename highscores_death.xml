@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754916929034</GeneratedAt>
+  <GeneratedAt>1754917229074</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Redline</Player>
@@ -227,6 +227,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>29</Rank>
+    <Player>Bibilino</Player>
+    <LostExp>10776</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-08-11 14:59:35</Time>
+    <Location>(31983,31920,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
     <Player>Noss</Player>
     <LostExp>3165</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(31995,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Noss</Player>
     <LostExp>2914</LostExp>
     <KilledBy>Scorpion</KilledBy>
