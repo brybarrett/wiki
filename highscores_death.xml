@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754910929046</GeneratedAt>
+  <GeneratedAt>1754911229015</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brisadeiro</Player>
@@ -152,5 +152,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-08-11 02:05:54</Time>
     <Location>(31911,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Onnne</Player>
+    <LostExp>20856</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-08-11 13:19:33</Time>
+    <Location>(32024,31944,8)</Location>
   </DeathEvent>
 </DeathHighscores>
