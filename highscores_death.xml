@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754967467697</GeneratedAt>
+  <GeneratedAt>1754967767698</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Gacorrr</Player>
+    <LostExp>344295559</LostExp>
+    <KilledBy>Blackdrake</KilledBy>
+    <Time>2025-08-12 05:01:15</Time>
+    <Location>(32247,32372,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Blindado</Player>
     <LostExp>232023736</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32010,32247,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Chucknorry</Player>
     <LostExp>9316223</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -18,7 +26,15 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
+    <Player>Doraemon</Player>
+    <LostExp>8122150</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-08-12 05:00:22</Time>
+    <Location>(32865,31997,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Teig</Player>
     <LostExp>7576774</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(32039,31830,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Gordinx</Player>
     <LostExp>5029702</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Batman</Player>
     <LostExp>1552942</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(32064,31818,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Awie</Player>
     <LostExp>650808</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(31954,31989,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Kleber</Player>
     <LostExp>238057</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Lare</Player>
     <LostExp>105415</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(32791,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Cacheiro </Player>
     <LostExp>70742</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(31915,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Bure</Player>
     <LostExp>68993</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(31937,32216,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Cacheiro </Player>
     <LostExp>64011</LostExp>
     <KilledBy>Dragon</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(31906,31957,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Bure</Player>
     <LostExp>62093</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -98,7 +114,7 @@
     <Location>(31968,32222,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>15</Rank>
     <Player>Cacheiro </Player>
     <LostExp>57610</LostExp>
     <KilledBy>Minotaur</KilledBy>
@@ -106,7 +122,7 @@
     <Location>(31872,31980,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <Player>Bure</Player>
     <LostExp>55884</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -114,7 +130,7 @@
     <Location>(31939,32235,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>17</Rank>
     <Player>Cacheiro </Player>
     <LostExp>51856</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -122,7 +138,7 @@
     <Location>(31989,32015,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>18</Rank>
     <Player>Cacheiro </Player>
     <LostExp>46670</LostExp>
     <KilledBy>The Bug</KilledBy>
