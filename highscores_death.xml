@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754974367719</GeneratedAt>
+  <GeneratedAt>1754974667739</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -83,6 +83,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Quatroo</Player>
+    <LostExp>395000</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-08-12 06:57:18</Time>
+    <Location>(32008,31857,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Cincoo</Player>
+    <LostExp>395000</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-08-12 06:57:23</Time>
+    <Location>(32009,31857,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Kleber</Player>
     <LostExp>238057</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +106,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>14</Rank>
     <Player>Lare</Player>
     <LostExp>105415</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -98,7 +114,7 @@
     <Location>(32791,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>15</Rank>
     <Player>Cacheiro </Player>
     <LostExp>70742</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -106,7 +122,7 @@
     <Location>(31915,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <Player>Bure</Player>
     <LostExp>68993</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -114,7 +130,7 @@
     <Location>(31937,32216,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>17</Rank>
     <Player>Cacheiro </Player>
     <LostExp>64011</LostExp>
     <KilledBy>Dragon</KilledBy>
@@ -122,7 +138,7 @@
     <Location>(31906,31957,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>18</Rank>
     <Player>Bure</Player>
     <LostExp>62093</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -130,7 +146,7 @@
     <Location>(31968,32222,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>19</Rank>
     <Player>Cacheiro </Player>
     <LostExp>57610</LostExp>
     <KilledBy>Minotaur</KilledBy>
@@ -138,7 +154,7 @@
     <Location>(31872,31980,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>20</Rank>
     <Player>Bure</Player>
     <LostExp>55884</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -146,7 +162,7 @@
     <Location>(31939,32235,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>21</Rank>
     <Player>Cacheiro </Player>
     <LostExp>51856</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -154,7 +170,7 @@
     <Location>(31989,32015,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>22</Rank>
     <Player>Cacheiro </Player>
     <LostExp>46670</LostExp>
     <KilledBy>The Bug</KilledBy>
