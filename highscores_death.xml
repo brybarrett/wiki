@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754966267682</GeneratedAt>
+  <GeneratedAt>1754966567679</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindado</Player>
@@ -99,10 +99,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Cacheiro </Player>
+    <LostExp>57610</LostExp>
+    <KilledBy>Minotaur</KilledBy>
+    <Time>2025-08-12 04:39:56</Time>
+    <Location>(31872,31980,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Bure</Player>
     <LostExp>55884</LostExp>
     <KilledBy>Chaombie</KilledBy>
     <Time>2025-08-12 02:48:34</Time>
     <Location>(31939,32235,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Cacheiro </Player>
+    <LostExp>51856</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-08-12 04:41:41</Time>
+    <Location>(31989,32015,8)</Location>
   </DeathEvent>
 </DeathHighscores>
