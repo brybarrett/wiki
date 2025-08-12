@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755040198886</GeneratedAt>
+  <GeneratedAt>1755040498866</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Renansz</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Blaze Master</KilledBy>
     <Time>2025-08-13 01:01:03</Time>
     <Location>(31980,32270,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Kenzo</Player>
+    <LostExp>9995176</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-08-13 01:13:51</Time>
+    <Location>(31867,32083,7)</Location>
   </DeathEvent>
 </DeathHighscores>
