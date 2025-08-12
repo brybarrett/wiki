@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754965067670</GeneratedAt>
+  <GeneratedAt>1754965367675</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindado</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Cacheiro </Player>
+    <LostExp>70742</LostExp>
+    <KilledBy>Small Eye</KilledBy>
+    <Time>2025-08-12 04:20:22</Time>
+    <Location>(31915,32056,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Bure</Player>
     <LostExp>68993</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -66,7 +74,15 @@
     <Location>(31937,32216,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
+    <Player>Cacheiro </Player>
+    <LostExp>64011</LostExp>
+    <KilledBy>Dragon</KilledBy>
+    <Time>2025-08-12 04:21:49</Time>
+    <Location>(31906,31957,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Bure</Player>
     <LostExp>62093</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(31968,32222,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Bure</Player>
     <LostExp>55884</LostExp>
     <KilledBy>Chaombie</KilledBy>
