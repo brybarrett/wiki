@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755017868045</GeneratedAt>
+  <GeneratedAt>1755018168048</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -443,6 +443,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>56</Rank>
+    <Player>Inl</Player>
+    <LostExp>37533</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-08-12 19:00:50</Time>
+    <Location>(32055,31901,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>57</Rank>
     <Player>Pephi</Player>
     <LostExp>7163</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(32007,31884,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Pephi</Player>
     <LostExp>6873</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -458,7 +466,7 @@
     <Location>(31998,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Pephi</Player>
     <LostExp>4148</LostExp>
     <KilledBy>Orc Leader</KilledBy>
