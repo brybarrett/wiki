@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754976767747</GeneratedAt>
+  <GeneratedAt>1754977067742</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Bkceara</Player>
+    <LostExp>77160</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-08-12 07:35:44</Time>
+    <Location>(31972,31862,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Cacheiro </Player>
     <LostExp>70742</LostExp>
     <KilledBy>Small Eye</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31915,32056,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Bure</Player>
     <LostExp>68993</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31937,32216,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Cacheiro </Player>
     <LostExp>64011</LostExp>
     <KilledBy>Dragon</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31906,31957,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Bure</Player>
     <LostExp>62093</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31968,32222,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Cacheiro </Player>
     <LostExp>57610</LostExp>
     <KilledBy>Minotaur</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31872,31980,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Bure</Player>
     <LostExp>55884</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31939,32235,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Cacheiro </Player>
     <LostExp>51856</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31989,32015,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Cacheiro </Player>
     <LostExp>46670</LostExp>
     <KilledBy>The Bug</KilledBy>
