@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1754981567784</GeneratedAt>
+  <GeneratedAt>1754981867768</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gacorrr</Player>
@@ -208,5 +208,13 @@
     <KilledBy>The Bug</KilledBy>
     <Time>2025-08-12 04:43:18</Time>
     <Location>(31989,32016,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>27</Rank>
+    <Player>Pephi</Player>
+    <LostExp>4148</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-12 08:55:01</Time>
+    <Location>(32003,31883,12)</Location>
   </DeathEvent>
 </DeathHighscores>
