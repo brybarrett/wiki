@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755042298909</GeneratedAt>
+  <GeneratedAt>1755042598918</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Skyblue</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Manyalaya</Player>
+    <LostExp>11914800</LostExp>
+    <KilledBy>Bloodbeak</KilledBy>
+    <Time>2025-08-13 01:48:45</Time>
+    <Location>(32825,32040,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Kenzo</Player>
     <LostExp>9995176</LostExp>
     <KilledBy>Leviatacle</KilledBy>
