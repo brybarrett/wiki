@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755065699048</GeneratedAt>
+  <GeneratedAt>1755065999117</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Skyblue</Player>
@@ -179,6 +179,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>23</Rank>
+    <Player>Falfu</Player>
+    <LostExp>31371</LostExp>
+    <KilledBy>Emperor</KilledBy>
+    <Time>2025-08-13 08:15:16</Time>
+    <Location>(31973,31985,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>24</Rank>
+    <Player>Falfu</Player>
+    <LostExp>28234</LostExp>
+    <KilledBy>Gods</KilledBy>
+    <Time>2025-08-13 08:19:41</Time>
+    <Location>(31975,31985,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
     <Player>Asterix</Player>
     <LostExp>25899</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -186,7 +202,7 @@
     <Location>(32040,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>26</Rank>
     <Player>Andariel</Player>
     <LostExp>4850</LostExp>
     <KilledBy>Scorpion</KilledBy>
