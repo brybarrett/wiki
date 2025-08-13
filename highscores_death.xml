@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755044698880</GeneratedAt>
+  <GeneratedAt>1755044998928</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Skyblue</Player>
@@ -80,5 +80,13 @@
     <KilledBy>Assasin</KilledBy>
     <Time>2025-08-13 02:20:12</Time>
     <Location>(31954,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Takemygold</Player>
+    <LostExp>477038</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-08-13 02:28:41</Time>
+    <Location>(31872,31896,8)</Location>
   </DeathEvent>
 </DeathHighscores>
