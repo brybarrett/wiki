@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755100199375</GeneratedAt>
+  <GeneratedAt>1755100499310</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Boruto</Player>
@@ -428,13 +428,21 @@
   <DeathEvent>
     <Rank>54</Rank>
     <Player>Noss</Player>
+    <LostExp>3284</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-08-13 17:53:04</Time>
+    <Location>(31995,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>55</Rank>
+    <Player>Noss</Player>
     <LostExp>2911</LostExp>
     <KilledBy>The Bug</KilledBy>
     <Time>2025-08-13 17:12:07</Time>
     <Location>(31988,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>56</Rank>
     <Player>Noss</Player>
     <LostExp>2672</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -442,7 +450,7 @@
     <Location>(31980,31921,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Noss</Player>
     <LostExp>2620</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(31982,31899,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Noss</Player>
     <LostExp>2589</LostExp>
     <KilledBy>Scorpion</KilledBy>
