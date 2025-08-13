@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755043498912</GeneratedAt>
+  <GeneratedAt>1755043798917</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Skyblue</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Thepower</Player>
+    <LostExp>59774595</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-08-13 02:08:05</Time>
+    <Location>(31961,32254,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Manyalaya</Player>
     <LostExp>11914800</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -34,11 +42,27 @@
     <Location>(32825,32040,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Kenzo</Player>
     <LostExp>9995176</LostExp>
     <KilledBy>Leviatacle</KilledBy>
     <Time>2025-08-13 01:13:51</Time>
     <Location>(31867,32083,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Kenzo</Player>
+    <LostExp>9004634</LostExp>
+    <KilledBy>Demun</KilledBy>
+    <Time>2025-08-13 02:06:24</Time>
+    <Location>(31954,31803,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Cilaka</Player>
+    <LostExp>8633983</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-08-13 02:07:25</Time>
+    <Location>(31869,32083,7)</Location>
   </DeathEvent>
 </DeathHighscores>
