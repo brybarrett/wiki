@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755067799080</GeneratedAt>
+  <GeneratedAt>1755068099100</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Skyblue</Player>
@@ -227,6 +227,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>29</Rank>
+    <Player>Falfu</Player>
+    <LostExp>18531</LostExp>
+    <KilledBy>Thailinkun</KilledBy>
+    <Time>2025-08-13 08:52:45</Time>
+    <Location>(31973,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
+    <Player>Falfu</Player>
+    <LostExp>16678</LostExp>
+    <KilledBy>Thailinkun</KilledBy>
+    <Time>2025-08-13 08:53:26</Time>
+    <Location>(31976,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>31</Rank>
     <Player>Andariel</Player>
     <LostExp>4850</LostExp>
     <KilledBy>Scorpion</KilledBy>
