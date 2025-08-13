@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755047098926</GeneratedAt>
+  <GeneratedAt>1755047398941</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Skyblue</Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Mrb</Player>
+    <LostExp>618335</LostExp>
+    <KilledBy>Flutt</KilledBy>
+    <Time>2025-08-13 03:05:12</Time>
+    <Location>(31950,32277,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Takemygold</Player>
     <LostExp>477038</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -98,11 +106,19 @@
     <Location>(31872,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Zac</Player>
     <LostExp>412263</LostExp>
     <KilledBy>Cultist</KilledBy>
     <Time>2025-08-13 03:04:49</Time>
     <Location>(32019,31863,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Bkceara</Player>
+    <LostExp>73212</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-08-13 03:07:24</Time>
+    <Location>(31989,31866,8)</Location>
   </DeathEvent>
 </DeathHighscores>
