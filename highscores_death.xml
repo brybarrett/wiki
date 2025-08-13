@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755058799034</GeneratedAt>
+  <GeneratedAt>1755059099030</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Skyblue</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Prowarrr</Player>
+    <LostExp>7432933</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-08-13 06:24:56</Time>
+    <Location>(31861,32069,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Qqqo</Player>
     <LostExp>5142975</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Lanin</Player>
     <LostExp>2370385</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32060,31820,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Mrb</Player>
     <LostExp>618335</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31950,32277,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Takemygold</Player>
     <LostExp>477038</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31872,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Zac</Player>
     <LostExp>412263</LostExp>
     <KilledBy>Cultist</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32019,31863,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Bkceara</Player>
     <LostExp>73212</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31989,31866,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Asterix</Player>
     <LostExp>25899</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
