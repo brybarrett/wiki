@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755059999034</GeneratedAt>
+  <GeneratedAt>1755060298985</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Skyblue</Player>
@@ -184,5 +184,13 @@
     <KilledBy>GM-Jhonnis</KilledBy>
     <Time>2025-08-13 05:32:56</Time>
     <Location>(32040,32039,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>24</Rank>
+    <Player>Andariel</Player>
+    <LostExp>4850</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-08-13 06:42:27</Time>
+    <Location>(31984,31901,9)</Location>
   </DeathEvent>
 </DeathHighscores>
