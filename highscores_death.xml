@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755051598969</GeneratedAt>
+  <GeneratedAt>1755051898973</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Skyblue</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Skyred</Player>
+    <LostExp>141317199</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-08-13 04:23:38</Time>
+    <Location>(31983,32267,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Thepower</Player>
     <LostExp>65951278</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32010,32249,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Thepower</Player>
     <LostExp>59774595</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31961,32254,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Rael</Player>
     <LostExp>35620668</LostExp>
     <KilledBy>Scarapy Master</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31988,32317,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Manyalaya</Player>
     <LostExp>12185183</LostExp>
     <KilledBy>Rigger</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32819,31920,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Manyalaya</Player>
     <LostExp>11914800</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32825,32040,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Kenzo</Player>
     <LostExp>9995176</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31867,32083,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Kenzo</Player>
     <LostExp>9004634</LostExp>
     <KilledBy>Demun</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31954,31803,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Cilaka</Player>
     <LostExp>8633983</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31869,32083,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Qqqo</Player>
     <LostExp>5142975</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Lanin</Player>
     <LostExp>2370385</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32060,31820,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Mrb</Player>
     <LostExp>618335</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31950,32277,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Takemygold</Player>
     <LostExp>477038</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31872,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Zac</Player>
     <LostExp>412263</LostExp>
     <KilledBy>Cultist</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32019,31863,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Bkceara</Player>
     <LostExp>73212</LostExp>
     <KilledBy>Orc</KilledBy>
