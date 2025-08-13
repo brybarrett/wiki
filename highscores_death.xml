@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755086399245</GeneratedAt>
+  <GeneratedAt>1755086699262</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Skyblue</Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Nube</Player>
+    <LostExp>5596345</LostExp>
+    <KilledBy>Warden</KilledBy>
+    <Time>2025-08-13 14:00:09</Time>
+    <Location>(32026,31875,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Qqqo</Player>
     <LostExp>5142975</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31954,31993,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Kingwiz</Player>
     <LostExp>2657146</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32024,31884,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Lanin</Player>
     <LostExp>2370385</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -162,7 +170,15 @@
     <Location>(32060,31820,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
+    <Player>Noru</Player>
+    <LostExp>1121007</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-13 14:03:36</Time>
+    <Location>(31880,32043,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
     <Player>Spirit</Player>
     <LostExp>955971</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -170,7 +186,7 @@
     <Location>(31880,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>24</Rank>
     <Player>Mrb</Player>
     <LostExp>618335</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -178,7 +194,7 @@
     <Location>(31950,32277,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>25</Rank>
     <Player>Snoopking</Player>
     <LostExp>480730</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -186,7 +202,7 @@
     <Location>(32860,31973,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>26</Rank>
     <Player>Takemygold</Player>
     <LostExp>477038</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -194,7 +210,7 @@
     <Location>(31872,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>27</Rank>
     <Player>Zac</Player>
     <LostExp>412263</LostExp>
     <KilledBy>Cultist</KilledBy>
@@ -202,7 +218,7 @@
     <Location>(32019,31863,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>28</Rank>
     <Player>Bibilino</Player>
     <LostExp>129307</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -210,7 +226,7 @@
     <Location>(31995,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>29</Rank>
     <Player>Bkceara</Player>
     <LostExp>73212</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -218,7 +234,7 @@
     <Location>(31989,31866,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>30</Rank>
     <Player>Falfu</Player>
     <LostExp>31371</LostExp>
     <KilledBy>Emperor</KilledBy>
@@ -226,7 +242,7 @@
     <Location>(31973,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>31</Rank>
     <Player>Falfu</Player>
     <LostExp>28234</LostExp>
     <KilledBy>Gods</KilledBy>
@@ -234,7 +250,7 @@
     <Location>(31975,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>32</Rank>
     <Player>Asterix</Player>
     <LostExp>25899</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -242,7 +258,7 @@
     <Location>(32040,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>33</Rank>
     <Player>Falfu</Player>
     <LostExp>25411</LostExp>
     <KilledBy>Gods</KilledBy>
@@ -250,7 +266,7 @@
     <Location>(31974,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>34</Rank>
     <Player>Falfu</Player>
     <LostExp>22870</LostExp>
     <KilledBy>Qahderijan</KilledBy>
@@ -258,7 +274,7 @@
     <Location>(31975,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>35</Rank>
     <Player>Falfu</Player>
     <LostExp>20583</LostExp>
     <KilledBy>Emperor</KilledBy>
@@ -266,7 +282,7 @@
     <Location>(31975,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>36</Rank>
     <Player>Falfu</Player>
     <LostExp>18531</LostExp>
     <KilledBy>Thailinkun</KilledBy>
@@ -274,7 +290,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>37</Rank>
     <Player>Falfu</Player>
     <LostExp>16678</LostExp>
     <KilledBy>Thailinkun</KilledBy>
@@ -282,7 +298,7 @@
     <Location>(31976,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>38</Rank>
     <Player>Falfu</Player>
     <LostExp>15011</LostExp>
     <KilledBy>Thailinkun</KilledBy>
@@ -290,7 +306,7 @@
     <Location>(31976,31984,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>39</Rank>
     <Player>Andariel</Player>
     <LostExp>7263</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -298,7 +314,7 @@
     <Location>(31983,31898,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>40</Rank>
     <Player>Andariel</Player>
     <LostExp>4850</LostExp>
     <KilledBy>Scorpion</KilledBy>
