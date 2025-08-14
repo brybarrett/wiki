@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755215104337</GeneratedAt>
+  <GeneratedAt>1755215404359</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Renansz</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Manyalaya</Player>
+    <LostExp>12764903</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-08-15 01:46:37</Time>
+    <Location>(31869,32083,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Zac</Player>
     <LostExp>623199</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31963,31857,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Nang</Player>
     <LostExp>120920</LostExp>
     <KilledBy>Bragnak</KilledBy>
