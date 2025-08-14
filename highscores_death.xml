@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755139093318</GeneratedAt>
+  <GeneratedAt>1755139393316</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Spirit</Player>
+    <LostExp>2001619</LostExp>
+    <KilledBy>Horrornet</KilledBy>
+    <Time>2025-08-14 04:39:47</Time>
+    <Location>(32881,31990,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Honorio</Player>
     <LostExp>547879</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31954,31868,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Botaronoku</Player>
     <LostExp>388695</LostExp>
     <KilledBy>Bear</KilledBy>
