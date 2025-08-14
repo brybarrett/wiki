@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755132793277</GeneratedAt>
+  <GeneratedAt>1755133093287</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Heineken</Player>
+    <LostExp>316807097</LostExp>
+    <KilledBy>Blackdrake</KilledBy>
+    <Time>2025-08-14 02:56:54</Time>
+    <Location>(32248,32360,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Gordao</Player>
     <LostExp>2450120</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Honorio</Player>
     <LostExp>547879</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31954,31868,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Botaronoku</Player>
     <LostExp>388695</LostExp>
     <KilledBy>Bear</KilledBy>
