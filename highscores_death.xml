@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755130693275</GeneratedAt>
+  <GeneratedAt>1755130993276</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Gordao</Player>
+    <LostExp>2450120</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-14 02:22:30</Time>
+    <Location>(32008,31883,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Honorio</Player>
     <LostExp>547879</LostExp>
     <KilledBy>Shadow</KilledBy>
