@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755148993401</GeneratedAt>
+  <GeneratedAt>1755149293395</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Srlira</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Spirit</Player>
+    <LostExp>2093297</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-08-14 07:26:46</Time>
+    <Location>(32840,32062,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Birudide</Player>
     <LostExp>2045010</LostExp>
     <KilledBy>Gods</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31995,31865,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Spirit</Player>
     <LostExp>2001619</LostExp>
     <KilledBy>Horrornet</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32881,31990,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Rulo</Player>
     <LostExp>1876352</LostExp>
     <KilledBy>Fugaku</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31974,32002,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Kirassy</Player>
     <LostExp>810320</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32016,31880,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Honorio</Player>
     <LostExp>547879</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31954,31868,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Duni</Player>
     <LostExp>407966</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32042,32037,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Botaronoku</Player>
     <LostExp>388695</LostExp>
     <KilledBy>Bear</KilledBy>
