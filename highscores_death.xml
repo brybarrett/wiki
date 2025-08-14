@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755139393316</GeneratedAt>
+  <GeneratedAt>1755139693319</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -59,6 +59,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Rulo</Player>
+    <LostExp>1876352</LostExp>
+    <KilledBy>Fugaku</KilledBy>
+    <Time>2025-08-14 04:46:22</Time>
+    <Location>(31974,32002,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Kirassy</Player>
+    <LostExp>810320</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-14 04:43:15</Time>
+    <Location>(32016,31880,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Honorio</Player>
     <LostExp>547879</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(31954,31868,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Botaronoku</Player>
     <LostExp>388695</LostExp>
     <KilledBy>Bear</KilledBy>
