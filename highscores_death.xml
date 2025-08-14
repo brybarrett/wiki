@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755188593679</GeneratedAt>
+  <GeneratedAt>1755188893665</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Chucknorry</Player>
+    <LostExp>13500650</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-14 18:23:24</Time>
+    <Location>(31880,32041,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Nube</Player>
     <LostExp>7024148</LostExp>
     <KilledBy>Warden</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32026,31875,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Qqqo</Player>
     <LostExp>5653812</LostExp>
     <KilledBy>Monky</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32015,32296,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Qqqo</Player>
     <LostExp>5088431</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32048,32338,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Qqqo</Player>
     <LostExp>4731404</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32882,32037,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Selinkun</Player>
     <LostExp>4626972</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32033,31826,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Vintequatr</Player>
     <LostExp>3366073</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32064,31819,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Kingwiz</Player>
     <LostExp>2965688</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Haxixe</Player>
     <LostExp>2590883</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Gordao</Player>
     <LostExp>2450120</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Haxixe</Player>
     <LostExp>2426795</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32065,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Spirit</Player>
     <LostExp>2093297</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32840,32062,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Birudide</Player>
     <LostExp>2045010</LostExp>
     <KilledBy>Gods</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31995,31865,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Spirit</Player>
     <LostExp>2001619</LostExp>
     <KilledBy>Horrornet</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32881,31990,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Rulo</Player>
     <LostExp>1876352</LostExp>
     <KilledBy>Fugaku</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31974,32002,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Likar</Player>
     <LostExp>1153570</LostExp>
     <KilledBy>Scarapy Master</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31970,32295,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Kirassy</Player>
     <LostExp>810320</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(32016,31880,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Honorio</Player>
     <LostExp>547879</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31954,31868,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Duni</Player>
     <LostExp>514511</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31857,31974,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Zha</Player>
     <LostExp>449827</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32032,31932,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Zha</Player>
     <LostExp>422682</LostExp>
     <KilledBy>Rottummy</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(32716,32336,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Duni</Player>
     <LostExp>407966</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32042,32037,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Botaronoku</Player>
     <LostExp>388695</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32029,31973,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Junior</Player>
     <LostExp>353694</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -242,7 +250,15 @@
     <Location>(31990,31892,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
+    <Player>Jago</Player>
+    <LostExp>324961</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-14 18:26:32</Time>
+    <Location>(31911,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>33</Rank>
     <Player>Bibilino</Player>
     <LostExp>316831</LostExp>
     <KilledBy>Long</KilledBy>
@@ -250,7 +266,7 @@
     <Location>(32034,32279,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>34</Rank>
     <Player>Lao</Player>
     <LostExp>196461</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -258,7 +274,7 @@
     <Location>(32010,32250,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>35</Rank>
     <Player>Jago</Player>
     <LostExp>100019</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -266,7 +282,7 @@
     <Location>(31857,31971,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>36</Rank>
     <Player>Khone </Player>
     <LostExp>45649</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -274,7 +290,7 @@
     <Location>(31868,31913,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>37</Rank>
     <Player>Khone </Player>
     <LostExp>41084</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -282,7 +298,7 @@
     <Location>(32049,32338,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>38</Rank>
     <Player>Jxrry</Player>
     <LostExp>19868</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -290,7 +306,7 @@
     <Location>(31969,31880,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>39</Rank>
     <Player>Khone </Player>
     <LostExp>19570</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -298,7 +314,7 @@
     <Location>(31967,31920,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>40</Rank>
     <Player>Jxrry</Player>
     <LostExp>8003</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -306,7 +322,7 @@
     <Location>(32015,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>41</Rank>
     <Player>Jxrry</Player>
     <LostExp>7440</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -314,7 +330,7 @@
     <Location>(31978,31893,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>42</Rank>
     <Player>Jojiroo</Player>
     <LostExp>1090</LostExp>
     <KilledBy>Scorpion</KilledBy>
