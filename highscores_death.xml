@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755169093526</GeneratedAt>
+  <GeneratedAt>1755169393519</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -179,6 +179,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>23</Rank>
+    <Player>Jxrry</Player>
+    <LostExp>19868</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-08-14 13:00:53</Time>
+    <Location>(31969,31880,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>24</Rank>
     <Player>Khone </Player>
     <LostExp>19570</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31967,31920,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Jxrry</Player>
     <LostExp>8003</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32015,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Jxrry</Player>
     <LostExp>7440</LostExp>
     <KilledBy>Scorpion</KilledBy>
