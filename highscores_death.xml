@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755136993322</GeneratedAt>
+  <GeneratedAt>1755137293313</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Heineken</Player>
@@ -11,6 +11,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Kingwiz</Player>
+    <LostExp>2965688</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-08-14 04:07:07</Time>
+    <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Haxixe</Player>
+    <LostExp>2590883</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-08-14 04:06:57</Time>
+    <Location>(32064,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Gordao</Player>
     <LostExp>2450120</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(32008,31883,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Honorio</Player>
     <LostExp>547879</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(31954,31868,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Botaronoku</Player>
     <LostExp>388695</LostExp>
     <KilledBy>Bear</KilledBy>
