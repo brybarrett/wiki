@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755171493538</GeneratedAt>
+  <GeneratedAt>1755171793534</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -187,6 +187,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>24</Rank>
+    <Player>Khone </Player>
+    <LostExp>45649</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-08-14 13:40:57</Time>
+    <Location>(31868,31913,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
+    <Player>Khone </Player>
+    <LostExp>41084</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2025-08-14 13:42:33</Time>
+    <Location>(32049,32338,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
     <Player>Jxrry</Player>
     <LostExp>19868</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -194,7 +210,7 @@
     <Location>(31969,31880,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>27</Rank>
     <Player>Khone </Player>
     <LostExp>19570</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -202,7 +218,7 @@
     <Location>(31967,31920,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>28</Rank>
     <Player>Jxrry</Player>
     <LostExp>8003</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -210,7 +226,7 @@
     <Location>(32015,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>29</Rank>
     <Player>Jxrry</Player>
     <LostExp>7440</LostExp>
     <KilledBy>Scorpion</KilledBy>
