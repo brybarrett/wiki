@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755204493774</GeneratedAt>
+  <GeneratedAt>1755204793778</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Loki</Player>
@@ -364,13 +364,21 @@
   <DeathEvent>
     <Rank>46</Rank>
     <Player>Nang</Player>
+    <LostExp>49799</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-14 22:48:46</Time>
+    <Location>(32012,31874,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>47</Rank>
+    <Player>Nang</Player>
     <LostExp>48719</LostExp>
     <KilledBy>Mantis</KilledBy>
     <Time>2025-08-14 22:20:54</Time>
     <Location>(31903,31977,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Khone </Player>
     <LostExp>45649</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31868,31913,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Khone </Player>
     <LostExp>41084</LostExp>
     <KilledBy>Lucyr</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(32049,32338,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Jxrry</Player>
     <LostExp>19868</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31969,31880,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Khone </Player>
     <LostExp>19570</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31967,31920,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Jxrry</Player>
     <LostExp>8003</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(32015,32030,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Jxrry</Player>
     <LostExp>7440</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(31978,31893,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Jojiroo</Player>
     <LostExp>1090</LostExp>
     <KilledBy>Scorpion</KilledBy>
