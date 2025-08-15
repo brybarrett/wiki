@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755270604837</GeneratedAt>
+  <GeneratedAt>1755270904848</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kannisword</Player>
@@ -368,5 +368,13 @@
     <KilledBy>Duza</KilledBy>
     <Time>2025-08-15 11:45:51</Time>
     <Location>(31974,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>47</Rank>
+    <Player>Boa</Player>
+    <LostExp>569</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-08-15 17:10:50</Time>
+    <Location>(31987,31862,9)</Location>
   </DeathEvent>
 </DeathHighscores>
