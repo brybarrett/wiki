@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755249604687</GeneratedAt>
+  <GeneratedAt>1755249904674</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kannisword</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Balaba</Player>
+    <LostExp>680627</LostExp>
+    <KilledBy>Duza</KilledBy>
+    <Time>2025-08-15 11:24:34</Time>
+    <Location>(31976,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Jago</Player>
     <LostExp>636369</LostExp>
     <KilledBy>Snowling</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31976,31799,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Zac</Player>
     <LostExp>623199</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31963,31857,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Jago</Player>
     <LostExp>534163</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32867,31993,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Junior</Player>
     <LostExp>416720</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32015,31874,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Andariel</Player>
     <LostExp>142665</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32027,31978,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Nang</Player>
     <LostExp>120920</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32022,31860,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Maria</Player>
     <LostExp>111624</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31997,31896,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Jxrry</Player>
     <LostExp>102987</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31872,32024,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Jxrry</Player>
     <LostExp>71483</LostExp>
     <KilledBy>Orc Leader</KilledBy>
