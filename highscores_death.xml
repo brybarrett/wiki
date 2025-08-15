@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755294905017</GeneratedAt>
+  <GeneratedAt>1755295204998</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kannisword</Player>
@@ -331,6 +331,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>42</Rank>
+    <Player>Andariel</Player>
+    <LostExp>175526</LostExp>
+    <KilledBy>Bear</KilledBy>
+    <Time>2025-08-15 23:56:19</Time>
+    <Location>(32027,31979,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>43</Rank>
     <Player>Balaba</Player>
     <LostExp>173006</LostExp>
     <KilledBy>Duza</KilledBy>
@@ -338,7 +346,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>43</Rank>
+    <Rank>44</Rank>
     <Player>Maria</Player>
     <LostExp>161918</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(31995,31896,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Balaba</Player>
     <LostExp>155706</LostExp>
     <KilledBy>Duza</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(31974,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Andariel</Player>
     <LostExp>142665</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(32027,31978,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Balaba</Player>
     <LostExp>140135</LostExp>
     <KilledBy>Duza</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(31974,31985,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Balaba</Player>
     <LostExp>126121</LostExp>
     <KilledBy>Duza</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31976,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Nang</Player>
     <LostExp>120920</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(32022,31860,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Balaba</Player>
     <LostExp>113509</LostExp>
     <KilledBy>Duza</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31974,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Maria</Player>
     <LostExp>111624</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31997,31896,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Jxrry</Player>
     <LostExp>102987</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(31872,32024,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Balaba</Player>
     <LostExp>102158</LostExp>
     <KilledBy>Duza</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(31974,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Balaba</Player>
     <LostExp>91943</LostExp>
     <KilledBy>Duza</KilledBy>
@@ -426,7 +434,7 @@
     <Location>(31975,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
     <Player>Balaba</Player>
     <LostExp>82748</LostExp>
     <KilledBy>Duza</KilledBy>
@@ -434,7 +442,7 @@
     <Location>(31975,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>56</Rank>
     <Player>Balaba</Player>
     <LostExp>74474</LostExp>
     <KilledBy>Duza</KilledBy>
@@ -442,7 +450,7 @@
     <Location>(31975,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Jxrry</Player>
     <LostExp>71483</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(32008,31872,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Balaba</Player>
     <LostExp>67026</LostExp>
     <KilledBy>Duza</KilledBy>
@@ -458,7 +466,7 @@
     <Location>(31976,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Balaba</Player>
     <LostExp>60324</LostExp>
     <KilledBy>Duza</KilledBy>
@@ -466,7 +474,7 @@
     <Location>(31976,31984,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>59</Rank>
+    <Rank>60</Rank>
     <Player>Balaba</Player>
     <LostExp>54291</LostExp>
     <KilledBy>Duza</KilledBy>
@@ -474,7 +482,7 @@
     <Location>(31974,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>60</Rank>
+    <Rank>61</Rank>
     <Player>Boa</Player>
     <LostExp>569</LostExp>
     <KilledBy>Orc Raider</KilledBy>
