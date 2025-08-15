@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755250804628</GeneratedAt>
+  <GeneratedAt>1755251104695</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kannisword</Player>
@@ -243,6 +243,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>31</Rank>
+    <Player>Balaba</Player>
+    <LostExp>126121</LostExp>
+    <KilledBy>Duza</KilledBy>
+    <Time>2025-08-15 11:40:17</Time>
+    <Location>(31976,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>32</Rank>
     <Player>Nang</Player>
     <LostExp>120920</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -250,7 +258,15 @@
     <Location>(32022,31860,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
+    <Player>Balaba</Player>
+    <LostExp>113509</LostExp>
+    <KilledBy>Duza</KilledBy>
+    <Time>2025-08-15 11:40:58</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>34</Rank>
     <Player>Maria</Player>
     <LostExp>111624</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -258,7 +274,7 @@
     <Location>(31997,31896,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>35</Rank>
     <Player>Jxrry</Player>
     <LostExp>102987</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -266,11 +282,51 @@
     <Location>(31872,32024,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>36</Rank>
+    <Player>Balaba</Player>
+    <LostExp>102158</LostExp>
+    <KilledBy>Duza</KilledBy>
+    <Time>2025-08-15 11:41:38</Time>
+    <Location>(31974,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>37</Rank>
+    <Player>Balaba</Player>
+    <LostExp>91943</LostExp>
+    <KilledBy>Duza</KilledBy>
+    <Time>2025-08-15 11:42:18</Time>
+    <Location>(31975,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>38</Rank>
+    <Player>Balaba</Player>
+    <LostExp>82748</LostExp>
+    <KilledBy>Duza</KilledBy>
+    <Time>2025-08-15 11:42:58</Time>
+    <Location>(31975,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>39</Rank>
+    <Player>Balaba</Player>
+    <LostExp>74474</LostExp>
+    <KilledBy>Duza</KilledBy>
+    <Time>2025-08-15 11:43:36</Time>
+    <Location>(31975,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>40</Rank>
     <Player>Jxrry</Player>
     <LostExp>71483</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-08-15 02:37:45</Time>
     <Location>(32008,31872,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>41</Rank>
+    <Player>Balaba</Player>
+    <LostExp>67026</LostExp>
+    <KilledBy>Duza</KilledBy>
+    <Time>2025-08-15 11:44:10</Time>
+    <Location>(31976,31986,7)</Location>
   </DeathEvent>
 </DeathHighscores>
