@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755219004351</GeneratedAt>
+  <GeneratedAt>1755219304360</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Kannisword</Player>
+    <LostExp>1073741823</LostExp>
+    <KilledBy>Elite Mutant</KilledBy>
+    <Time>2025-08-15 02:53:09</Time>
+    <Location>(31877,32350,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Renansz</Player>
     <LostExp>196201448</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31957,32291,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Dark</Player>
     <LostExp>52627857</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32824,32010,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Manyalaya</Player>
     <LostExp>12764903</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31869,32083,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Zac</Player>
     <LostExp>623199</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31963,31857,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Nang</Player>
     <LostExp>120920</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32022,31860,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Maria</Player>
     <LostExp>111624</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31997,31896,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Jxrry</Player>
     <LostExp>71483</LostExp>
     <KilledBy>Orc Leader</KilledBy>
