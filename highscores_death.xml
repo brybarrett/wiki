@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755218104324</GeneratedAt>
+  <GeneratedAt>1755218404351</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Renansz</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Bragnak</KilledBy>
     <Time>2025-08-15 00:54:17</Time>
     <Location>(32022,31860,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Jxrry</Player>
+    <LostExp>71483</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-15 02:37:45</Time>
+    <Location>(32008,31872,10)</Location>
   </DeathEvent>
 </DeathHighscores>
