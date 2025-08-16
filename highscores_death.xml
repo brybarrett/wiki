@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755361441826</GeneratedAt>
+  <GeneratedAt>1755361741836</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Magus</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Miacalifa</Player>
+    <LostExp>18854618</LostExp>
+    <KilledBy>Hers</KilledBy>
+    <Time>2025-08-16 18:28:24</Time>
+    <Location>(31784,31939,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Doze</Player>
     <LostExp>14947825</LostExp>
     <KilledBy>Gods</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Dekneo</Player>
     <LostExp>4194072</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31877,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Crek</Player>
     <LostExp>2762852</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32063,31822,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Jxrry</Player>
     <LostExp>135153</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32015,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Beli</Player>
     <LostExp>60212</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32042,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Bure</Player>
     <LostExp>47478</LostExp>
     <KilledBy>Cyclops</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31888,31960,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Bure</Player>
     <LostExp>43159</LostExp>
     <KilledBy>Werewolf</KilledBy>
