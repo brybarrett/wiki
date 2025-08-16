@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755367441866</GeneratedAt>
+  <GeneratedAt>1755367741861</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ultron</Player>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Kadu </Player>
+    <LostExp>601379</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-08-16 20:08:13</Time>
+    <Location>(32871,32000,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Jxrry</Player>
     <LostExp>135153</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32015,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Beli</Player>
     <LostExp>60212</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32042,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Bure</Player>
     <LostExp>47478</LostExp>
     <KilledBy>Cyclops</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31888,31960,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Bure</Player>
     <LostExp>43159</LostExp>
     <KilledBy>Werewolf</KilledBy>
