@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755350941747</GeneratedAt>
+  <GeneratedAt>1755351241763</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Magus</Player>
+    <LostExp>370212966</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-08-16 15:29:36</Time>
+    <Location>(32063,31824,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Doze</Player>
     <LostExp>14947825</LostExp>
     <KilledBy>Gods</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Bure</Player>
     <LostExp>47478</LostExp>
     <KilledBy>Cyclops</KilledBy>
