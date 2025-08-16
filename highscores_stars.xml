@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StarsHighscores>
-  <GeneratedAt>1755379741966</GeneratedAt>
+  <GeneratedAt>1755380041974</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Kakashi</Name>
@@ -113,12 +113,12 @@
   </Player>
   <Player>
     <Rank>23</Rank>
-    <Name>Karimpai</Name>
+    <Name>Genji</Name>
     <StarsCollected>221</StarsCollected>
   </Player>
   <Player>
     <Rank>24</Rank>
-    <Name>Genji</Name>
+    <Name>Karimpai</Name>
     <StarsCollected>221</StarsCollected>
   </Player>
   <Player>
@@ -138,12 +138,12 @@
   </Player>
   <Player>
     <Rank>28</Rank>
-    <Name>Astreus</Name>
+    <Name>Tiringa</Name>
     <StarsCollected>213</StarsCollected>
   </Player>
   <Player>
     <Rank>29</Rank>
-    <Name>Tiringa</Name>
+    <Name>Astreus</Name>
     <StarsCollected>213</StarsCollected>
   </Player>
   <Player>
@@ -243,7 +243,7 @@
   </Player>
   <Player>
     <Rank>49</Rank>
-    <Name>Buca</Name>
+    <Name>Cloudy</Name>
     <StarsCollected>182</StarsCollected>
   </Player>
   <Player>
@@ -253,7 +253,7 @@
   </Player>
   <Player>
     <Rank>51</Rank>
-    <Name>Cloudy</Name>
+    <Name>Buca</Name>
     <StarsCollected>182</StarsCollected>
   </Player>
   <Player>
@@ -298,17 +298,17 @@
   </Player>
   <Player>
     <Rank>60</Rank>
-    <Name>Devorz</Name>
+    <Name>Warmagedom</Name>
     <StarsCollected>166</StarsCollected>
   </Player>
   <Player>
     <Rank>61</Rank>
-    <Name>Durin</Name>
+    <Name>Devorz</Name>
     <StarsCollected>166</StarsCollected>
   </Player>
   <Player>
     <Rank>62</Rank>
-    <Name>Warmagedom</Name>
+    <Name>Durin</Name>
     <StarsCollected>166</StarsCollected>
   </Player>
   <Player>
@@ -343,7 +343,7 @@
   </Player>
   <Player>
     <Rank>69</Rank>
-    <Name>Victorbr</Name>
+    <Name>Moondeath</Name>
     <StarsCollected>160</StarsCollected>
   </Player>
   <Player>
@@ -358,27 +358,27 @@
   </Player>
   <Player>
     <Rank>72</Rank>
-    <Name>Moondeath</Name>
+    <Name>Victorbr</Name>
     <StarsCollected>160</StarsCollected>
   </Player>
   <Player>
     <Rank>73</Rank>
-    <Name>Kafka</Name>
-    <StarsCollected>158</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>74</Rank>
     <Name>Anaa</Name>
     <StarsCollected>158</StarsCollected>
   </Player>
   <Player>
-    <Rank>75</Rank>
+    <Rank>74</Rank>
     <Name>Soft</Name>
     <StarsCollected>158</StarsCollected>
   </Player>
   <Player>
-    <Rank>76</Rank>
+    <Rank>75</Rank>
     <Name>Xhunter</Name>
+    <StarsCollected>158</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>76</Rank>
+    <Name>Kafka</Name>
     <StarsCollected>158</StarsCollected>
   </Player>
   <Player>
@@ -398,12 +398,12 @@
   </Player>
   <Player>
     <Rank>80</Rank>
-    <Name>Ahrifox</Name>
+    <Name>Lordblack</Name>
     <StarsCollected>151</StarsCollected>
   </Player>
   <Player>
     <Rank>81</Rank>
-    <Name>Lordblack</Name>
+    <Name>Ahrifox</Name>
     <StarsCollected>151</StarsCollected>
   </Player>
   <Player>
@@ -413,12 +413,12 @@
   </Player>
   <Player>
     <Rank>83</Rank>
-    <Name>Khorhigee </Name>
+    <Name>Skyblue</Name>
     <StarsCollected>147</StarsCollected>
   </Player>
   <Player>
     <Rank>84</Rank>
-    <Name>Skyblue</Name>
+    <Name>Khorhigee </Name>
     <StarsCollected>147</StarsCollected>
   </Player>
   <Player>
@@ -458,12 +458,12 @@
   </Player>
   <Player>
     <Rank>92</Rank>
-    <Name>Fay</Name>
+    <Name>Godcarver</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
     <Rank>93</Rank>
-    <Name>Chivas</Name>
+    <Name>Fay</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -473,12 +473,12 @@
   </Player>
   <Player>
     <Rank>95</Rank>
-    <Name>Godcarver</Name>
+    <Name>Zed</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
     <Rank>96</Rank>
-    <Name>Zed</Name>
+    <Name>Chivas</Name>
     <StarsCollected>137</StarsCollected>
   </Player>
   <Player>
@@ -488,17 +488,17 @@
   </Player>
   <Player>
     <Rank>98</Rank>
-    <Name>Rog</Name>
-    <StarsCollected>136</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>99</Rank>
     <Name>Niggawar</Name>
     <StarsCollected>136</StarsCollected>
   </Player>
   <Player>
-    <Rank>100</Rank>
+    <Rank>99</Rank>
     <Name>Myrtles </Name>
+    <StarsCollected>136</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>100</Rank>
+    <Name>Rog</Name>
     <StarsCollected>136</StarsCollected>
   </Player>
   <Player>
@@ -513,17 +513,17 @@
   </Player>
   <Player>
     <Rank>103</Rank>
-    <Name>Aivk </Name>
-    <StarsCollected>134</StarsCollected>
-  </Player>
-  <Player>
-    <Rank>104</Rank>
     <Name>Mochi</Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
-    <Rank>105</Rank>
+    <Rank>104</Rank>
     <Name>Hero</Name>
+    <StarsCollected>134</StarsCollected>
+  </Player>
+  <Player>
+    <Rank>105</Rank>
+    <Name>Aivk </Name>
     <StarsCollected>134</StarsCollected>
   </Player>
   <Player>
@@ -563,12 +563,12 @@
   </Player>
   <Player>
     <Rank>113</Rank>
-    <Name>Jeeje</Name>
+    <Name>Mineira</Name>
     <StarsCollected>125</StarsCollected>
   </Player>
   <Player>
     <Rank>114</Rank>
-    <Name>Mineira</Name>
+    <Name>Jeeje</Name>
     <StarsCollected>125</StarsCollected>
   </Player>
   <Player>
@@ -583,12 +583,12 @@
   </Player>
   <Player>
     <Rank>117</Rank>
-    <Name>Templarr</Name>
+    <Name>Dinho</Name>
     <StarsCollected>122</StarsCollected>
   </Player>
   <Player>
     <Rank>118</Rank>
-    <Name>Dinho</Name>
+    <Name>Templarr</Name>
     <StarsCollected>122</StarsCollected>
   </Player>
   <Player>
@@ -628,12 +628,12 @@
   </Player>
   <Player>
     <Rank>126</Rank>
-    <Name>Shadowww</Name>
+    <Name>Zin</Name>
     <StarsCollected>115</StarsCollected>
   </Player>
   <Player>
     <Rank>127</Rank>
-    <Name>Zin</Name>
+    <Name>Shadowww</Name>
     <StarsCollected>115</StarsCollected>
   </Player>
   <Player>
