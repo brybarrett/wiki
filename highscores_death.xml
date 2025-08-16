@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755328391773</GeneratedAt>
+  <GeneratedAt>1755328691756</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Xmichaelx</Player>
@@ -120,5 +120,13 @@
     <KilledBy>Bear</KilledBy>
     <Time>2025-08-16 05:23:20</Time>
     <Location>(32026,31979,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Bure</Player>
+    <LostExp>52581</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2025-08-16 09:13:43</Time>
+    <Location>(31865,32044,9)</Location>
   </DeathEvent>
 </DeathHighscores>
