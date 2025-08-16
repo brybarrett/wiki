@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755304991589</GeneratedAt>
+  <GeneratedAt>1755305291582</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gordinxl</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Blaze Master</KilledBy>
     <Time>2025-08-16 01:03:29</Time>
     <Location>(31999,32255,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Anyian</Player>
+    <LostExp>3920836</LostExp>
+    <KilledBy>Demun</KilledBy>
+    <Time>2025-08-16 02:45:15</Time>
+    <Location>(31954,31803,10)</Location>
   </DeathEvent>
 </DeathHighscores>
