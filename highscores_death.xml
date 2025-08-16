@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755355141758</GeneratedAt>
+  <GeneratedAt>1755355441760</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Magus</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Riky</Player>
+    <LostExp>55724620</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-08-16 16:41:02</Time>
+    <Location>(31945,32270,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Goldwizz</Player>
     <LostExp>54477689</LostExp>
     <KilledBy>(Others)</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31798,31910,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Doze</Player>
     <LostExp>14947825</LostExp>
     <KilledBy>Gods</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Beli</Player>
     <LostExp>60212</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32042,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Bure</Player>
     <LostExp>47478</LostExp>
     <KilledBy>Cyclops</KilledBy>
