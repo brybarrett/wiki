@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755350641756</GeneratedAt>
+  <GeneratedAt>1755350941747</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Doze</Player>
+    <LostExp>14947825</LostExp>
+    <KilledBy>Gods</KilledBy>
+    <Time>2025-08-16 15:25:03</Time>
+    <Location>(31776,31937,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Bure</Player>
     <LostExp>47478</LostExp>
     <KilledBy>Cyclops</KilledBy>
