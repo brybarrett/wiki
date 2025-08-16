@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755366241853</GeneratedAt>
+  <GeneratedAt>1755366541853</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ultron</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Riky</Player>
+    <LostExp>45745268</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-08-16 19:46:45</Time>
+    <Location>(32003,32253,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Miacalifa</Player>
     <LostExp>18854618</LostExp>
     <KilledBy>Hers</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31784,31939,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Doze</Player>
     <LostExp>14947825</LostExp>
     <KilledBy>Gods</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31776,31937,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Dekneo</Player>
     <LostExp>4194072</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31877,32061,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Quidbegala</Player>
     <LostExp>3197674</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31914,32225,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Crek</Player>
     <LostExp>2762852</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32063,31822,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Becboladin</Player>
     <LostExp>2507693</LostExp>
     <KilledBy>Ghostsin</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32043,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Jxrry</Player>
     <LostExp>135153</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32015,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Beli</Player>
     <LostExp>60212</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32042,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Bure</Player>
     <LostExp>47478</LostExp>
     <KilledBy>Cyclops</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31888,31960,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Bure</Player>
     <LostExp>43159</LostExp>
     <KilledBy>Werewolf</KilledBy>
