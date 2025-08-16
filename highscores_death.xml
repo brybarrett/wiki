@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755314891658</GeneratedAt>
+  <GeneratedAt>1755315191638</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Belzebugod</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Licht</Player>
+    <LostExp>48288695</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-08-16 05:28:54</Time>
+    <Location>(31909,32223,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Doze</Player>
     <LostExp>18453936</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31793,31945,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Doze</Player>
     <LostExp>16608694</LostExp>
     <KilledBy>Ninjany</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31792,31915,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Anyian</Player>
     <LostExp>3920836</LostExp>
     <KilledBy>Demun</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31954,31803,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Andariel</Player>
     <LostExp>185772</LostExp>
     <KilledBy>Bear</KilledBy>
