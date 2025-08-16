@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755325091717</GeneratedAt>
+  <GeneratedAt>1755325391726</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Xmichaelx</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Rulo</Player>
+    <LostExp>2365395</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-08-16 08:19:46</Time>
+    <Location>(31944,31982,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Bellah</Player>
     <LostExp>377809</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31988,32015,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Andariel</Player>
     <LostExp>185772</LostExp>
     <KilledBy>Bear</KilledBy>
