@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755333791796</GeneratedAt>
+  <GeneratedAt>1755334091812</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Xmichaelx</Player>
@@ -107,6 +107,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
+    <Player>Rulo</Player>
+    <LostExp>1852625</LostExp>
+    <KilledBy>Crysmantis</KilledBy>
+    <Time>2025-08-16 10:46:45</Time>
+    <Location>(32808,32032,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Jiah</Player>
     <LostExp>1262983</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32828,32045,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Jiah</Player>
     <LostExp>1214235</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32824,32056,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Bellah</Player>
     <LostExp>377809</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31988,32015,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Andariel</Player>
     <LostExp>185772</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32026,31979,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Bure</Player>
     <LostExp>52581</LostExp>
     <KilledBy>Scorpiant</KilledBy>
