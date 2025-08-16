@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755309191620</GeneratedAt>
+  <GeneratedAt>1755309491623</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Belzebugod</Player>
+    <LostExp>139286984</LostExp>
+    <KilledBy>Blue Stone</KilledBy>
+    <Time>2025-08-16 03:53:40</Time>
+    <Location>(32000,32254,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Gordinxl</Player>
     <LostExp>60047461</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31999,32255,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Gordinxl</Player>
     <LostExp>57356348</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31999,32255,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Doze</Player>
     <LostExp>18453936</LostExp>
     <KilledBy>Ninjana</KilledBy>
@@ -26,7 +34,15 @@
     <Location>(31793,31945,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
+    <Player>Doze</Player>
+    <LostExp>16608694</LostExp>
+    <KilledBy>Ninjany</KilledBy>
+    <Time>2025-08-16 03:54:58</Time>
+    <Location>(31792,31915,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Anyian</Player>
     <LostExp>3920836</LostExp>
     <KilledBy>Demun</KilledBy>
