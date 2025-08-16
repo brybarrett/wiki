@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755305291582</GeneratedAt>
+  <GeneratedAt>1755305591581</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gordinxl</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Doze</Player>
+    <LostExp>18453936</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-08-16 02:49:26</Time>
+    <Location>(31793,31945,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Anyian</Player>
     <LostExp>3920836</LostExp>
     <KilledBy>Demun</KilledBy>
