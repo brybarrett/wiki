@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755421209750</GeneratedAt>
+  <GeneratedAt>1755421509750</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Urekmazino</Player>
@@ -84,13 +84,21 @@
   <DeathEvent>
     <Rank>11</Rank>
     <Player>Sessentaqu</Player>
+    <LostExp>238685</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-08-17 11:01:26</Time>
+    <Location>(32000,31908,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Sessentaqu</Player>
     <LostExp>139485</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-08-17 04:24:54</Time>
     <Location>(32002,31909,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Zyb</Player>
     <LostExp>122506</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31957,31869,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Val</Player>
     <LostExp>56776</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(31995,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Val</Player>
     <LostExp>56246</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31909,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Zya</Player>
     <LostExp>45000</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
