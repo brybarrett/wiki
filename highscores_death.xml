@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755442209896</GeneratedAt>
+  <GeneratedAt>1755442509907</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Renansz</Player>
@@ -227,6 +227,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>29</Rank>
+    <Player>Artemiss</Player>
+    <LostExp>18759</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-08-17 16:53:08</Time>
+    <Location>(31968,31909,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
     <Player>Artemiss</Player>
     <LostExp>8293</LostExp>
     <KilledBy>Scorpion</KilledBy>
