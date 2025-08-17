@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755473708355</GeneratedAt>
+  <GeneratedAt>1755474008350</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Brisadeiro</Player>
+    <LostExp>340561896</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-08-18 01:40:02</Time>
+    <Location>(31800,31925,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Khun</Player>
+    <LostExp>318715821</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-08-18 01:36:29</Time>
+    <Location>(31805,31927,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Juniorrrr</Player>
     <LostExp>135845422</LostExp>
     <KilledBy>Leechacle</KilledBy>
@@ -10,11 +26,19 @@
     <Location>(32825,32032,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Dry</Player>
     <LostExp>625532</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-08-18 01:26:06</Time>
     <Location>(32002,31903,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Andariel</Player>
+    <LostExp>547824</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-08-18 01:37:07</Time>
+    <Location>(31885,31914,8)</Location>
   </DeathEvent>
 </DeathHighscores>
