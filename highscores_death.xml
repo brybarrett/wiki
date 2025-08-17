@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755439809888</GeneratedAt>
+  <GeneratedAt>1755440109859</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Renansz</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Stecuu</Player>
+    <LostExp>3361957</LostExp>
+    <KilledBy>Wisper</KilledBy>
+    <Time>2025-08-17 16:10:43</Time>
+    <Location>(31900,31933,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Quidbegala</Player>
     <LostExp>3122562</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32042,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Rulo</Player>
     <LostExp>2052325</LostExp>
     <KilledBy>Baby Drake</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31990,31938,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Zoropanta</Player>
     <LostExp>1940603</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32044,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Junior</Player>
     <LostExp>1343353</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Bembolado</Player>
     <LostExp>379649</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32003,31905,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Bembolado</Player>
     <LostExp>365904</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32004,31907,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Sessentaqu</Player>
     <LostExp>238685</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32000,31908,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Sessentaqu</Player>
     <LostExp>139485</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32002,31909,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Zyb</Player>
     <LostExp>122506</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31957,31869,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Val</Player>
     <LostExp>56776</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31995,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Val</Player>
     <LostExp>56246</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31909,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Zya</Player>
     <LostExp>45000</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32042,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Canibal</Player>
     <LostExp>38264</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31964,31931,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Artemiss</Player>
     <LostExp>8293</LostExp>
     <KilledBy>Scorpion</KilledBy>
