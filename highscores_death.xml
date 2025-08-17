@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755398409582</GeneratedAt>
+  <GeneratedAt>1755398709592</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Charuto</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Zyb</Player>
+    <LostExp>122506</LostExp>
+    <KilledBy>Shadow</KilledBy>
+    <Time>2025-08-17 04:44:24</Time>
+    <Location>(31957,31869,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Val</Player>
     <LostExp>56776</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31995,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Val</Player>
     <LostExp>56246</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31909,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Zya</Player>
     <LostExp>45000</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
