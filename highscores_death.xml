@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755523508703</GeneratedAt>
+  <GeneratedAt>1755523808721</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Maxx</Player>
@@ -195,6 +195,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>25</Rank>
+    <Player>Purplekush</Player>
+    <LostExp>552962</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-08-18 15:28:00</Time>
+    <Location>(31992,31863,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
     <Player>Andariel</Player>
     <LostExp>547824</LostExp>
     <KilledBy>Tarantula</KilledBy>
