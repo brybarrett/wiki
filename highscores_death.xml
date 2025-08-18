@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755552936882</GeneratedAt>
+  <GeneratedAt>1755553236887</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Chivas</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Ice</Player>
+    <LostExp>996976</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-18 23:38:43</Time>
+    <Location>(32027,31895,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Dry</Player>
     <LostExp>943139</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32003,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Purplehaze</Player>
     <LostExp>688770</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32025,31887,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Bembolado</Player>
     <LostExp>551565</LostExp>
     <KilledBy>Skeleton</KilledBy>
