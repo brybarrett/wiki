@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755526508758</GeneratedAt>
+  <GeneratedAt>1755526808719</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Maxx</Player>
@@ -248,5 +248,13 @@
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-08-18 01:37:07</Time>
     <Location>(31885,31914,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>32</Rank>
+    <Player>Qasdf</Player>
+    <LostExp>394788</LostExp>
+    <KilledBy>Orc General</KilledBy>
+    <Time>2025-08-18 16:17:21</Time>
+    <Location>(31997,31863,7)</Location>
   </DeathEvent>
 </DeathHighscores>
