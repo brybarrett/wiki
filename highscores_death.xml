@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755476708372</GeneratedAt>
+  <GeneratedAt>1755477008373</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Brisadeiro</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Inumaki</Player>
+    <LostExp>317096535</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-08-18 02:25:11</Time>
+    <Location>(31936,32206,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Juniorrrr</Player>
     <LostExp>135845422</LostExp>
     <KilledBy>Leechacle</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32825,32032,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Dry</Player>
     <LostExp>625532</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32002,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Andariel</Player>
     <LostExp>547824</LostExp>
     <KilledBy>Tarantula</KilledBy>
