@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755549636881</GeneratedAt>
+  <GeneratedAt>1755549936876</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sifu</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Dry</Player>
+    <LostExp>943139</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-08-18 22:42:20</Time>
+    <Location>(32003,31906,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Purplehaze</Player>
     <LostExp>688770</LostExp>
     <KilledBy>Orc Leader</KilledBy>
