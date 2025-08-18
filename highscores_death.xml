@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755528308760</GeneratedAt>
+  <GeneratedAt>1755528608769</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Maxx</Player>
@@ -280,5 +280,13 @@
     <KilledBy>Orc General</KilledBy>
     <Time>2025-08-18 16:17:21</Time>
     <Location>(31997,31863,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>36</Rank>
+    <Player>Amzphengg</Player>
+    <LostExp>142476</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-18 16:49:46</Time>
+    <Location>(32010,31878,8)</Location>
   </DeathEvent>
 </DeathHighscores>
