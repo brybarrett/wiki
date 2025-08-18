@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755550236890</GeneratedAt>
+  <GeneratedAt>1755550536882</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Chivas</Player>
+    <LostExp>769395116</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-08-18 22:52:06</Time>
+    <Location>(31936,32206,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Sifu</Player>
     <LostExp>21397455</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -10,7 +18,15 @@
     <Location>(31862,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
+    <Player>Phoenix</Player>
+    <LostExp>12409730</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2025-08-18 22:51:25</Time>
+    <Location>(31864,32045,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Dry</Player>
     <LostExp>943139</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(32003,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Purplehaze</Player>
     <LostExp>688770</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(32025,31887,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Bembolado</Player>
     <LostExp>551565</LostExp>
     <KilledBy>Skeleton</KilledBy>
