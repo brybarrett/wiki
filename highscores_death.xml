@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755483608423</GeneratedAt>
+  <GeneratedAt>1755483908437</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Maxx</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Charuto</Player>
+    <LostExp>57154166</LostExp>
+    <KilledBy>Five</KilledBy>
+    <Time>2025-08-18 04:22:26</Time>
+    <Location>(31776,31937,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Sunset</Player>
     <LostExp>51515119</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -50,7 +58,15 @@
     <Location>(31957,32291,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
+    <Player>Lordfisyeh</Player>
+    <LostExp>26260939</LostExp>
+    <KilledBy>Datubiadap</KilledBy>
+    <Time>2025-08-18 04:22:19</Time>
+    <Location>(31785,31939,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Sifu</Player>
     <LostExp>20352950</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(31862,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Dry</Player>
     <LostExp>625532</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -66,7 +82,7 @@
     <Location>(32002,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>11</Rank>
     <Player>Laiong</Player>
     <LostExp>590115</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +90,7 @@
     <Location>(31881,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>12</Rank>
     <Player>Laiong</Player>
     <LostExp>555014</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -82,7 +98,7 @@
     <Location>(31994,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>13</Rank>
     <Player>Andariel</Player>
     <LostExp>547824</LostExp>
     <KilledBy>Tarantula</KilledBy>
