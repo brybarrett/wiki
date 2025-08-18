@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755560105268</GeneratedAt>
+  <GeneratedAt>1755560405260</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Sunset</Player>
+    <LostExp>44425103</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-08-19 01:39:09</Time>
+    <Location>(31946,32270,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Dry</Player>
     <LostExp>825923</LostExp>
     <KilledBy>Scorpion</KilledBy>
