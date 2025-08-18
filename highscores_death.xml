@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755530708761</GeneratedAt>
+  <GeneratedAt>1755531008752</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Maxx</Player>
@@ -267,6 +267,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>34</Rank>
+    <Player>Purplehaze</Player>
+    <LostExp>658850</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-18 17:26:37</Time>
+    <Location>(32024,31881,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Dry</Player>
     <LostExp>625532</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(32002,31903,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Phad</Player>
     <LostExp>598083</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31992,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Laiong</Player>
     <LostExp>590115</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(31881,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Laiong</Player>
     <LostExp>555014</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31994,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Purplekush</Player>
     <LostExp>552962</LostExp>
     <KilledBy>Orc</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(31992,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Andariel</Player>
     <LostExp>547824</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -314,7 +322,7 @@
     <Location>(31885,31914,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>40</Rank>
+    <Rank>41</Rank>
     <Player>Qasdf</Player>
     <LostExp>394788</LostExp>
     <KilledBy>Orc General</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(31997,31863,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Amzphengg</Player>
     <LostExp>142476</LostExp>
     <KilledBy>Orc Leader</KilledBy>
