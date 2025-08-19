@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755563405281</GeneratedAt>
+  <GeneratedAt>1755563705271</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sunset</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Sungokong</Player>
+    <LostExp>2689662</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2025-08-19 02:32:14</Time>
+    <Location>(31855,31975,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Ice</Player>
     <LostExp>1114625</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32026,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Purplehaze</Player>
     <LostExp>989109</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32031,31899,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Dry</Player>
     <LostExp>825923</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32004,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Dry</Player>
     <LostExp>800346</LostExp>
     <KilledBy>Scorpion</KilledBy>
