@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755567605318</GeneratedAt>
+  <GeneratedAt>1755567905330</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -104,5 +104,21 @@
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-08-19 02:18:04</Time>
     <Location>(32004,31907,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Artemiss</Player>
+    <LostExp>776452</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-19 03:41:14</Time>
+    <Location>(32013,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Dry</Player>
+    <LostExp>754304</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-08-19 03:42:12</Time>
+    <Location>(32003,31908,9)</Location>
   </DeathEvent>
 </DeathHighscores>
