@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755619205718</GeneratedAt>
+  <GeneratedAt>1755619505723</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -339,6 +339,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>43</Rank>
+    <Player>Botaronoku</Player>
+    <LostExp>709738</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-19 18:02:10</Time>
+    <Location>(32027,31895,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>44</Rank>
     <Player>Dry</Player>
     <LostExp>684353</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -346,7 +354,7 @@
     <Location>(32004,31908,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>44</Rank>
+    <Rank>45</Rank>
     <Player>Purplehaze</Player>
     <LostExp>661276</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -354,7 +362,7 @@
     <Location>(32027,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Overdeus</Player>
     <LostExp>560306</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(31881,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Bellah</Player>
     <LostExp>475628</LostExp>
     <KilledBy>Goblin</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(32272,32377,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Draco</Player>
     <LostExp>0</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(31902,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Draco</Player>
     <LostExp>0</LostExp>
     <KilledBy>Werewolf</KilledBy>
