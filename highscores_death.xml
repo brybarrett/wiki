@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755570905331</GeneratedAt>
+  <GeneratedAt>1755571205361</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Lih</Player>
+    <LostExp>8088298</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-19 04:38:30</Time>
+    <Location>(31878,32057,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Sungokong</Player>
     <LostExp>2689662</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31855,31975,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Noss</Player>
     <LostExp>1965339</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31970,31985,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Mikazee</Player>
     <LostExp>1794537</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32010,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Rin</Player>
     <LostExp>1424305</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32849,31990,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Ice</Player>
     <LostExp>1114625</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32026,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Purplehaze</Player>
     <LostExp>1010840</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32027,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Purplehaze</Player>
     <LostExp>989109</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(32031,31899,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Purplehaze</Player>
     <LostExp>936109</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(32026,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Dry</Player>
     <LostExp>825923</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(32004,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Dry</Player>
     <LostExp>800346</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(32004,31907,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Artemiss</Player>
     <LostExp>776452</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32013,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Dry</Player>
     <LostExp>754304</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32003,31908,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Dry</Player>
     <LostExp>684353</LostExp>
     <KilledBy>Scorpion</KilledBy>
