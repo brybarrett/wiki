@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755564305278</GeneratedAt>
+  <GeneratedAt>1755564605300</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Baam</Player>
+    <LostExp>69954460</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-19 02:47:02</Time>
+    <Location>(32032,32267,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Sunset</Player>
     <LostExp>44425103</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31946,32270,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Kratos</Player>
     <LostExp>25561846</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32014,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Kratos</Player>
     <LostExp>23112569</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Sungokong</Player>
     <LostExp>2689662</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -34,7 +42,15 @@
     <Location>(31855,31975,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
+    <Player>Mikazee</Player>
+    <LostExp>1794537</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-19 02:46:25</Time>
+    <Location>(32010,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Ice</Player>
     <LostExp>1114625</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -42,7 +58,7 @@
     <Location>(32026,31896,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Purplehaze</Player>
     <LostExp>989109</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(32031,31899,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Dry</Player>
     <LostExp>825923</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -58,7 +74,7 @@
     <Location>(32004,31906,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>10</Rank>
     <Player>Dry</Player>
     <LostExp>800346</LostExp>
     <KilledBy>Scorpion</KilledBy>
