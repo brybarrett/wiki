@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755623405748</GeneratedAt>
+  <GeneratedAt>1755623705756</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -403,6 +403,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>51</Rank>
+    <Player>Xxwan</Player>
+    <LostExp>25276</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-19 19:12:18</Time>
+    <Location>(32004,31873,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>52</Rank>
     <Player>Draco</Player>
     <LostExp>0</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(31902,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Draco</Player>
     <LostExp>0</LostExp>
     <KilledBy>Werewolf</KilledBy>
