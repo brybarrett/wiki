@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755572105357</GeneratedAt>
+  <GeneratedAt>1755572405368</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -192,5 +192,13 @@
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-08-19 04:00:12</Time>
     <Location>(32004,31908,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
+    <Player>Bellah</Player>
+    <LostExp>475628</LostExp>
+    <KilledBy>Goblin</KilledBy>
+    <Time>2025-08-19 04:58:44</Time>
+    <Location>(32272,32377,11)</Location>
   </DeathEvent>
 </DeathHighscores>
