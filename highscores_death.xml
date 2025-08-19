@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755605705607</GeneratedAt>
+  <GeneratedAt>1755606005636</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Killerwiz</Player>
@@ -275,6 +275,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>35</Rank>
+    <Player>Purplehaze</Player>
+    <LostExp>724180</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-19 14:18:54</Time>
+    <Location>(32027,31895,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>36</Rank>
     <Player>Dry</Player>
     <LostExp>684353</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(32004,31908,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Overdeus</Player>
     <LostExp>560306</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(31881,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Bellah</Player>
     <LostExp>475628</LostExp>
     <KilledBy>Goblin</KilledBy>
