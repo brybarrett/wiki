@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755709209036</GeneratedAt>
+  <GeneratedAt>1755709509022</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Toddy</Player>
@@ -355,6 +355,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>45</Rank>
+    <Player>Botaronoku</Player>
+    <LostExp>1072196</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-20 19:04:37</Time>
+    <Location>(32015,31882,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>46</Rank>
     <Player>Bembolado</Player>
     <LostExp>1061592</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -362,7 +370,7 @@
     <Location>(32027,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Jxrry</Player>
     <LostExp>1039862</LostExp>
     <KilledBy>Vampmaster</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(31974,31890,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Botaronoku</Player>
     <LostExp>945019</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(32009,31873,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Bellah</Player>
     <LostExp>428066</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(32044,32035,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Sora</Player>
     <LostExp>140097</LostExp>
     <KilledBy>Archvampir</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(32734,32273,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Sora</Player>
     <LostExp>36297</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31990,31915,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Sora</Player>
     <LostExp>26165</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(32011,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Xxwan</Player>
     <LostExp>24907</LostExp>
     <KilledBy>Orc Leader</KilledBy>
