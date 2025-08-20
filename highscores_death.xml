@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755715509078</GeneratedAt>
+  <GeneratedAt>1755715809069</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Toddy</Player>
@@ -451,6 +451,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>57</Rank>
+    <Player>Neblina</Player>
+    <LostExp>79837</LostExp>
+    <KilledBy>Troll</KilledBy>
+    <Time>2025-08-20 20:48:13</Time>
+    <Location>(31878,32074,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>58</Rank>
     <Player>Luizin</Player>
     <LostExp>54394</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -458,7 +466,7 @@
     <Location>(31989,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Luizin</Player>
     <LostExp>54302</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -466,7 +474,7 @@
     <Location>(31989,32017,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>59</Rank>
+    <Rank>60</Rank>
     <Player>Sora</Player>
     <LostExp>36297</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -474,7 +482,7 @@
     <Location>(31990,31915,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>60</Rank>
+    <Rank>61</Rank>
     <Player>Sora</Player>
     <LostExp>26165</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -482,7 +490,7 @@
     <Location>(32011,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>61</Rank>
+    <Rank>62</Rank>
     <Player>Xxwan</Player>
     <LostExp>24907</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -490,7 +498,7 @@
     <Location>(32011,31873,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>62</Rank>
+    <Rank>63</Rank>
     <Player>Neblina</Player>
     <LostExp>10596</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -498,7 +506,7 @@
     <Location>(32014,32035,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>63</Rank>
+    <Rank>64</Rank>
     <Player>Neblina</Player>
     <LostExp>8878</LostExp>
     <KilledBy>The Bug</KilledBy>
