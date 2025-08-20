@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755683108796</GeneratedAt>
+  <GeneratedAt>1755683408809</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Toddy</Player>
@@ -211,6 +211,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>27</Rank>
+    <Player>Overdeus</Player>
+    <LostExp>2242449</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-20 11:47:50</Time>
+    <Location>(31865,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
     <Player>Lola</Player>
     <LostExp>1860779</LostExp>
     <KilledBy>Mitth</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31976,31987,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Zhask</Player>
     <LostExp>1638417</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -226,7 +234,7 @@
     <Location>(32871,32027,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Marijuana</Player>
     <LostExp>1313126</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -234,7 +242,7 @@
     <Location>(32027,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>30</Rank>
+    <Rank>31</Rank>
     <Player>Hallan</Player>
     <LostExp>1303534</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -242,7 +250,7 @@
     <Location>(31876,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>31</Rank>
+    <Rank>32</Rank>
     <Player>Bembolado</Player>
     <LostExp>1061592</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -250,7 +258,7 @@
     <Location>(32027,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>32</Rank>
+    <Rank>33</Rank>
     <Player>Jxrry</Player>
     <LostExp>1039862</LostExp>
     <KilledBy>Vampmaster</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(31974,31890,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Botaronoku</Player>
     <LostExp>945019</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(32009,31873,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Bellah</Player>
     <LostExp>428066</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(32044,32035,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Sora</Player>
     <LostExp>36297</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31990,31915,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Sora</Player>
     <LostExp>26165</LostExp>
     <KilledBy>Fire Drake</KilledBy>
