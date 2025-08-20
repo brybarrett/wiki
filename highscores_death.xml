@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755719709123</GeneratedAt>
+  <GeneratedAt>1755720009109</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Toddy</Player>
@@ -403,6 +403,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>51</Rank>
+    <Player>Balaba</Player>
+    <LostExp>1568230</LostExp>
+    <KilledBy>Thailinkun</KilledBy>
+    <Time>2025-08-20 21:56:38</Time>
+    <Location>(31976,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>52</Rank>
     <Player>Marijuana</Player>
     <LostExp>1313126</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(32027,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Hallan</Player>
     <LostExp>1303534</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -418,7 +426,7 @@
     <Location>(31876,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Botaronoku</Player>
     <LostExp>1072196</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -426,7 +434,7 @@
     <Location>(32015,31882,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
     <Player>Bembolado</Player>
     <LostExp>1061592</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -434,7 +442,7 @@
     <Location>(32027,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>55</Rank>
+    <Rank>56</Rank>
     <Player>Jxrry</Player>
     <LostExp>1039862</LostExp>
     <KilledBy>Vampmaster</KilledBy>
@@ -442,7 +450,7 @@
     <Location>(31974,31890,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>56</Rank>
+    <Rank>57</Rank>
     <Player>Botaronoku</Player>
     <LostExp>945019</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -450,7 +458,7 @@
     <Location>(32009,31873,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>57</Rank>
+    <Rank>58</Rank>
     <Player>Shikamaru</Player>
     <LostExp>629788</LostExp>
     <KilledBy>Gorath</KilledBy>
@@ -458,7 +466,7 @@
     <Location>(31957,31799,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>58</Rank>
+    <Rank>59</Rank>
     <Player>Bellah</Player>
     <LostExp>428066</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -466,7 +474,7 @@
     <Location>(32044,32035,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>59</Rank>
+    <Rank>60</Rank>
     <Player>Sora</Player>
     <LostExp>140097</LostExp>
     <KilledBy>Archvampir</KilledBy>
@@ -474,7 +482,7 @@
     <Location>(32734,32273,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>60</Rank>
+    <Rank>61</Rank>
     <Player>Neblina</Player>
     <LostExp>79837</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -482,7 +490,7 @@
     <Location>(31878,32074,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>61</Rank>
+    <Rank>62</Rank>
     <Player>Luizin</Player>
     <LostExp>54394</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -490,7 +498,7 @@
     <Location>(31989,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>62</Rank>
+    <Rank>63</Rank>
     <Player>Luizin</Player>
     <LostExp>54302</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -498,7 +506,7 @@
     <Location>(31989,32017,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>63</Rank>
+    <Rank>64</Rank>
     <Player>Sora</Player>
     <LostExp>36297</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -506,7 +514,15 @@
     <Location>(31990,31915,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>64</Rank>
+    <Rank>65</Rank>
+    <Player>Zzzz</Player>
+    <LostExp>27985</LostExp>
+    <KilledBy>Thailinkun</KilledBy>
+    <Time>2025-08-20 21:56:25</Time>
+    <Location>(31975,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>66</Rank>
     <Player>Sora</Player>
     <LostExp>26165</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -514,7 +530,15 @@
     <Location>(32011,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>65</Rank>
+    <Rank>67</Rank>
+    <Player>Zzzz</Player>
+    <LostExp>25186</LostExp>
+    <KilledBy>Kingsz</KilledBy>
+    <Time>2025-08-20 21:58:33</Time>
+    <Location>(31975,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>68</Rank>
     <Player>Xxwan</Player>
     <LostExp>24907</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -522,7 +546,23 @@
     <Location>(32011,31873,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>66</Rank>
+    <Rank>69</Rank>
+    <Player>Zzzz</Player>
+    <LostExp>22667</LostExp>
+    <KilledBy>Kingsz</KilledBy>
+    <Time>2025-08-20 21:59:14</Time>
+    <Location>(31973,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>70</Rank>
+    <Player>Zzzz</Player>
+    <LostExp>20401</LostExp>
+    <KilledBy>Kingsz</KilledBy>
+    <Time>2025-08-20 21:59:52</Time>
+    <Location>(31975,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>71</Rank>
     <Player>Neblina</Player>
     <LostExp>10596</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -530,7 +570,7 @@
     <Location>(32014,32035,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>67</Rank>
+    <Rank>72</Rank>
     <Player>Neblina</Player>
     <LostExp>8878</LostExp>
     <KilledBy>The Bug</KilledBy>
